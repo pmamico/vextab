@@ -27,3 +27,4 @@ npm-debug.log
 #eclipse
 .project
 .settings/
+.idea/

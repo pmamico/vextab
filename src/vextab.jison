@@ -34,6 +34,8 @@
 <command>[!]              { this.begin('notes'); return "!" }
 <command>[^!]+            return 'COMMAND'
 
+<INITIAL,notes,text,slur,annotations,options,command>"//"[^\r\n]*  /* skip line comment */
+
 /* Text Lines */
 <text>[^,\r\n]+           return 'STR'
 
