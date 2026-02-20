@@ -1,16 +1,15 @@
 {
-    "name": "vextab",
-    "version": "4.0.4",
+    "name": "vextab-plus",
+    "version": "4.0.5",
     "author": {
-        "name": "Mohit Muthanna Cheppudira",
-        "email": "mohit@muthanna.com",
-        "url": "http://muthanna.com"
+        "name": "Mico Papp",
+        "email": "papp.mico@gmail.com"
     },
     "main": "dist/main.prod.js",
-    "description": "A VexTab Parser for VexFlow",
+    "description": "A VexTab Fork",
     "repository": {
         "type": "git",
-        "url": "https://github.com/0xfe/vextab.git"
+        "url": "https://github.com/pmamico/vextab.git"
     },
     "license": "LicenseRef-LICENSE",
     "dependencies": {
@@ -52,7 +51,7 @@
         "zepto-webpack": "^1.2.1"
     },
     "bugs": {
-        "url": "https://github.com/0xfe/vexflow/issues"
+        "url": "https://github.com/pmamico/vexflow/issues"
     },
     "scripts": {
         "build": "webpack --progress --mode production --env NODE_ENV=production --env TAG_NAME=prod --config webpack.config.js",
