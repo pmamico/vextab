@@ -62,6 +62,22 @@ export default class VexTab {
   }
 
   /**
+   * Set the note index to highlight during rendering.
+   */
+  setHighlightNoteIndex(index: number | null): void {
+    this.artist.setHighlightNoteIndex(index);
+  }
+
+  /**
+   * Highlight a note based on a 1-based source line/column position.
+   */
+  setHighlightByLocation(line: number, column: number): number | null {
+    const index = this.compiler.getNoteIndexAtLocation(line, column);
+    this.artist.setHighlightNoteIndex(index);
+    return index;
+  }
+
+  /**
    * Parse VexTab source, compile the AST, and return the parsed elements.
    * Design note: we trim each line to keep whitespace predictable and consistent.
    */

@@ -96,6 +96,9 @@ export default class Artist {
   bend_start_index: number | null = null;
   bend_start_strings: number[] | null = null;
 
+  // Optional note highlight index (used for cursor-based rendering).
+  highlight_note_index: number | null = null;
+
   // Render status and optional Player overlay.
   rendered = false;
   renderer_context: any = null;
@@ -212,6 +215,22 @@ export default class Artist {
   }
 
   /**
+   * Set the note index to highlight during rendering.
+   */
+  setHighlightNoteIndex(index: number | null): void {
+    this.highlight_note_index = index;
+  }
+
+  /**
+   * Check whether the given note index should be highlighted.
+   */
+  isHighlightedNoteIndex(index: number | null | undefined): boolean {
+    if (index === null || index === undefined) return false;
+    if (this.highlight_note_index === null || this.highlight_note_index === undefined) return false;
+    return this.highlight_note_index === index;
+  }
+
+  /**
    * Attach a playback helper to the Artist.
    */
   attachPlayer(player: any): void {
@@ -227,10 +246,11 @@ export default class Artist {
     // Only allow known customization keys.
     const validOptions = _.keys(this.customizations);
     _.forEach(options, (value, key) => {
-      if (validOptions.includes(key)) {
-        this.customizations[key] = value;
+      const optionKey = String(key);
+      if (validOptions.includes(optionKey)) {
+        this.customizations[optionKey] = value;
       } else {
-        throw new Vex.RERR('ArtistError', `Invalid option '${key}'`);
+        throw new Vex.RERR('ArtistError', `Invalid option '${optionKey}'`);
       }
     });
 

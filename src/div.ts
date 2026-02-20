@@ -59,7 +59,7 @@ class Div {
     // Host sizing and renderer options from data attributes.
     this.width = parseInt($(sel).attr('width'), 10) || 400;
     this.height = parseInt($(sel).attr('height'), 10) || 200;
-    this.scale = parseFloat($(sel).attr('scale'), 10) || 1.0;
+    this.scale = parseFloat($(sel).attr('scale')) || 1.0;
     this.rendererBackend = $(sel).attr('renderer') || 'svg';
 
     if (this.rendererBackend.toLowerCase() === 'canvas') {
@@ -130,11 +130,21 @@ class Div {
   }
 
   /**
+   * Highlight a note by sequential index and trigger a redraw.
+   */
+  highlightNoteIndex(index: number | null): this {
+    this.parser.setHighlightNoteIndex(index);
+    this.redraw();
+    return this;
+  }
+
+  /**
    * Draw if parsing succeeded; otherwise do nothing to avoid stale output.
    */
   private drawInternal(): this {
     if (!this.parser.isValid()) return this;
-    return this.artist.draw(this.renderer);
+    this.artist.draw(this.renderer);
+    return this;
   }
 
   /**

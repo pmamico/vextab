@@ -88,6 +88,7 @@ export class NoteBuilder {
     const params = {
       is_rest: false,
       play_note: null,
+      highlight_index: null,
       ...note_params,
     };
 
@@ -125,6 +126,10 @@ export class NoteBuilder {
       stave_note.setPlayNote(params.play_note);
     }
 
+    if (this.artist.isHighlightedNoteIndex(params.highlight_index)) {
+      stave_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
+    }
+
     stave_notes.push(stave_note);
   }
 
@@ -145,6 +150,10 @@ export class NoteBuilder {
     // Playback pitch is optional and only used when Player is enabled.
     if (play_note) {
       new_tab_note.setPlayNote(play_note);
+    }
+
+    if (spec && this.artist.isHighlightedNoteIndex(spec.highlight_index)) {
+      new_tab_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
     }
 
     tab_notes.push(new_tab_note);
@@ -233,6 +242,7 @@ export class NoteBuilder {
     const decorators: Array<string | null> = [];
     const tab_specs: any[][] = [];
     const durations: Array<{ time: string; dot: boolean } | null> = [];
+    const highlight_indices: Array<number | null> = [];
 
     // Track chord size so global articulations can be fanned out.
     let num_notes = 0;
@@ -254,12 +264,14 @@ export class NoteBuilder {
         tab_specs[current_position] = [];
         articulations[current_position] = [];
         decorators[current_position] = null;
+        highlight_indices[current_position] = null;
       }
 
       let new_note: string | null = null;
       let new_octave: string | number | null = null;
       let accidental: string | null = null;
       let play_note: string | null = null;
+      const highlight_index = note.highlight_index ?? null;
 
       if (note.abc) {
         // ABC notes carry a pitch name; the octave is derived.
@@ -295,6 +307,9 @@ export class NoteBuilder {
       if (note.decorator) {
         decorators[current_position] = note.decorator;
       }
+      if (highlight_indices[current_position] === null && highlight_index !== null) {
+        highlight_indices[current_position] = highlight_index;
+      }
 
       current_position += 1;
     });
@@ -304,9 +319,18 @@ export class NoteBuilder {
       if (durations[i]) {
         this.setDuration(durations[i]!.time, durations[i]!.dot);
       }
-      this.addTabNote(tab_specs[i], play_notes[i]);
+      const tab_spec = tab_specs[i];
+      if (highlight_indices[i] !== null && highlight_indices[i] !== undefined) {
+        (tab_spec as any).highlight_index = highlight_indices[i];
+      }
+      this.addTabNote(tab_spec, play_notes[i]);
       if (stave.note) {
-        this.addStaveNote({ spec, accidentals: accidentals[i], play_note: play_notes[i] });
+        this.addStaveNote({
+          spec,
+          accidentals: accidentals[i],
+          play_note: play_notes[i],
+          highlight_index: highlight_indices[i],
+        });
       }
       this.artist.addArticulations(articulations[i]);
       if (decorators[i]) {

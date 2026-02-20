@@ -88,6 +88,8 @@
 <notes>[~]                return '~'
 
 /* Newlines reset your state */
+<notes>\\[ \t]*"//"[^\r\n]*[\r\n]+  /* line continuation in notes with trailing comment */
+<notes>\\[ \t]*[\r\n]+               /* line continuation in notes */
 [\r\n]+               { this.begin('INITIAL'); }
 \s+                   /* skip whitespace */
 <<EOF>>               return 'EOF'

@@ -10,6 +10,12 @@ import type Artist from '../artist/Artist';
 export class VexTabParser {
   // Artist instance that receives rendering commands.
   private artist: Artist;
+  // Persisted options for successive tabstave elements (inherit until overridden).
+  private lastTabstaveOptions: Record<string, string> = {};
+  // Sequential note index used for cursor-based highlighting.
+  private noteIndex = 0;
+  // Source positions for each note index.
+  private notePositions: Array<{ line: number; column: number }> = [];
 
   /**
    * Create a compiler bound to an Artist.
@@ -103,6 +109,36 @@ export class VexTabParser {
   }
 
   /**
+   * Record the source position for a given note index.
+   */
+  private recordNotePosition(index: number, note: any): void {
+    if (!note || typeof note._l !== 'number' || typeof note._c !== 'number') return;
+    this.notePositions[index] = { line: note._l, column: note._c };
+  }
+
+  /**
+   * Return the best-matching note index for a source location.
+   */
+  getNoteIndexAtLocation(line: number, column: number): number | null {
+    let bestIndex: number | null = null;
+    let bestLine = -1;
+    let bestColumn = -1;
+
+    this.notePositions.forEach((pos, index) => {
+      if (!pos) return;
+      if (pos.line > line) return;
+      if (pos.line === line && pos.column > column) return;
+      if (pos.line > bestLine || (pos.line === bestLine && pos.column > bestColumn)) {
+        bestIndex = index;
+        bestLine = pos.line;
+        bestColumn = pos.column;
+      }
+    });
+
+    return bestIndex;
+  }
+
+  /**
    * Dispatch a parsed command element to the Artist.
    */
   parseCommand(element: any): void {
@@ -132,29 +168,45 @@ export class VexTabParser {
    */
   parseChord(element: any): void {
     this.artist.log('parseChord:', element);
+    const chord_note = element?.chord?.[0];
+    this.recordNotePosition(this.noteIndex, chord_note);
     // Keep only relevant fields to avoid leaking parser internals.
     this.artist.addChord(
       _.map(
         element.chord,
-        (note) => _.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
+        (note) => ({
+          ..._.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
+          highlight_index: this.noteIndex,
+        }),
       ),
       element.articulation,
       element.decorator,
     );
+    this.noteIndex += 1;
   }
 
   /**
    * Convert a fret-based note AST node into an Artist note call.
    */
   parseFret(note: any): void {
-    this.artist.addNote(_.pick(note, 'time', 'dot', 'fret', 'string', 'articulation', 'decorator'));
+    this.recordNotePosition(this.noteIndex, note);
+    this.artist.addNote({
+      ..._.pick(note, 'time', 'dot', 'fret', 'string', 'articulation', 'decorator'),
+      highlight_index: this.noteIndex,
+    });
+    this.noteIndex += 1;
   }
 
   /**
    * Convert an ABC note AST node into an Artist note call.
    */
   parseABC(note: any): void {
-    this.artist.addNote(_.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'));
+    this.recordNotePosition(this.noteIndex, note);
+    this.artist.addNote({
+      ..._.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
+      highlight_index: this.noteIndex,
+    });
+    this.noteIndex += 1;
   }
 
   /**
@@ -264,14 +316,25 @@ export class VexTabParser {
    * Design note: we handle each "stave" element sequentially to preserve order.
    */
   generate(elements: any[]): void {
+    // Reset inherited tabstave options per top-level parse call.
+    this.lastTabstaveOptions = {};
+    this.noteIndex = 0;
+    this.notePositions = [];
     elements.forEach((stave) => {
       switch (stave.element) {
         case 'stave':
-        case 'tabstave':
-          this.artist.addStave(stave.element, this.parseStaveOptions(stave.options));
+        case 'tabstave': {
+          // Validate only explicitly provided options.
+          const explicit = this.parseStaveOptions(stave.options);
+          // For tabstave, inherit previous options and override with explicit ones.
+          const resolved =
+            stave.element === 'tabstave' ? { ...this.lastTabstaveOptions, ...explicit } : explicit;
+          if (stave.element === 'tabstave') this.lastTabstaveOptions = resolved;
+          this.artist.addStave(stave.element, resolved);
           if (stave.notes) this.parseStaveElements(stave.notes);
           if (stave.text) this.parseStaveText(stave.text);
           break;
+        }
         case 'voice':
           this.artist.addVoice(this.parseStaveOptions(stave.options));
           if (stave.notes) this.parseStaveElements(stave.notes);

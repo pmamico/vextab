@@ -29,6 +29,20 @@ $(() => {
       tab.reset();
       artist.reset();
       tab.parse($('#blah').val());
+      const textArea = $('#blah')[0] as HTMLTextAreaElement;
+      const cursor = textArea ? textArea.selectionStart : 0;
+      const text = textArea ? textArea.value : '';
+      let line = 1;
+      let column = 1;
+      for (let i = 0; i < cursor; i += 1) {
+        if (text[i] === '\n') {
+          line += 1;
+          column = 1;
+        } else {
+          column += 1;
+        }
+      }
+      tab.setHighlightByLocation(line, column);
       artist.render(renderer);
       $('#error').text('');
     } catch (e: any) {
