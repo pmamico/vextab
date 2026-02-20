@@ -86,6 +86,22 @@ export default class Artist {
   stave_articulations: any[] = [];
   player_voices: any[] = [];
 
+  // Optional document-level header text (not attached to any stave).
+  document_header: { title: string | null; subtitle: string | null; sidenote: string | null } = {
+    title: null,
+    subtitle: null,
+    sidenote: null,
+  };
+
+  // Computed layout positions for the document header.
+  document_header_layout: {
+    start_y: number;
+    height: number;
+    title_y: number | null;
+    subtitle_y: number | null;
+    sidenote_y: number | null;
+  } | null = null;
+
   // Current render cursor / note state.
   // Current render cursor / note state.
   last_y = 0;
@@ -199,6 +215,10 @@ export default class Artist {
     this.tab_articulations = [];
     this.stave_articulations = [];
 
+    // Document header.
+    this.document_header = { title: null, subtitle: null, sidenote: null };
+    this.document_header_layout = null;
+
     // Voices for player overlay.
     this.player_voices = [];
 
@@ -212,6 +232,71 @@ export default class Artist {
     this.bend_start_strings = null;
     this.rendered = false;
     this.renderer_context = null;
+  }
+
+  /**
+   * Set a document-level header string (title/subtitle/sidenote).
+   * Design note: header text must be declared before the first stave.
+   */
+  setDocumentHeader(kind: 'title' | 'subtitle' | 'sidenote', text: string): void {
+    if (this.staves.length > 0) {
+      throw new Vex.RERR('ArtistError', `'${kind}' must appear before the first stave`);
+    }
+
+    if (!this.document_header_layout) {
+      this.document_header_layout = {
+        start_y: this.last_y,
+        height: 0,
+        title_y: null,
+        subtitle_y: null,
+        sidenote_y: null,
+      };
+    }
+
+    this.document_header[kind] = String(text ?? '').trim();
+    this.relayoutDocumentHeader();
+  }
+
+  /**
+   * Recompute header layout and reserve vertical space.
+   */
+  private relayoutDocumentHeader(): void {
+    const layout = this.document_header_layout;
+    if (!layout) return;
+
+    const hasTitle = !!this.document_header.title;
+    const hasSubtitle = !!this.document_header.subtitle;
+    const hasSidenote = !!this.document_header.sidenote;
+
+    // If all fields are cleared, release the reserved space.
+    if (!hasTitle && !hasSubtitle && !hasSidenote) {
+      this.last_y = layout.start_y;
+      this.document_header_layout = null;
+      return;
+    }
+
+    const start_y = layout.start_y;
+
+    // Typography constants for the header block.
+    const pad_top = 10;
+    const gap = 6;
+    const title_size = 22;
+    const subtitle_size = 14;
+    const sidenote_size = 11;
+    const pad_bottom = 10;
+
+    let y = start_y + pad_top;
+    const title_y = hasTitle ? (y += title_size) : null;
+    if (hasTitle) y += gap;
+    const subtitle_y = hasSubtitle ? (y += subtitle_size) : null;
+    if (hasSubtitle) y += gap;
+    const sidenote_y = hasSidenote ? (y += sidenote_size) : null;
+    if (hasSidenote) y += gap;
+    y += pad_bottom;
+
+    const height = y - start_y;
+    this.document_header_layout = { start_y, height, title_y, subtitle_y, sidenote_y };
+    this.last_y = start_y + height;
   }
 
   /**

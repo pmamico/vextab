@@ -20,6 +20,9 @@
 <INITIAL>"voice"              { this.begin('options'); return 'VOICE'; }
 <INITIAL>"options"            { this.begin('options'); return 'OPTIONS'; }
 <INITIAL>"text"               { this.begin('text'); return 'TEXT'; }
+<INITIAL>"title"              { this.begin('text'); return 'TITLE'; }
+<INITIAL>"subtitle"           { this.begin('text'); return 'SUBTITLE'; }
+<INITIAL>"sidenote"           { this.begin('text'); return 'SIDENOTE'; }
 <INITIAL>"slur"               { this.begin('options'); return 'SLUR'; }
 <INITIAL,options>[^\s=]+      return 'WORD'
 
@@ -116,10 +119,54 @@ maybe_vextab
   ;
 
 vextab
-  : stave
+  : element
     { $$ = [$1] }
-  | vextab stave
+  | vextab element
     { $$ = [].concat($1, $2) }
+  ;
+
+element
+  : stave
+    { $$ = $1 }
+  | header
+    { $$ = $1 }
+  ;
+
+header
+  : TITLE header_line
+    {
+      $$ = {
+        element: "title",
+        text: $2,
+        _l: @1.first_line,
+        _c: @1.first_column
+      }
+    }
+  | SUBTITLE header_line
+    {
+      $$ = {
+        element: "subtitle",
+        text: $2,
+        _l: @1.first_line,
+        _c: @1.first_column
+      }
+    }
+  | SIDENOTE header_line
+    {
+      $$ = {
+        element: "sidenote",
+        text: $2,
+        _l: @1.first_line,
+        _c: @1.first_column
+      }
+    }
+  ;
+
+header_line
+  : STR
+    { $$ = $1 }
+  | header_line ',' STR
+    { $$ = $1 + ',' + $3 }
   ;
 
 stave

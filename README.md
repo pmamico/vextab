@@ -12,6 +12,7 @@ Added features in this fork:
 * `\` line continuation for multi-line VexTab input.
 * Cursor API: editors can highlight the current position while typing.
 * `tabstave` and `tuning` settings inherit to newly created `tabstave`s until explicitly overridden.
+* Document header text: `title`, `subtitle`, `sidenote` (drawn above the first stave).
 
 Goal of this fork: support a VS Code extension workflow for editing VexTab with a live preview.
 
@@ -35,6 +36,9 @@ Simply include `dist/div.prod.js` into your HTML document via a script tag. The 
 <div class="vextab-auto"
     width=680 scale=1.0 editor="true"
     editor-width=680 editor-height=330>
+    title Autumn Leaves
+    subtitle (lead sheet excerpt)
+    sidenote capo 2 - swing
     options space=20
     tabstave notation=true key=A time=4/4
 
@@ -45,6 +49,19 @@ Simply include `dist/div.prod.js` into your HTML document via a script tag. The 
     options space=25
 </div>
 ```
+
+### Document header text
+
+These keywords render text at the top of the document and are not attached to any stave:
+
+* `title <text>`: centered.
+* `subtitle <text>`: centered, smaller, italic.
+* `sidenote <text>`: left-aligned, smaller (drawn under the title/subtitle block).
+
+Notes:
+
+* `title`, `subtitle`, and `sidenote` must appear before the first `tabstave`/`stave`/`voice`.
+* Text runs until end-of-line. Commas are supported by splitting into multiple segments (they are joined back with commas).
 
 Some of the available `div` attributes are:
 

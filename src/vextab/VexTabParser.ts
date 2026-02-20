@@ -320,10 +320,23 @@ export class VexTabParser {
     this.lastTabstaveOptions = {};
     this.noteIndex = 0;
     this.notePositions = [];
+
+     // Document header declarations must precede any stave/voice elements.
+     let sawStave = false;
     elements.forEach((stave) => {
       switch (stave.element) {
+        case 'title':
+        case 'subtitle':
+        case 'sidenote': {
+          if (sawStave) {
+            throw this.newError(stave, `'${stave.element}' must appear before the first stave`);
+          }
+          this.artist.setDocumentHeader(stave.element, stave.text);
+          break;
+        }
         case 'stave':
         case 'tabstave': {
+          sawStave = true;
           // Validate only explicitly provided options.
           const explicit = this.parseStaveOptions(stave.options);
           // For tabstave, inherit previous options and override with explicit ones.
@@ -336,6 +349,7 @@ export class VexTabParser {
           break;
         }
         case 'voice':
+          sawStave = true;
           this.artist.addVoice(this.parseStaveOptions(stave.options));
           if (stave.notes) this.parseStaveElements(stave.notes);
           if (stave.text) this.parseStaveText(stave.text);

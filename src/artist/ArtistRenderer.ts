@@ -27,6 +27,44 @@ export class ArtistRenderer {
   }
 
   /**
+   * Draw document-level header text (title/subtitle/sidenote).
+   */
+  private renderDocumentHeader(ctx: any): void {
+    const artist = this.artist;
+    const layout = artist.document_header_layout;
+    if (!layout) return;
+
+    const start_x = artist.x + Number(artist.customizations['connector-space']);
+    const stave_width = Number(artist.customizations.width) - 20;
+    const center_x = start_x + stave_width / 2;
+
+    const drawCentered = (text: string, y: number, size: number, style: string) => {
+      ctx.save();
+      ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
+      const width = ctx.measureText(text).width;
+      ctx.fillText(text, center_x - width / 2, y);
+      ctx.restore();
+    };
+
+    const drawLeft = (text: string, y: number, size: number, style: string) => {
+      ctx.save();
+      ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
+      ctx.fillText(text, start_x, y);
+      ctx.restore();
+    };
+
+    if (artist.document_header.title && layout.title_y !== null) {
+      drawCentered(artist.document_header.title, layout.title_y, 22, 'bold');
+    }
+    if (artist.document_header.subtitle && layout.subtitle_y !== null) {
+      drawCentered(artist.document_header.subtitle, layout.subtitle_y, 14, 'italic');
+    }
+    if (artist.document_header.sidenote && layout.sidenote_y !== null) {
+      drawLeft(artist.document_header.sidenote, layout.sidenote_y, 11, '');
+    }
+  }
+
+  /**
    * Format and render a stave group (tab/notation/text) using VexFlow formatters.
    * Design note: we centralize formatting here to keep Artist.render() readable.
    */
@@ -201,6 +239,9 @@ export class ArtistRenderer {
     ctx.scale(Number(artist.customizations.scale), Number(artist.customizations.scale));
     ctx.clear();
     ctx.setFont(artist.options.font_face, artist.options.font_size, '');
+
+    // Draw document header before staves.
+    this.renderDocumentHeader(ctx);
 
     // Cache context for the Player overlay.
     artist.renderer_context = ctx;

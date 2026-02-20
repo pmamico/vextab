@@ -73,6 +73,7 @@ VexTabTests = (function() {
       test("Override Fret-Note", this.overrideFretNote);
       test("Mixed Tuplets", this.mixedTuplets);
       test("Accidental Strategies", this.accidentalStrategies);
+      test("Document Header", this.documentHeader);
       return test("Fret-hand Fingering and String Numbers", this.fingeringAndStrings);
     }
 
@@ -742,6 +743,37 @@ text :8,G,G/F,:h,Am/G
 
 options space=60`;
       return renderTest(assert, "Fret Hand Fingering and String Numbers", code);
+    }
+
+    /**
+     * Validate document-level title/subtitle/sidenote rendering.
+     */
+    static documentHeader(assert) {
+      var canvas, code, renderer, tab, test_div;
+      assert.expect(3);
+
+      code = `title My Title
+subtitle My Subtitle
+sidenote Left note
+tabstave
+notes :q 5/2 7/2`;
+
+      tab = makeParser();
+      test_div = $('<div></div>').addClass("testcanvas");
+      test_div.append($('<div></div>').addClass("name").text("Document Header"));
+      canvas = $('<div></div>').addClass("vex-tabdiv");
+      test_div.append(canvas);
+      $("body").append(test_div);
+      renderer = new Vex.Flow.Renderer(canvas[0], Vex.Flow.Renderer.Backends.SVG);
+      renderer.getContext().setBackgroundFillStyle("#eed");
+
+      assert.notEqual(null, tab.parse(code));
+      tab.getArtist().render(renderer);
+      assert.ok(canvas.html().indexOf('My Title') !== -1, 'title text is present in SVG');
+
+      // Header declarations must appear before the first stave.
+      catchError(assert, tab, "tabstave\nnotes :q 5/2\ntitle Too Late");
+      return;
     }
 
   };
