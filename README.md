@@ -3,6 +3,18 @@
 A VexTab Parser for VexFlow.
 Copyright (c) 2012 Mohit Muthanna Cheppudira.
 
+## Fork notes
+
+This repository is a fork of the upstream VexTab 4.0 project.
+
+Added features in this fork:
+
+* `\` line continuation for multi-line VexTab input.
+* Cursor API: editors can highlight the current position while typing.
+* `tabstave` and `tuning` settings inherit to newly created `tabstave`s until explicitly overridden.
+
+Goal of this fork: support a VS Code extension workflow for editing VexTab with a live preview.
+
 ## Need Help? Ask on the [VexFlow Google Group.](https://groups.google.com/forum/?fromgroups#!forum/vexflow)
 
 ## What is VexTab?
