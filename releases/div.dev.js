@@ -23550,7 +23550,7 @@ class Artist {
 // Enables verbose logging for debugging.
 Artist.DEBUG = false;
 // Hide the VexTab logo when true.
-Artist.NOLOGO = false;
+Artist.NOLOGO = true;
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Artist);
 
 

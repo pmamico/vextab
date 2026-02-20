@@ -46441,7 +46441,7 @@ Artist = (function() {
     }
   };
 
-  Artist.NOLOGO = false;
+  Artist.NOLOGO = true;
 
   function Artist(x, y, width1, options) {
     this.x = x;

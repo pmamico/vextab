@@ -65,7 +65,7 @@ export default class Artist {
   // Enables verbose logging for debugging.
   static DEBUG = false;
   // Hide the VexTab logo when true.
-  static NOLOGO = false;
+  static NOLOGO = true;
 
   // Core configuration + user customization state.
   // Immutable options set at construction.

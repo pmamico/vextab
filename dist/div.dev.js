@@ -11,10 +11,10 @@
 return /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./node_modules/css-loader/dist/cjs.js!./src/vextab.css"
-/*!**************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./src/vextab.css ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/cjs.js!./src/vextab.css"
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/cjs.js!./src/vextab.css ***!
+  \******************************************************************************************************************/
 (module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -22,14 +22,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ "./node_modules/css-loader/dist/runtime/noSourceMaps.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/noSourceMaps.js */ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/noSourceMaps.js");
+/* harmony import */ var _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/api.js */ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
 
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+var ___CSS_LOADER_EXPORT___ = _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `div.vextab-auto {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -70,10 +70,10 @@ div.vextab-auto .title {
 
 /***/ },
 
-/***/ "./node_modules/css-loader/dist/runtime/api.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/api.js"
+/*!*********************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/api.js ***!
+  \*********************************************************************************************************/
 (module) {
 
 "use strict";
@@ -165,10 +165,10 @@ module.exports = function (cssWithMappingToString) {
 
 /***/ },
 
-/***/ "./node_modules/css-loader/dist/runtime/noSourceMaps.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/css-loader/dist/runtime/noSourceMaps.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/noSourceMaps.js"
+/*!******************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/runtime/noSourceMaps.js ***!
+  \******************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -180,10 +180,1201 @@ module.exports = function (i) {
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js"
-/*!****************************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
-  \****************************************************************************/
+/***/ "./src/vextab.jison"
+/*!**************************!*\
+  !*** ./src/vextab.jison ***!
+  \**************************/
+(module, exports, __webpack_require__) {
+
+/* module decorator */ module = __webpack_require__.nmd(module);
+/* parser generated by jison 0.4.18 */
+/*
+  Returns a Parser object of the following structure:
+
+  Parser: {
+    yy: {}
+  }
+
+  Parser.prototype: {
+    yy: {},
+    trace: function(),
+    symbols_: {associative list: name ==> number},
+    terminals_: {associative list: number ==> name},
+    productions_: [...],
+    performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate, $$, _$),
+    table: [...],
+    defaultActions: {...},
+    parseError: function(str, hash),
+    parse: function(input),
+
+    lexer: {
+        EOF: 1,
+        parseError: function(str, hash),
+        setInput: function(input),
+        input: function(),
+        unput: function(str),
+        more: function(),
+        less: function(n),
+        pastInput: function(),
+        upcomingInput: function(),
+        showPosition: function(),
+        test_match: function(regex_match_array, rule_index),
+        next: function(),
+        lex: function(),
+        begin: function(condition),
+        popState: function(),
+        _currentRules: function(),
+        topState: function(),
+        pushState: function(condition),
+
+        options: {
+            ranges: boolean           (optional: true ==> token location info will include a .range[] member)
+            flex: boolean             (optional: true ==> flex-like lexing behaviour where the rules are tested exhaustively to find the longest match)
+            backtrack_lexer: boolean  (optional: true ==> lexer regexes are tested in order and for each matching regex the action code is invoked; the lexer terminates the scan when a token is returned by the action code)
+        },
+
+        performAction: function(yy, yy_, $avoiding_name_collisions, YY_START),
+        rules: [...],
+        conditions: {associative list: name ==> set},
+    }
+  }
+
+
+  token location info (@$, _$, etc.): {
+    first_line: n,
+    last_line: n,
+    first_column: n,
+    last_column: n,
+    range: [start_number, end_number]       (where the numbers are indexes into the input string, regular zero-based)
+  }
+
+
+  the parseError function receives a 'hash' object with these members for lexer and parser errors: {
+    text:        (matched text)
+    token:       (the produced terminal token, if any)
+    line:        (yylineno)
+  }
+  while parser (grammar) errors will also provide these members, i.e. parser errors deliver a superset of attributes: {
+    loc:         (yylloc)
+    expected:    (string describing the set of expected tokens)
+    recoverable: (boolean: TRUE when the parser has a error recovery rule available for this particular error)
+  }
+*/
+var parser = (function(){
+var o=function(k,v,o,l){for(o=o||{},l=k.length;l--;o[k[l]]=v);return o},$V0=[1,9],$V1=[1,10],$V2=[1,11],$V3=[1,8],$V4=[1,12],$V5=[1,13],$V6=[1,14],$V7=[5,10,12,13,19,21,22,23],$V8=[5,10,12,13,19,21,22,23,25,27,29],$V9=[2,24],$Va=[1,19],$Vb=[1,22],$Vc=[5,10,12,13,19,21,22,23,25,27,29,30],$Vd=[1,27],$Ve=[1,28],$Vf=[1,29],$Vg=[1,30],$Vh=[1,32],$Vi=[5,10,12,13,15,19,21,22,23],$Vj=[1,53],$Vk=[1,42],$Vl=[1,43],$Vm=[1,52],$Vn=[1,51],$Vo=[1,49],$Vp=[1,58],$Vq=[1,65],$Vr=[1,60],$Vs=[1,61],$Vt=[1,62],$Vu=[1,63],$Vv=[1,64],$Vw=[1,66],$Vx=[1,54],$Vy=[1,55],$Vz=[1,56],$VA=[1,57],$VB=[1,67],$VC=[5,10,12,13,15,19,21,22,23,25,27,29],$VD=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,67,68,69,70,71,72,76,77,79,81,82],$VE=[2,86],$VF=[1,78],$VG=[1,75],$VH=[1,76],$VI=[1,77],$VJ=[1,84],$VK=[1,85],$VL=[1,89],$VM=[1,90],$VN=[1,91],$VO=[1,92],$VP=[47,63,65,67,68,69,70,71,72,73,74,75],$VQ=[44,51,54,82],$VR=[47,54,63,65,67,68,69,70,71,72,73,74,75,87],$VS=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,47,51,54,63,67,68,69,70,71,72,76,77,79,81,82],$VT=[1,112],$VU=[50,52],$VV=[2,70],$VW=[1,117],$VX=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,65,67,68,69,70,71,72,76,77,79,81,82],$VY=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,65,66,67,68,69,70,71,72,76,77,79,81,82],$VZ=[15,77],$V_=[47,54,63,65,67,68,69,70,71,72,73,74,75],$V$=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,50,51,52,54,63,67,68,69,70,71,72,76,77,79,81,82];
+var parser = {trace: function trace () { },
+yy: {},
+symbols_: {"error":2,"e":3,"maybe_vextab":4,"EOF":5,"vextab":6,"element":7,"stave":8,"header":9,"TITLE":10,"header_line":11,"SUBTITLE":12,"SIDENOTE":13,"STR":14,",":15,"voice":16,"maybe_options":17,"stave_data":18,"OPTIONS":19,"options":20,"TABSTAVE":21,"STAVE":22,"VOICE":23,"stave_additions":24,"TEXT":25,"text":26,"NOTES":27,"notes":28,"SLUR":29,"WORD":30,"=":31,"lingo":32,"line":33,"chord":34,"time":35,"bar":36,"[":37,"]":38,"tuplets":39,"annotations":40,"command":41,"rest":42,"|":43,":":44,"frets":45,"maybe_decorator":46,"/":47,"string":48,"chord_line":49,".":50,"(":51,")":52,"articulation":53,"NUMBER":54,"abc":55,"_":56,"timed_fret":57,"time_values":58,"maybe_dot":59,"time_unit":60,"maybe_slash":61,"w":62,"h":63,"q":64,"d":65,"S":66,"-":67,"s":68,"t":69,"T":70,"b":71,"p":72,"v":73,"V":74,"u":75,"^":76,"$":77,"annotation_words":78,"!":79,"COMMAND":80,"#":81,"ABC":82,"abc_accidental":83,"accidental_type":84,"@":85,"n":86,"~":87,"$accept":0,"$end":1},
+terminals_: {2:"error",5:"EOF",10:"TITLE",12:"SUBTITLE",13:"SIDENOTE",14:"STR",15:",",19:"OPTIONS",21:"TABSTAVE",22:"STAVE",23:"VOICE",25:"TEXT",27:"NOTES",29:"SLUR",30:"WORD",31:"=",37:"[",38:"]",43:"|",44:":",47:"/",50:".",51:"(",52:")",54:"NUMBER",56:"_",62:"w",63:"h",64:"q",65:"d",66:"S",67:"-",68:"s",69:"t",70:"T",71:"b",72:"p",73:"v",74:"V",75:"u",76:"^",77:"$",79:"!",80:"COMMAND",81:"#",82:"ABC",85:"@",86:"n",87:"~"},
+productions_: [0,[3,2],[4,0],[4,1],[6,1],[6,2],[7,1],[7,1],[9,2],[9,2],[9,2],[11,1],[11,3],[8,3],[8,2],[8,2],[16,1],[16,1],[16,1],[18,1],[18,2],[24,2],[24,2],[24,2],[17,0],[17,1],[20,3],[20,4],[26,1],[26,3],[28,1],[28,2],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[36,1],[36,3],[36,3],[36,3],[36,3],[36,3],[33,4],[49,1],[49,3],[34,4],[34,5],[45,1],[45,1],[45,4],[45,2],[45,4],[57,5],[57,1],[57,5],[57,8],[57,1],[57,4],[35,3],[58,2],[60,1],[60,1],[60,1],[60,1],[59,0],[59,1],[61,0],[61,1],[48,1],[53,1],[53,1],[53,1],[53,1],[53,1],[53,1],[53,1],[46,1],[46,1],[46,1],[46,1],[46,0],[39,3],[39,5],[40,3],[78,1],[78,3],[41,3],[42,2],[42,3],[42,4],[55,3],[83,1],[83,2],[83,1],[83,2],[83,1],[83,0],[84,0],[84,1]],
+performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate /* action[1] */, $$ /* vstack */, _$ /* lstack */) {
+/* this == yyval */
+
+var $0 = $$.length - 1;
+switch (yystate) {
+case 1:
+
+      return $$[$0-1];
+    
+// removed by dead control flow
+
+case 2: case 24: case 86:
+ this.$ = null 
+break;
+case 3: case 6: case 7: case 11: case 19: case 25: case 30: case 32: case 33: case 34: case 49: case 66: case 67: case 68: case 69: case 74:
+ this.$ = $$[$0] 
+break;
+case 4: case 90:
+ this.$ = [$$[$0]] 
+break;
+case 5:
+ this.$ = [].concat($$[$0-1], $$[$0]) 
+break;
+case 8:
+
+      this.$ = {
+        element: "title",
+        text: $$[$0],
+        _l: _$[$0-1].first_line,
+        _c: _$[$0-1].first_column
+      }
+    
+break;
+case 9:
+
+      this.$ = {
+        element: "subtitle",
+        text: $$[$0],
+        _l: _$[$0-1].first_line,
+        _c: _$[$0-1].first_column
+      }
+    
+break;
+case 10:
+
+      this.$ = {
+        element: "sidenote",
+        text: $$[$0],
+        _l: _$[$0-1].first_line,
+        _c: _$[$0-1].first_column
+      }
+    
+break;
+case 12:
+ this.$ = $$[$0-2] + ',' + $$[$0] 
+break;
+case 13:
+ this.$ = {
+        element: $$[$0-2],
+        options: $$[$0-1],
+        notes: $$[$0].notes,
+        text: $$[$0].text,
+        _l: _$[$0-2].first_line,
+        _c: _$[$0-2].first_column
+      }
+    
+break;
+case 14:
+ this.$ = {
+        element: $$[$0-1],
+        options: $$[$0],
+        _l: _$[$0-1].first_line,
+        _c: _$[$0-1].first_column
+      }
+    
+break;
+case 15:
+
+      this.$ = {
+        element: "options",
+        params: $$[$0],
+        _l: _$[$0-1].first_line,
+        _c: _$[$0-1].first_column
+      }
+    
+break;
+case 20:
+
+      var text = [].concat($$[$0-1].text, $$[$0].text);
+      var notes = [].concat($$[$0-1].notes, $$[$0].notes);
+      var slurs = [].concat($$[$0-1].slurs, $$[$0].slurs)
+      this.$ = {text: text, notes: notes, slurs: slurs};
+    
+break;
+case 21:
+this.$ = {text: $$[$0], notes: [], slurs: []}
+break;
+case 22:
+this.$ = {notes: $$[$0], text: [], slurs: []}
+break;
+case 23:
+this.$ = {slurs: $$[$0], notes: [], text: []}
+break;
+case 26:
+ this.$ = [{
+        key: $$[$0-2],
+        value: $$[$0],
+        _l: _$[$0-2].first_line,
+        _c: _$[$0-2].first_column
+      }]
+    
+break;
+case 27:
+ this.$ = [].concat($$[$0-3], [{
+        key: $$[$0-2],
+        value: $$[$0],
+        _l: _$[$0-2].first_line,
+        _c: _$[$0-2].first_column
+        }])
+    
+break;
+case 28:
+ this.$ = [{text: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}] 
+break;
+case 29:
+ this.$ = [].concat($$[$0-2], {text: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}) 
+break;
+case 31:
+ this.$ = [].concat($$[$0-1], $$[$0])  
+break;
+case 35:
+ this.$ = [{
+        command: "bar",
+        type: $$[$0],
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+        }]
+    
+break;
+case 36:
+ this.$ = [{
+        command: "open_beam",
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+      }]
+    
+break;
+case 37:
+ this.$ = [{
+        command: "close_beam",
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+      }]
+    
+break;
+case 38:
+ this.$ = [{
+        command: "tuplet",
+        params: $$[$0],
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+      }]
+    
+break;
+case 39:
+ this.$ = [{
+        command: "annotations",
+        params: $$[$0],
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+      }]
+    
+break;
+case 40:
+ this.$ = [{
+        command: "command",
+        params: $$[$0],
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column
+      }]
+    
+break;
+case 41:
+
+    this.$ = [{
+        command: "rest",
+        params: $$[$0]
+      }]
+    
+break;
+case 42:
+ this.$ = 'single' 
+break;
+case 43:
+ this.$ = 'double' 
+break;
+case 44:
+ this.$ = 'end' 
+break;
+case 45:
+ this.$ = 'repeat-end' 
+break;
+case 46:
+ this.$ = 'repeat-begin' 
+break;
+case 47:
+ this.$ = 'repeat-both' 
+break;
+case 48:
+
+      _.extend(_.last($$[$0-3]), {decorator: $$[$0-2]})
+      _.each($$[$0-3], function(fret) { fret['string'] = $$[$0] })
+      this.$ = $$[$0-3]
+    
+break;
+case 50: case 91:
+ this.$ = [].concat($$[$0-2], $$[$0]) 
+break;
+case 51:
+ this.$ = [{chord: $$[$0-2], decorator: $$[$0]}] 
+break;
+case 52:
+ this.$ = [{chord: $$[$0-2], articulation: $$[$0-4], decorator: $$[$0]}] 
+break;
+case 53:
+ this.$ = [{
+        fret: $$[$0],
+        _l: _$[$0].first_line,
+        _c: _$[$0].first_column}]
+    
+break;
+case 54:
+ this.$ = [{abc: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}]
+break;
+case 55:
+ this.$ = [{abc: $$[$0-3], octave: $$[$0-2],
+             fret: $$[$0], _l: _$[$0-3].first_line, _c: _$[$0-3].first_column}]
+break;
+case 56:
+ this.$ = [_.extend($$[$0], {articulation: $$[$0-1]})] 
+break;
+case 57:
+
+      _.extend(_.last($$[$0-3]), {decorator: $$[$0-2]})
+      _.extend($$[$0], {articulation: $$[$0-1]})
+      $$[$0-3].push($$[$0])
+      this.$ = $$[$0-3]
+    
+break;
+case 58:
+ this.$ = {
+      time: $$[$0-3], dot: $$[$0-2], fret: $$[$0],
+      _l: _$[$0-4].first_line, _c: _$[$0-4].first_column}
+break;
+case 59:
+ this.$ = {fret: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column} 
+break;
+case 60:
+ this.$ = {time: $$[$0-3], dot: $$[$0-2], abc: $$[$0]}
+break;
+case 61:
+ this.$ = {time: $$[$0-6], dot: $$[$0-5], abc: $$[$0-3], octave: $$[$0-2], fret: $$[$0]}
+break;
+case 62:
+ this.$ = {abc: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column} 
+break;
+case 63:
+ this.$ = {abc: $$[$0-3], octave: $$[$0-2],
+            fret: $$[$0], _l: _$[$0-3].first_line, _c: _$[$0-3].first_column} 
+break;
+case 64:
+ this.$ = {time: $$[$0-1], dot: $$[$0]} 
+break;
+case 65:
+ this.$ = $$[$0-1] + $$[$0] 
+break;
+case 70:
+ this.$ = false 
+break;
+case 71:
+ this.$ = true 
+break;
+case 72:
+ this.$ = '' 
+break;
+case 73: case 76:
+ this.$ = 's' 
+break;
+case 75:
+ this.$ = '-' 
+break;
+case 77:
+ this.$ = 't' 
+break;
+case 78:
+ this.$ = 'T' 
+break;
+case 79:
+ this.$ = 'b' 
+break;
+case 80:
+ this.$ = 'h' 
+break;
+case 81:
+ this.$ = 'p' 
+break;
+case 82:
+ this.$ = 'v' 
+break;
+case 83:
+ this.$ = 'V' 
+break;
+case 84:
+ this.$ = 'u' 
+break;
+case 85:
+ this.$ = 'd' 
+break;
+case 87:
+ this.$ = {tuplet: $$[$0-1]} 
+break;
+case 88:
+ this.$ = {tuplet: $$[$0-3], notes: $$[$0-1]} 
+break;
+case 89: case 92:
+ this.$ = $$[$0-1] 
+break;
+case 93:
+ this.$ = {position: 0} 
+break;
+case 94:
+ this.$ = {position: $$[$0-1]} 
+break;
+case 95:
+ this.$ = {position: $$[$0-1] * -1} 
+break;
+case 96:
+ this.$ = {key: $$[$0-2], accidental: $$[$0-1], accidental_type: $$[$0]} 
+break;
+case 97:
+ this.$ = "#" 
+break;
+case 98:
+ this.$ = "##" 
+break;
+case 99:
+ this.$ = "b" 
+break;
+case 100:
+ this.$ = "bb" 
+break;
+case 101:
+ this.$ = "n" 
+break;
+case 103:
+ this.$ = null; 
+break;
+case 104:
+ this.$ = "c" 
+break;
+}
+},
+table: [{3:1,4:2,5:[2,2],6:3,7:4,8:5,9:6,10:$V0,12:$V1,13:$V2,16:7,19:$V3,21:$V4,22:$V5,23:$V6},{1:[3]},{5:[1,15]},{5:[2,3],7:16,8:5,9:6,10:$V0,12:$V1,13:$V2,16:7,19:$V3,21:$V4,22:$V5,23:$V6},o($V7,[2,4]),o($V7,[2,6]),o($V7,[2,7]),o($V8,$V9,{17:17,20:18,30:$Va}),{20:20,30:$Va},{11:21,14:$Vb},{11:23,14:$Vb},{11:24,14:$Vb},o($Vc,[2,16]),o($Vc,[2,17]),o($Vc,[2,18]),{1:[2,1]},o($V7,[2,5]),o($V7,[2,14],{18:25,24:26,25:$Vd,27:$Ve,29:$Vf}),o($V8,[2,25],{30:$Vg}),{31:[1,31]},o($V7,[2,15],{30:$Vg}),o($V7,[2,8],{15:$Vh}),o($Vi,[2,11]),o($V7,[2,9],{15:$Vh}),o($V7,[2,10],{15:$Vh}),o($V7,[2,13],{24:33,25:$Vd,27:$Ve,29:$Vf}),o($V8,[2,19]),{14:[1,35],26:34},{28:36,31:$Vj,32:37,33:38,34:39,35:40,36:41,37:$Vk,38:$Vl,39:44,40:45,41:46,42:47,43:$Vm,44:$Vn,45:48,51:$Vo,53:50,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,76:$Vx,77:$Vy,79:$Vz,81:$VA,82:$VB},o($V8,$V9,{20:18,17:68,30:$Va}),{31:[1,69]},{30:[1,70]},{14:[1,71]},o($V8,[2,20]),o($V8,[2,21],{15:[1,72]}),o($VC,[2,28]),o($V8,[2,22],{33:38,34:39,35:40,36:41,39:44,40:45,41:46,42:47,45:48,53:50,55:59,32:73,31:$Vj,37:$Vk,38:$Vl,43:$Vm,44:$Vn,51:$Vo,54:$Vp,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,76:$Vx,77:$Vy,79:$Vz,81:$VA,82:$VB}),o($VD,[2,30]),o($VD,[2,32]),o($VD,[2,33]),o($VD,[2,34]),o($VD,[2,35]),o($VD,[2,36]),o($VD,[2,37]),o($VD,[2,38]),o($VD,[2,39]),o($VD,[2,40]),o($VD,[2,41]),o([47,63,67,68,69,70,71,72],$VE,{46:74,65:$VF,73:$VG,74:$VH,75:$VI}),{33:80,45:48,49:79,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},{44:$VJ,51:[1,82],54:$VK,55:86,57:83,82:$VB},{54:$VL,58:87,60:88,62:$VM,63:$VN,64:$VO},o($VD,[2,42]),{43:[1,93],44:[1,94]},{54:[1,95]},{30:[1,97],78:96},{80:[1,98]},{54:[1,100],67:[1,101],81:[1,99]},o($VP,[2,53]),o($VP,[2,54],{54:[1,102]}),o($VQ,[2,75]),o($VQ,[2,76]),o($VQ,[2,77]),o($VQ,[2,78]),o($VQ,[2,79]),o($VQ,[2,80]),o($VQ,[2,81]),o($VR,[2,102],{83:103,81:[1,104],85:[1,105],86:[1,106]}),o($V8,[2,23]),{30:[1,107]},o($Vc,[2,26]),o($Vi,[2,12]),{14:[1,108]},o($VD,[2,31]),{47:[1,109],53:110,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw},o($VS,[2,82]),o($VS,[2,83]),o($VS,[2,84]),o($VS,[2,85]),{50:$VT,52:[1,111]},o($VU,[2,49]),{44:$VJ,54:$VK,55:86,57:83,82:$VB},{33:80,45:48,49:113,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},o($VP,[2,56]),{54:$VL,58:114,60:88,62:$VM,63:$VN,64:$VO},o($VP,[2,59]),o($VP,[2,62],{54:[1,115]}),o($VD,$VV,{59:116,65:$VW}),o($VX,[2,72],{61:118,66:[1,119]}),o($VY,[2,66]),o($VY,[2,67]),o($VY,[2,68]),o($VY,[2,69]),{31:[1,121],43:[1,120],44:[1,122]},{43:[1,123],44:[1,124]},{15:[1,126],76:[1,125]},{15:[1,128],77:[1,127]},o($VZ,[2,90]),{79:[1,129]},o($VD,[2,93]),{81:[1,130]},{54:[1,131]},{56:[1,132]},o($V_,[2,103],{84:133,87:[1,134]}),o($VR,[2,97],{81:[1,135]}),o($VR,[2,99],{85:[1,136]}),o($VR,[2,101]),o($Vc,[2,27]),o($VC,[2,29]),{48:137,54:[1,138]},{44:$VJ,54:$VK,55:86,57:139,82:$VB},o($VD,$VE,{46:140,65:$VF,73:$VG,74:$VH,75:$VI}),{33:141,45:48,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},{50:$VT,52:[1,142]},{44:$VV,59:143,65:$VW},{56:[1,144]},o($VD,[2,64]),o($VD,[2,71]),o($VX,[2,65]),o($VX,[2,73]),o($VD,[2,43]),o($VD,[2,44]),o($VD,[2,46]),o($VD,[2,45]),o($VD,[2,47]),o($VD,[2,87]),{54:[1,145]},o($VD,[2,89]),{30:[1,146]},o($VD,[2,92]),o($VD,[2,94]),{81:[1,147]},{54:[1,148]},o($V_,[2,96]),o($V_,[2,104]),o($VR,[2,98]),o($VR,[2,100]),o($V$,[2,48]),o($V$,[2,74]),o($VP,[2,57]),o($VD,[2,51]),o($VU,[2,50]),o($VD,$VE,{46:149,65:$VF,73:$VG,74:$VH,75:$VI}),{44:[1,150]},{54:[1,151]},{76:[1,152]},o($VZ,[2,91]),o($VD,[2,95]),o($VP,[2,55]),o($VD,[2,52]),{54:[1,153],55:154,82:$VB},o($VP,[2,63]),o($VD,[2,88]),o($VP,[2,58]),o($VP,[2,60],{54:[1,155]}),{56:[1,156]},{54:[1,157]},o($VP,[2,61])],
+defaultActions: {15:[2,1]},
+parseError: function parseError (str, hash) {
+    if (hash.recoverable) {
+        this.trace(str);
+    } else {
+        var error = new Error(str);
+        error.hash = hash;
+        throw error;
+    }
+},
+parse: function parse(input) {
+    var self = this, stack = [0], tstack = [], vstack = [null], lstack = [], table = this.table, yytext = '', yylineno = 0, yyleng = 0, recovering = 0, TERROR = 2, EOF = 1;
+    var args = lstack.slice.call(arguments, 1);
+    var lexer = Object.create(this.lexer);
+    var sharedState = { yy: {} };
+    for (var k in this.yy) {
+        if (Object.prototype.hasOwnProperty.call(this.yy, k)) {
+            sharedState.yy[k] = this.yy[k];
+        }
+    }
+    lexer.setInput(input, sharedState.yy);
+    sharedState.yy.lexer = lexer;
+    sharedState.yy.parser = this;
+    if (typeof lexer.yylloc == 'undefined') {
+        lexer.yylloc = {};
+    }
+    var yyloc = lexer.yylloc;
+    lstack.push(yyloc);
+    var ranges = lexer.options && lexer.options.ranges;
+    if (typeof sharedState.yy.parseError === 'function') {
+        this.parseError = sharedState.yy.parseError;
+    } else {
+        this.parseError = Object.getPrototypeOf(this).parseError;
+    }
+    function popStack(n) {
+        stack.length = stack.length - 2 * n;
+        vstack.length = vstack.length - n;
+        lstack.length = lstack.length - n;
+    }
+    _token_stack:
+        var lex = function () {
+            var token;
+            token = lexer.lex() || EOF;
+            if (typeof token !== 'number') {
+                token = self.symbols_[token] || token;
+            }
+            return token;
+        };
+    var symbol, preErrorSymbol, state, action, a, r, yyval = {}, p, len, newState, expected;
+    while (true) {
+        state = stack[stack.length - 1];
+        if (this.defaultActions[state]) {
+            action = this.defaultActions[state];
+        } else {
+            if (symbol === null || typeof symbol == 'undefined') {
+                symbol = lex();
+            }
+            action = table[state] && table[state][symbol];
+        }
+                    if (typeof action === 'undefined' || !action.length || !action[0]) {
+                var errStr = '';
+                expected = [];
+                for (p in table[state]) {
+                    if (this.terminals_[p] && p > TERROR) {
+                        expected.push('\'' + this.terminals_[p] + '\'');
+                    }
+                }
+                if (lexer.showPosition) {
+                    errStr = 'Parse error on line ' + (yylineno + 1) + ':\n' + lexer.showPosition() + '\nExpecting ' + expected.join(', ') + ', got \'' + (this.terminals_[symbol] || symbol) + '\'';
+                } else {
+                    errStr = 'Parse error on line ' + (yylineno + 1) + ': Unexpected ' + (symbol == EOF ? 'end of input' : '\'' + (this.terminals_[symbol] || symbol) + '\'');
+                }
+                this.parseError(errStr, {
+                    text: lexer.match,
+                    token: this.terminals_[symbol] || symbol,
+                    line: lexer.yylineno,
+                    loc: yyloc,
+                    expected: expected
+                });
+            }
+        if (action[0] instanceof Array && action.length > 1) {
+            throw new Error('Parse Error: multiple actions possible at state: ' + state + ', token: ' + symbol);
+        }
+        switch (action[0]) {
+        case 1:
+            stack.push(symbol);
+            vstack.push(lexer.yytext);
+            lstack.push(lexer.yylloc);
+            stack.push(action[1]);
+            symbol = null;
+            if (!preErrorSymbol) {
+                yyleng = lexer.yyleng;
+                yytext = lexer.yytext;
+                yylineno = lexer.yylineno;
+                yyloc = lexer.yylloc;
+                if (recovering > 0) {
+                    recovering--;
+                }
+            } else {
+                symbol = preErrorSymbol;
+                preErrorSymbol = null;
+            }
+            break;
+        case 2:
+            len = this.productions_[action[1]][1];
+            yyval.$ = vstack[vstack.length - len];
+            yyval._$ = {
+                first_line: lstack[lstack.length - (len || 1)].first_line,
+                last_line: lstack[lstack.length - 1].last_line,
+                first_column: lstack[lstack.length - (len || 1)].first_column,
+                last_column: lstack[lstack.length - 1].last_column
+            };
+            if (ranges) {
+                yyval._$.range = [
+                    lstack[lstack.length - (len || 1)].range[0],
+                    lstack[lstack.length - 1].range[1]
+                ];
+            }
+            r = this.performAction.apply(yyval, [
+                yytext,
+                yyleng,
+                yylineno,
+                sharedState.yy,
+                action[1],
+                vstack,
+                lstack
+            ].concat(args));
+            if (typeof r !== 'undefined') {
+                return r;
+            }
+            if (len) {
+                stack = stack.slice(0, -1 * len * 2);
+                vstack = vstack.slice(0, -1 * len);
+                lstack = lstack.slice(0, -1 * len);
+            }
+            stack.push(this.productions_[action[1]][0]);
+            vstack.push(yyval.$);
+            lstack.push(yyval._$);
+            newState = table[stack[stack.length - 2]][stack[stack.length - 1]];
+            stack.push(newState);
+            break;
+        case 3:
+            return true;
+        }
+    }
+    return true;
+}};
+
+  var _ = __webpack_require__(/*! ./utils */ "./src/utils.ts");
+  _ = _.default || _;
+/* generated by jison-lex 0.3.4 */
+var lexer = (function(){
+var lexer = ({
+
+EOF:1,
+
+parseError:function parseError(str, hash) {
+        if (this.yy.parser) {
+            this.yy.parser.parseError(str, hash);
+        } else {
+            throw new Error(str);
+        }
+    },
+
+// resets the lexer, sets new input
+setInput:function (input, yy) {
+        this.yy = yy || this.yy || {};
+        this._input = input;
+        this._more = this._backtrack = this.done = false;
+        this.yylineno = this.yyleng = 0;
+        this.yytext = this.matched = this.match = '';
+        this.conditionStack = ['INITIAL'];
+        this.yylloc = {
+            first_line: 1,
+            first_column: 0,
+            last_line: 1,
+            last_column: 0
+        };
+        if (this.options.ranges) {
+            this.yylloc.range = [0,0];
+        }
+        this.offset = 0;
+        return this;
+    },
+
+// consumes and returns one char from the input
+input:function () {
+        var ch = this._input[0];
+        this.yytext += ch;
+        this.yyleng++;
+        this.offset++;
+        this.match += ch;
+        this.matched += ch;
+        var lines = ch.match(/(?:\r\n?|\n).*/g);
+        if (lines) {
+            this.yylineno++;
+            this.yylloc.last_line++;
+        } else {
+            this.yylloc.last_column++;
+        }
+        if (this.options.ranges) {
+            this.yylloc.range[1]++;
+        }
+
+        this._input = this._input.slice(1);
+        return ch;
+    },
+
+// unshifts one char (or a string) into the input
+unput:function (ch) {
+        var len = ch.length;
+        var lines = ch.split(/(?:\r\n?|\n)/g);
+
+        this._input = ch + this._input;
+        this.yytext = this.yytext.substr(0, this.yytext.length - len);
+        //this.yyleng -= len;
+        this.offset -= len;
+        var oldLines = this.match.split(/(?:\r\n?|\n)/g);
+        this.match = this.match.substr(0, this.match.length - 1);
+        this.matched = this.matched.substr(0, this.matched.length - 1);
+
+        if (lines.length - 1) {
+            this.yylineno -= lines.length - 1;
+        }
+        var r = this.yylloc.range;
+
+        this.yylloc = {
+            first_line: this.yylloc.first_line,
+            last_line: this.yylineno + 1,
+            first_column: this.yylloc.first_column,
+            last_column: lines ?
+                (lines.length === oldLines.length ? this.yylloc.first_column : 0)
+                 + oldLines[oldLines.length - lines.length].length - lines[0].length :
+              this.yylloc.first_column - len
+        };
+
+        if (this.options.ranges) {
+            this.yylloc.range = [r[0], r[0] + this.yyleng - len];
+        }
+        this.yyleng = this.yytext.length;
+        return this;
+    },
+
+// When called from action, caches matched text and appends it on next action
+more:function () {
+        this._more = true;
+        return this;
+    },
+
+// When called from action, signals the lexer that this rule fails to match the input, so the next matching rule (regex) should be tested instead.
+reject:function () {
+        if (this.options.backtrack_lexer) {
+            this._backtrack = true;
+        } else {
+            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. You can only invoke reject() in the lexer when the lexer is of the backtracking persuasion (options.backtrack_lexer = true).\n' + this.showPosition(), {
+                text: "",
+                token: null,
+                line: this.yylineno
+            });
+
+        }
+        return this;
+    },
+
+// retain first n characters of the match
+less:function (n) {
+        this.unput(this.match.slice(n));
+    },
+
+// displays already matched input, i.e. for error messages
+pastInput:function () {
+        var past = this.matched.substr(0, this.matched.length - this.match.length);
+        return (past.length > 20 ? '...':'') + past.substr(-20).replace(/\n/g, "");
+    },
+
+// displays upcoming input, i.e. for error messages
+upcomingInput:function () {
+        var next = this.match;
+        if (next.length < 20) {
+            next += this._input.substr(0, 20-next.length);
+        }
+        return (next.substr(0,20) + (next.length > 20 ? '...' : '')).replace(/\n/g, "");
+    },
+
+// displays the character position where the lexing error occurred, i.e. for error messages
+showPosition:function () {
+        var pre = this.pastInput();
+        var c = new Array(pre.length + 1).join("-");
+        return pre + this.upcomingInput() + "\n" + c + "^";
+    },
+
+// test the lexed token: return FALSE when not a match, otherwise return token
+test_match:function(match, indexed_rule) {
+        var token,
+            lines,
+            backup;
+
+        if (this.options.backtrack_lexer) {
+            // save context
+            backup = {
+                yylineno: this.yylineno,
+                yylloc: {
+                    first_line: this.yylloc.first_line,
+                    last_line: this.last_line,
+                    first_column: this.yylloc.first_column,
+                    last_column: this.yylloc.last_column
+                },
+                yytext: this.yytext,
+                match: this.match,
+                matches: this.matches,
+                matched: this.matched,
+                yyleng: this.yyleng,
+                offset: this.offset,
+                _more: this._more,
+                _input: this._input,
+                yy: this.yy,
+                conditionStack: this.conditionStack.slice(0),
+                done: this.done
+            };
+            if (this.options.ranges) {
+                backup.yylloc.range = this.yylloc.range.slice(0);
+            }
+        }
+
+        lines = match[0].match(/(?:\r\n?|\n).*/g);
+        if (lines) {
+            this.yylineno += lines.length;
+        }
+        this.yylloc = {
+            first_line: this.yylloc.last_line,
+            last_line: this.yylineno + 1,
+            first_column: this.yylloc.last_column,
+            last_column: lines ?
+                         lines[lines.length - 1].length - lines[lines.length - 1].match(/\r?\n?/)[0].length :
+                         this.yylloc.last_column + match[0].length
+        };
+        this.yytext += match[0];
+        this.match += match[0];
+        this.matches = match;
+        this.yyleng = this.yytext.length;
+        if (this.options.ranges) {
+            this.yylloc.range = [this.offset, this.offset += this.yyleng];
+        }
+        this._more = false;
+        this._backtrack = false;
+        this._input = this._input.slice(match[0].length);
+        this.matched += match[0];
+        token = this.performAction.call(this, this.yy, this, indexed_rule, this.conditionStack[this.conditionStack.length - 1]);
+        if (this.done && this._input) {
+            this.done = false;
+        }
+        if (token) {
+            return token;
+        } else if (this._backtrack) {
+            // recover context
+            for (var k in backup) {
+                this[k] = backup[k];
+            }
+            return false; // rule action called reject() implying the next rule should be tested instead.
+        }
+        return false;
+    },
+
+// return next match in input
+next:function () {
+        if (this.done) {
+            return this.EOF;
+        }
+        if (!this._input) {
+            this.done = true;
+        }
+
+        var token,
+            match,
+            tempMatch,
+            index;
+        if (!this._more) {
+            this.yytext = '';
+            this.match = '';
+        }
+        var rules = this._currentRules();
+        for (var i = 0; i < rules.length; i++) {
+            tempMatch = this._input.match(this.rules[rules[i]]);
+            if (tempMatch && (!match || tempMatch[0].length > match[0].length)) {
+                match = tempMatch;
+                index = i;
+                if (this.options.backtrack_lexer) {
+                    token = this.test_match(tempMatch, rules[i]);
+                    if (token !== false) {
+                        return token;
+                    } else if (this._backtrack) {
+                        match = false;
+                        continue; // rule action called reject() implying a rule MISmatch.
+                    } else {
+                        // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
+                        return false;
+                    }
+                } else if (!this.options.flex) {
+                    break;
+                }
+            }
+        }
+        if (match) {
+            token = this.test_match(match, rules[index]);
+            if (token !== false) {
+                return token;
+            }
+            // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
+            return false;
+        }
+        if (this._input === "") {
+            return this.EOF;
+        } else {
+            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. Unrecognized text.\n' + this.showPosition(), {
+                text: "",
+                token: null,
+                line: this.yylineno
+            });
+        }
+    },
+
+// return next match that has a token
+lex:function lex () {
+        var r = this.next();
+        if (r) {
+            return r;
+        } else {
+            return this.lex();
+        }
+    },
+
+// activates a new lexer condition state (pushes the new lexer condition state onto the condition stack)
+begin:function begin (condition) {
+        this.conditionStack.push(condition);
+    },
+
+// pop the previously active lexer condition state off the condition stack
+popState:function popState () {
+        var n = this.conditionStack.length - 1;
+        if (n > 0) {
+            return this.conditionStack.pop();
+        } else {
+            return this.conditionStack[0];
+        }
+    },
+
+// produce the lexer rule set which is active for the currently active lexer condition state
+_currentRules:function _currentRules () {
+        if (this.conditionStack.length && this.conditionStack[this.conditionStack.length - 1]) {
+            return this.conditions[this.conditionStack[this.conditionStack.length - 1]].rules;
+        } else {
+            return this.conditions["INITIAL"].rules;
+        }
+    },
+
+// return the currently active lexer condition state; when an index argument is provided it produces the N-th previous condition state, if available
+topState:function topState (n) {
+        n = this.conditionStack.length - 1 - Math.abs(n || 0);
+        if (n >= 0) {
+            return this.conditionStack[n];
+        } else {
+            return "INITIAL";
+        }
+    },
+
+// alias for begin(condition)
+pushState:function pushState (condition) {
+        this.begin(condition);
+    },
+
+// return the number of states currently on the stack
+stateStackSize:function stateStackSize() {
+        return this.conditionStack.length;
+    },
+options: {},
+performAction: function anonymous(yy,yy_,$avoiding_name_collisions,YY_START) {
+var YYSTATE=YY_START;
+switch($avoiding_name_collisions) {
+case 0: this.begin('notes'); return 27; 
+// removed by dead control flow
+
+case 1: this.begin('options'); return 21; 
+// removed by dead control flow
+
+case 2: this.begin('options'); return 22; 
+// removed by dead control flow
+
+case 3: this.begin('options'); return 23; 
+// removed by dead control flow
+
+case 4: this.begin('options'); return 19; 
+// removed by dead control flow
+
+case 5: this.begin('text'); return 25; 
+// removed by dead control flow
+
+case 6: this.begin('text'); return 10; 
+// removed by dead control flow
+
+case 7: this.begin('text'); return 12; 
+// removed by dead control flow
+
+case 8: this.begin('text'); return 13; 
+// removed by dead control flow
+
+case 9: this.begin('options'); return 29; 
+// removed by dead control flow
+
+case 10:return 30
+// removed by dead control flow
+
+case 11: this.begin('annotations'); return "$" 
+// removed by dead control flow
+
+case 12: this.begin('notes'); return "$" 
+// removed by dead control flow
+
+case 13:return 30
+// removed by dead control flow
+
+case 14: this.begin('command'); return "!" 
+// removed by dead control flow
+
+case 15: this.begin('notes'); return "!" 
+// removed by dead control flow
+
+case 16:return 80
+// removed by dead control flow
+
+case 17:/* skip line comment */
+break;
+case 18:return 14
+// removed by dead control flow
+
+case 19:return 47
+// removed by dead control flow
+
+case 20:return '+'
+// removed by dead control flow
+
+case 21:return 44
+// removed by dead control flow
+
+case 22:return 31
+// removed by dead control flow
+
+case 23:return 51
+// removed by dead control flow
+
+case 24:return 52
+// removed by dead control flow
+
+case 25:return 37
+// removed by dead control flow
+
+case 26:return 38
+// removed by dead control flow
+
+case 27:return 76
+// removed by dead control flow
+
+case 28:return 15
+// removed by dead control flow
+
+case 29:return 43
+// removed by dead control flow
+
+case 30:return 50
+// removed by dead control flow
+
+case 31:return 81
+// removed by dead control flow
+
+case 32:return 85
+// removed by dead control flow
+
+case 33:return 71
+// removed by dead control flow
+
+case 34:return 68
+// removed by dead control flow
+
+case 35:return 63
+// removed by dead control flow
+
+case 36:return 72
+// removed by dead control flow
+
+case 37:return 69
+// removed by dead control flow
+
+case 38:return 70
+// removed by dead control flow
+
+case 39:return 67
+// removed by dead control flow
+
+case 40:return 56
+// removed by dead control flow
+
+case 41:return 73
+// removed by dead control flow
+
+case 42:return 74
+// removed by dead control flow
+
+case 43:return 75
+// removed by dead control flow
+
+case 44:return 65
+// removed by dead control flow
+
+case 45:return 54
+// removed by dead control flow
+
+case 46:return 64
+// removed by dead control flow
+
+case 47:return 62
+// removed by dead control flow
+
+case 48:return 63
+// removed by dead control flow
+
+case 49:return 65
+// removed by dead control flow
+
+case 50:return 66
+// removed by dead control flow
+
+case 51:return 82
+// removed by dead control flow
+
+case 52:return 86
+// removed by dead control flow
+
+case 53:return 87
+// removed by dead control flow
+
+case 54:/* line continuation in notes with trailing comment */
+break;
+case 55:/* line continuation in notes */
+break;
+case 56: this.begin('INITIAL'); 
+break;
+case 57:/* skip whitespace */
+break;
+case 58:return 5
+// removed by dead control flow
+
+case 59:return 'INVALID'
+// removed by dead control flow
+
+}
+},
+rules: [/^(?:notes\b)/,/^(?:tabstave\b)/,/^(?:stave\b)/,/^(?:voice\b)/,/^(?:options\b)/,/^(?:text\b)/,/^(?:title\b)/,/^(?:subtitle\b)/,/^(?:sidenote\b)/,/^(?:slur\b)/,/^(?:[^\s=]+)/,/^(?:[$])/,/^(?:[$])/,/^(?:[^,$]+)/,/^(?:[!])/,/^(?:[!])/,/^(?:[^!]+)/,/^(?:\/\/[^\r\n]*)/,/^(?:[^,\r\n]+)/,/^(?:\/)/,/^(?:\+)/,/^(?::)/,/^(?:=)/,/^(?:\()/,/^(?:\))/,/^(?:\[)/,/^(?:\])/,/^(?:\^)/,/^(?:,)/,/^(?:\|)/,/^(?:\.)/,/^(?:#)/,/^(?:@)/,/^(?:[b])/,/^(?:[s])/,/^(?:[h])/,/^(?:[p])/,/^(?:[t])/,/^(?:[T])/,/^(?:[-])/,/^(?:[_])/,/^(?:[v])/,/^(?:[V])/,/^(?:[u])/,/^(?:[d])/,/^(?:[0-9]+)/,/^(?:[q])/,/^(?:[w])/,/^(?:[h])/,/^(?:[d])/,/^(?:[S])/,/^(?:[A-GXLR])/,/^(?:[n])/,/^(?:[~])/,/^(?:\\[ \t]*\/\/[^\r\n]*[\r\n]+)/,/^(?:\\[ \t]*[\r\n]+)/,/^(?:[\r\n]+)/,/^(?:\s+)/,/^(?:$)/,/^(?:.)/],
+conditions: {"notes":{"rules":[11,14,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59],"inclusive":true},"text":{"rules":[17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,45,46,47,48,49,56,57,58,59],"inclusive":true},"slur":{"rules":[17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"annotations":{"rules":[12,13,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"options":{"rules":[10,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"command":{"rules":[15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"INITIAL":{"rules":[0,1,2,3,4,5,6,7,8,9,10,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true}}
+});
+return lexer;
+})();
+parser.lexer = lexer;
+function Parser () {
+  this.yy = {};
+}
+Parser.prototype = parser;parser.Parser = Parser;
+return new Parser;
+})();
+
+
+if (true) {
+exports.parser = parser;
+exports.Parser = parser.Parser;
+exports.parse = function () { return parser.parse.apply(parser, arguments); };
+exports.main = function commonjsMain (args) {
+    if (!args[1]) {
+        console.log('Usage: '+args[0]+' FILE');
+        process.exit(1);
+    }
+    var source = (__webpack_require__(/*! fs */ "?569f").readFileSync)((__webpack_require__(/*! path */ "?3f59").normalize)(args[1]), "utf8");
+    return exports.parser.parse(source);
+};
+if ( true && __webpack_require__.c[__webpack_require__.s] === module) {
+  exports.main(process.argv.slice(1));
+}
+}
+
+/***/ },
+
+/***/ "./src/vextab.css"
+/*!************************!*\
+  !*** ./src/vextab.css ***!
+  \************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleDomAPI.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleDomAPI.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertBySelector.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertBySelector.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertStyleElement.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertStyleElement.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! !../node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleTagTransform.js */ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleTagTransform.js");
+/* harmony import */ var _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! !!../node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/cjs.js!./vextab.css */ "./node_modules/.pnpm/css-loader@7.1.4_webpack@5.105.2/node_modules/css-loader/dist/cjs.js!./src/vextab.css");
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var options = {};
+
+options.styleTagTransform = (_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default());
+options.setAttributes = (_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default());
+options.insert = _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default().bind(null, "head");
+options.domAPI = (_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
+options.insertStyleElement = (_node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
+
+var update = _node_modules_pnpm_style_loader_4_0_0_webpack_5_105_2_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"], options);
+
+
+
+
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"] && _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals ? _node_modules_pnpm_css_loader_7_1_4_webpack_5_105_2_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals : undefined);
+
+
+/***/ },
+
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js"
+/*!**********************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \**********************************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -274,10 +1465,10 @@ module.exports = function (list, options) {
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/insertBySelector.js"
-/*!********************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
-  \********************************************************************/
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertBySelector.js"
+/*!**************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+  \**************************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -318,10 +1509,10 @@ module.exports = insertBySelector;
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/insertStyleElement.js"
-/*!**********************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
-  \**********************************************************************/
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertStyleElement.js"
+/*!****************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+  \****************************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -338,10 +1529,10 @@ module.exports = insertStyleElement;
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js"
-/*!**********************************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
-  \**********************************************************************************/
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js"
+/*!****************************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+  \****************************************************************************************************************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
@@ -358,10 +1549,10 @@ module.exports = setAttributesWithoutAttributes;
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/styleDomAPI.js"
-/*!***************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
-  \***************************************************************/
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleDomAPI.js"
+/*!*********************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+  \*********************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -429,10 +1620,10 @@ module.exports = domAPI;
 
 /***/ },
 
-/***/ "./node_modules/style-loader/dist/runtime/styleTagTransform.js"
-/*!*********************************************************************!*\
-  !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
-  \*********************************************************************/
+/***/ "./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleTagTransform.js"
+/*!***************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/style-loader@4.0.0_webpack@5.105.2/node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+  \***************************************************************************************************************************/
 (module) {
 
 "use strict";
@@ -453,10 +1644,4944 @@ module.exports = styleTagTransform;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/entry/vexflow.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/entry/vexflow.js ***!
-  \*********************************************************/
+/***/ "./src/artist.ts"
+/*!***********************!*\
+  !*** ./src/artist.ts ***!
+  \***********************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _artist_Artist__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _artist_Artist__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./artist/Artist */ "./src/artist/Artist.ts");
+// Re-export for the Artist class so consumers can import from the package root.
+
+
+
+/***/ },
+
+/***/ "./src/artist/ArticulationBuilder.ts"
+/*!*******************************************!*\
+  !*** ./src/artist/ArticulationBuilder.ts ***!
+  \*******************************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   ArticulationBuilder: () => (/* binding */ ArticulationBuilder)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Modifier pipeline for articulations, bends, tuplets, annotations, and special glyphs.
+
+
+/**
+ * Handles articulations, annotations, tuplets, bends, and other note modifiers.
+ * This file centralizes modifier logic so rendering/notation code stays focused.
+ */
+class ArticulationBuilder {
+    /**
+     * Create a modifier builder bound to an Artist.
+     */
+    constructor(artist) {
+        this.artist = artist;
+    }
+    // ---- Bends ----
+    /**
+     * Build a bend descriptor between two frets.
+     */
+    makeBend(from_fret, to_fret) {
+        let direction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.UP;
+        let text = '';
+        // Choose bend text and direction based on the interval size.
+        if (parseInt(from_fret, 10) > parseInt(to_fret, 10)) {
+            direction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.DOWN;
+        }
+        else {
+            switch (Math.abs(parseInt(to_fret, 10) - parseInt(from_fret, 10))) {
+                case 1:
+                    text = '1/2';
+                    break;
+                case 2:
+                    text = 'Full';
+                    break;
+                case 3:
+                    text = '1 1/2';
+                    break;
+                default:
+                    text = `Bend to ${to_fret}`;
+                    break;
+            }
+        }
+        return { type: direction, text };
+    }
+    /**
+     * Start or extend a bend phrase across notes.
+     */
+    openBends(first_note, last_note, first_indices, last_indices) {
+        this.artist.log('openBends', first_note, last_note, first_indices, last_indices);
+        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
+        let start_note = first_note;
+        let start_indices = first_indices;
+        // Track the first note of the bend phrase so later notes can extend it.
+        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(this.artist.current_bends)) {
+            this.artist.bend_start_index = tab_notes.length - 2;
+            this.artist.bend_start_strings = first_indices;
+        }
+        else {
+            start_note = tab_notes[this.artist.bend_start_index];
+            start_indices = this.artist.bend_start_strings;
+        }
+        const start_frets = start_note.getPositions();
+        const last_frets = last_note.getPositions();
+        // Build per-string bend phrases.
+        start_indices.forEach((index, i) => {
+            const last_index = last_indices[i];
+            const from_fret = start_frets[index];
+            const to_fret = last_frets[last_index];
+            if (!this.artist.current_bends[index]) {
+                this.artist.current_bends[index] = [];
+            }
+            this.artist.current_bends[index].push(this.makeBend(from_fret.fret, to_fret.fret));
+        });
+    }
+    /**
+     * Close any open bend phrases and apply them to the tab notes.
+     */
+    closeBends(offset = 1) {
+        if (this.artist.bend_start_index == null)
+            return;
+        this.artist.log(`closeBends(${offset})`);
+        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
+        // Attach bend modifiers to the starting note for each string.
+        _utils__WEBPACK_IMPORTED_MODULE_1__.forEach(this.artist.current_bends, (bend_list, key) => {
+            const phrase = [];
+            bend_list.forEach((bend) => phrase.push(bend));
+            const bend_modifier = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.length <= 1
+                ? new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend(phrase)
+                : new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend(null, null, phrase);
+            const bend_index = parseInt(String(key), 10);
+            tab_notes[this.artist.bend_start_index].addModifier(bend_modifier, bend_index);
+        });
+        // Replace bent notes with ghosts so only the phrase start is visible.
+        tab_notes
+            .slice(this.artist.bend_start_index + 1, (tab_notes.length - 2) + offset + 1)
+            .forEach((tab_note) => tab_note.setGhost(true));
+        this.artist.current_bends = {};
+        this.artist.bend_start_index = null;
+    }
+    // ---- Tuplets ----
+    /**
+     * Create tuplets for the most recent notes in the current stave.
+     */
+    makeTuplets(tuplets, notes) {
+        this.artist.log('makeTuplets', tuplets, notes);
+        const tuple_notes = notes !== null && notes !== void 0 ? notes : tuplets;
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        if (!stave || !stave.note)
+            return;
+        const stave_notes = stave.note_notes;
+        const tab_notes = stave.tab_notes;
+        if (stave_notes.length < tuple_notes) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'Not enough notes for tuplet');
+        }
+        const modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuplet(stave_notes.slice(stave_notes.length - tuple_notes), { num_notes: tuplets });
+        this.artist.stave_articulations.push(modifier);
+        // Tuplet creation adjusts ticks, so create one for tab as well.
+        const tab_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuplet(tab_notes.slice(tab_notes.length - tuple_notes), { num_notes: tuplets });
+        if (this.artist.customizations['tab-stems'] === 'true') {
+            this.artist.tab_articulations.push(tab_modifier);
+        }
+    }
+    // ---- Fingerings / strokes / score articulations ----
+    /**
+     * Extract a fingering command from text, if present.
+     */
+    getFingering(text) {
+        return text.match(/^\.fingering\/([^.]+)\./);
+    }
+    /**
+     * Parse a fingering annotation into modifiers that can be attached to notes.
+     */
+    makeFingering(text) {
+        const parts = this.getFingering(text);
+        const POS = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position;
+        const fingers = [];
+        const fingering = [];
+        const offset_x = 4;
+        if (parts) {
+            parts[1].split(/-/).forEach((piece) => fingers.push(piece.trim()));
+        }
+        else {
+            return null;
+        }
+        // Provide a consistent error so callers can surface precise feedback.
+        const badFingering = () => new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Bad fingering: ${parts[1]}`);
+        fingers.forEach((finger) => {
+            const pieces = finger.match(/(\d+):([ablr]):([fs]):([^-.]+)/);
+            if (!pieces)
+                throw badFingering();
+            const note_number = parseInt(pieces[1], 10) - 1;
+            let position = POS.RIGHT;
+            switch (pieces[2]) {
+                case 'l':
+                    position = POS.LEFT;
+                    break;
+                case 'r':
+                    position = POS.RIGHT;
+                    break;
+                case 'a':
+                    position = POS.ABOVE;
+                    break;
+                case 'b':
+                    position = POS.BELOW;
+                    break;
+                default:
+                    break;
+            }
+            let modifier = null;
+            const number = pieces[4];
+            switch (pieces[3]) {
+                case 's':
+                    modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StringNumber(number).setPosition(position);
+                    break;
+                case 'f':
+                    modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.FretHandFinger(number).setPosition(position);
+                    break;
+                default:
+                    break;
+            }
+            // Offset right/left modifiers so they clear the note heads.
+            if (modifier && typeof modifier.setOffsetX === 'function') {
+                if (position === POS.RIGHT) {
+                    modifier.setOffsetX(offset_x);
+                }
+                else if (position === POS.LEFT) {
+                    modifier.setOffsetX(-offset_x);
+                }
+            }
+            fingering.push({ num: note_number, modifier });
+        });
+        return fingering;
+    }
+    /**
+     * Extract a stroke command from text, if present.
+     */
+    getStrokeParts(text) {
+        return text.match(/^\.stroke\/([^.]+)\./);
+    }
+    /**
+     * Build a VexFlow stroke modifier from a stroke command string.
+     */
+    makeStroke(text) {
+        const parts = this.getStrokeParts(text);
+        const TYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke.Type;
+        if (!parts)
+            return null;
+        switch (parts[1]) {
+            case 'bu':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.BRUSH_UP);
+            case 'bd':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.BRUSH_DOWN);
+            case 'ru':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.ROLL_UP);
+            case 'rd':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.ROLL_DOWN);
+            case 'qu':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.RASQUEDO_UP);
+            case 'qd':
+                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.RASQUEDO_DOWN);
+            default:
+                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid stroke type: ${parts[1]}`);
+        }
+    }
+    /**
+     * Extract score articulation parts from the annotation string.
+     */
+    getScoreArticulationParts(text) {
+        return text.match(/^\.(a[^/]*)\/(t|b)[^.]*\./);
+    }
+    /**
+     * Create a score articulation modifier from an annotation string.
+     */
+    makeScoreArticulation(text) {
+        const parts = this.getScoreArticulationParts(text);
+        if (!parts)
+            return null;
+        const type = parts[1];
+        const position = parts[2];
+        // Normalize top/bottom into VexFlow's position enum.
+        const POSTYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position;
+        const pos = position === 't' ? POSTYPE.ABOVE : POSTYPE.BELOW;
+        return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation(type).setPosition(pos);
+    }
+    // ---- Annotations ----
+    /**
+     * Create a VexFlow Annotation modifier, with optional font overrides.
+     */
+    makeAnnotation(text) {
+        let font_face = this.artist.customizations['font-face'];
+        let font_size = this.artist.customizations['font-size'];
+        let font_style = this.artist.customizations['font-style'];
+        const aposition = this.artist.customizations['annotation-position'];
+        const VJUST = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation.VerticalJustify;
+        const default_vjust = aposition === 'top' ? VJUST.TOP : VJUST.BOTTOM;
+        const makeIt = (note_text, just = default_vjust) => (new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation(note_text)
+            .setFont(font_face, font_size, font_style)
+            .setVerticalJustification(just));
+        // Support inline font overrides like ".Times-12-italic.Text".
+        let parts = text.match(/^\.([^-]*)-([^-]*)-([^.]*)\.(.*)/);
+        if (parts) {
+            font_face = parts[1];
+            font_size = parts[2];
+            font_style = parts[3];
+            const message = parts[4];
+            return message ? makeIt(message) : null;
+        }
+        // Support command-style prefixes like ".big." or ".top.".
+        parts = text.match(/^\.([^.]*)\.(.*)/);
+        if (parts) {
+            let just = default_vjust;
+            const command = parts[1];
+            const message = parts[2];
+            switch (command) {
+                case 'big':
+                    font_style = 'bold';
+                    font_size = '14';
+                    break;
+                case 'italic':
+                case 'italics':
+                    font_face = 'Times';
+                    font_style = 'italic';
+                    break;
+                case 'medium':
+                    font_size = '12';
+                    break;
+                case 'top':
+                    just = VJUST.TOP;
+                    this.artist.customizations['annotation-position'] = 'top';
+                    break;
+                case 'bottom':
+                    just = VJUST.BOTTOM;
+                    this.artist.customizations['annotation-position'] = 'bottom';
+                    break;
+                default:
+                    break;
+            }
+            return message ? makeIt(message, just) : null;
+        }
+        return makeIt(text);
+    }
+    /**
+     * Normalize override text for fret annotations (e.g., A#4 or 5/2).
+     */
+    formatOverrideFretText(text) {
+        var _a, _b, _c, _d, _f, _g, _h;
+        if (!text)
+            return null;
+        // Prefer VexFlow unicode glyphs when available, with ASCII fallbacks.
+        const unicode = (_b = (_a = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _a === void 0 ? void 0 : _a.unicode) !== null && _b !== void 0 ? _b : {};
+        const sharp = (_c = unicode.sharp) !== null && _c !== void 0 ? _c : '#';
+        const flat = (_d = unicode.flat) !== null && _d !== void 0 ? _d : 'b';
+        const natural = (_f = unicode.natural) !== null && _f !== void 0 ? _f : 'n';
+        // Match note text with optional accidentals, octave, and string override.
+        const note_match = text.match(/^([A-G])([#@n]{1,2})?(~?)(\d+)?(?:_(\d+)\/(\d+))?$/);
+        if (note_match) {
+            const note = note_match[1];
+            const accidental = (_g = note_match[2]) !== null && _g !== void 0 ? _g : '';
+            const octave = (_h = note_match[4]) !== null && _h !== void 0 ? _h : '';
+            const string_num = note_match[6];
+            const acc_text = (() => {
+                switch (accidental) {
+                    case '##':
+                        return `${sharp}${sharp}`;
+                    case '#':
+                        return sharp;
+                    case '@@':
+                        return `${flat}${flat}`;
+                    case '@':
+                        return flat;
+                    case 'n':
+                        return natural;
+                    default:
+                        return '';
+                }
+            })();
+            return { text: `${note}${acc_text}${octave}`, string: string_num };
+        }
+        // Fret/string pattern.
+        const fret_match = text.match(/^(\d+)\/(\d+)$/);
+        if (fret_match) {
+            return { text: fret_match[1], string: fret_match[2] };
+        }
+        return null;
+    }
+    /**
+     * Apply a text override to a tab note's fret rendering.
+     */
+    applyFretOverride(tab_note, override) {
+        if (!tab_note || !override)
+            return;
+        if (!tab_note.fretElement || !tab_note.positions)
+            return;
+        // Map an override to the correct string index when provided.
+        let override_index = 0;
+        if (override.string) {
+            const string_num = parseInt(override.string, 10);
+            if (!Number.isNaN(string_num)) {
+                let idx = -1;
+                tab_note.positions.forEach((pos, i) => {
+                    if (parseInt(pos.str, 10) === string_num && idx < 0) {
+                        idx = i;
+                    }
+                });
+                override_index = idx >= 0 ? idx : 0;
+            }
+        }
+        const element = tab_note.fretElement[override_index];
+        if (!element)
+            return;
+        element.setText(override.text);
+        // Apply current font settings for consistent layout.
+        const font_face = this.artist.customizations['font-face'];
+        const font_size = this.artist.customizations['font-size'];
+        const font_style = this.artist.customizations['font-style'];
+        if (font_face) {
+            element.setFont(font_face, font_size, font_style);
+        }
+        let max_width = 0;
+        // Keep widths aligned for multi-string notes.
+        tab_note.fretElement.forEach((el) => {
+            max_width = Math.max(max_width, el.getWidth());
+        });
+        tab_note.setWidth(max_width);
+    }
+    /**
+     * Add annotation modifiers to the most recent notes in the stave group.
+     */
+    addAnnotations(annotations) {
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        const stave_notes = stave.note_notes;
+        const tab_notes = stave.tab_notes;
+        if (annotations.length > tab_notes.length) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'More annotations than note elements');
+        }
+        // Prefer applying annotations to tab notes when they exist.
+        if (stave.tab) {
+            tab_notes.slice(tab_notes.length - annotations.length).forEach((tab_note, i) => {
+                if (this.getScoreArticulationParts(annotations[i])) {
+                    const score_articulation = this.makeScoreArticulation(annotations[i]);
+                    tab_note.addModifier(score_articulation, 0);
+                }
+                else if (this.getStrokeParts(annotations[i])) {
+                    const stroke = this.makeStroke(annotations[i]);
+                    tab_note.addModifier(stroke, 0);
+                }
+                else {
+                    const annotation_text = annotations[i];
+                    const override = this.formatOverrideFretText(annotation_text);
+                    if (override) {
+                        this.applyFretOverride(tab_note, override);
+                    }
+                    else {
+                        const annotation = this.makeAnnotation(annotation_text);
+                        if (annotation)
+                            tab_note.addModifier(annotation, 0);
+                    }
+                }
+            });
+        }
+        else {
+            // Fallback: apply annotations to notation notes.
+            stave_notes.slice(stave_notes.length - annotations.length).forEach((note, i) => {
+                if (!this.getScoreArticulationParts(annotations[i])) {
+                    const annotation = this.makeAnnotation(annotations[i]);
+                    if (annotation) {
+                        if (typeof note.addAnnotation === 'function') {
+                            note.addAnnotation(0, annotation);
+                        }
+                        else if (typeof note.addModifier === 'function') {
+                            note.addModifier(annotation, 0);
+                        }
+                    }
+                }
+            });
+        }
+        if (stave.note) {
+            stave_notes.slice(stave_notes.length - annotations.length).forEach((note, i) => {
+                const score_articulation = this.makeScoreArticulation(annotations[i]);
+                if (score_articulation) {
+                    if (typeof note.addArticulation === 'function') {
+                        note.addArticulation(0, score_articulation);
+                    }
+                    else if (typeof note.addModifier === 'function') {
+                        note.addModifier(score_articulation, 0);
+                    }
+                }
+                // Strokes apply to notation as well as tab.
+                const stroke = this.makeStroke(annotations[i]);
+                if (stroke) {
+                    note.addStroke(0, stroke);
+                }
+                // Fingering annotations attach modifiers per note index.
+                const fingerings = this.makeFingering(annotations[i]);
+                if (fingerings) {
+                    try {
+                        fingerings.forEach((fingering) => note.addModifier(fingering.modifier, fingering.num));
+                    }
+                    catch (_e) {
+                        throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Bad note number in fingering: ${annotations[i]}`);
+                    }
+                }
+            });
+        }
+    }
+    /**
+     * Add a tab articulation between two notes (slides, ties, bends, etc.).
+     */
+    addTabArticulation(type, first_note, last_note, first_indices, last_indices) {
+        this.artist.log('addTabArticulations: ', type, first_note, last_note, first_indices, last_indices);
+        if (type === 't') {
+            last_note.addModifier(new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation('T')
+                .setVerticalJustification(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation.VerticalJustify.BOTTOM));
+        }
+        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(first_indices) && _utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(last_indices))
+            return;
+        // Build the appropriate tab articulation based on type.
+        let articulation = null;
+        const notes = {
+            first_note,
+            last_note,
+            first_indices,
+            last_indices,
+            firstNote: first_note,
+            lastNote: last_note,
+            firstIndexes: first_indices,
+            lastIndexes: last_indices,
+        };
+        if (type === 's') {
+            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabSlide(notes);
+        }
+        if (type === 'h' || type === 'p') {
+            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabTie(notes, type.toUpperCase());
+        }
+        if (type === 'T' || type === 't') {
+            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabTie(notes, ' ');
+        }
+        if (type === 'b') {
+            this.openBends(first_note, last_note, first_indices, last_indices);
+        }
+        if (articulation) {
+            this.artist.tab_articulations.push(articulation);
+        }
+    }
+    /**
+     * Add a notation stave articulation between two notes.
+     */
+    addStaveArticulation(type, first_note, last_note, first_indices, last_indices) {
+        this.artist.log('addStaveArticulations: ', type, first_note, last_note, first_indices, last_indices);
+        // Stave ties/slides share a common VexFlow class.
+        let articulation = null;
+        if (['b', 's', 'h', 'p', 't', 'T'].includes(type)) {
+            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveTie({
+                first_note,
+                last_note,
+                first_indices,
+                last_indices,
+                firstNote: first_note,
+                lastNote: last_note,
+                firstIndexes: first_indices,
+                lastIndexes: last_indices,
+            });
+        }
+        if (articulation) {
+            this.artist.stave_articulations.push(articulation);
+        }
+    }
+    /**
+     * Find the previous (second-to-last) non-bar, non-ghost tab note index.
+     */
+    getPreviousNoteIndex() {
+        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
+        let index = 2;
+        while (index <= tab_notes.length) {
+            const note = tab_notes[tab_notes.length - index];
+            if (note instanceof _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabNote) {
+                return tab_notes.length - index;
+            }
+            index += 1;
+        }
+        return -1;
+    }
+    /**
+     * Add a decorator (vibrato, up/down bowing) to the latest notes.
+     */
+    addDecorator(decorator) {
+        this.artist.log('addDecorator: ', decorator);
+        if (!decorator)
+            return;
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        const tab_notes = stave.tab_notes;
+        const score_notes = stave.note_notes;
+        let modifier = null;
+        let score_modifier = null;
+        if (decorator === 'v') {
+            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Vibrato();
+        }
+        if (decorator === 'V') {
+            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Vibrato();
+            if (typeof modifier.setHarsh === 'function') {
+                modifier.setHarsh(true);
+            }
+        }
+        if (decorator === 'u') {
+            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('a|').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
+            score_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('a|').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
+        }
+        if (decorator === 'd') {
+            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('am').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
+            score_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('am').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
+        }
+        const last_tab = _utils__WEBPACK_IMPORTED_MODULE_1__.last(tab_notes);
+        if (last_tab && modifier) {
+            last_tab.addModifier(modifier, 0);
+        }
+        if (score_modifier) {
+            const score_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(score_notes);
+            if (score_note) {
+                if (typeof score_note.addArticulation === 'function') {
+                    score_note.addArticulation(0, score_modifier);
+                }
+                else if (typeof score_note.addModifier === 'function') {
+                    score_note.addModifier(score_modifier, 0);
+                }
+            }
+        }
+    }
+    /**
+     * Add articulations for the most recent tab/note entries.
+     */
+    addArticulations(articulations) {
+        this.artist.log('addArticulations: ', articulations);
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        const tab_notes = stave.tab_notes;
+        const stave_notes = stave.note_notes;
+        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(tab_notes) || _utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(articulations)) {
+            this.closeBends(0);
+            return;
+        }
+        // Collect articulation indices per symbol to support multi-string chords.
+        const current_tab_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(tab_notes);
+        let has_bends = false;
+        ['b', 's', 'h', 'p', 't', 'T', 'v', 'V'].forEach((valid_articulation) => {
+            const indices = articulations
+                .map((art, i) => (art && art === valid_articulation ? i : -1))
+                .filter((idx) => idx >= 0);
+            if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(indices))
+                return;
+            if (valid_articulation === 'b')
+                has_bends = true;
+            const prev_index = this.getPreviousNoteIndex();
+            let prev_tab_note = null;
+            let prev_indices = null;
+            let current_indices = [];
+            if (prev_index === -1) {
+                prev_tab_note = null;
+                prev_indices = null;
+            }
+            else {
+                prev_tab_note = tab_notes[prev_index];
+                const this_strings = current_tab_note
+                    .getPositions()
+                    .filter((_, i) => indices.includes(i))
+                    .map((n) => n.str);
+                const valid_strings = prev_tab_note
+                    .getPositions()
+                    .filter((pos) => this_strings.includes(pos.str))
+                    .map((pos) => pos.str);
+                prev_indices = prev_tab_note
+                    .getPositions()
+                    .map((n, i) => (valid_strings.includes(n.str) ? i : -1))
+                    .filter((idx) => idx >= 0);
+                current_indices = current_tab_note
+                    .getPositions()
+                    .map((n, i) => (valid_strings.includes(n.str) ? i : -1))
+                    .filter((idx) => idx >= 0);
+            }
+            if (stave.tab) {
+                this.addTabArticulation(valid_articulation, prev_tab_note, current_tab_note, prev_indices || [], current_indices);
+            }
+            if (stave.note && prev_index !== -1) {
+                this.addStaveArticulation(valid_articulation, stave_notes[prev_index], _utils__WEBPACK_IMPORTED_MODULE_1__.last(stave_notes), prev_indices || [], current_indices);
+            }
+        });
+        if (!has_bends) {
+            this.closeBends(0);
+        }
+    }
+}
+
+
+/***/ },
+
+/***/ "./src/artist/Artist.ts"
+/*!******************************!*\
+  !*** ./src/artist/Artist.ts ***!
+  \******************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+/* harmony import */ var _ArtistRenderer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ArtistRenderer */ "./src/artist/ArtistRenderer.ts");
+/* harmony import */ var _ArticulationBuilder__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ArticulationBuilder */ "./src/artist/ArticulationBuilder.ts");
+/* harmony import */ var _NoteBuilder__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./NoteBuilder */ "./src/artist/NoteBuilder.ts");
+/* harmony import */ var _StaveBuilder__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./StaveBuilder */ "./src/artist/StaveBuilder.ts");
+/* harmony import */ var _TextBuilder__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./TextBuilder */ "./src/artist/TextBuilder.ts");
+// Central orchestration layer for building VexFlow structures from VexTab input.
+
+
+
+
+
+
+
+/**
+ * Artist orchestrates the VexFlow rendering pipeline. It tracks mutable state
+ * (staves, durations, bends, fonts) while delegating focused work to helper
+ * classes. The helper classes keep the implementation readable without
+ * changing the public VexTab API.
+ */
+class Artist {
+    /**
+     * Construct an Artist with initial layout coordinates and options.
+     * Design note: we keep defaults here to isolate configuration in one place.
+     */
+    constructor(x, y, width, options) {
+        // Mutable overrides set by VexTab options.
+        this.customizations = {};
+        // Rendered output + annotation state.
+        // Rendered output + annotation state.
+        this.staves = [];
+        this.tab_articulations = [];
+        this.stave_articulations = [];
+        this.player_voices = [];
+        // Optional document-level header text (not attached to any stave).
+        this.document_header = {
+            title: null,
+            subtitle: null,
+            sidenote: null,
+        };
+        // Computed layout positions for the document header.
+        this.document_header_layout = null;
+        // Current render cursor / note state.
+        // Current render cursor / note state.
+        this.last_y = 0;
+        this.current_duration = 'q';
+        this.current_clef = 'treble';
+        this.current_bends = {};
+        this.current_octave_shift = 0;
+        this.bend_start_index = null;
+        this.bend_start_strings = null;
+        // Optional note highlight index (used for cursor-based rendering).
+        this.highlight_note_index = null;
+        // Render status and optional Player overlay.
+        this.rendered = false;
+        this.renderer_context = null;
+        this.player = null;
+        this.x = x;
+        this.y = y;
+        this.width = width;
+        // Defaults reflect legacy VexTab behavior.
+        this.options = {
+            font_face: 'Arial',
+            font_size: 10,
+            font_style: null,
+            bottom_spacing: 20 + (Artist.NOLOGO ? 0 : 10),
+            tab_stave_lower_spacing: 10,
+            note_stave_lower_spacing: 0,
+            scale: 1.0,
+        };
+        if (options) {
+            // Allow callers to override defaults without changing the API shape.
+            _utils__WEBPACK_IMPORTED_MODULE_1__.extend(this.options, options);
+        }
+        // Compose helper objects for focused responsibilities.
+        this.renderer = new _ArtistRenderer__WEBPACK_IMPORTED_MODULE_2__.ArtistRenderer(this);
+        this.articulations = new _ArticulationBuilder__WEBPACK_IMPORTED_MODULE_3__.ArticulationBuilder(this);
+        this.notes = new _NoteBuilder__WEBPACK_IMPORTED_MODULE_4__.NoteBuilder(this);
+        this.stavesBuilder = new _StaveBuilder__WEBPACK_IMPORTED_MODULE_5__.StaveBuilder(this);
+        this.text = new _TextBuilder__WEBPACK_IMPORTED_MODULE_6__.TextBuilder(this);
+        this.reset();
+    }
+    /**
+     * Conditional logging helper.
+     */
+    log(...args) {
+        // Keep logs guarded to avoid noisy production output.
+        if (Artist.DEBUG && console) {
+            console.log('(Vex.Flow.Artist)', ...args);
+        }
+    }
+    /**
+     * Reset the Artist's internal state prior to a new parse/render cycle.
+     * Design note: this is intentionally comprehensive to avoid stale state leaks.
+     */
+    reset() {
+        // Core helpers used for fret/notation logic.
+        this.tuning = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuning();
+        this.key_manager = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.KeyManager('C');
+        this.music_api = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Music();
+        // User customizations that can be changed by VexTab options.
+        this.customizations = {
+            'font-size': this.options.font_size,
+            'font-face': this.options.font_face,
+            'font-style': this.options.font_style,
+            'annotation-position': 'bottom',
+            scale: this.options.scale,
+            width: this.width,
+            'stave-distance': 0,
+            space: 0,
+            player: 'false',
+            tempo: 120,
+            instrument: 'acoustic_grand_piano',
+            accidentals: 'standard',
+            'tab-stems': 'false',
+            'tab-stem-direction': 'up',
+            'beam-rests': 'true',
+            'beam-stemlets': 'true',
+            'beam-middle-only': 'false',
+            'connector-space': 5,
+        };
+        // Generated elements.
+        this.staves = [];
+        this.tab_articulations = [];
+        this.stave_articulations = [];
+        // Document header.
+        this.document_header = { title: null, subtitle: null, sidenote: null };
+        this.document_header_layout = null;
+        // Voices for player overlay.
+        this.player_voices = [];
+        // Current state.
+        this.last_y = this.y;
+        this.current_duration = 'q';
+        this.current_clef = 'treble';
+        this.current_bends = {};
+        this.current_octave_shift = 0;
+        this.bend_start_index = null;
+        this.bend_start_strings = null;
+        this.rendered = false;
+        this.renderer_context = null;
+    }
+    /**
+     * Set a document-level header string (title/subtitle/sidenote).
+     * Design note: header text must be declared before the first stave.
+     */
+    setDocumentHeader(kind, text) {
+        if (this.staves.length > 0) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `'${kind}' must appear before the first stave`);
+        }
+        if (!this.document_header_layout) {
+            this.document_header_layout = {
+                start_y: this.last_y,
+                height: 0,
+                title_y: null,
+                subtitle_y: null,
+                sidenote_y: null,
+            };
+        }
+        this.document_header[kind] = String(text !== null && text !== void 0 ? text : '').trim();
+        this.relayoutDocumentHeader();
+    }
+    /**
+     * Recompute header layout and reserve vertical space.
+     */
+    relayoutDocumentHeader() {
+        const layout = this.document_header_layout;
+        if (!layout)
+            return;
+        const hasTitle = !!this.document_header.title;
+        const hasSubtitle = !!this.document_header.subtitle;
+        const hasSidenote = !!this.document_header.sidenote;
+        // If all fields are cleared, release the reserved space.
+        if (!hasTitle && !hasSubtitle && !hasSidenote) {
+            this.last_y = layout.start_y;
+            this.document_header_layout = null;
+            return;
+        }
+        const start_y = layout.start_y;
+        // Typography constants for the header block.
+        const pad_top = 10;
+        const gap = 6;
+        const title_size = 22;
+        const subtitle_size = 14;
+        const sidenote_size = 11;
+        const pad_bottom = 10;
+        let y = start_y + pad_top;
+        const title_y = hasTitle ? (y += title_size) : null;
+        if (hasTitle)
+            y += gap;
+        const subtitle_y = hasSubtitle ? (y += subtitle_size) : null;
+        if (hasSubtitle)
+            y += gap;
+        const sidenote_y = hasSidenote ? (y += sidenote_size) : null;
+        if (hasSidenote)
+            y += gap;
+        y += pad_bottom;
+        const height = y - start_y;
+        this.document_header_layout = { start_y, height, title_y, subtitle_y, sidenote_y };
+        this.last_y = start_y + height;
+    }
+    /**
+     * Set the note index to highlight during rendering.
+     */
+    setHighlightNoteIndex(index) {
+        this.highlight_note_index = index;
+    }
+    /**
+     * Check whether the given note index should be highlighted.
+     */
+    isHighlightedNoteIndex(index) {
+        if (index === null || index === undefined)
+            return false;
+        if (this.highlight_note_index === null || this.highlight_note_index === undefined)
+            return false;
+        return this.highlight_note_index === index;
+    }
+    /**
+     * Attach a playback helper to the Artist.
+     */
+    attachPlayer(player) {
+        this.player = player;
+    }
+    /**
+     * Apply user-provided options and validate known keys.
+     */
+    setOptions(options) {
+        this.log('setOptions: ', options);
+        // Only allow known customization keys.
+        const validOptions = _utils__WEBPACK_IMPORTED_MODULE_1__.keys(this.customizations);
+        _utils__WEBPACK_IMPORTED_MODULE_1__.forEach(options, (value, key) => {
+            const optionKey = String(key);
+            if (validOptions.includes(optionKey)) {
+                this.customizations[optionKey] = value;
+            }
+            else {
+                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid option '${optionKey}'`);
+            }
+        });
+        // Apply vertical spacing immediately so subsequent staves start lower.
+        this.last_y += parseInt(String(this.customizations.space), 10);
+        if (this.customizations.player === 'true') {
+            // Reserve extra space for playback controls.
+            this.last_y += 15;
+        }
+    }
+    /**
+     * Return data used by the Player overlay.
+     */
+    getPlayerData() {
+        return {
+            voices: this.player_voices,
+            context: this.renderer_context,
+            scale: Number(this.customizations.scale),
+        };
+    }
+    // --- Public API used by VexTab (delegates to helper classes) ---
+    /**
+     * Render the currently parsed score using the provided renderer.
+     */
+    render(renderer) {
+        this.renderer.render(renderer);
+    }
+    /**
+     * Backwards-compatible alias for render().
+     */
+    draw(renderer) {
+        this.render(renderer);
+    }
+    /**
+     * Whether render() has been called and finished.
+     */
+    isRendered() {
+        return this.rendered;
+    }
+    /**
+     * Whether the logo is suppressed via global flag.
+     */
+    isLogoHidden() {
+        return Artist.NOLOGO;
+    }
+    /**
+     * Set the duration used for subsequent notes.
+     */
+    setDuration(time, dot = false) {
+        this.notes.setDuration(time, dot);
+    }
+    /**
+     * Add a barline to the current stave group.
+     */
+    addBar(type) {
+        this.stavesBuilder.addBar(type);
+    }
+    /**
+     * Build tuplets for the current voice.
+     */
+    makeTuplets(tuplets, notes) {
+        this.articulations.makeTuplets(tuplets, notes);
+    }
+    /**
+     * Add annotations that will be attached to upcoming notes.
+     */
+    addAnnotations(annotations) {
+        this.articulations.addAnnotations(annotations);
+    }
+    /**
+     * Add articulations that will be attached to upcoming notes.
+     */
+    addArticulations(articulations) {
+        this.articulations.addArticulations(articulations);
+    }
+    /**
+     * Add a decorator (e.g., segno/coda) to upcoming notes.
+     */
+    addDecorator(decorator) {
+        this.articulations.addDecorator(decorator || null);
+    }
+    /**
+     * Add a rest with the given parameters.
+     */
+    addRest(params) {
+        this.notes.addRest(params);
+    }
+    /**
+     * Add a chord built from multiple note definitions.
+     */
+    addChord(chord, chord_articulation, chord_decorator) {
+        this.notes.addChord(chord, chord_articulation || null, chord_decorator || null);
+    }
+    /**
+     * Add a single note.
+     */
+    addNote(note) {
+        this.notes.addNote(note);
+    }
+    /**
+     * Add a new text voice (for lyric or annotation lines).
+     */
+    addTextVoice() {
+        this.text.addTextVoice();
+    }
+    /**
+     * Set the font used for subsequent text notes.
+     */
+    setTextFont(font) {
+        this.text.setTextFont(font);
+    }
+    /**
+     * Add a text note to the current text voice.
+     */
+    addTextNote(text, position = 0, justification = 'center', smooth = true, ignore_ticks = false) {
+        this.text.addTextNote(text, position, justification, smooth, ignore_ticks);
+    }
+    /**
+     * Add a new voice to the current stave group.
+     */
+    addVoice(options) {
+        this.stavesBuilder.addVoice(options || {});
+    }
+    /**
+     * Add a new stave (notation, tablature, or both) to the score.
+     */
+    addStave(element, options) {
+        this.stavesBuilder.addStave(element, options);
+    }
+    /**
+     * Open a bend span between notes (used for tab bends).
+     */
+    openBends(first_note, last_note, first_indices, last_indices) {
+        this.articulations.openBends(first_note, last_note, first_indices, last_indices);
+    }
+    /**
+     * Close any open bend spans.
+     */
+    closeBends(offset = 1) {
+        this.articulations.closeBends(offset);
+    }
+    /**
+     * Handle dot-prefixed VexTab commands (e.g., octave-shift).
+     */
+    runCommand(line, lineNumber = 0, column = 0) {
+        this.log('runCommand: ', line);
+        const words = line.split(/\s+/);
+        switch (words[0]) {
+            case 'octave-shift':
+                // Apply octave changes to playback pitch only.
+                this.current_octave_shift = parseInt(words[1], 10);
+                this.log('Octave shift: ', this.current_octave_shift);
+                break;
+            default:
+                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid command '${words[0]}' at line ${lineNumber} column ${column}`);
+        }
+    }
+}
+// Enables verbose logging for debugging.
+Artist.DEBUG = false;
+// Hide the VexTab logo when true.
+Artist.NOLOGO = true;
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Artist);
+
+
+/***/ },
+
+/***/ "./src/artist/ArtistRenderer.ts"
+/*!**************************************!*\
+  !*** ./src/artist/ArtistRenderer.ts ***!
+  \**************************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   ArtistRenderer: () => (/* binding */ ArtistRenderer)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Layout and rendering engine for Artist state, responsible for VexFlow formatting and drawing.
+
+
+/**
+ * ArtistRenderer is responsible for layout + drawing. It takes the in-memory
+ * staves/notes arrays and uses VexFlow formatters to position and render
+ * everything to the given renderer.
+ */
+class ArtistRenderer {
+    /**
+     * Create a renderer tied to a specific Artist.
+     */
+    constructor(artist) {
+        this.artist = artist;
+    }
+    /**
+     * Coerce string/boolean-like values into a strict boolean.
+     */
+    parseBool(value) {
+        return String(value) === 'true';
+    }
+    /**
+     * Draw document-level header text (title/subtitle/sidenote).
+     */
+    renderDocumentHeader(ctx) {
+        const artist = this.artist;
+        const layout = artist.document_header_layout;
+        if (!layout)
+            return;
+        const start_x = artist.x + Number(artist.customizations['connector-space']);
+        const stave_width = Number(artist.customizations.width) - 20;
+        const center_x = start_x + stave_width / 2;
+        const drawCentered = (text, y, size, style) => {
+            ctx.save();
+            ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
+            const width = ctx.measureText(text).width;
+            ctx.fillText(text, center_x - width / 2, y);
+            ctx.restore();
+        };
+        const drawLeft = (text, y, size, style) => {
+            ctx.save();
+            ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
+            ctx.fillText(text, start_x, y);
+            ctx.restore();
+        };
+        if (artist.document_header.title && layout.title_y !== null) {
+            drawCentered(artist.document_header.title, layout.title_y, 22, 'bold');
+        }
+        if (artist.document_header.subtitle && layout.subtitle_y !== null) {
+            drawCentered(artist.document_header.subtitle, layout.subtitle_y, 14, 'italic');
+        }
+        if (artist.document_header.sidenote && layout.sidenote_y !== null) {
+            drawLeft(artist.document_header.sidenote, layout.sidenote_y, 11, '');
+        }
+    }
+    /**
+     * Format and render a stave group (tab/notation/text) using VexFlow formatters.
+     * Design note: we centralize formatting here to keep Artist.render() readable.
+     */
+    formatAndRender(ctx, tab, score, text_notes, customizations, options) {
+        const tab_stave = tab ? tab.stave : null;
+        const score_stave = score ? score.stave : null;
+        // Voice collections and formatting helpers.
+        const tab_voices = [];
+        const score_voices = [];
+        const text_voices = [];
+        let beams = [];
+        let format_stave = null;
+        let text_stave = null;
+        // Beam configuration is shared for tab and notation voices.
+        const beam_config = {
+            beam_rests: this.parseBool(customizations['beam-rests']),
+            show_stemlets: this.parseBool(customizations['beam-stemlets']),
+            beam_middle_only: this.parseBool(customizations['beam-middle-only']),
+            groups: options.beam_groups,
+        };
+        if (tab) {
+            // Build voices for tablature, optionally forcing stems.
+            const multi_voice = tab.voices.length > 1;
+            tab.voices.forEach((notes, i) => {
+                if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
+                    return;
+                _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (note) => note.setStave(tab_stave));
+                const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
+                    .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
+                voice.addTickables(notes);
+                tab_voices.push(voice);
+                if (customizations['tab-stems'] === 'true') {
+                    // For tab, stem direction is driven by the voice order or settings.
+                    if (multi_voice) {
+                        beam_config.stem_direction = i === 0 ? 1 : -1;
+                    }
+                    else {
+                        beam_config.stem_direction = customizations['tab-stem-direction'] === 'down' ? -1 : 1;
+                    }
+                    beam_config.beam_rests = false;
+                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(voice.getTickables(), beam_config));
+                }
+            });
+            format_stave = tab_stave;
+            text_stave = tab_stave;
+        }
+        beam_config.beam_rests = this.parseBool(customizations['beam-rests']);
+        if (score) {
+            // Build voices for notation and generate beams with proper stem directions.
+            const multi_voice = score.voices.length > 1;
+            score.voices.forEach((notes, i) => {
+                if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
+                    return;
+                const stem_direction = i === 0 ? 1 : -1;
+                _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (note) => note.setStave(score_stave));
+                const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
+                    .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
+                voice.addTickables(notes);
+                score_voices.push(voice);
+                if (multi_voice) {
+                    beam_config.stem_direction = stem_direction;
+                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(notes, beam_config));
+                }
+                else {
+                    beam_config.stem_direction = null;
+                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(notes, beam_config));
+                }
+            });
+            format_stave = score_stave;
+            text_stave = score_stave;
+        }
+        // Text voices are formatted alongside the primary stave for alignment.
+        text_notes.forEach((notes) => {
+            if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
+                return;
+            _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (voice) => voice.setStave(text_stave));
+            const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
+                .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
+            voice.addTickables(notes);
+            text_voices.push(voice);
+        });
+        if (format_stave) {
+            // Join voices and format them together to align note spacing.
+            let format_voices = [];
+            const formatter = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Formatter();
+            let align_rests = false;
+            if (tab) {
+                if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(tab_voices)) {
+                    formatter.joinVoices(tab_voices);
+                }
+                format_voices = tab_voices;
+            }
+            if (score) {
+                if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(score_voices)) {
+                    formatter.joinVoices(score_voices);
+                }
+                format_voices = format_voices.concat(score_voices);
+                if (score_voices.length > 1) {
+                    align_rests = true;
+                }
+            }
+            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_notes) && !_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_voices)) {
+                formatter.joinVoices(text_voices);
+                format_voices = format_voices.concat(text_voices);
+            }
+            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(format_voices)) {
+                formatter.formatToStave(format_voices, format_stave, { align_rests });
+            }
+            // Draw voices, beams, and any text staves.
+            if (tab) {
+                _utils__WEBPACK_IMPORTED_MODULE_1__.each(tab_voices, (voice) => voice.draw(ctx, tab_stave));
+            }
+            if (score) {
+                _utils__WEBPACK_IMPORTED_MODULE_1__.each(score_voices, (voice) => voice.draw(ctx, score_stave));
+            }
+            _utils__WEBPACK_IMPORTED_MODULE_1__.each(beams, (beam) => beam.setContext(ctx).draw());
+            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_notes)) {
+                _utils__WEBPACK_IMPORTED_MODULE_1__.each(text_voices, (voice) => voice.draw(ctx, text_stave));
+            }
+            // Draw a bracket when both tab and notation staves are present.
+            if (tab && score) {
+                new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveConnector(score.stave, tab.stave)
+                    .setType(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveConnector.type.BRACKET)
+                    .setContext(ctx)
+                    .draw();
+            }
+            return score ? score_voices : tab_voices;
+        }
+        return [];
+    }
+    /**
+     * Render the complete score using the provided VexFlow renderer instance.
+     * Design note: we recompute layout on every render to match current options.
+     */
+    render(renderer) {
+        const artist = this.artist;
+        artist.log('Render: ', artist.options);
+        artist.closeBends();
+        // Resize to match the computed layout height and scale.
+        renderer.resize(Number(artist.customizations.width) * Number(artist.customizations.scale), (artist.last_y + artist.options.bottom_spacing) * Number(artist.customizations.scale));
+        // Prepare a fresh render context per draw.
+        const ctx = renderer.getContext();
+        ctx.scale(Number(artist.customizations.scale), Number(artist.customizations.scale));
+        ctx.clear();
+        ctx.setFont(artist.options.font_face, artist.options.font_size, '');
+        // Draw document header before staves.
+        this.renderDocumentHeader(ctx);
+        // Cache context for the Player overlay.
+        artist.renderer_context = ctx;
+        const setBar = (stave, notes) => {
+            const last_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(notes);
+            if (last_note instanceof _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.BarNote) {
+                notes.pop();
+                stave.setEndBarType(last_note.getType());
+                stave.formatted = true;
+            }
+        };
+        artist.staves.forEach((stave) => {
+            artist.log('Rendering staves.');
+            if (stave.tab)
+                setBar(stave.tab, stave.tab_notes);
+            if (stave.note)
+                setBar(stave.note, stave.note_notes);
+            // Draw staves before notes so beams/notes align to stave positions.
+            if (stave.tab)
+                stave.tab.setContext(ctx).draw();
+            if (stave.note)
+                stave.note.setContext(ctx).draw();
+            stave.tab_voices.push(stave.tab_notes);
+            stave.note_voices.push(stave.note_notes);
+            const voices = this.formatAndRender(ctx, stave.tab ? { stave: stave.tab, voices: stave.tab_voices } : null, stave.note ? { stave: stave.note, voices: stave.note_voices } : null, stave.text_voices, artist.customizations, { beam_groups: stave.beam_groups });
+            artist.player_voices.push(voices);
+        });
+        artist.log('Rendering tab articulations.');
+        artist.tab_articulations.forEach((articulation) => articulation.setContext(ctx).draw());
+        artist.log('Rendering note articulations.');
+        artist.stave_articulations.forEach((articulation) => articulation.setContext(ctx).draw());
+        // Synchronize the Player overlay (if enabled).
+        if (artist.player) {
+            if (artist.customizations.player === 'true') {
+                artist.player.setTempo(parseInt(String(artist.customizations.tempo), 10));
+                artist.player.setInstrument(String(artist.customizations.instrument));
+                artist.player.render();
+            }
+            else {
+                artist.player.removeControls();
+            }
+        }
+        artist.rendered = true;
+        // Optionally draw the VexTab logo at the bottom of the render.
+        if (!artist.isLogoHidden()) {
+            const LOGO = 'vexflow.com';
+            const width = ctx.measureText(LOGO).width;
+            ctx.save();
+            ctx.setFont('Times', 10, 'italic');
+            ctx.fillText(LOGO, (Number(artist.customizations.width) - width) / 2, artist.last_y + 25);
+            ctx.restore();
+        }
+    }
+}
+
+
+/***/ },
+
+/***/ "./src/artist/NoteBuilder.ts"
+/*!***********************************!*\
+  !*** ./src/artist/NoteBuilder.ts ***!
+  \***********************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   NoteBuilder: () => (/* binding */ NoteBuilder)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Note creation and expansion logic for tab/notation, including chords and rests.
+
+
+/**
+ * NoteBuilder handles note creation, durations, rests, and chord expansion.
+ * It is intentionally stateful and mutates the parent Artist state directly.
+ */
+class NoteBuilder {
+    /**
+     * Create a note builder bound to an Artist.
+     */
+    constructor(artist) {
+        this.artist = artist;
+    }
+    /**
+     * Given a fret/string pair, return note name, octave, and accidental.
+     * Design note: this uses the Artist key manager to respect the current key.
+     */
+    getNoteForFret(fret, string) {
+        const spec = this.artist.tuning.getNoteForFret(fret, string);
+        const spec_props = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.keyProperties(spec);
+        // Use the key manager to select the canonical spelling for the current key.
+        const selected_note = this.artist.key_manager.selectNote(spec_props.key);
+        let accidental = null;
+        // Determine explicit accidentals based on custom strategy.
+        switch (this.artist.customizations.accidentals) {
+            case 'standard':
+                if (selected_note.change) {
+                    accidental = selected_note.accidental ? selected_note.accidental : 'n';
+                }
+                break;
+            case 'cautionary':
+                if (selected_note.change) {
+                    accidental = selected_note.accidental ? selected_note.accidental : 'n';
+                }
+                else {
+                    accidental = selected_note.accidental ? `${selected_note.accidental}_c` : null;
+                }
+                break;
+            default:
+                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid value for option 'accidentals': ${this.artist.customizations.accidentals}`);
+        }
+        let new_note = selected_note.note;
+        let new_octave = spec_props.octave;
+        // Adjust octave when the key manager changes the root letter.
+        const old_root = this.artist.music_api.getNoteParts(spec_props.key).root;
+        const new_root = this.artist.music_api.getNoteParts(selected_note.note).root;
+        if (new_root === 'b' && old_root === 'c') {
+            new_octave -= 1;
+        }
+        else if (new_root === 'c' && old_root === 'b') {
+            new_octave += 1;
+        }
+        return [new_note, new_octave, accidental];
+    }
+    /**
+     * Convert ABC-style note data into a note name, octave, and accidental.
+     */
+    getNoteForABC(abc, string) {
+        // ABC notes provide a direct note name; octave is derived from the string index.
+        const key = abc.key;
+        const octave = string;
+        let accidental = abc.accidental;
+        if (abc.accidental_type) {
+            accidental += `_${abc.accidental_type}`;
+        }
+        return [key, octave, accidental];
+    }
+    /**
+     * Add a notation (staff) note, with accidentals and optional playback pitch.
+     */
+    addStaveNote(note_params) {
+        // Normalize input and default to non-rest notes.
+        const params = {
+            is_rest: false,
+            play_note: null,
+            highlight_index: null,
+            ...note_params,
+        };
+        const stave_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).note_notes;
+        const stave_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveNote({
+            keys: params.spec,
+            duration: this.artist.current_duration + (params.is_rest ? 'r' : ''),
+            clef: params.is_rest ? 'treble' : this.artist.current_clef,
+            auto_stem: params.is_rest ? false : true,
+        });
+        // Attach accidentals per note head.
+        params.accidentals.forEach((acc, index) => {
+            if (!acc)
+                return;
+            const parts = acc.split('_');
+            const new_accidental = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Accidental(parts[0]);
+            if (parts.length > 1 && parts[1] === 'c') {
+                new_accidental.setAsCautionary();
+            }
+            if (typeof stave_note.addAccidental === 'function') {
+                stave_note.addAccidental(index, new_accidental);
+            }
+            else if (typeof stave_note.addModifier === 'function') {
+                stave_note.addModifier(new_accidental, index);
+            }
+        });
+        // VexFlow uses a dotted flag in the duration string.
+        if (this.artist.current_duration.endsWith('d')) {
+            _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([stave_note], { all: true });
+        }
+        // Playback pitch is optional and only used when Player is enabled.
+        if (params.play_note) {
+            stave_note.setPlayNote(params.play_note);
+        }
+        if (this.artist.isHighlightedNoteIndex(params.highlight_index)) {
+            stave_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
+        }
+        stave_notes.push(stave_note);
+    }
+    /**
+     * Add a tablature note (TabNote) with optional playback pitches.
+     */
+    addTabNote(spec, play_note = null) {
+        // Tab notes are built from positions and the current duration.
+        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
+        const new_tab_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabNote({
+            positions: spec,
+            duration: this.artist.current_duration,
+        }, this.artist.customizations['tab-stems'] === 'true');
+        // Playback pitch is optional and only used when Player is enabled.
+        if (play_note) {
+            new_tab_note.setPlayNote(play_note);
+        }
+        if (spec && this.artist.isHighlightedNoteIndex(spec.highlight_index)) {
+            new_tab_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
+        }
+        tab_notes.push(new_tab_note);
+        // Dotted notes need an explicit dot glyph on tab notes.
+        if (this.artist.current_duration.endsWith('d')) {
+            _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([new_tab_note], { all: true });
+        }
+    }
+    /**
+     * Create a VexFlow duration string including a dotted flag.
+     */
+    makeDuration(time, dot) {
+        return `${time}${dot ? 'd' : ''}`;
+    }
+    /**
+     * Update the current duration used for subsequent notes.
+     */
+    setDuration(time, dot = false) {
+        // Support "q" or "q ." style tokens from the parser.
+        const t = time.split(/\s+/);
+        this.artist.log('setDuration: ', t[0], dot);
+        this.artist.current_duration = this.makeDuration(t[0], dot);
+    }
+    /**
+     * Add a rest into both tab and notation staves.
+     */
+    addRest(params) {
+        this.artist.log('addRest: ', params);
+        this.artist.closeBends();
+        const position_value = parseInt(String(params.position), 10);
+        // Position 0 uses a generic rest marker; other positions use a placeholder pitch.
+        if (position_value === 0) {
+            this.addStaveNote({
+                spec: ['r/4'],
+                accidentals: [],
+                is_rest: true,
+            });
+        }
+        else {
+            const position = this.artist.tuning.getNoteForFret((position_value + 5) * 2, 6);
+            this.addStaveNote({
+                spec: [position],
+                accidentals: [],
+                is_rest: true,
+            });
+        }
+        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
+        if (this.artist.customizations['tab-stems'] === 'true') {
+            // With tab stems enabled, render rests as stave notes for consistent stems.
+            const tab_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveNote({
+                keys: [position_value === 0 ? 'r/4' : this.artist.tuning.getNoteForFret((position_value + 5) * 2, 6)],
+                duration: `${this.artist.current_duration}r`,
+                clef: 'treble',
+                auto_stem: false,
+            });
+            if (this.artist.current_duration.endsWith('d')) {
+                _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([tab_note], { all: true });
+            }
+            tab_notes.push(tab_note);
+        }
+        else {
+            // Ghost notes maintain spacing without rendering a glyph.
+            tab_notes.push(new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.GhostNote(this.artist.current_duration));
+        }
+    }
+    /**
+     * Expand a chord into multiple notes across strings/positions and add them.
+     * Design note: chords can represent stacked notes on the same string, so we
+     * track "positions" per string to keep multi-stop logic intact.
+     */
+    addChord(chord, chord_articulation, chord_decorator) {
+        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(chord))
+            return;
+        this.artist.log('addChord: ', chord);
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        // Per-position arrays track stacked chord notes on the same string.
+        const specs = [];
+        const play_notes = [];
+        const accidentals = [];
+        const articulations = [];
+        const decorators = [];
+        const tab_specs = [];
+        const durations = [];
+        const highlight_indices = [];
+        // Track chord size so global articulations can be fanned out.
+        let num_notes = 0;
+        let current_string = chord[0].string;
+        let current_position = 0;
+        chord.forEach((note) => {
+            var _a;
+            num_notes += 1;
+            if (note.abc || note.string !== current_string) {
+                current_position = 0;
+                current_string = note.string;
+            }
+            // Initialize per-position arrays on first use.
+            if (!specs[current_position]) {
+                specs[current_position] = [];
+                play_notes[current_position] = [];
+                accidentals[current_position] = [];
+                tab_specs[current_position] = [];
+                articulations[current_position] = [];
+                decorators[current_position] = null;
+                highlight_indices[current_position] = null;
+            }
+            let new_note = null;
+            let new_octave = null;
+            let accidental = null;
+            let play_note = null;
+            const highlight_index = (_a = note.highlight_index) !== null && _a !== void 0 ? _a : null;
+            if (note.abc) {
+                // ABC notes carry a pitch name; the octave is derived.
+                const octave = note.octave ? note.octave : note.string;
+                [new_note, new_octave, accidental] = this.getNoteForABC(note.abc, octave);
+                const acc = accidental ? accidental.split('_')[0] : '';
+                play_note = `${new_note}${acc}`;
+                if (!note.fret) {
+                    note.fret = 'X';
+                }
+            }
+            else if (note.fret) {
+                // Tab notes are translated through the tuning map.
+                [new_note, new_octave, accidental] = this.getNoteForFret(note.fret, note.string);
+                play_note = this.artist.tuning.getNoteForFret(note.fret, note.string).split('/')[0];
+            }
+            else {
+                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'No note specified');
+            }
+            // Apply any octave shift commands to the playback pitch.
+            const play_octave = parseInt(String(new_octave), 10) + this.artist.current_octave_shift;
+            const current_duration = note.time ? { time: note.time, dot: note.dot } : null;
+            specs[current_position].push(`${new_note}/${new_octave}`);
+            play_notes[current_position].push(`${play_note}/${play_octave}`);
+            accidentals[current_position].push(accidental);
+            tab_specs[current_position].push({ fret: note.fret, str: note.string });
+            if (note.articulation) {
+                articulations[current_position].push(note.articulation);
+            }
+            else {
+                articulations[current_position].push(null);
+            }
+            durations[current_position] = current_duration;
+            if (note.decorator) {
+                decorators[current_position] = note.decorator;
+            }
+            if (highlight_indices[current_position] === null && highlight_index !== null) {
+                highlight_indices[current_position] = highlight_index;
+            }
+            current_position += 1;
+        });
+        // Emit notes position by position so formatting and articulations align.
+        specs.forEach((spec, i) => {
+            if (durations[i]) {
+                this.setDuration(durations[i].time, durations[i].dot);
+            }
+            const tab_spec = tab_specs[i];
+            if (highlight_indices[i] !== null && highlight_indices[i] !== undefined) {
+                tab_spec.highlight_index = highlight_indices[i];
+            }
+            this.addTabNote(tab_spec, play_notes[i]);
+            if (stave.note) {
+                this.addStaveNote({
+                    spec,
+                    accidentals: accidentals[i],
+                    play_note: play_notes[i],
+                    highlight_index: highlight_indices[i],
+                });
+            }
+            this.artist.addArticulations(articulations[i]);
+            if (decorators[i]) {
+                this.artist.addDecorator(decorators[i]);
+            }
+        });
+        if (chord_articulation) {
+            // Fan out a single articulation to each note in the chord.
+            const art = [];
+            for (let i = 0; i < num_notes; i += 1)
+                art.push(chord_articulation);
+            this.artist.addArticulations(art);
+        }
+        if (chord_decorator) {
+            this.artist.addDecorator(chord_decorator);
+        }
+    }
+    /**
+     * Convenience wrapper for adding a single note as a one-note chord.
+     */
+    addNote(note) {
+        this.addChord([note], null, null);
+    }
+}
+
+
+/***/ },
+
+/***/ "./src/artist/StaveBuilder.ts"
+/*!************************************!*\
+  !*** ./src/artist/StaveBuilder.ts ***!
+  \************************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   StaveBuilder: () => (/* binding */ StaveBuilder)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Stave creation logic that manages bars, voices, and stave layout.
+
+
+/**
+ * Builds staves, manages voice boundaries, and handles barlines.
+ */
+class StaveBuilder {
+    /**
+     * Create a stave builder bound to an Artist.
+     */
+    constructor(artist) {
+        this.artist = artist;
+    }
+    /**
+     * Insert a barline into the current stave group.
+     */
+    addBar(type) {
+        this.artist.log('addBar: ', type);
+        this.artist.closeBends();
+        this.artist.key_manager.reset();
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        // Map the VexTab bar token into a VexFlow barline type.
+        const TYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Barline.type;
+        let bar_type = TYPE.SINGLE;
+        switch (type) {
+            case 'single':
+                bar_type = TYPE.SINGLE;
+                break;
+            case 'double':
+                bar_type = TYPE.DOUBLE;
+                break;
+            case 'end':
+                bar_type = TYPE.END;
+                break;
+            case 'repeat-begin':
+                bar_type = TYPE.REPEAT_BEGIN;
+                break;
+            case 'repeat-end':
+                bar_type = TYPE.REPEAT_END;
+                break;
+            case 'repeat-both':
+                bar_type = TYPE.REPEAT_BOTH;
+                break;
+            default:
+                bar_type = TYPE.SINGLE;
+                break;
+        }
+        // Use a BarNote as a sentinel the renderer can consume later.
+        const bar_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.BarNote().setType(bar_type);
+        stave.tab_notes.push(bar_note);
+        if (stave.note) {
+            stave.note_notes.push(bar_note);
+        }
+    }
+    /**
+     * Start a new voice within the current stave group.
+     */
+    addVoice(_options) {
+        this.artist.closeBends();
+        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
+        if (!stave) {
+            this.addStave('stave', _options || {});
+            return;
+        }
+        // Commit any pending notes into the current voice.
+        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(stave.tab_notes)) {
+            stave.tab_voices.push(stave.tab_notes);
+            stave.tab_notes = [];
+        }
+        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(stave.note_notes)) {
+            stave.note_voices.push(stave.note_notes);
+            stave.note_notes = [];
+        }
+    }
+    /**
+     * Add a new stave group (tab, notation, or both) with the given options.
+     */
+    addStave(element, options) {
+        // Defaults mirror legacy VexTab behavior.
+        const opts = {
+            tuning: 'standard',
+            clef: 'treble',
+            key: 'C',
+            notation: element === 'tabstave' ? 'false' : 'true',
+            tablature: element === 'stave' ? 'false' : 'true',
+            strings: 6,
+        };
+        _utils__WEBPACK_IMPORTED_MODULE_1__.extend(opts, options);
+        this.artist.log('addStave: ', element, opts);
+        let tab_stave = null;
+        let note_stave = null;
+        // Align the tab stave to the notation stave when both are present.
+        const start_x = this.artist.x + Number(this.artist.customizations['connector-space']);
+        let tabstave_start_x = 40;
+        if (opts.notation === 'true') {
+            // Build the notation stave first so tab can align to it.
+            note_stave = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stave(start_x, this.artist.last_y, Number(this.artist.customizations.width) - 20, { left_bar: false });
+            if (opts.clef !== 'none') {
+                note_stave.addClef(opts.clef);
+            }
+            note_stave.addKeySignature(opts.key);
+            if (opts.time) {
+                note_stave.addTimeSignature(opts.time);
+            }
+            this.artist.last_y += note_stave.getHeight()
+                + this.artist.options.note_stave_lower_spacing
+                + parseInt(String(this.artist.customizations['stave-distance']), 10);
+            tabstave_start_x = note_stave.getNoteStartX();
+            this.artist.current_clef = opts.clef === 'none' ? 'treble' : opts.clef;
+        }
+        if (opts.tablature === 'true') {
+            // Tab stave sits below the notation stave (if any).
+            tab_stave = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabStave(start_x, this.artist.last_y, Number(this.artist.customizations.width) - 20, { left_bar: false }).setNumLines(opts.strings);
+            if (opts.clef !== 'none') {
+                tab_stave.addTabGlyph();
+            }
+            tab_stave.setNoteStartX(tabstave_start_x);
+            this.artist.last_y += tab_stave.getHeight() + this.artist.options.tab_stave_lower_spacing;
+        }
+        this.artist.closeBends();
+        // Beam grouping depends on the time signature.
+        const beam_groups = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.getDefaultBeamGroups(opts.time);
+        this.artist.staves.push({
+            tab: tab_stave,
+            note: note_stave,
+            tab_voices: [],
+            note_voices: [],
+            tab_notes: [],
+            note_notes: [],
+            text_voices: [],
+            beam_groups,
+        });
+        // Update tuning and key for subsequent notes.
+        this.artist.tuning.setTuning(opts.tuning);
+        this.artist.key_manager.setKey(opts.key);
+    }
+}
+
+
+/***/ },
+
+/***/ "./src/artist/TextBuilder.ts"
+/*!***********************************!*\
+  !*** ./src/artist/TextBuilder.ts ***!
+  \***********************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   TextBuilder: () => (/* binding */ TextBuilder)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Text voice builder for lyric/annotation staves in the VexTab layout.
+
+
+/**
+ * TextBuilder manages text voices (lyrics/annotations in a text stave).
+ */
+class TextBuilder {
+    /**
+     * Create a text builder bound to an Artist.
+     */
+    constructor(artist) {
+        this.artist = artist;
+    }
+    /**
+     * Start a new text voice in the current stave group.
+     */
+    addTextVoice() {
+        _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).text_voices.push([]);
+    }
+    /**
+     * Update font customizations based on a "face-size-style" string.
+     */
+    setTextFont(font) {
+        if (!font)
+            return;
+        // Parse the "face-size-style" convention used by VexTab text commands.
+        const parts = font.match(/([^-]*)-([^-]*)-([^.]*)/);
+        if (parts) {
+            this.artist.customizations['font-face'] = parts[1];
+            this.artist.customizations['font-size'] = parseInt(parts[2], 10);
+            this.artist.customizations['font-style'] = parts[3];
+        }
+    }
+    /**
+     * Add a text note to the current text voice.
+     * Design note: glyph syntax (#...) is supported for symbol-only notes.
+     */
+    addTextNote(text, position = 0, justification = 'center', smooth = true, ignore_ticks = false) {
+        const voices = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).text_voices;
+        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(voices)) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', "Can't add text note without text voice");
+        }
+        // Pull active font options from the Artist customization map.
+        const font_face = this.artist.customizations['font-face'];
+        const font_size = this.artist.customizations['font-size'];
+        const font_style = this.artist.customizations['font-style'];
+        // Map justification labels into VexFlow's enum.
+        let just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
+        switch (justification) {
+            case 'center':
+                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
+                break;
+            case 'left':
+                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.LEFT;
+                break;
+            case 'right':
+                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.RIGHT;
+                break;
+            default:
+                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
+                break;
+        }
+        // "b" creates a bar-sized spacer when ticks are ignored.
+        const duration = ignore_ticks ? 'b' : this.artist.current_duration;
+        const struct = {
+            text,
+            duration,
+            smooth,
+            ignore_ticks,
+            font: {
+                family: font_face,
+                size: font_size,
+                weight: font_style,
+            },
+        };
+        // Glyph syntax uses TextNote glyphs instead of text rendering.
+        if (text.startsWith('#')) {
+            struct.glyph = text.slice(1);
+            struct.text = '';
+            struct.font = null;
+        }
+        const note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote(struct)
+            .setLine(position)
+            .setJustification(just);
+        _utils__WEBPACK_IMPORTED_MODULE_1__.last(voices).push(note);
+    }
+}
+
+
+/***/ },
+
+/***/ "./src/div.ts"
+/*!********************!*\
+  !*** ./src/div.ts ***!
+  \********************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   Artist: () => (/* reexport safe */ _artist__WEBPACK_IMPORTED_MODULE_1__["default"]),
+/* harmony export */   Div: () => (/* binding */ Div),
+/* harmony export */   Player: () => (/* reexport safe */ _player__WEBPACK_IMPORTED_MODULE_3__["default"]),
+/* harmony export */   Vex: () => (/* reexport safe */ _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"]),
+/* harmony export */   VexTab: () => (/* reexport safe */ _vextab__WEBPACK_IMPORTED_MODULE_2__["default"]),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _artist__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./artist */ "./src/artist.ts");
+/* harmony import */ var _vextab__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./vextab */ "./src/vextab.ts");
+/* harmony import */ var _player__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./player */ "./src/player.ts");
+/* harmony import */ var _vextab_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./vextab.css */ "./src/vextab.css");
+/* provided dependency */ var $ = __webpack_require__(/*! zepto-webpack */ "./node_modules/.pnpm/zepto-webpack@1.2.1/node_modules/zepto-webpack/zepto.js");
+// DOM integration layer that renders VexTab inside a selected element, with optional editor UI.
+/**
+ * VexTab.Div renders VexTab code inside a DOM element, with optional
+ * live-editing and error display support.
+ */
+
+
+
+
+
+class Div {
+    /**
+     * Construct the Div renderer and immediately render the initial markup.
+     * Design note: we read once from the DOM and then manage our own state.
+     */
+    constructor(sel) {
+        this.text_area = null;
+        this.editor_error = null;
+        this.timeoutID = null;
+        this.sel = sel;
+        if (!this.sel) {
+            throw new Error(`VexTab.Div: invalid selector: ${sel}`);
+        }
+        // Read initial markup and clear the container so we own rendering.
+        this.code = $(sel).text();
+        $(sel).empty();
+        if ($(sel).css('position') === 'static') {
+            $(sel).css('position', 'relative');
+        }
+        // Host sizing and renderer options from data attributes.
+        this.width = parseInt($(sel).attr('width'), 10) || 400;
+        this.height = parseInt($(sel).attr('height'), 10) || 200;
+        this.scale = parseFloat($(sel).attr('scale')) || 1.0;
+        this.rendererBackend = $(sel).attr('renderer') || 'svg';
+        if (this.rendererBackend.toLowerCase() === 'canvas') {
+            this.canvas = $('<canvas></canvas>').addClass('vex-canvas');
+            $(sel).append(this.canvas);
+            this.renderer = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer(this.canvas[0], _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.Backends.CANVAS);
+        }
+        else {
+            this.canvas = $('<div></div>').addClass('vex-canvas');
+            $(sel).append(this.canvas);
+            this.renderer = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer(this.canvas[0], _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.Backends.SVG);
+        }
+        // Cache the render context and apply scale/background.
+        this.ctx_sel = $(sel).find('.vex-canvas');
+        this.renderer.resize(this.width, this.height);
+        this.ctx = this.renderer.getContext();
+        this.ctx.setBackgroundFillStyle(this.ctx_sel.css('background-color'));
+        this.ctx.scale(this.scale, this.scale);
+        // Editor properties.
+        this.editor = $(sel).attr('editor') || '';
+        this.show_errors = $(sel).attr('show-errors') || '';
+        this.editor_width = parseInt($(sel).attr('editor-width'), 10) || this.width;
+        this.editor_height = parseInt($(sel).attr('editor-height'), 10) || 200;
+        if (this.editor === 'true') {
+            // Build editor UI and debounce renders to avoid thrashing.
+            this.text_area = $('<textarea></textarea>').addClass('editor')
+                .val(this.code);
+            this.editor_error = $('<div></div>').addClass('editor-error');
+            $(sel).append($('<p/>')).append(this.editor_error);
+            $(sel).append($('<p/>')).append(this.text_area);
+            this.text_area.width(this.editor_width);
+            this.text_area.height(this.editor_height);
+            this.text_area.keyup(() => {
+                if (this.timeoutID)
+                    window.clearTimeout(this.timeoutID);
+                this.timeoutID = window.setTimeout(() => {
+                    if (this.code !== this.text_area.val()) {
+                        this.code = this.text_area.val();
+                        this.redraw();
+                    }
+                }, 250);
+            });
+        }
+        else if (this.show_errors === 'true') {
+            // Error display without the editor UI.
+            this.editor_error = $('<div></div>').addClass('editor-error');
+            $(sel).append($('<p/>')).append(this.editor_error);
+        }
+        // Initialize parser and renderer.
+        this.artist = new _artist__WEBPACK_IMPORTED_MODULE_1__["default"](10, 0, this.width, { scale: this.scale });
+        this.parser = new _vextab__WEBPACK_IMPORTED_MODULE_2__["default"](this.artist);
+        this.redraw();
+    }
+    /**
+     * Parse and draw the current code in one pass for convenience.
+     */
+    redraw() {
+        // Wrap parse/draw with VexFlow benchmarking to support legacy timing logs.
+        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Total render time: ', () => {
+            this.parse();
+            this.draw();
+        });
+        return this;
+    }
+    /**
+     * Highlight a note by sequential index and trigger a redraw.
+     */
+    highlightNoteIndex(index) {
+        this.parser.setHighlightNoteIndex(index);
+        this.redraw();
+        return this;
+    }
+    /**
+     * Draw if parsing succeeded; otherwise do nothing to avoid stale output.
+     */
+    drawInternal() {
+        if (!this.parser.isValid())
+            return this;
+        this.artist.draw(this.renderer);
+        return this;
+    }
+    /**
+     * Parse the current VexTab code and surface any errors in the UI.
+     * Design note: we keep errors in-band (DOM) so the editor experience is clear.
+     */
+    parseInternal() {
+        try {
+            // Reset state before parsing so errors never leak a partial render.
+            this.artist.reset();
+            this.parser.reset();
+            this.parser.parse(this.code);
+            if (this.editor_error)
+                this.editor_error.empty();
+        }
+        catch (e) {
+            if (this.editor_error) {
+                // Render parse errors into the UI for user feedback.
+                this.editor_error.empty();
+                this.editor_error.append($('<div></div>').addClass('text').html(`<h3>Oops!</h3> ${e.message.replace(/(?:\r\n|\r|\n)/g, '<br>')}`));
+            }
+        }
+        return this;
+    }
+    /**
+     * Public wrapper around parseInternal() with benchmark timing.
+     */
+    parse() {
+        // Benchmark parse to keep logs comparable with legacy builds.
+        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Parse time: ', () => { this.parseInternal(); });
+        return this;
+    }
+    /**
+     * Public wrapper around drawInternal() with benchmark timing.
+     */
+    draw() {
+        // Benchmark draw to keep logs comparable with legacy builds.
+        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Draw time: ', () => { this.drawInternal(); });
+        return this;
+    }
+}
+window.VEXTAB_SEL_V3 = 'div.vextab-auto';
+/**
+ * Start auto-rendering any VexTab elements found in the document.
+ */
+function start(sel) {
+    // Emit version info for troubleshooting in the browser console.
+    // eslint-disable-next-line
+    console.log('Running VexTab.Div:', "0bef548", "master", "0bef5480a66c92857f9a897b86c6dcb09bc3a32d");
+    $(sel || window.VEXTAB_SEL_V3).forEach((s) => new Div(s));
+}
+$(() => { if (window.VEXTAB_SEL_V3) {
+    start();
+} });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Div);
+
+
+
+/***/ },
+
+/***/ "./src/player.ts"
+/*!***********************!*\
+  !*** ./src/player.ts ***!
+  \***********************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./utils */ "./src/utils.ts");
+/* provided dependency */ var $ = __webpack_require__(/*! zepto-webpack */ "./node_modules/.pnpm/zepto-webpack@1.2.1/node_modules/zepto-webpack/zepto.js");
+// Playback overlay that uses MIDI.js to audition VexFlow notes and show a moving marker.
+
+
+/**
+ * VexTab Player
+ *
+ * This helper renders a transport overlay and uses MIDI.js to play back the
+ * rendered notes. It attaches itself to Vex.Flow.Player for compatibility
+ * with legacy VexTab usage.
+ */
+class Player {
+    /**
+     * Construct a playback helper and attach to an Artist.
+     * Design note: options are merged so callers can override selectively.
+     */
+    constructor(artist, options) {
+        // Playback timer and overlay UI handles.
+        this.interval_id = null;
+        this.paper = null;
+        this.marker = null;
+        this.loading_message = null;
+        this.play_button = null;
+        this.stop_button = null;
+        // Playback timing state.
+        this.tick_notes = {};
+        this.all_ticks = [];
+        this.total_ticks = null;
+        this.tpm = 0;
+        this.refresh_rate = 25;
+        this.ticks_per_refresh = 0;
+        // Cursor state for playback.
+        this.current_ticks = 0;
+        this.next_event_tick = 0;
+        this.next_index = 0;
+        this.done = false;
+        this.loading = false;
+        this.scale = 1;
+        // Static constants pulled from VexFlow for timing and note math.
+        this.Fraction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Fraction;
+        this.RESOLUTION = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.RESOLUTION;
+        this.noteValues = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Music.noteValues;
+        // MIDI program numbers keyed by human-friendly instrument names.
+        this.INSTRUMENTS = {
+            acoustic_grand_piano: 0,
+            acoustic_guitar_nylon: 24,
+            acoustic_guitar_steel: 25,
+            electric_guitar_jazz: 26,
+            distortion_guitar: 30,
+            electric_bass_finger: 33,
+            electric_bass_pick: 34,
+            trumpet: 56,
+            brass_section: 61,
+            soprano_sax: 64,
+            alto_sax: 65,
+            tenor_sax: 66,
+            baritone_sax: 67,
+            flute: 73,
+            synth_drum: 118,
+        };
+        this.artist = artist;
+        this.log('Initializing player: ', options);
+        this.options = {
+            instrument: 'acoustic_grand_piano',
+            tempo: 120,
+            show_controls: true,
+            soundfont_url: '/soundfont/',
+            overlay_class: 'vextab-player',
+        };
+        if (options) {
+            _utils__WEBPACK_IMPORTED_MODULE_1__.extend(this.options, options);
+        }
+        this.log(`Using soundfonts in: ${this.options.soundfont_url}`);
+        this.reset();
+    }
+    /**
+     * Log only when debug mode is enabled, to keep console noise low.
+     */
+    log(...args) {
+        if (Player.DEBUG && console) {
+            console.log('(Vex.Flow.Player)', ...args);
+        }
+    }
+    /**
+     * Swap the Artist instance and reset cached playback data.
+     */
+    setArtist(artist) {
+        this.artist = artist;
+        this.reset();
+    }
+    /**
+     * Update playback tempo and recompute tick scheduling.
+     */
+    setTempo(tempo) {
+        this.log('New tempo: ', tempo);
+        this.options.tempo = tempo;
+        this.reset();
+    }
+    /**
+     * Update the MIDI instrument used for playback.
+     */
+    setInstrument(instrument) {
+        this.log('New instrument: ', instrument);
+        if (!Object.keys(this.INSTRUMENTS).includes(instrument)) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('PlayerError', `Invalid instrument: ${instrument}`);
+        }
+        this.options.instrument = instrument;
+        this.reset();
+    }
+    /**
+     * Reset internal playback state and recompute timing values.
+     * Design note: called on every render to keep playback in sync.
+     */
+    reset() {
+        // Reset tick scheduling and overlay state after each render.
+        this.artist.attachPlayer(this);
+        this.tick_notes = {};
+        this.all_ticks = [];
+        this.tpm = this.options.tempo * (this.RESOLUTION / 4);
+        this.refresh_rate = 25;
+        this.ticks_per_refresh = this.tpm / (60 * (1000 / this.refresh_rate));
+        this.total_ticks = 0;
+        if (this.marker) {
+            this.marker.remove();
+            this.marker = null;
+        }
+        this.stop();
+    }
+    /**
+     * Create a Paper.js overlay canvas positioned above the VexFlow surface.
+     * Design note: a separate overlay avoids interfering with VexFlow render output.
+     */
+    getOverlay(context, scale, overlay_class) {
+        const canvas = context.canvas;
+        const height = canvas.height;
+        const width = canvas.width;
+        // The overlay is a separate canvas stacked above the main render.
+        const overlay = $('<canvas>');
+        overlay.css('position', 'absolute');
+        overlay.css('left', 0);
+        overlay.css('top', 0);
+        overlay.addClass(overlay_class);
+        $(canvas).after(overlay);
+        const ctx = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.getCanvasContext(overlay.get(0), width, height);
+        ctx.scale(scale, scale);
+        // Paper.js handles drawing for the overlay UI.
+        const ps = new paper.PaperScope();
+        ps.setup(overlay.get(0));
+        return { paper: ps, canvas: overlay.get(0) };
+    }
+    /**
+     * Remove playback controls from the overlay (used when re-rendering).
+     */
+    removeControls() {
+        if (this.play_button)
+            this.play_button.remove();
+        if (this.stop_button)
+            this.stop_button.remove();
+        if (this.paper)
+            this.paper.view.draw();
+    }
+    /**
+     * Build the overlay UI and compute tick maps for playback.
+     * Design note: we compute tick maps from the render output for accuracy.
+     */
+    render() {
+        this.reset();
+        const data = this.artist.getPlayerData();
+        this.scale = data.scale;
+        if (!this.paper) {
+            const overlay = this.getOverlay(data.context, data.scale, this.options.overlay_class);
+            this.paper = overlay.paper;
+        }
+        // Basic overlay UI elements.
+        this.marker = new this.paper.Path.Rectangle(0, 0, 13, 85);
+        this.loading_message = new this.paper.PointText(35, 12);
+        if (this.options.show_controls) {
+            // Simple play/stop controls rendered with Paper.js.
+            this.play_button = new this.paper.Path.RegularPolygon(new this.paper.Point(25, 10), 3, 7, 7);
+            this.play_button.fillColor = '#396';
+            this.play_button.opacity = 0.8;
+            this.play_button.rotate(90);
+            this.play_button.onMouseUp = () => {
+                this.play();
+            };
+            this.stop_button = new this.paper.Path.Rectangle(3, 3, 10, 10);
+            this.stop_button.fillColor = '#396';
+            this.stop_button.opacity = 0.8;
+            this.stop_button.onMouseUp = () => {
+                this.stop();
+            };
+        }
+        this.paper.view.draw();
+        const staves = data.voices;
+        // Build a flattened list of tick events to drive playback.
+        let total_ticks = new this.Fraction(0, 1);
+        staves.forEach((voice_group) => {
+            let max_voice_tick = new this.Fraction(0, 1);
+            voice_group.forEach((voice) => {
+                const total_voice_ticks = new this.Fraction(0, 1);
+                voice.getTickables().forEach((note) => {
+                    if (!note.shouldIgnoreTicks()) {
+                        const abs_tick = total_ticks.clone();
+                        abs_tick.add(total_voice_ticks);
+                        abs_tick.simplify();
+                        const key = abs_tick.toString();
+                        if (_utils__WEBPACK_IMPORTED_MODULE_1__.has(this.tick_notes, key)) {
+                            this.tick_notes[key].notes.push(note);
+                        }
+                        else {
+                            this.tick_notes[key] = {
+                                tick: abs_tick,
+                                value: abs_tick.value(),
+                                notes: [note],
+                            };
+                        }
+                        total_voice_ticks.add(note.getTicks());
+                    }
+                });
+                if (total_voice_ticks.value() > max_voice_tick.value()) {
+                    max_voice_tick.copy(total_voice_ticks);
+                }
+            });
+            total_ticks.add(max_voice_tick);
+        });
+        // Sort events by absolute tick for deterministic playback.
+        this.all_ticks = _utils__WEBPACK_IMPORTED_MODULE_1__.sortBy(_utils__WEBPACK_IMPORTED_MODULE_1__.values(this.tick_notes), (tick) => tick.value);
+        this.total_ticks = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.all_ticks);
+        this.log(this.all_ticks);
+    }
+    /**
+     * Move the overlay marker to the given note position.
+     */
+    updateMarker(x, y) {
+        this.marker.fillColor = '#369';
+        this.marker.opacity = 0.2;
+        this.marker.setPosition(new this.paper.Point(x * this.scale, y * this.scale));
+        this.paper.view.draw();
+    }
+    /**
+     * Trigger MIDI playback for a set of notes and move the marker.
+     * Design note: VexFlow's note APIs provide pitch strings we map to MIDI.
+     */
+    playNote(notes) {
+        this.log(`(${this.current_ticks}) playNote: `, notes);
+        // For each note, move the marker and emit MIDI events.
+        notes.forEach((note) => {
+            const x = note.getAbsoluteX() + 4;
+            const y = note.getStave().getYForLine(2);
+            if (this.paper)
+                this.updateMarker(x, y);
+            if (note.isRest())
+                return;
+            const keys = note.getPlayNote();
+            const duration = note.getTicks().value() / (this.tpm / 60);
+            keys.forEach((key) => {
+                const pieces = key.split('/');
+                const noteName = pieces[0].trim().toLowerCase();
+                const octave = pieces[1];
+                const note_value = this.noteValues[noteName];
+                if (!note_value)
+                    return;
+                const midi_note = (24 + (parseInt(octave, 10) * 12)) + note_value.int_val;
+                MIDI.noteOn(0, midi_note, 127, 0);
+                MIDI.noteOff(0, midi_note, duration);
+            });
+        });
+    }
+    /**
+     * Advance playback time and emit notes when their tick is reached.
+     */
+    refresh() {
+        if (this.done) {
+            this.stop();
+            return;
+        }
+        // Advance playback cursor based on ticks-per-refresh.
+        this.current_ticks += this.ticks_per_refresh;
+        if (this.current_ticks >= this.next_event_tick && this.all_ticks.length > 0) {
+            this.playNote(this.all_ticks[this.next_index].notes);
+            this.next_index += 1;
+            if (this.next_index >= this.all_ticks.length) {
+                this.done = true;
+            }
+            else {
+                this.next_event_tick = this.all_ticks[this.next_index].tick.value();
+            }
+        }
+    }
+    /**
+     * Stop playback, clear timers, and reset UI state.
+     */
+    stop() {
+        this.log('Stop');
+        // Reset playback cursor and UI state.
+        if (this.interval_id)
+            window.clearInterval(this.interval_id);
+        if (this.play_button)
+            this.play_button.fillColor = '#396';
+        if (this.paper)
+            this.paper.view.draw();
+        this.interval_id = null;
+        this.current_ticks = 0;
+        this.next_event_tick = 0;
+        this.next_index = 0;
+        this.done = false;
+    }
+    /**
+     * Start playback after ensuring the overlay and MIDI setup are ready.
+     */
+    start() {
+        this.stop();
+        this.log('Start');
+        if (this.play_button)
+            this.play_button.fillColor = '#a36';
+        // Select instrument and schedule refresh ticks.
+        MIDI.programChange(0, this.INSTRUMENTS[this.options.instrument]);
+        this.render();
+        this.interval_id = window.setInterval(() => this.refresh(), this.refresh_rate);
+    }
+    /**
+     * Public entry point for playback. Loads instruments as needed.
+     */
+    play() {
+        this.log('Play: ', this.refresh_rate, this.ticks_per_refresh);
+        if (Player.INSTRUMENTS_LOADED[this.options.instrument] && !this.loading) {
+            this.start();
+        }
+        else {
+            this.log('Loading instruments...');
+            this.loading_message.content = 'Loading instruments...';
+            this.loading_message.fillColor = 'green';
+            this.loading = true;
+            this.paper.view.draw();
+            // Load soundfonts on demand to keep initial render lightweight.
+            MIDI.loadPlugin({
+                soundfontUrl: this.options.soundfont_url,
+                instruments: [this.options.instrument],
+                callback: () => {
+                    Player.INSTRUMENTS_LOADED[this.options.instrument] = true;
+                    this.loading = false;
+                    this.loading_message.content = '';
+                    this.start();
+                },
+            });
+        }
+    }
+}
+// Enables verbose logging for debugging.
+Player.DEBUG = false;
+// Cache to avoid re-loading soundfonts per instrument.
+Player.INSTRUMENTS_LOADED = {};
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Player);
+// Preserve legacy access via Vex.Flow.Player.
+if (!_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Player) {
+    _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Player = Player;
+}
+
+
+/***/ },
+
+/***/ "./src/utils.ts"
+/*!**********************!*\
+  !*** ./src/utils.ts ***!
+  \**********************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
+/* harmony export */   each: () => (/* binding */ each),
+/* harmony export */   extend: () => (/* binding */ extend),
+/* harmony export */   forEach: () => (/* binding */ forEach),
+/* harmony export */   has: () => (/* binding */ has),
+/* harmony export */   isEmpty: () => (/* binding */ isEmpty),
+/* harmony export */   keys: () => (/* binding */ keys),
+/* harmony export */   last: () => (/* binding */ last),
+/* harmony export */   map: () => (/* binding */ map),
+/* harmony export */   pick: () => (/* binding */ pick),
+/* harmony export */   sortBy: () => (/* binding */ sortBy),
+/* harmony export */   throttle: () => (/* binding */ throttle),
+/* harmony export */   values: () => (/* binding */ values)
+/* harmony export */ });
+// Minimal utility helpers that replace lodash with focused, documented primitives.
+/**
+ * Return the last item of an array, or undefined for null/empty inputs.
+ * This is a tiny, predictable helper used throughout the codebase.
+ */
+function last(items) {
+    if (!items || items.length === 0)
+        return undefined;
+    return items[items.length - 1];
+}
+/**
+ * Determine whether a value is "empty" by lodash-style rules.
+ * - null/undefined → empty
+ * - arrays/strings → length === 0
+ * - objects → no own keys
+ */
+function isEmpty(value) {
+    if (value == null)
+        return true;
+    if (Array.isArray(value) || typeof value === 'string')
+        return value.length === 0;
+    if (typeof value === 'object')
+        return Object.keys(value).length === 0;
+    return false;
+}
+/**
+ * Iterate over an array or object with a simple callback signature.
+ * This keeps call sites uniform without pulling in a full utility library.
+ */
+function each(collection, iteratee) {
+    if (!collection)
+        return;
+    if (Array.isArray(collection)) {
+        collection.forEach((value, index) => iteratee(value, index));
+        return;
+    }
+    Object.keys(collection).forEach((key) => iteratee(collection[key], key));
+}
+/**
+ * Alias for each() to preserve compatibility with lodash-style usage.
+ */
+function forEach(collection, iteratee) {
+    each(collection, iteratee);
+}
+/**
+ * Map a collection into an array of results.
+ */
+function map(collection, iteratee) {
+    // Preserve lodash-style semantics by always returning a new array.
+    const results = [];
+    each(collection, (value, key) => results.push(iteratee(value, key)));
+    return results;
+}
+/**
+ * Merge object properties into a target object.
+ * Design note: we intentionally skip null/undefined sources to keep call sites compact.
+ */
+function extend(target, ...sources) {
+    // Skip null/undefined sources to keep call sites concise.
+    const validSources = sources.filter((source) => source != null);
+    return Object.assign(target, ...validSources);
+}
+/**
+ * Return the own keys of an object or an empty array for nullish inputs.
+ */
+function keys(value) {
+    return value ? Object.keys(value) : [];
+}
+/**
+ * Return the own values of an object or an empty array for nullish inputs.
+ */
+function values(value) {
+    return value ? Object.values(value) : [];
+}
+/**
+ * Safe hasOwnProperty wrapper.
+ */
+function has(value, key) {
+    if (!value)
+        return false;
+    return Object.prototype.hasOwnProperty.call(value, key);
+}
+/**
+ * Pick a subset of properties into a shallow clone.
+ */
+function pick(value, ...props) {
+    // Build a shallow object containing only requested keys.
+    const result = {};
+    props.forEach((prop) => {
+        if (has(value, prop)) {
+            result[prop] = value[prop];
+        }
+    });
+    return result;
+}
+/**
+ * Create a new array sorted by a numeric iteratee.
+ */
+function sortBy(items, iteratee) {
+    // Sorting a copy keeps callers' arrays immutable.
+    return items.slice().sort((a, b) => {
+        const left = iteratee(a);
+        const right = iteratee(b);
+        return left - right;
+    });
+}
+/**
+ * Throttle a function so it runs at most once per `wait` milliseconds.
+ * Design note: this mirrors lodash's trailing invocation behavior for the last call.
+ */
+function throttle(fn, wait) {
+    // Track last execution time and a pending trailing call.
+    let lastCall = 0;
+    let timeoutId;
+    let pendingArgs = null;
+    return (...args) => {
+        const now = Date.now();
+        const remaining = wait - (now - lastCall);
+        if (remaining <= 0) {
+            if (timeoutId !== undefined) {
+                clearTimeout(timeoutId);
+                timeoutId = undefined;
+            }
+            lastCall = now;
+            fn(...args);
+            return;
+        }
+        pendingArgs = args;
+        if (timeoutId !== undefined)
+            return;
+        timeoutId = window.setTimeout(() => {
+            lastCall = Date.now();
+            timeoutId = undefined;
+            if (pendingArgs) {
+                fn(...pendingArgs);
+                pendingArgs = null;
+            }
+        }, remaining);
+    };
+}
+// Default export for compatibility with older lodash-style imports.
+const utils = {
+    last,
+    isEmpty,
+    each,
+    forEach,
+    map,
+    extend,
+    keys,
+    values,
+    has,
+    pick,
+    sortBy,
+    throttle,
+};
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (utils);
+
+
+/***/ },
+
+/***/ "./src/vexflow.ts"
+/*!************************!*\
+  !*** ./src/vexflow.ts ***!
+  \************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vexflow */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/entry/vexflow.js");
+// Compatibility shim for VexFlow 5+ to preserve the legacy Vex.Flow namespace.
+// VexFlow 5 exports classes at the top level, so we re-introduce the old namespace.
+
+// Provide a Vex.Flow alias for legacy code paths.
+if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) {
+    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow = vexflow__WEBPACK_IMPORTED_MODULE_0__["default"];
+}
+// Legacy error constructor used by older VexFlow APIs (e.g., Vex.RERR).
+if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR && vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RuntimeError) {
+    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR = vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RuntimeError;
+}
+// Legacy benchmark helper used by older VexFlow APIs.
+if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM) {
+    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM = (_label, fn) => fn();
+}
+// Export the patched namespace for callers expecting Vex.Flow.*.
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (vexflow__WEBPACK_IMPORTED_MODULE_0__["default"]);
+
+
+/***/ },
+
+/***/ "./src/vextab.ts"
+/*!***********************!*\
+  !*** ./src/vextab.ts ***!
+  \***********************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _vextab_VexTab__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _vextab_VexTab__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vextab/VexTab */ "./src/vextab/VexTab.ts");
+// Re-export for the VexTab class so consumers can import from the package root.
+
+
+
+/***/ },
+
+/***/ "./src/vextab/VexTab.ts"
+/*!******************************!*\
+  !*** ./src/vextab/VexTab.ts ***!
+  \******************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _vextab_jison__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../vextab.jison */ "./src/vextab.jison");
+/* harmony import */ var _vextab_jison__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_vextab_jison__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _VexTabParser__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./VexTabParser */ "./src/vextab/VexTabParser.ts");
+// Public-facing VexTab wrapper that wires the parser to the Artist renderer.
+
+
+
+/**
+ * VexTab is the public API wrapper that invokes the Jison parser and then
+ * dispatches the parsed AST into Artist instructions.
+ */
+class VexTab {
+    /**
+     * Create a VexTab parser wrapper around an Artist.
+     */
+    constructor(artist) {
+        // Whether the last parse was successful.
+        this.valid = false;
+        // AST elements returned from the parser.
+        this.elements = false;
+        this.artist = artist;
+        // Keep compiler bound to the artist for the lifetime of this parser.
+        this.compiler = new _VexTabParser__WEBPACK_IMPORTED_MODULE_2__.VexTabParser(this.artist);
+    }
+    /**
+     * Internal conditional logger.
+     */
+    log(...args) {
+        if (VexTab.DEBUG && console) {
+            console.log('(Vex.Flow.VexTab)', ...args);
+        }
+    }
+    /**
+     * Reset the parser validity state for a new parse.
+     */
+    reset() {
+        this.valid = false;
+        this.elements = false;
+    }
+    /**
+     * Return whether the last parse was valid.
+     */
+    isValid() {
+        return this.valid;
+    }
+    /**
+     * Return the bound Artist instance.
+     */
+    getArtist() {
+        return this.artist;
+    }
+    /**
+     * Set the note index to highlight during rendering.
+     */
+    setHighlightNoteIndex(index) {
+        this.artist.setHighlightNoteIndex(index);
+    }
+    /**
+     * Highlight a note based on a 1-based source line/column position.
+     */
+    setHighlightByLocation(line, column) {
+        const index = this.compiler.getNoteIndexAtLocation(line, column);
+        this.artist.setHighlightNoteIndex(index);
+        return index;
+    }
+    /**
+     * Parse VexTab source, compile the AST, and return the parsed elements.
+     * Design note: we trim each line to keep whitespace predictable and consistent.
+     */
+    parse(code) {
+        const parserInstance = (_vextab_jison__WEBPACK_IMPORTED_MODULE_1___default());
+        parserInstance.parseError = (message, hash) => {
+            this.log('VexTab parse error: ', message, hash);
+            const formatted = `Unexpected text '${hash.text}' at line ${hash.loc.first_line} column ${hash.loc.first_column}.`;
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', formatted);
+        };
+        if (!code) {
+            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', 'No code');
+        }
+        this.log(`Parsing:\n${code}`);
+        // Normalize whitespace to keep the grammar deterministic.
+        const stripped_code = code
+            .split(/\r\n|\r|\n/)
+            .map((line) => line.trim())
+            .join('\n');
+        this.elements = parserInstance.parse(stripped_code);
+        if (this.elements) {
+            // Translate the AST into Artist calls.
+            this.compiler.generate(this.elements);
+            this.valid = true;
+        }
+        return this.elements;
+    }
+}
+// Enable debug logging in the parser pipeline.
+VexTab.DEBUG = false;
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (VexTab);
+
+
+/***/ },
+
+/***/ "./src/vextab/VexTabParser.ts"
+/*!************************************!*\
+  !*** ./src/vextab/VexTabParser.ts ***!
+  \************************************/
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   VexTabParser: () => (/* binding */ VexTabParser)
+/* harmony export */ });
+/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
+/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
+// Semantic compiler that turns the parsed VexTab AST into concrete Artist calls.
+
+
+/**
+ * VexTabParser translates the parsed Jison AST into concrete Artist calls.
+ * It isolates the "semantic" phase of VexTab from the raw parse step.
+ */
+class VexTabParser {
+    /**
+     * Create a compiler bound to an Artist.
+     */
+    constructor(artist) {
+        // Persisted options for successive tabstave elements (inherit until overridden).
+        this.lastTabstaveOptions = {};
+        // Sequential note index used for cursor-based highlighting.
+        this.noteIndex = 0;
+        // Source positions for each note index.
+        this.notePositions = [];
+        this.artist = artist;
+    }
+    /**
+     * Create a standardized parse error that includes line/column information.
+     */
+    newError(object, msg) {
+        return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', `${msg} in line ${object._l} column ${object._c}`);
+    }
+    /**
+     * Parse and validate stave options into a simple key/value map.
+     * Design note: validation happens here so the Artist stays focused on rendering.
+     */
+    parseStaveOptions(options) {
+        const params = {};
+        if (!options)
+            return params;
+        // Track notation/tablature to validate mutual visibility.
+        let notation_option = null;
+        options.forEach((option) => {
+            var _a, _b, _d;
+            const error = (msg) => this.newError(option, msg);
+            params[option.key] = option.value;
+            switch (option.key) {
+                case 'notation':
+                case 'tablature':
+                    notation_option = option;
+                    if (!['true', 'false'].includes(option.value)) {
+                        throw error(`'${option.key}' must be 'true' or 'false'`);
+                    }
+                    break;
+                case 'key': {
+                    const has_key = ((_a = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _a === void 0 ? void 0 : _a.hasKeySignature)
+                        ? _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.hasKeySignature(option.value)
+                        : _utils__WEBPACK_IMPORTED_MODULE_1__.has((_d = (_b = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _b === void 0 ? void 0 : _b.keySignature) === null || _d === void 0 ? void 0 : _d.keySpecs, option.value);
+                    if (!has_key) {
+                        throw error(`Invalid key signature '${option.value}'`);
+                    }
+                    break;
+                }
+                case 'clef': {
+                    const clefs = ['treble', 'bass', 'tenor', 'alto', 'percussion', 'none'];
+                    if (!clefs.includes(option.value)) {
+                        throw error(`'clef' must be one of ${clefs.join(', ')}`);
+                    }
+                    break;
+                }
+                case 'voice': {
+                    const voices = ['top', 'bottom', 'new'];
+                    if (!voices.includes(option.value)) {
+                        throw error(`'voice' must be one of ${voices.join(', ')}`);
+                    }
+                    break;
+                }
+                case 'time':
+                    try {
+                        new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TimeSignature(option.value);
+                    }
+                    catch (_e) {
+                        throw error(`Invalid time signature: '${option.value}'`);
+                    }
+                    break;
+                case 'tuning':
+                    try {
+                        new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuning(option.value);
+                    }
+                    catch (_e) {
+                        throw error(`Invalid tuning: '${option.value}'`);
+                    }
+                    break;
+                case 'strings': {
+                    const num_strings = parseInt(option.value, 10);
+                    if (num_strings < 4 || num_strings > 8) {
+                        throw error(`Invalid number of strings: ${num_strings}`);
+                    }
+                    break;
+                }
+                default:
+                    throw error(`Invalid option '${option.key}'`);
+            }
+        });
+        if (params.notation === 'false' && params.tablature === 'false') {
+            throw this.newError(notation_option, "Both 'notation' and 'tablature' can't be invisible");
+        }
+        return params;
+    }
+    /**
+     * Record the source position for a given note index.
+     */
+    recordNotePosition(index, note) {
+        if (!note || typeof note._l !== 'number' || typeof note._c !== 'number')
+            return;
+        this.notePositions[index] = { line: note._l, column: note._c };
+    }
+    /**
+     * Return the best-matching note index for a source location.
+     */
+    getNoteIndexAtLocation(line, column) {
+        let bestIndex = null;
+        let bestLine = -1;
+        let bestColumn = -1;
+        this.notePositions.forEach((pos, index) => {
+            if (!pos)
+                return;
+            if (pos.line > line)
+                return;
+            if (pos.line === line && pos.column > column)
+                return;
+            if (pos.line > bestLine || (pos.line === bestLine && pos.column > bestColumn)) {
+                bestIndex = index;
+                bestLine = pos.line;
+                bestColumn = pos.column;
+            }
+        });
+        return bestIndex;
+    }
+    /**
+     * Dispatch a parsed command element to the Artist.
+     */
+    parseCommand(element) {
+        if (element.command === 'bar') {
+            this.artist.addBar(element.type);
+        }
+        if (element.command === 'tuplet') {
+            this.artist.makeTuplets(element.params.tuplet, element.params.notes);
+        }
+        if (element.command === 'annotations') {
+            this.artist.addAnnotations(element.params);
+        }
+        if (element.command === 'rest') {
+            this.artist.addRest(element.params);
+        }
+        if (element.command === 'command') {
+            this.artist.runCommand(element.params, element._l, element._c);
+        }
+    }
+    /**
+     * Convert a chord AST node into an Artist chord call.
+     */
+    parseChord(element) {
+        var _a;
+        this.artist.log('parseChord:', element);
+        const chord_note = (_a = element === null || element === void 0 ? void 0 : element.chord) === null || _a === void 0 ? void 0 : _a[0];
+        this.recordNotePosition(this.noteIndex, chord_note);
+        // Keep only relevant fields to avoid leaking parser internals.
+        this.artist.addChord(_utils__WEBPACK_IMPORTED_MODULE_1__.map(element.chord, (note) => ({
+            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
+            highlight_index: this.noteIndex,
+        })), element.articulation, element.decorator);
+        this.noteIndex += 1;
+    }
+    /**
+     * Convert a fret-based note AST node into an Artist note call.
+     */
+    parseFret(note) {
+        this.recordNotePosition(this.noteIndex, note);
+        this.artist.addNote({
+            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'string', 'articulation', 'decorator'),
+            highlight_index: this.noteIndex,
+        });
+        this.noteIndex += 1;
+    }
+    /**
+     * Convert an ABC note AST node into an Artist note call.
+     */
+    parseABC(note) {
+        this.recordNotePosition(this.noteIndex, note);
+        this.artist.addNote({
+            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
+            highlight_index: this.noteIndex,
+        });
+        this.noteIndex += 1;
+    }
+    /**
+     * Parse a list of stave elements (notes, chords, commands) into Artist calls.
+     */
+    parseStaveElements(notes) {
+        this.artist.log('parseStaveElements:', notes);
+        notes.forEach((element) => {
+            if (element.time) {
+                // Duration markers apply to subsequent notes.
+                this.artist.setDuration(element.time, element.dot);
+            }
+            if (element.command) {
+                this.parseCommand(element);
+            }
+            if (element.chord) {
+                this.parseChord(element);
+            }
+            if (element.abc) {
+                this.parseABC(element);
+            }
+            else if (element.fret) {
+                this.parseFret(element);
+            }
+        });
+    }
+    /**
+     * Parse stave text tokens into text voices and text notes.
+     * Design note: this parser is permissive to preserve legacy VexTab behavior.
+     */
+    parseStaveText(text_line) {
+        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_line)) {
+            // Text lines start a new text voice.
+            this.artist.addTextVoice();
+        }
+        // X position within the text stave.
+        let position = 0;
+        let justification = 'center';
+        let smooth = true;
+        let font = null;
+        // A bar token is represented as a zero-width spacer note.
+        const bartext = () => this.artist.addTextNote('', 0, justification, false, true);
+        const createNote = (text, token) => {
+            let ignore_ticks = false;
+            let display = text;
+            if (display[0] === '|') {
+                ignore_ticks = true;
+                display = display.slice(1);
+            }
+            try {
+                this.artist.addTextNote(display, position, justification, smooth, ignore_ticks);
+            }
+            catch (e) {
+                throw this.newError(token, `Bad text or duration. Did you forget a comma?${e}`);
+            }
+        };
+        text_line.forEach((token) => {
+            let text = token.text.trim();
+            if (text.match(/\.font=.*/)) {
+                // Inline font overrides are applied immediately.
+                font = text.slice(6);
+                this.artist.setTextFont(font);
+            }
+            else if (text[0] === ':') {
+                // Duration markers inside text lines affect spacing.
+                this.artist.setDuration(text);
+            }
+            else if (text[0] === '.') {
+                const command = text.slice(1);
+                switch (command) {
+                    case 'center':
+                    case 'left':
+                    case 'right':
+                        justification = command;
+                        break;
+                    case 'strict':
+                        smooth = false;
+                        break;
+                    case 'smooth':
+                        smooth = true;
+                        break;
+                    case 'bar':
+                    case '|':
+                        bartext();
+                        break;
+                    default:
+                        position = parseInt(text.slice(1), 10);
+                        break;
+                }
+            }
+            else if (text === '|') {
+                bartext();
+            }
+            else if (text.slice(0, 2) === '++') {
+                this.artist.addTextVoice();
+            }
+            else {
+                createNote(text, token);
+            }
+        });
+    }
+    /**
+     * Entry point to translate the parsed AST into Artist calls.
+     * Design note: we handle each "stave" element sequentially to preserve order.
+     */
+    generate(elements) {
+        // Reset inherited tabstave options per top-level parse call.
+        this.lastTabstaveOptions = {};
+        this.noteIndex = 0;
+        this.notePositions = [];
+        // Document header declarations must precede any stave/voice elements.
+        let sawStave = false;
+        elements.forEach((stave) => {
+            switch (stave.element) {
+                case 'title':
+                case 'subtitle':
+                case 'sidenote': {
+                    if (sawStave) {
+                        throw this.newError(stave, `'${stave.element}' must appear before the first stave`);
+                    }
+                    this.artist.setDocumentHeader(stave.element, stave.text);
+                    break;
+                }
+                case 'stave':
+                case 'tabstave': {
+                    sawStave = true;
+                    // Validate only explicitly provided options.
+                    const explicit = this.parseStaveOptions(stave.options);
+                    // For tabstave, inherit previous options and override with explicit ones.
+                    const resolved = stave.element === 'tabstave' ? { ...this.lastTabstaveOptions, ...explicit } : explicit;
+                    if (stave.element === 'tabstave')
+                        this.lastTabstaveOptions = resolved;
+                    this.artist.addStave(stave.element, resolved);
+                    if (stave.notes)
+                        this.parseStaveElements(stave.notes);
+                    if (stave.text)
+                        this.parseStaveText(stave.text);
+                    break;
+                }
+                case 'voice':
+                    sawStave = true;
+                    this.artist.addVoice(this.parseStaveOptions(stave.options));
+                    if (stave.notes)
+                        this.parseStaveElements(stave.notes);
+                    if (stave.text)
+                        this.parseStaveText(stave.text);
+                    break;
+                case 'options': {
+                    const options = {};
+                    stave.params.forEach((option) => {
+                        options[option.key] = option.value;
+                    });
+                    try {
+                        this.artist.setOptions(options);
+                    }
+                    catch (e) {
+                        throw this.newError(stave, e.message);
+                    }
+                    break;
+                }
+                default:
+                    throw this.newError(stave, `Invalid keyword '${stave.element}'`);
+            }
+        });
+    }
+}
+
+
+/***/ },
+
+/***/ "./node_modules/.pnpm/zepto-webpack@1.2.1/node_modules/zepto-webpack/zepto.js"
+/*!************************************************************************************!*\
+  !*** ./node_modules/.pnpm/zepto-webpack@1.2.1/node_modules/zepto-webpack/zepto.js ***!
+  \************************************************************************************/
+(module, exports, __webpack_require__) {
+
+var __WEBPACK_AMD_DEFINE_RESULT__;/* Zepto v1.2.0 - zepto event ajax form ie - zeptojs.com/license */
+(function(global, factory) {
+  if (true)
+    !(__WEBPACK_AMD_DEFINE_RESULT__ = (function() { return factory(global) }).call(exports, __webpack_require__, exports, module),
+		__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__))
+  else
+    // removed by dead control flow
+{}
+}(this, function() {
+  var Zepto = (function() {
+  var undefined, key, $, classList, emptyArray = [], concat = emptyArray.concat, filter = emptyArray.filter, slice = emptyArray.slice,
+    document = window.document,
+    elementDisplay = {}, classCache = {},
+    cssNumber = { 'column-count': 1, 'columns': 1, 'font-weight': 1, 'line-height': 1,'opacity': 1, 'z-index': 1, 'zoom': 1 },
+    fragmentRE = /^\s*<(\w+|!)[^>]*>/,
+    singleTagRE = /^<(\w+)\s*\/?>(?:<\/\1>|)$/,
+    tagExpanderRE = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([\w:]+)[^>]*)\/>/ig,
+    rootNodeRE = /^(?:body|html)$/i,
+    capitalRE = /([A-Z])/g,
+
+    // special attributes that should be get/set via method calls
+    methodAttributes = ['val', 'css', 'html', 'text', 'data', 'width', 'height', 'offset'],
+
+    adjacencyOperators = [ 'after', 'prepend', 'before', 'append' ],
+    table = document.createElement('table'),
+    tableRow = document.createElement('tr'),
+    containers = {
+      'tr': document.createElement('tbody'),
+      'tbody': table, 'thead': table, 'tfoot': table,
+      'td': tableRow, 'th': tableRow,
+      '*': document.createElement('div')
+    },
+    readyRE = /complete|loaded|interactive/,
+    simpleSelectorRE = /^[\w-]*$/,
+    class2type = {},
+    toString = class2type.toString,
+    zepto = {},
+    camelize, uniq,
+    tempParent = document.createElement('div'),
+    propMap = {
+      'tabindex': 'tabIndex',
+      'readonly': 'readOnly',
+      'for': 'htmlFor',
+      'class': 'className',
+      'maxlength': 'maxLength',
+      'cellspacing': 'cellSpacing',
+      'cellpadding': 'cellPadding',
+      'rowspan': 'rowSpan',
+      'colspan': 'colSpan',
+      'usemap': 'useMap',
+      'frameborder': 'frameBorder',
+      'contenteditable': 'contentEditable'
+    },
+    isArray = Array.isArray ||
+      function(object){ return object instanceof Array }
+
+  zepto.matches = function(element, selector) {
+    if (!selector || !element || element.nodeType !== 1) return false
+    var matchesSelector = element.matches || element.webkitMatchesSelector ||
+                          element.mozMatchesSelector || element.oMatchesSelector ||
+                          element.matchesSelector
+    if (matchesSelector) return matchesSelector.call(element, selector)
+    // fall back to performing a selector:
+    var match, parent = element.parentNode, temp = !parent
+    if (temp) (parent = tempParent).appendChild(element)
+    match = ~zepto.qsa(parent, selector).indexOf(element)
+    temp && tempParent.removeChild(element)
+    return match
+  }
+
+  function type(obj) {
+    return obj == null ? String(obj) :
+      class2type[toString.call(obj)] || "object"
+  }
+
+  function isFunction(value) { return type(value) == "function" }
+  function isWindow(obj)     { return obj != null && obj == obj.window }
+  function isDocument(obj)   { return obj != null && obj.nodeType == obj.DOCUMENT_NODE }
+  function isObject(obj)     { return type(obj) == "object" }
+  function isPlainObject(obj) {
+    return isObject(obj) && !isWindow(obj) && Object.getPrototypeOf(obj) == Object.prototype
+  }
+
+  function likeArray(obj) {
+    var length = !!obj && 'length' in obj && obj.length,
+      type = $.type(obj)
+
+    return 'function' != type && !isWindow(obj) && (
+      'array' == type || length === 0 ||
+        (typeof length == 'number' && length > 0 && (length - 1) in obj)
+    )
+  }
+
+  function compact(array) { return filter.call(array, function(item){ return item != null }) }
+  function flatten(array) { return array.length > 0 ? $.fn.concat.apply([], array) : array }
+  camelize = function(str){ return str.replace(/-+(.)?/g, function(match, chr){ return chr ? chr.toUpperCase() : '' }) }
+  function dasherize(str) {
+    return str.replace(/::/g, '/')
+           .replace(/([A-Z]+)([A-Z][a-z])/g, '$1_$2')
+           .replace(/([a-z\d])([A-Z])/g, '$1_$2')
+           .replace(/_/g, '-')
+           .toLowerCase()
+  }
+  uniq = function(array){ return filter.call(array, function(item, idx){ return array.indexOf(item) == idx }) }
+
+  function classRE(name) {
+    return name in classCache ?
+      classCache[name] : (classCache[name] = new RegExp('(^|\\s)' + name + '(\\s|$)'))
+  }
+
+  function maybeAddPx(name, value) {
+    return (typeof value == "number" && !cssNumber[dasherize(name)]) ? value + "px" : value
+  }
+
+  function defaultDisplay(nodeName) {
+    var element, display
+    if (!elementDisplay[nodeName]) {
+      element = document.createElement(nodeName)
+      document.body.appendChild(element)
+      display = getComputedStyle(element, '').getPropertyValue("display")
+      element.parentNode.removeChild(element)
+      display == "none" && (display = "block")
+      elementDisplay[nodeName] = display
+    }
+    return elementDisplay[nodeName]
+  }
+
+  function children(element) {
+    return 'children' in element ?
+      slice.call(element.children) :
+      $.map(element.childNodes, function(node){ if (node.nodeType == 1) return node })
+  }
+
+  function Z(dom, selector) {
+    var i, len = dom ? dom.length : 0
+    for (i = 0; i < len; i++) this[i] = dom[i]
+    this.length = len
+    this.selector = selector || ''
+  }
+
+  // `$.zepto.fragment` takes a html string and an optional tag name
+  // to generate DOM nodes from the given html string.
+  // The generated DOM nodes are returned as an array.
+  // This function can be overridden in plugins for example to make
+  // it compatible with browsers that don't support the DOM fully.
+  zepto.fragment = function(html, name, properties) {
+    var dom, nodes, container
+
+    // A special case optimization for a single tag
+    if (singleTagRE.test(html)) dom = $(document.createElement(RegExp.$1))
+
+    if (!dom) {
+      if (html.replace) html = html.replace(tagExpanderRE, "<$1></$2>")
+      if (name === undefined) name = fragmentRE.test(html) && RegExp.$1
+      if (!(name in containers)) name = '*'
+
+      container = containers[name]
+      container.innerHTML = '' + html
+      dom = $.each(slice.call(container.childNodes), function(){
+        container.removeChild(this)
+      })
+    }
+
+    if (isPlainObject(properties)) {
+      nodes = $(dom)
+      $.each(properties, function(key, value) {
+        if (methodAttributes.indexOf(key) > -1) nodes[key](value)
+        else nodes.attr(key, value)
+      })
+    }
+
+    return dom
+  }
+
+  // `$.zepto.Z` swaps out the prototype of the given `dom` array
+  // of nodes with `$.fn` and thus supplying all the Zepto functions
+  // to the array. This method can be overridden in plugins.
+  zepto.Z = function(dom, selector) {
+    return new Z(dom, selector)
+  }
+
+  // `$.zepto.isZ` should return `true` if the given object is a Zepto
+  // collection. This method can be overridden in plugins.
+  zepto.isZ = function(object) {
+    return object instanceof zepto.Z
+  }
+
+  // `$.zepto.init` is Zepto's counterpart to jQuery's `$.fn.init` and
+  // takes a CSS selector and an optional context (and handles various
+  // special cases).
+  // This method can be overridden in plugins.
+  zepto.init = function(selector, context) {
+    var dom
+    // If nothing given, return an empty Zepto collection
+    if (!selector) return zepto.Z()
+    // Optimize for string selectors
+    else if (typeof selector == 'string') {
+      selector = selector.trim()
+      // If it's a html fragment, create nodes from it
+      // Note: In both Chrome 21 and Firefox 15, DOM error 12
+      // is thrown if the fragment doesn't begin with <
+      if (selector[0] == '<' && fragmentRE.test(selector))
+        dom = zepto.fragment(selector, RegExp.$1, context), selector = null
+      // If there's a context, create a collection on that context first, and select
+      // nodes from there
+      else if (context !== undefined) return $(context).find(selector)
+      // If it's a CSS selector, use it to select nodes.
+      else dom = zepto.qsa(document, selector)
+    }
+    // If a function is given, call it when the DOM is ready
+    else if (isFunction(selector)) return $(document).ready(selector)
+    // If a Zepto collection is given, just return it
+    else if (zepto.isZ(selector)) return selector
+    else {
+      // normalize array if an array of nodes is given
+      if (isArray(selector)) dom = compact(selector)
+      // Wrap DOM nodes.
+      else if (isObject(selector))
+        dom = [selector], selector = null
+      // If it's a html fragment, create nodes from it
+      else if (fragmentRE.test(selector))
+        dom = zepto.fragment(selector.trim(), RegExp.$1, context), selector = null
+      // If there's a context, create a collection on that context first, and select
+      // nodes from there
+      else if (context !== undefined) return $(context).find(selector)
+      // And last but no least, if it's a CSS selector, use it to select nodes.
+      else dom = zepto.qsa(document, selector)
+    }
+    // create a new Zepto collection from the nodes found
+    return zepto.Z(dom, selector)
+  }
+
+  // `$` will be the base `Zepto` object. When calling this
+  // function just call `$.zepto.init, which makes the implementation
+  // details of selecting nodes and creating Zepto collections
+  // patchable in plugins.
+  $ = function(selector, context){
+    return zepto.init(selector, context)
+  }
+
+  function extend(target, source, deep) {
+    for (key in source)
+      if (deep && (isPlainObject(source[key]) || isArray(source[key]))) {
+        if (isPlainObject(source[key]) && !isPlainObject(target[key]))
+          target[key] = {}
+        if (isArray(source[key]) && !isArray(target[key]))
+          target[key] = []
+        extend(target[key], source[key], deep)
+      }
+      else if (source[key] !== undefined) target[key] = source[key]
+  }
+
+  // Copy all but undefined properties from one or more
+  // objects to the `target` object.
+  $.extend = function(target){
+    var deep, args = slice.call(arguments, 1)
+    if (typeof target == 'boolean') {
+      deep = target
+      target = args.shift()
+    }
+    args.forEach(function(arg){ extend(target, arg, deep) })
+    return target
+  }
+
+  // `$.zepto.qsa` is Zepto's CSS selector implementation which
+  // uses `document.querySelectorAll` and optimizes for some special cases, like `#id`.
+  // This method can be overridden in plugins.
+  zepto.qsa = function(element, selector){
+    var found,
+        maybeID = selector[0] == '#',
+        maybeClass = !maybeID && selector[0] == '.',
+        nameOnly = maybeID || maybeClass ? selector.slice(1) : selector, // Ensure that a 1 char tag name still gets checked
+        isSimple = simpleSelectorRE.test(nameOnly)
+    return (element.getElementById && isSimple && maybeID) ? // Safari DocumentFragment doesn't have getElementById
+      ( (found = element.getElementById(nameOnly)) ? [found] : [] ) :
+      (element.nodeType !== 1 && element.nodeType !== 9 && element.nodeType !== 11) ? [] :
+      slice.call(
+        isSimple && !maybeID && element.getElementsByClassName ? // DocumentFragment doesn't have getElementsByClassName/TagName
+          maybeClass ? element.getElementsByClassName(nameOnly) : // If it's simple, it could be a class
+          element.getElementsByTagName(selector) : // Or a tag
+          element.querySelectorAll(selector) // Or it's not simple, and we need to query all
+      )
+  }
+
+  function filtered(nodes, selector) {
+    return selector == null ? $(nodes) : $(nodes).filter(selector)
+  }
+
+  $.contains = document.documentElement.contains ?
+    function(parent, node) {
+      return parent !== node && parent.contains(node)
+    } :
+    function(parent, node) {
+      while (node && (node = node.parentNode))
+        if (node === parent) return true
+      return false
+    }
+
+  function funcArg(context, arg, idx, payload) {
+    return isFunction(arg) ? arg.call(context, idx, payload) : arg
+  }
+
+  function setAttribute(node, name, value) {
+    value == null ? node.removeAttribute(name) : node.setAttribute(name, value)
+  }
+
+  // access className property while respecting SVGAnimatedString
+  function className(node, value){
+    var klass = node.className || '',
+        svg   = klass && klass.baseVal !== undefined
+
+    if (value === undefined) return svg ? klass.baseVal : klass
+    svg ? (klass.baseVal = value) : (node.className = value)
+  }
+
+  // "true"  => true
+  // "false" => false
+  // "null"  => null
+  // "42"    => 42
+  // "42.5"  => 42.5
+  // "08"    => "08"
+  // JSON    => parse if valid
+  // String  => self
+  function deserializeValue(value) {
+    try {
+      return value ?
+        value == "true" ||
+        ( value == "false" ? false :
+          value == "null" ? null :
+          +value + "" == value ? +value :
+          /^[\[\{]/.test(value) ? $.parseJSON(value) :
+          value )
+        : value
+    } catch(e) {
+      return value
+    }
+  }
+
+  $.type = type
+  $.isFunction = isFunction
+  $.isWindow = isWindow
+  $.isArray = isArray
+  $.isPlainObject = isPlainObject
+
+  $.isEmptyObject = function(obj) {
+    var name
+    for (name in obj) return false
+    return true
+  }
+
+  $.isNumeric = function(val) {
+    var num = Number(val), type = typeof val
+    return val != null && type != 'boolean' &&
+      (type != 'string' || val.length) &&
+      !isNaN(num) && isFinite(num) || false
+  }
+
+  $.inArray = function(elem, array, i){
+    return emptyArray.indexOf.call(array, elem, i)
+  }
+
+  $.camelCase = camelize
+  $.trim = function(str) {
+    return str == null ? "" : String.prototype.trim.call(str)
+  }
+
+  // plugin compatibility
+  $.uuid = 0
+  $.support = { }
+  $.expr = { }
+  $.noop = function() {}
+
+  $.map = function(elements, callback){
+    var value, values = [], i, key
+    if (likeArray(elements))
+      for (i = 0; i < elements.length; i++) {
+        value = callback(elements[i], i)
+        if (value != null) values.push(value)
+      }
+    else
+      for (key in elements) {
+        value = callback(elements[key], key)
+        if (value != null) values.push(value)
+      }
+    return flatten(values)
+  }
+
+  $.each = function(elements, callback){
+    var i, key
+    if (likeArray(elements)) {
+      for (i = 0; i < elements.length; i++)
+        if (callback.call(elements[i], i, elements[i]) === false) return elements
+    } else {
+      for (key in elements)
+        if (callback.call(elements[key], key, elements[key]) === false) return elements
+    }
+
+    return elements
+  }
+
+  $.grep = function(elements, callback){
+    return filter.call(elements, callback)
+  }
+
+  if (window.JSON) $.parseJSON = JSON.parse
+
+  // Populate the class2type map
+  $.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
+    class2type[ "[object " + name + "]" ] = name.toLowerCase()
+  })
+
+  // Define methods that will be available on all
+  // Zepto collections
+  $.fn = {
+    constructor: zepto.Z,
+    length: 0,
+
+    // Because a collection acts like an array
+    // copy over these useful array functions.
+    forEach: emptyArray.forEach,
+    reduce: emptyArray.reduce,
+    push: emptyArray.push,
+    sort: emptyArray.sort,
+    splice: emptyArray.splice,
+    indexOf: emptyArray.indexOf,
+    concat: function(){
+      var i, value, args = []
+      for (i = 0; i < arguments.length; i++) {
+        value = arguments[i]
+        args[i] = zepto.isZ(value) ? value.toArray() : value
+      }
+      return concat.apply(zepto.isZ(this) ? this.toArray() : this, args)
+    },
+
+    // `map` and `slice` in the jQuery API work differently
+    // from their array counterparts
+    map: function(fn){
+      return $($.map(this, function(el, i){ return fn.call(el, i, el) }))
+    },
+    slice: function(){
+      return $(slice.apply(this, arguments))
+    },
+
+    ready: function(callback){
+      // need to check if document.body exists for IE as that browser reports
+      // document ready when it hasn't yet created the body element
+      if (readyRE.test(document.readyState) && document.body) callback($)
+      else document.addEventListener('DOMContentLoaded', function(){ callback($) }, false)
+      return this
+    },
+    get: function(idx){
+      return idx === undefined ? slice.call(this) : this[idx >= 0 ? idx : idx + this.length]
+    },
+    toArray: function(){ return this.get() },
+    size: function(){
+      return this.length
+    },
+    remove: function(){
+      return this.each(function(){
+        if (this.parentNode != null)
+          this.parentNode.removeChild(this)
+      })
+    },
+    each: function(callback){
+      emptyArray.every.call(this, function(el, idx){
+        return callback.call(el, idx, el) !== false
+      })
+      return this
+    },
+    filter: function(selector){
+      if (isFunction(selector)) return this.not(this.not(selector))
+      return $(filter.call(this, function(element){
+        return zepto.matches(element, selector)
+      }))
+    },
+    add: function(selector,context){
+      return $(uniq(this.concat($(selector,context))))
+    },
+    is: function(selector){
+      return this.length > 0 && zepto.matches(this[0], selector)
+    },
+    not: function(selector){
+      var nodes=[]
+      if (isFunction(selector) && selector.call !== undefined)
+        this.each(function(idx){
+          if (!selector.call(this,idx)) nodes.push(this)
+        })
+      else {
+        var excludes = typeof selector == 'string' ? this.filter(selector) :
+          (likeArray(selector) && isFunction(selector.item)) ? slice.call(selector) : $(selector)
+        this.forEach(function(el){
+          if (excludes.indexOf(el) < 0) nodes.push(el)
+        })
+      }
+      return $(nodes)
+    },
+    has: function(selector){
+      return this.filter(function(){
+        return isObject(selector) ?
+          $.contains(this, selector) :
+          $(this).find(selector).size()
+      })
+    },
+    eq: function(idx){
+      return idx === -1 ? this.slice(idx) : this.slice(idx, + idx + 1)
+    },
+    first: function(){
+      var el = this[0]
+      return el && !isObject(el) ? el : $(el)
+    },
+    last: function(){
+      var el = this[this.length - 1]
+      return el && !isObject(el) ? el : $(el)
+    },
+    find: function(selector){
+      var result, $this = this
+      if (!selector) result = $()
+      else if (typeof selector == 'object')
+        result = $(selector).filter(function(){
+          var node = this
+          return emptyArray.some.call($this, function(parent){
+            return $.contains(parent, node)
+          })
+        })
+      else if (this.length == 1) result = $(zepto.qsa(this[0], selector))
+      else result = this.map(function(){ return zepto.qsa(this, selector) })
+      return result
+    },
+    closest: function(selector, context){
+      var nodes = [], collection = typeof selector == 'object' && $(selector)
+      this.each(function(_, node){
+        while (node && !(collection ? collection.indexOf(node) >= 0 : zepto.matches(node, selector)))
+          node = node !== context && !isDocument(node) && node.parentNode
+        if (node && nodes.indexOf(node) < 0) nodes.push(node)
+      })
+      return $(nodes)
+    },
+    parents: function(selector){
+      var ancestors = [], nodes = this
+      while (nodes.length > 0)
+        nodes = $.map(nodes, function(node){
+          if ((node = node.parentNode) && !isDocument(node) && ancestors.indexOf(node) < 0) {
+            ancestors.push(node)
+            return node
+          }
+        })
+      return filtered(ancestors, selector)
+    },
+    parent: function(selector){
+      return filtered(uniq(this.pluck('parentNode')), selector)
+    },
+    children: function(selector){
+      return filtered(this.map(function(){ return children(this) }), selector)
+    },
+    contents: function() {
+      return this.map(function() { return this.contentDocument || slice.call(this.childNodes) })
+    },
+    siblings: function(selector){
+      return filtered(this.map(function(i, el){
+        return filter.call(children(el.parentNode), function(child){ return child!==el })
+      }), selector)
+    },
+    empty: function(){
+      return this.each(function(){ this.innerHTML = '' })
+    },
+    // `pluck` is borrowed from Prototype.js
+    pluck: function(property){
+      return $.map(this, function(el){ return el[property] })
+    },
+    show: function(){
+      return this.each(function(){
+        this.style.display == "none" && (this.style.display = '')
+        if (getComputedStyle(this, '').getPropertyValue("display") == "none")
+          this.style.display = defaultDisplay(this.nodeName)
+      })
+    },
+    replaceWith: function(newContent){
+      return this.before(newContent).remove()
+    },
+    wrap: function(structure){
+      var func = isFunction(structure)
+      if (this[0] && !func)
+        var dom   = $(structure).get(0),
+            clone = dom.parentNode || this.length > 1
+
+      return this.each(function(index){
+        $(this).wrapAll(
+          func ? structure.call(this, index) :
+            clone ? dom.cloneNode(true) : dom
+        )
+      })
+    },
+    wrapAll: function(structure){
+      if (this[0]) {
+        $(this[0]).before(structure = $(structure))
+        var children
+        // drill down to the inmost element
+        while ((children = structure.children()).length) structure = children.first()
+        $(structure).append(this)
+      }
+      return this
+    },
+    wrapInner: function(structure){
+      var func = isFunction(structure)
+      return this.each(function(index){
+        var self = $(this), contents = self.contents(),
+            dom  = func ? structure.call(this, index) : structure
+        contents.length ? contents.wrapAll(dom) : self.append(dom)
+      })
+    },
+    unwrap: function(){
+      this.parent().each(function(){
+        $(this).replaceWith($(this).children())
+      })
+      return this
+    },
+    clone: function(){
+      return this.map(function(){ return this.cloneNode(true) })
+    },
+    hide: function(){
+      return this.css("display", "none")
+    },
+    toggle: function(setting){
+      return this.each(function(){
+        var el = $(this)
+        ;(setting === undefined ? el.css("display") == "none" : setting) ? el.show() : el.hide()
+      })
+    },
+    prev: function(selector){ return $(this.pluck('previousElementSibling')).filter(selector || '*') },
+    next: function(selector){ return $(this.pluck('nextElementSibling')).filter(selector || '*') },
+    html: function(html){
+      return 0 in arguments ?
+        this.each(function(idx){
+          var originHtml = this.innerHTML
+          $(this).empty().append( funcArg(this, html, idx, originHtml) )
+        }) :
+        (0 in this ? this[0].innerHTML : null)
+    },
+    text: function(text){
+      return 0 in arguments ?
+        this.each(function(idx){
+          var newText = funcArg(this, text, idx, this.textContent)
+          this.textContent = newText == null ? '' : ''+newText
+        }) :
+        (0 in this ? this.pluck('textContent').join("") : null)
+    },
+    attr: function(name, value){
+      var result
+      return (typeof name == 'string' && !(1 in arguments)) ?
+        (0 in this && this[0].nodeType == 1 && (result = this[0].getAttribute(name)) != null ? result : undefined) :
+        this.each(function(idx){
+          if (this.nodeType !== 1) return
+          if (isObject(name)) for (key in name) setAttribute(this, key, name[key])
+          else setAttribute(this, name, funcArg(this, value, idx, this.getAttribute(name)))
+        })
+    },
+    removeAttr: function(name){
+      return this.each(function(){ this.nodeType === 1 && name.split(' ').forEach(function(attribute){
+        setAttribute(this, attribute)
+      }, this)})
+    },
+    prop: function(name, value){
+      name = propMap[name] || name
+      return (1 in arguments) ?
+        this.each(function(idx){
+          this[name] = funcArg(this, value, idx, this[name])
+        }) :
+        (this[0] && this[0][name])
+    },
+    removeProp: function(name){
+      name = propMap[name] || name
+      return this.each(function(){ delete this[name] })
+    },
+    data: function(name, value){
+      var attrName = 'data-' + name.replace(capitalRE, '-$1').toLowerCase()
+
+      var data = (1 in arguments) ?
+        this.attr(attrName, value) :
+        this.attr(attrName)
+
+      return data !== null ? deserializeValue(data) : undefined
+    },
+    val: function(value){
+      if (0 in arguments) {
+        if (value == null) value = ""
+        return this.each(function(idx){
+          this.value = funcArg(this, value, idx, this.value)
+        })
+      } else {
+        return this[0] && (this[0].multiple ?
+           $(this[0]).find('option').filter(function(){ return this.selected }).pluck('value') :
+           this[0].value)
+      }
+    },
+    offset: function(coordinates){
+      if (coordinates) return this.each(function(index){
+        var $this = $(this),
+            coords = funcArg(this, coordinates, index, $this.offset()),
+            parentOffset = $this.offsetParent().offset(),
+            props = {
+              top:  coords.top  - parentOffset.top,
+              left: coords.left - parentOffset.left
+            }
+
+        if ($this.css('position') == 'static') props['position'] = 'relative'
+        $this.css(props)
+      })
+      if (!this.length) return null
+      if (document.documentElement !== this[0] && !$.contains(document.documentElement, this[0]))
+        return {top: 0, left: 0}
+      var obj = this[0].getBoundingClientRect()
+      return {
+        left: obj.left + window.pageXOffset,
+        top: obj.top + window.pageYOffset,
+        width: Math.round(obj.width),
+        height: Math.round(obj.height)
+      }
+    },
+    css: function(property, value){
+      if (arguments.length < 2) {
+        var element = this[0]
+        if (typeof property == 'string') {
+          if (!element) return
+          return element.style[camelize(property)] || getComputedStyle(element, '').getPropertyValue(property)
+        } else if (isArray(property)) {
+          if (!element) return
+          var props = {}
+          var computedStyle = getComputedStyle(element, '')
+          $.each(property, function(_, prop){
+            props[prop] = (element.style[camelize(prop)] || computedStyle.getPropertyValue(prop))
+          })
+          return props
+        }
+      }
+
+      var css = ''
+      if (type(property) == 'string') {
+        if (!value && value !== 0)
+          this.each(function(){ this.style.removeProperty(dasherize(property)) })
+        else
+          css = dasherize(property) + ":" + maybeAddPx(property, value)
+      } else {
+        for (key in property)
+          if (!property[key] && property[key] !== 0)
+            this.each(function(){ this.style.removeProperty(dasherize(key)) })
+          else
+            css += dasherize(key) + ':' + maybeAddPx(key, property[key]) + ';'
+      }
+
+      return this.each(function(){ this.style.cssText += ';' + css })
+    },
+    index: function(element){
+      return element ? this.indexOf($(element)[0]) : this.parent().children().indexOf(this[0])
+    },
+    hasClass: function(name){
+      if (!name) return false
+      return emptyArray.some.call(this, function(el){
+        return this.test(className(el))
+      }, classRE(name))
+    },
+    addClass: function(name){
+      if (!name) return this
+      return this.each(function(idx){
+        if (!('className' in this)) return
+        classList = []
+        var cls = className(this), newName = funcArg(this, name, idx, cls)
+        newName.split(/\s+/g).forEach(function(klass){
+          if (!$(this).hasClass(klass)) classList.push(klass)
+        }, this)
+        classList.length && className(this, cls + (cls ? " " : "") + classList.join(" "))
+      })
+    },
+    removeClass: function(name){
+      return this.each(function(idx){
+        if (!('className' in this)) return
+        if (name === undefined) return className(this, '')
+        classList = className(this)
+        funcArg(this, name, idx, classList).split(/\s+/g).forEach(function(klass){
+          classList = classList.replace(classRE(klass), " ")
+        })
+        className(this, classList.trim())
+      })
+    },
+    toggleClass: function(name, when){
+      if (!name) return this
+      return this.each(function(idx){
+        var $this = $(this), names = funcArg(this, name, idx, className(this))
+        names.split(/\s+/g).forEach(function(klass){
+          (when === undefined ? !$this.hasClass(klass) : when) ?
+            $this.addClass(klass) : $this.removeClass(klass)
+        })
+      })
+    },
+    scrollTop: function(value){
+      if (!this.length) return
+      var hasScrollTop = 'scrollTop' in this[0]
+      if (value === undefined) return hasScrollTop ? this[0].scrollTop : this[0].pageYOffset
+      return this.each(hasScrollTop ?
+        function(){ this.scrollTop = value } :
+        function(){ this.scrollTo(this.scrollX, value) })
+    },
+    scrollLeft: function(value){
+      if (!this.length) return
+      var hasScrollLeft = 'scrollLeft' in this[0]
+      if (value === undefined) return hasScrollLeft ? this[0].scrollLeft : this[0].pageXOffset
+      return this.each(hasScrollLeft ?
+        function(){ this.scrollLeft = value } :
+        function(){ this.scrollTo(value, this.scrollY) })
+    },
+    position: function() {
+      if (!this.length) return
+
+      var elem = this[0],
+        // Get *real* offsetParent
+        offsetParent = this.offsetParent(),
+        // Get correct offsets
+        offset       = this.offset(),
+        parentOffset = rootNodeRE.test(offsetParent[0].nodeName) ? { top: 0, left: 0 } : offsetParent.offset()
+
+      // Subtract element margins
+      // note: when an element has margin: auto the offsetLeft and marginLeft
+      // are the same in Safari causing offset.left to incorrectly be 0
+      offset.top  -= parseFloat( $(elem).css('margin-top') ) || 0
+      offset.left -= parseFloat( $(elem).css('margin-left') ) || 0
+
+      // Add offsetParent borders
+      parentOffset.top  += parseFloat( $(offsetParent[0]).css('border-top-width') ) || 0
+      parentOffset.left += parseFloat( $(offsetParent[0]).css('border-left-width') ) || 0
+
+      // Subtract the two offsets
+      return {
+        top:  offset.top  - parentOffset.top,
+        left: offset.left - parentOffset.left
+      }
+    },
+    offsetParent: function() {
+      return this.map(function(){
+        var parent = this.offsetParent || document.body
+        while (parent && !rootNodeRE.test(parent.nodeName) && $(parent).css("position") == "static")
+          parent = parent.offsetParent
+        return parent
+      })
+    }
+  }
+
+  // for now
+  $.fn.detach = $.fn.remove
+
+  // Generate the `width` and `height` functions
+  ;['width', 'height'].forEach(function(dimension){
+    var dimensionProperty =
+      dimension.replace(/./, function(m){ return m[0].toUpperCase() })
+
+    $.fn[dimension] = function(value){
+      var offset, el = this[0]
+      if (value === undefined) return isWindow(el) ? el['inner' + dimensionProperty] :
+        isDocument(el) ? el.documentElement['scroll' + dimensionProperty] :
+        (offset = this.offset()) && offset[dimension]
+      else return this.each(function(idx){
+        el = $(this)
+        el.css(dimension, funcArg(this, value, idx, el[dimension]()))
+      })
+    }
+  })
+
+  function traverseNode(node, fun) {
+    fun(node)
+    for (var i = 0, len = node.childNodes.length; i < len; i++)
+      traverseNode(node.childNodes[i], fun)
+  }
+
+  // Generate the `after`, `prepend`, `before`, `append`,
+  // `insertAfter`, `insertBefore`, `appendTo`, and `prependTo` methods.
+  adjacencyOperators.forEach(function(operator, operatorIndex) {
+    var inside = operatorIndex % 2 //=> prepend, append
+
+    $.fn[operator] = function(){
+      // arguments can be nodes, arrays of nodes, Zepto objects and HTML strings
+      var argType, nodes = $.map(arguments, function(arg) {
+            var arr = []
+            argType = type(arg)
+            if (argType == "array") {
+              arg.forEach(function(el) {
+                if (el.nodeType !== undefined) return arr.push(el)
+                else if ($.zepto.isZ(el)) return arr = arr.concat(el.get())
+                arr = arr.concat(zepto.fragment(el))
+              })
+              return arr
+            }
+            return argType == "object" || arg == null ?
+              arg : zepto.fragment(arg)
+          }),
+          parent, copyByClone = this.length > 1
+      if (nodes.length < 1) return this
+
+      return this.each(function(_, target){
+        parent = inside ? target : target.parentNode
+
+        // convert all methods to a "before" operation
+        target = operatorIndex == 0 ? target.nextSibling :
+                 operatorIndex == 1 ? target.firstChild :
+                 operatorIndex == 2 ? target :
+                 null
+
+        var parentInDocument = $.contains(document.documentElement, parent)
+
+        nodes.forEach(function(node){
+          if (copyByClone) node = node.cloneNode(true)
+          else if (!parent) return $(node).remove()
+
+          parent.insertBefore(node, target)
+          if (parentInDocument) traverseNode(node, function(el){
+            if (el.nodeName != null && el.nodeName.toUpperCase() === 'SCRIPT' &&
+               (!el.type || el.type === 'text/javascript') && !el.src){
+              var target = el.ownerDocument ? el.ownerDocument.defaultView : window
+              target['eval'].call(target, el.innerHTML)
+            }
+          })
+        })
+      })
+    }
+
+    // after    => insertAfter
+    // prepend  => prependTo
+    // before   => insertBefore
+    // append   => appendTo
+    $.fn[inside ? operator+'To' : 'insert'+(operatorIndex ? 'Before' : 'After')] = function(html){
+      $(html)[operator](this)
+      return this
+    }
+  })
+
+  zepto.Z.prototype = Z.prototype = $.fn
+
+  // Export internal API functions in the `$.zepto` namespace
+  zepto.uniq = uniq
+  zepto.deserializeValue = deserializeValue
+  $.zepto = zepto
+
+  return $
+})()
+
+window.Zepto = Zepto
+window.$ === undefined && (window.$ = Zepto)
+    module.exports = Zepto
+    
+;(function($){
+  var _zid = 1, undefined,
+      slice = Array.prototype.slice,
+      isFunction = $.isFunction,
+      isString = function(obj){ return typeof obj == 'string' },
+      handlers = {},
+      specialEvents={},
+      focusinSupported = 'onfocusin' in window,
+      focus = { focus: 'focusin', blur: 'focusout' },
+      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }
+
+  specialEvents.click = specialEvents.mousedown = specialEvents.mouseup = specialEvents.mousemove = 'MouseEvents'
+
+  function zid(element) {
+    return element._zid || (element._zid = _zid++)
+  }
+  function findHandlers(element, event, fn, selector) {
+    event = parse(event)
+    if (event.ns) var matcher = matcherFor(event.ns)
+    return (handlers[zid(element)] || []).filter(function(handler) {
+      return handler
+        && (!event.e  || handler.e == event.e)
+        && (!event.ns || matcher.test(handler.ns))
+        && (!fn       || zid(handler.fn) === zid(fn))
+        && (!selector || handler.sel == selector)
+    })
+  }
+  function parse(event) {
+    var parts = ('' + event).split('.')
+    return {e: parts[0], ns: parts.slice(1).sort().join(' ')}
+  }
+  function matcherFor(ns) {
+    return new RegExp('(?:^| )' + ns.replace(' ', ' .* ?') + '(?: |$)')
+  }
+
+  function eventCapture(handler, captureSetting) {
+    return handler.del &&
+      (!focusinSupported && (handler.e in focus)) ||
+      !!captureSetting
+  }
+
+  function realEvent(type) {
+    return hover[type] || (focusinSupported && focus[type]) || type
+  }
+
+  function add(element, events, fn, data, selector, delegator, capture){
+    var id = zid(element), set = (handlers[id] || (handlers[id] = []))
+    events.split(/\s/).forEach(function(event){
+      if (event == 'ready') return $(document).ready(fn)
+      var handler   = parse(event)
+      handler.fn    = fn
+      handler.sel   = selector
+      // emulate mouseenter, mouseleave
+      if (handler.e in hover) fn = function(e){
+        var related = e.relatedTarget
+        if (!related || (related !== this && !$.contains(this, related)))
+          return handler.fn.apply(this, arguments)
+      }
+      handler.del   = delegator
+      var callback  = delegator || fn
+      handler.proxy = function(e){
+        e = compatible(e)
+        if (e.isImmediatePropagationStopped()) return
+        e.data = data
+        var result = callback.apply(element, e._args == undefined ? [e] : [e].concat(e._args))
+        if (result === false) e.preventDefault(), e.stopPropagation()
+        return result
+      }
+      handler.i = set.length
+      set.push(handler)
+      if ('addEventListener' in element)
+        element.addEventListener(realEvent(handler.e), handler.proxy, eventCapture(handler, capture))
+    })
+  }
+  function remove(element, events, fn, selector, capture){
+    var id = zid(element)
+    ;(events || '').split(/\s/).forEach(function(event){
+      findHandlers(element, event, fn, selector).forEach(function(handler){
+        delete handlers[id][handler.i]
+      if ('removeEventListener' in element)
+        element.removeEventListener(realEvent(handler.e), handler.proxy, eventCapture(handler, capture))
+      })
+    })
+  }
+
+  $.event = { add: add, remove: remove }
+
+  $.proxy = function(fn, context) {
+    var args = (2 in arguments) && slice.call(arguments, 2)
+    if (isFunction(fn)) {
+      var proxyFn = function(){ return fn.apply(context, args ? args.concat(slice.call(arguments)) : arguments) }
+      proxyFn._zid = zid(fn)
+      return proxyFn
+    } else if (isString(context)) {
+      if (args) {
+        args.unshift(fn[context], fn)
+        return $.proxy.apply(null, args)
+      } else {
+        return $.proxy(fn[context], fn)
+      }
+    } else {
+      throw new TypeError("expected function")
+    }
+  }
+
+  $.fn.bind = function(event, data, callback){
+    return this.on(event, data, callback)
+  }
+  $.fn.unbind = function(event, callback){
+    return this.off(event, callback)
+  }
+  $.fn.one = function(event, selector, data, callback){
+    return this.on(event, selector, data, callback, 1)
+  }
+
+  var returnTrue = function(){return true},
+      returnFalse = function(){return false},
+      ignoreProperties = /^([A-Z]|returnValue$|layer[XY]$|webkitMovement[XY]$)/,
+      eventMethods = {
+        preventDefault: 'isDefaultPrevented',
+        stopImmediatePropagation: 'isImmediatePropagationStopped',
+        stopPropagation: 'isPropagationStopped'
+      }
+
+  function compatible(event, source) {
+    if (source || !event.isDefaultPrevented) {
+      source || (source = event)
+
+      $.each(eventMethods, function(name, predicate) {
+        var sourceMethod = source[name]
+        event[name] = function(){
+          this[predicate] = returnTrue
+          return sourceMethod && sourceMethod.apply(source, arguments)
+        }
+        event[predicate] = returnFalse
+      })
+
+      event.timeStamp || (event.timeStamp = Date.now())
+
+      if (source.defaultPrevented !== undefined ? source.defaultPrevented :
+          'returnValue' in source ? source.returnValue === false :
+          source.getPreventDefault && source.getPreventDefault())
+        event.isDefaultPrevented = returnTrue
+    }
+    return event
+  }
+
+  function createProxy(event) {
+    var key, proxy = { originalEvent: event }
+    for (key in event)
+      if (!ignoreProperties.test(key) && event[key] !== undefined) proxy[key] = event[key]
+
+    return compatible(proxy, event)
+  }
+
+  $.fn.delegate = function(selector, event, callback){
+    return this.on(event, selector, callback)
+  }
+  $.fn.undelegate = function(selector, event, callback){
+    return this.off(event, selector, callback)
+  }
+
+  $.fn.live = function(event, callback){
+    $(document.body).delegate(this.selector, event, callback)
+    return this
+  }
+  $.fn.die = function(event, callback){
+    $(document.body).undelegate(this.selector, event, callback)
+    return this
+  }
+
+  $.fn.on = function(event, selector, data, callback, one){
+    var autoRemove, delegator, $this = this
+    if (event && !isString(event)) {
+      $.each(event, function(type, fn){
+        $this.on(type, selector, data, fn, one)
+      })
+      return $this
+    }
+
+    if (!isString(selector) && !isFunction(callback) && callback !== false)
+      callback = data, data = selector, selector = undefined
+    if (callback === undefined || data === false)
+      callback = data, data = undefined
+
+    if (callback === false) callback = returnFalse
+
+    return $this.each(function(_, element){
+      if (one) autoRemove = function(e){
+        remove(element, e.type, callback)
+        return callback.apply(this, arguments)
+      }
+
+      if (selector) delegator = function(e){
+        var evt, match = $(e.target).closest(selector, element).get(0)
+        if (match && match !== element) {
+          evt = $.extend(createProxy(e), {currentTarget: match, liveFired: element})
+          return (autoRemove || callback).apply(match, [evt].concat(slice.call(arguments, 1)))
+        }
+      }
+
+      add(element, event, callback, data, selector, delegator || autoRemove)
+    })
+  }
+  $.fn.off = function(event, selector, callback){
+    var $this = this
+    if (event && !isString(event)) {
+      $.each(event, function(type, fn){
+        $this.off(type, selector, fn)
+      })
+      return $this
+    }
+
+    if (!isString(selector) && !isFunction(callback) && callback !== false)
+      callback = selector, selector = undefined
+
+    if (callback === false) callback = returnFalse
+
+    return $this.each(function(){
+      remove(this, event, callback, selector)
+    })
+  }
+
+  $.fn.trigger = function(event, args){
+    event = (isString(event) || $.isPlainObject(event)) ? $.Event(event) : compatible(event)
+    event._args = args
+    return this.each(function(){
+      // handle focus(), blur() by calling them directly
+      if (event.type in focus && typeof this[event.type] == "function") this[event.type]()
+      // items in the collection might not be DOM elements
+      else if ('dispatchEvent' in this) this.dispatchEvent(event)
+      else $(this).triggerHandler(event, args)
+    })
+  }
+
+  // triggers event handlers on current element just as if an event occurred,
+  // doesn't trigger an actual event, doesn't bubble
+  $.fn.triggerHandler = function(event, args){
+    var e, result
+    this.each(function(i, element){
+      e = createProxy(isString(event) ? $.Event(event) : event)
+      e._args = args
+      e.target = element
+      $.each(findHandlers(element, event.type || event), function(i, handler){
+        result = handler.proxy(e)
+        if (e.isImmediatePropagationStopped()) return false
+      })
+    })
+    return result
+  }
+
+  // shortcut methods for `.bind(event, fn)` for each event type
+  ;('focusin focusout focus blur load resize scroll unload click dblclick '+
+  'mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave '+
+  'change select keydown keypress keyup error').split(' ').forEach(function(event) {
+    $.fn[event] = function(callback) {
+      return (0 in arguments) ?
+        this.bind(event, callback) :
+        this.trigger(event)
+    }
+  })
+
+  $.Event = function(type, props) {
+    if (!isString(type)) props = type, type = props.type
+    var event = document.createEvent(specialEvents[type] || 'Events'), bubbles = true
+    if (props) for (var name in props) (name == 'bubbles') ? (bubbles = !!props[name]) : (event[name] = props[name])
+    event.initEvent(type, bubbles, true)
+    return compatible(event)
+  }
+
+})(Zepto)
+
+;(function($){
+  var jsonpID = +new Date(),
+      document = window.document,
+      key,
+      name,
+      rscript = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi,
+      scriptTypeRE = /^(?:text|application)\/javascript/i,
+      xmlTypeRE = /^(?:text|application)\/xml/i,
+      jsonType = 'application/json',
+      htmlType = 'text/html',
+      blankRE = /^\s*$/,
+      originAnchor = document.createElement('a')
+
+  originAnchor.href = window.location.href
+
+  // trigger a custom event and return false if it was cancelled
+  function triggerAndReturn(context, eventName, data) {
+    var event = $.Event(eventName)
+    $(context).trigger(event, data)
+    return !event.isDefaultPrevented()
+  }
+
+  // trigger an Ajax "global" event
+  function triggerGlobal(settings, context, eventName, data) {
+    if (settings.global) return triggerAndReturn(context || document, eventName, data)
+  }
+
+  // Number of active Ajax requests
+  $.active = 0
+
+  function ajaxStart(settings) {
+    if (settings.global && $.active++ === 0) triggerGlobal(settings, null, 'ajaxStart')
+  }
+  function ajaxStop(settings) {
+    if (settings.global && !(--$.active)) triggerGlobal(settings, null, 'ajaxStop')
+  }
+
+  // triggers an extra global event "ajaxBeforeSend" that's like "ajaxSend" but cancelable
+  function ajaxBeforeSend(xhr, settings) {
+    var context = settings.context
+    if (settings.beforeSend.call(context, xhr, settings) === false ||
+        triggerGlobal(settings, context, 'ajaxBeforeSend', [xhr, settings]) === false)
+      return false
+
+    triggerGlobal(settings, context, 'ajaxSend', [xhr, settings])
+  }
+  function ajaxSuccess(data, xhr, settings, deferred) {
+    var context = settings.context, status = 'success'
+    settings.success.call(context, data, status, xhr)
+    if (deferred) deferred.resolveWith(context, [data, status, xhr])
+    triggerGlobal(settings, context, 'ajaxSuccess', [xhr, settings, data])
+    ajaxComplete(status, xhr, settings)
+  }
+  // type: "timeout", "error", "abort", "parsererror"
+  function ajaxError(error, type, xhr, settings, deferred) {
+    var context = settings.context
+    settings.error.call(context, xhr, type, error)
+    if (deferred) deferred.rejectWith(context, [xhr, type, error])
+    triggerGlobal(settings, context, 'ajaxError', [xhr, settings, error || type])
+    ajaxComplete(type, xhr, settings)
+  }
+  // status: "success", "notmodified", "error", "timeout", "abort", "parsererror"
+  function ajaxComplete(status, xhr, settings) {
+    var context = settings.context
+    settings.complete.call(context, xhr, status)
+    triggerGlobal(settings, context, 'ajaxComplete', [xhr, settings])
+    ajaxStop(settings)
+  }
+
+  function ajaxDataFilter(data, type, settings) {
+    if (settings.dataFilter == empty) return data
+    var context = settings.context
+    return settings.dataFilter.call(context, data, type)
+  }
+
+  // Empty function, used as default callback
+  function empty() {}
+
+  $.ajaxJSONP = function(options, deferred){
+    if (!('type' in options)) return $.ajax(options)
+
+    var _callbackName = options.jsonpCallback,
+      callbackName = ($.isFunction(_callbackName) ?
+        _callbackName() : _callbackName) || ('Zepto' + (jsonpID++)),
+      script = document.createElement('script'),
+      originalCallback = window[callbackName],
+      responseData,
+      abort = function(errorType) {
+        $(script).triggerHandler('error', errorType || 'abort')
+      },
+      xhr = { abort: abort }, abortTimeout
+
+    if (deferred) deferred.promise(xhr)
+
+    $(script).on('load error', function(e, errorType){
+      clearTimeout(abortTimeout)
+      $(script).off().remove()
+
+      if (e.type == 'error' || !responseData) {
+        ajaxError(null, errorType || 'error', xhr, options, deferred)
+      } else {
+        ajaxSuccess(responseData[0], xhr, options, deferred)
+      }
+
+      window[callbackName] = originalCallback
+      if (responseData && $.isFunction(originalCallback))
+        originalCallback(responseData[0])
+
+      originalCallback = responseData = undefined
+    })
+
+    if (ajaxBeforeSend(xhr, options) === false) {
+      abort('abort')
+      return xhr
+    }
+
+    window[callbackName] = function(){
+      responseData = arguments
+    }
+
+    script.src = options.url.replace(/\?(.+)=\?/, '?$1=' + callbackName)
+    document.head.appendChild(script)
+
+    if (options.timeout > 0) abortTimeout = setTimeout(function(){
+      abort('timeout')
+    }, options.timeout)
+
+    return xhr
+  }
+
+  $.ajaxSettings = {
+    // Default type of request
+    type: 'GET',
+    // Callback that is executed before request
+    beforeSend: empty,
+    // Callback that is executed if the request succeeds
+    success: empty,
+    // Callback that is executed the the server drops error
+    error: empty,
+    // Callback that is executed on request complete (both: error and success)
+    complete: empty,
+    // The context for the callbacks
+    context: null,
+    // Whether to trigger "global" Ajax events
+    global: true,
+    // Transport
+    xhr: function () {
+      return new window.XMLHttpRequest()
+    },
+    // MIME types mapping
+    // IIS returns Javascript as "application/x-javascript"
+    accepts: {
+      script: 'text/javascript, application/javascript, application/x-javascript',
+      json:   jsonType,
+      xml:    'application/xml, text/xml',
+      html:   htmlType,
+      text:   'text/plain'
+    },
+    // Whether the request is to another domain
+    crossDomain: false,
+    // Default timeout
+    timeout: 0,
+    // Whether data should be serialized to string
+    processData: true,
+    // Whether the browser should be allowed to cache GET responses
+    cache: true,
+    //Used to handle the raw response data of XMLHttpRequest.
+    //This is a pre-filtering function to sanitize the response.
+    //The sanitized response should be returned
+    dataFilter: empty
+  }
+
+  function mimeToDataType(mime) {
+    if (mime) mime = mime.split(';', 2)[0]
+    return mime && ( mime == htmlType ? 'html' :
+      mime == jsonType ? 'json' :
+      scriptTypeRE.test(mime) ? 'script' :
+      xmlTypeRE.test(mime) && 'xml' ) || 'text'
+  }
+
+  function appendQuery(url, query) {
+    if (query == '') return url
+    return (url + '&' + query).replace(/[&?]{1,2}/, '?')
+  }
+
+  // serialize payload and append it to the URL for GET requests
+  function serializeData(options) {
+    if (options.processData && options.data && $.type(options.data) != "string")
+      options.data = $.param(options.data, options.traditional)
+    if (options.data && (!options.type || options.type.toUpperCase() == 'GET' || 'jsonp' == options.dataType))
+      options.url = appendQuery(options.url, options.data), options.data = undefined
+  }
+
+  $.ajax = function(options){
+    var settings = $.extend({}, options || {}),
+        deferred = $.Deferred && $.Deferred(),
+        urlAnchor, hashIndex
+    for (key in $.ajaxSettings) if (settings[key] === undefined) settings[key] = $.ajaxSettings[key]
+
+    ajaxStart(settings)
+
+    if (!settings.crossDomain) {
+      urlAnchor = document.createElement('a')
+      urlAnchor.href = settings.url
+      // cleans up URL for .href (IE only), see https://github.com/madrobby/zepto/pull/1049
+      urlAnchor.href = urlAnchor.href
+      settings.crossDomain = (originAnchor.protocol + '//' + originAnchor.host) !== (urlAnchor.protocol + '//' + urlAnchor.host)
+    }
+
+    if (!settings.url) settings.url = window.location.toString()
+    if ((hashIndex = settings.url.indexOf('#')) > -1) settings.url = settings.url.slice(0, hashIndex)
+    serializeData(settings)
+
+    var dataType = settings.dataType, hasPlaceholder = /\?.+=\?/.test(settings.url)
+    if (hasPlaceholder) dataType = 'jsonp'
+
+    if (settings.cache === false || (
+         (!options || options.cache !== true) &&
+         ('script' == dataType || 'jsonp' == dataType)
+        ))
+      settings.url = appendQuery(settings.url, '_=' + Date.now())
+
+    if ('jsonp' == dataType) {
+      if (!hasPlaceholder)
+        settings.url = appendQuery(settings.url,
+          settings.jsonp ? (settings.jsonp + '=?') : settings.jsonp === false ? '' : 'callback=?')
+      return $.ajaxJSONP(settings, deferred)
+    }
+
+    var mime = settings.accepts[dataType],
+        headers = { },
+        setHeader = function(name, value) { headers[name.toLowerCase()] = [name, value] },
+        protocol = /^([\w-]+:)\/\//.test(settings.url) ? RegExp.$1 : window.location.protocol,
+        xhr = settings.xhr(),
+        nativeSetHeader = xhr.setRequestHeader,
+        abortTimeout
+
+    if (deferred) deferred.promise(xhr)
+
+    if (!settings.crossDomain) setHeader('X-Requested-With', 'XMLHttpRequest')
+    setHeader('Accept', mime || '*/*')
+    if (mime = settings.mimeType || mime) {
+      if (mime.indexOf(',') > -1) mime = mime.split(',', 2)[0]
+      xhr.overrideMimeType && xhr.overrideMimeType(mime)
+    }
+    if (settings.contentType || (settings.contentType !== false && settings.data && settings.type.toUpperCase() != 'GET'))
+      setHeader('Content-Type', settings.contentType || 'application/x-www-form-urlencoded')
+
+    if (settings.headers) for (name in settings.headers) setHeader(name, settings.headers[name])
+    xhr.setRequestHeader = setHeader
+
+    xhr.onreadystatechange = function(){
+      if (xhr.readyState == 4) {
+        xhr.onreadystatechange = empty
+        clearTimeout(abortTimeout)
+        var result, error = false
+        if ((xhr.status >= 200 && xhr.status < 300) || xhr.status == 304 || (xhr.status == 0 && protocol == 'file:')) {
+          dataType = dataType || mimeToDataType(settings.mimeType || xhr.getResponseHeader('content-type'))
+
+          if (xhr.responseType == 'arraybuffer' || xhr.responseType == 'blob')
+            result = xhr.response
+          else {
+            result = xhr.responseText
+
+            try {
+              // http://perfectionkills.com/global-eval-what-are-the-options/
+              // sanitize response accordingly if data filter callback provided
+              result = ajaxDataFilter(result, dataType, settings)
+              if (dataType == 'script')    (1,eval)(result)
+              else if (dataType == 'xml')  result = xhr.responseXML
+              else if (dataType == 'json') result = blankRE.test(result) ? null : $.parseJSON(result)
+            } catch (e) { error = e }
+
+            if (error) return ajaxError(error, 'parsererror', xhr, settings, deferred)
+          }
+
+          ajaxSuccess(result, xhr, settings, deferred)
+        } else {
+          ajaxError(xhr.statusText || null, xhr.status ? 'error' : 'abort', xhr, settings, deferred)
+        }
+      }
+    }
+
+    if (ajaxBeforeSend(xhr, settings) === false) {
+      xhr.abort()
+      ajaxError(null, 'abort', xhr, settings, deferred)
+      return xhr
+    }
+
+    var async = 'async' in settings ? settings.async : true
+    xhr.open(settings.type, settings.url, async, settings.username, settings.password)
+
+    if (settings.xhrFields) for (name in settings.xhrFields) xhr[name] = settings.xhrFields[name]
+
+    for (name in headers) nativeSetHeader.apply(xhr, headers[name])
+
+    if (settings.timeout > 0) abortTimeout = setTimeout(function(){
+        xhr.onreadystatechange = empty
+        xhr.abort()
+        ajaxError(null, 'timeout', xhr, settings, deferred)
+      }, settings.timeout)
+
+    // avoid sending empty string (#319)
+    xhr.send(settings.data ? settings.data : null)
+    return xhr
+  }
+
+  // handle optional data/success arguments
+  function parseArguments(url, data, success, dataType) {
+    if ($.isFunction(data)) dataType = success, success = data, data = undefined
+    if (!$.isFunction(success)) dataType = success, success = undefined
+    return {
+      url: url
+    , data: data
+    , success: success
+    , dataType: dataType
+    }
+  }
+
+  $.get = function(/* url, data, success, dataType */){
+    return $.ajax(parseArguments.apply(null, arguments))
+  }
+
+  $.post = function(/* url, data, success, dataType */){
+    var options = parseArguments.apply(null, arguments)
+    options.type = 'POST'
+    return $.ajax(options)
+  }
+
+  $.getJSON = function(/* url, data, success */){
+    var options = parseArguments.apply(null, arguments)
+    options.dataType = 'json'
+    return $.ajax(options)
+  }
+
+  $.fn.load = function(url, data, success){
+    if (!this.length) return this
+    var self = this, parts = url.split(/\s/), selector,
+        options = parseArguments(url, data, success),
+        callback = options.success
+    if (parts.length > 1) options.url = parts[0], selector = parts[1]
+    options.success = function(response){
+      self.html(selector ?
+        $('<div>').html(response.replace(rscript, "")).find(selector)
+        : response)
+      callback && callback.apply(self, arguments)
+    }
+    $.ajax(options)
+    return this
+  }
+
+  var escape = encodeURIComponent
+
+  function serialize(params, obj, traditional, scope){
+    var type, array = $.isArray(obj), hash = $.isPlainObject(obj)
+    $.each(obj, function(key, value) {
+      type = $.type(value)
+      if (scope) key = traditional ? scope :
+        scope + '[' + (hash || type == 'object' || type == 'array' ? key : '') + ']'
+      // handle data in serializeArray() format
+      if (!scope && array) params.add(value.name, value.value)
+      // recurse into nested objects
+      else if (type == "array" || (!traditional && type == "object"))
+        serialize(params, value, traditional, key)
+      else params.add(key, value)
+    })
+  }
+
+  $.param = function(obj, traditional){
+    var params = []
+    params.add = function(key, value) {
+      if ($.isFunction(value)) value = value()
+      if (value == null) value = ""
+      this.push(escape(key) + '=' + escape(value))
+    }
+    serialize(params, obj, traditional)
+    return params.join('&').replace(/%20/g, '+')
+  }
+})(Zepto)
+
+;(function($){
+  $.fn.serializeArray = function() {
+    var name, type, result = [],
+      add = function(value) {
+        if (value.forEach) return value.forEach(add)
+        result.push({ name: name, value: value })
+      }
+    if (this[0]) $.each(this[0].elements, function(_, field){
+      type = field.type, name = field.name
+      if (name && field.nodeName.toLowerCase() != 'fieldset' &&
+        !field.disabled && type != 'submit' && type != 'reset' && type != 'button' && type != 'file' &&
+        ((type != 'radio' && type != 'checkbox') || field.checked))
+          add($(field).val())
+    })
+    return result
+  }
+
+  $.fn.serialize = function(){
+    var result = []
+    this.serializeArray().forEach(function(elm){
+      result.push(encodeURIComponent(elm.name) + '=' + encodeURIComponent(elm.value))
+    })
+    return result.join('&')
+  }
+
+  $.fn.submit = function(callback) {
+    if (0 in arguments) this.bind('submit', callback)
+    else if (this.length) {
+      var event = $.Event('submit')
+      this.eq(0).trigger(event)
+      if (!event.isDefaultPrevented()) this.get(0).submit()
+    }
+    return this
+  }
+
+})(Zepto)
+
+;(function(){
+  // getComputedStyle shouldn't freak out when called
+  // without a valid element as argument
+  try {
+    getComputedStyle(undefined)
+  } catch(e) {
+    var nativeGetComputedStyle = getComputedStyle
+    window.getComputedStyle = function(element, pseudoElement){
+      try {
+        return nativeGetComputedStyle(element, pseudoElement)
+      } catch(e) {
+        return null
+      }
+    }
+  }
+})()
+  return Zepto
+}))
+
+
+/***/ },
+
+/***/ "?569f"
+/*!********************!*\
+  !*** fs (ignored) ***!
+  \********************/
+() {
+
+/* (ignored) */
+
+/***/ },
+
+/***/ "?3f59"
+/*!**********************!*\
+  !*** path (ignored) ***!
+  \**********************/
+() {
+
+/* (ignored) */
+
+/***/ },
+
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/entry/vexflow.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/entry/vexflow.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -600,15 +6725,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   upperFirst: () => (/* reexport safe */ _src_index_js__WEBPACK_IMPORTED_MODULE_8__.upperFirst),
 /* harmony export */   warn: () => (/* reexport safe */ _src_index_js__WEBPACK_IMPORTED_MODULE_8__.warn)
 /* harmony export */ });
-/* harmony import */ var _src_vexflow_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../src/vexflow.js */ "./node_modules/vexflow/build/esm/src/vexflow.js");
-/* harmony import */ var _src_font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../src/font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _src_fonts_academico_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../src/fonts/academico.js */ "./node_modules/vexflow/build/esm/src/fonts/academico.js");
-/* harmony import */ var _src_fonts_academicobold_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../src/fonts/academicobold.js */ "./node_modules/vexflow/build/esm/src/fonts/academicobold.js");
-/* harmony import */ var _src_fonts_bravura_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/fonts/bravura.js */ "./node_modules/vexflow/build/esm/src/fonts/bravura.js");
-/* harmony import */ var _src_fonts_gonville_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../src/fonts/gonville.js */ "./node_modules/vexflow/build/esm/src/fonts/gonville.js");
-/* harmony import */ var _src_fonts_petaluma_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../src/fonts/petaluma.js */ "./node_modules/vexflow/build/esm/src/fonts/petaluma.js");
-/* harmony import */ var _src_fonts_petalumascript_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../src/fonts/petalumascript.js */ "./node_modules/vexflow/build/esm/src/fonts/petalumascript.js");
-/* harmony import */ var _src_index_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../src/index.js */ "./node_modules/vexflow/build/esm/src/index.js");
+/* harmony import */ var _src_vexflow_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../src/vexflow.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vexflow.js");
+/* harmony import */ var _src_font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../src/font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _src_fonts_academico_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../src/fonts/academico.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academico.js");
+/* harmony import */ var _src_fonts_academicobold_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../src/fonts/academicobold.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academicobold.js");
+/* harmony import */ var _src_fonts_bravura_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/fonts/bravura.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/bravura.js");
+/* harmony import */ var _src_fonts_gonville_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../src/fonts/gonville.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/gonville.js");
+/* harmony import */ var _src_fonts_petaluma_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../src/fonts/petaluma.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petaluma.js");
+/* harmony import */ var _src_fonts_petalumascript_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../src/fonts/petalumascript.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petalumascript.js");
+/* harmony import */ var _src_index_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../src/index.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/index.js");
 
 
 
@@ -644,10 +6769,10 @@ Promise.allSettled(fontLoadPromises).then(() => {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/accidental.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/accidental.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -655,13 +6780,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Accidental: () => (/* binding */ Accidental)
 /* harmony export */ });
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./music.js */ "./node_modules/vexflow/build/esm/src/music.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./music.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -996,10 +7121,10 @@ Accidental.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/annotation.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/annotation.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1009,13 +7134,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   AnnotationHorizontalJustify: () => (/* binding */ AnnotationHorizontalJustify),
 /* harmony export */   AnnotationVerticalJustify: () => (/* binding */ AnnotationVerticalJustify)
 /* harmony export */ });
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -1249,10 +7374,10 @@ Annotation.VerticalJustifyString = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/articulation.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/articulation.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1263,12 +7388,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   getInitialOffset: () => (/* binding */ getInitialOffset),
 /* harmony export */   getTopY: () => (/* binding */ getTopY)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -1554,10 +7679,10 @@ Articulation.INITIAL_OFFSET = -0.5;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/barnote.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/barnote.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/barnote.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/barnote.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1565,9 +7690,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   BarNote: () => (/* binding */ BarNote)
 /* harmony export */ });
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/vexflow/build/esm/src/stavebarline.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -1628,10 +7753,10 @@ BarNote.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/beam.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/beam.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1642,12 +7767,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   BEAM_RIGHT: () => (/* binding */ BEAM_RIGHT),
 /* harmony export */   Beam: () => (/* binding */ Beam)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -2294,10 +8419,10 @@ class Beam extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/bend.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/bend.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2305,11 +8430,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Bend: () => (/* binding */ Bend)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -2500,10 +8625,10 @@ class Bend extends _modifier_js__WEBPACK_IMPORTED_MODULE_2__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/boundingbox.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/boundingbox.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2574,10 +8699,10 @@ class BoundingBox {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/canvascontext.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/canvascontext.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/canvascontext.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/canvascontext.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2585,10 +8710,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   CanvasContext: () => (/* binding */ CanvasContext)
 /* harmony export */ });
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/vexflow/build/esm/src/rendercontext.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./web.js */ "./node_modules/vexflow/build/esm/src/web.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./web.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js");
 
 
 
@@ -2809,10 +8934,10 @@ class CanvasContext extends _rendercontext_js__WEBPACK_IMPORTED_MODULE_1__.Rende
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/chordsymbol.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/chordsymbol.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2824,14 +8949,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   ChordSymbolVerticalJustify: () => (/* binding */ ChordSymbolVerticalJustify),
 /* harmony export */   SymbolModifiers: () => (/* binding */ SymbolModifiers)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -3159,10 +9284,10 @@ ChordSymbol.symbolModifiers = SymbolModifiers;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/clef.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/clef.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3170,10 +9295,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Clef: () => (/* binding */ Clef)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -3296,10 +9421,10 @@ Clef.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/clefnote.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/clefnote.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clefnote.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clefnote.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3307,8 +9432,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   ClefNote: () => (/* binding */ ClefNote)
 /* harmony export */ });
-/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./clef.js */ "./node_modules/vexflow/build/esm/src/clef.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./clef.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
 
 
 class ClefNote extends _note_js__WEBPACK_IMPORTED_MODULE_1__.Note {
@@ -3348,10 +9473,10 @@ class ClefNote extends _note_js__WEBPACK_IMPORTED_MODULE_1__.Note {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/crescendo.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/crescendo.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/crescendo.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/crescendo.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3359,9 +9484,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Crescendo: () => (/* binding */ Crescendo)
 /* harmony export */ });
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/vexflow/build/esm/src/tickcontext.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -3444,10 +9569,10 @@ Crescendo.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/curve.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/curve.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/curve.js"
+/*!**************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/curve.js ***!
+  \**************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3456,8 +9581,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   Curve: () => (/* binding */ Curve),
 /* harmony export */   CurvePosition: () => (/* binding */ CurvePosition)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 var CurvePosition;
@@ -3588,10 +9713,10 @@ class Curve extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/dot.js"
-/*!***************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/dot.js ***!
-  \***************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js"
+/*!************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js ***!
+  \************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3599,10 +9724,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Dot: () => (/* binding */ Dot)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -3736,10 +9861,10 @@ class Dot extends _modifier_js__WEBPACK_IMPORTED_MODULE_1__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/easyscore.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/easyscore.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/easyscore.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/easyscore.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3750,13 +9875,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   EasyScoreGrammar: () => (/* binding */ EasyScoreGrammar),
 /* harmony export */   Piece: () => (/* binding */ Piece)
 /* harmony export */ });
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./dot.js */ "./node_modules/vexflow/build/esm/src/dot.js");
-/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/vexflow/build/esm/src/frethandfinger.js");
-/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./music.js */ "./node_modules/vexflow/build/esm/src/music.js");
-/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./parser.js */ "./node_modules/vexflow/build/esm/src/parser.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./dot.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js");
+/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js");
+/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./music.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js");
+/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./parser.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parser.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -4135,10 +10260,10 @@ EasyScore.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/element.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/element.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4146,11 +10271,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Element: () => (/* binding */ Element)
 /* harmony export */ });
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./registry.js */ "./node_modules/vexflow/build/esm/src/registry.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./registry.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/registry.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -4556,10 +10681,10 @@ Element.ID = 1000;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/factory.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/factory.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/factory.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/factory.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4567,48 +10692,48 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Factory: () => (/* binding */ Factory)
 /* harmony export */ });
-/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/vexflow/build/esm/src/accidental.js");
-/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/vexflow/build/esm/src/annotation.js");
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/vexflow/build/esm/src/barnote.js");
-/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/vexflow/build/esm/src/beam.js");
-/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/vexflow/build/esm/src/chordsymbol.js");
-/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/vexflow/build/esm/src/clefnote.js");
-/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./curve.js */ "./node_modules/vexflow/build/esm/src/curve.js");
-/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/vexflow/build/esm/src/easyscore.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/vexflow/build/esm/src/frethandfinger.js");
-/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/vexflow/build/esm/src/ghostnote.js");
-/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/vexflow/build/esm/src/glyphnote.js");
-/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/vexflow/build/esm/src/gracenote.js");
-/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/vexflow/build/esm/src/gracenotegroup.js");
-/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/vexflow/build/esm/src/keysignote.js");
-/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/vexflow/build/esm/src/modifiercontext.js");
-/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/vexflow/build/esm/src/multimeasurerest.js");
-/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/vexflow/build/esm/src/notesubgroup.js");
-/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/vexflow/build/esm/src/ornament.js");
-/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/vexflow/build/esm/src/pedalmarking.js");
-/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/vexflow/build/esm/src/renderer.js");
-/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/vexflow/build/esm/src/repeatnote.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/vexflow/build/esm/src/staveconnector.js");
-/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/vexflow/build/esm/src/staveline.js");
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/vexflow/build/esm/src/stavetie.js");
-/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/vexflow/build/esm/src/stringnumber.js");
-/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./system.js */ "./node_modules/vexflow/build/esm/src/system.js");
-/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/vexflow/build/esm/src/tabnote.js");
-/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/vexflow/build/esm/src/tabstave.js");
-/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/vexflow/build/esm/src/textbracket.js");
-/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/vexflow/build/esm/src/textdynamics.js");
-/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/vexflow/build/esm/src/textnote.js");
-/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/vexflow/build/esm/src/tickcontext.js");
-/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/vexflow/build/esm/src/timesignote.js");
-/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/vexflow/build/esm/src/tuplet.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/vexflow/build/esm/src/vibratobracket.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
-/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./web.js */ "./node_modules/vexflow/build/esm/src/web.js");
+/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js");
+/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/barnote.js");
+/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js");
+/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js");
+/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clefnote.js");
+/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./curve.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/curve.js");
+/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/easyscore.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js");
+/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ghostnote.js");
+/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js");
+/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenote.js");
+/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js");
+/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignote.js");
+/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js");
+/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/multimeasurerest.js");
+/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js");
+/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js");
+/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/pedalmarking.js");
+/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js");
+/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/repeatnote.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js");
+/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveline.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js");
+/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js");
+/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./system.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/system.js");
+/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js");
+/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabstave.js");
+/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textbracket.js");
+/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textdynamics.js");
+/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js");
+/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js");
+/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignote.js");
+/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuplet.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibratobracket.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./web.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js");
 
 
 
@@ -5076,10 +11201,10 @@ Factory.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/flag.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/flag.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/flag.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/flag.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5087,8 +11212,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Flag: () => (/* binding */ Flag)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 function L(...args) {
@@ -5113,10 +11238,10 @@ Flag.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/font.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/font.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5126,7 +11251,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   FontStyle: () => (/* binding */ FontStyle),
 /* harmony export */   FontWeight: () => (/* binding */ FontWeight)
 /* harmony export */ });
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
 var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -5368,10 +11493,10 @@ Font.FILES = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/academico.js"
-/*!***************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/academico.js ***!
-  \***************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academico.js"
+/*!************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academico.js ***!
+  \************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5384,10 +11509,10 @@ const Academico = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAFiwAA8AAAAB
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/academicobold.js"
-/*!*******************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/academicobold.js ***!
-  \*******************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academicobold.js"
+/*!****************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/academicobold.js ***!
+  \****************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5400,10 +11525,10 @@ const AcademicoBold = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAFvIAA8A
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/bravura.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/bravura.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/bravura.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/bravura.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5416,10 +11541,10 @@ const Bravura = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAA8WgAAoAAAAOv7
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/gonville.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/gonville.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/gonville.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/gonville.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5432,10 +11557,10 @@ const Gonville = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAFmAAA0AAAAA1
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/petaluma.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/petaluma.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petaluma.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petaluma.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5448,10 +11573,10 @@ const Petaluma = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAA3BYAAoAAAAJg
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fonts/petalumascript.js"
-/*!********************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fonts/petalumascript.js ***!
-  \********************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petalumascript.js"
+/*!*****************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fonts/petalumascript.js ***!
+  \*****************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5464,10 +11589,10 @@ const PetalumaScript = 'data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAMocAA8
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/formatter.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/formatter.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5475,17 +11600,17 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Formatter: () => (/* binding */ Formatter)
 /* harmony export */ });
-/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./beam.js */ "./node_modules/vexflow/build/esm/src/beam.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/vexflow/build/esm/src/modifiercontext.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/vexflow/build/esm/src/staveconnector.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/vexflow/build/esm/src/tickcontext.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./beam.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
 
 
 
@@ -6102,10 +12227,10 @@ Formatter.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/fraction.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/fraction.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6113,7 +12238,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Fraction: () => (/* binding */ Fraction)
 /* harmony export */ });
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 class Fraction {
     static get CATEGORY() {
@@ -6288,10 +12413,10 @@ function getNumeratorAndDenominator(n, d = 1) {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/frethandfinger.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/frethandfinger.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6299,10 +12424,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   FretHandFinger: () => (/* binding */ FretHandFinger)
 /* harmony export */ });
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -6448,10 +12573,10 @@ class FretHandFinger extends _modifier_js__WEBPACK_IMPORTED_MODULE_1__.Modifier 
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/ghostnote.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/ghostnote.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ghostnote.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ghostnote.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6459,9 +12584,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   GhostNote: () => (/* binding */ GhostNote)
 /* harmony export */ });
-/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/vexflow/build/esm/src/stemmablenote.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -6516,10 +12641,10 @@ class GhostNote extends _stemmablenote_js__WEBPACK_IMPORTED_MODULE_0__.Stemmable
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/glyphnote.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/glyphnote.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6527,7 +12652,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   GlyphNote: () => (/* binding */ GlyphNote)
 /* harmony export */ });
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
 
 class GlyphNote extends _note_js__WEBPACK_IMPORTED_MODULE_0__.Note {
     static get CATEGORY() {
@@ -6574,10 +12699,10 @@ class GlyphNote extends _note_js__WEBPACK_IMPORTED_MODULE_0__.Note {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/glyphs.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/glyphs.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9525,10 +15650,10 @@ var Glyphs;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/gracenote.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/gracenote.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenote.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenote.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9536,10 +15661,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   GraceNote: () => (/* binding */ GraceNote)
 /* harmony export */ });
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -9650,10 +15775,10 @@ class GraceNote extends _stavenote_js__WEBPACK_IMPORTED_MODULE_0__.StaveNote {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/gracenotegroup.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/gracenotegroup.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9661,16 +15786,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   GraceNoteGroup: () => (/* binding */ GraceNoteGroup)
 /* harmony export */ });
-/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./beam.js */ "./node_modules/vexflow/build/esm/src/beam.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/vexflow/build/esm/src/stavetie.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/vexflow/build/esm/src/tabtie.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./beam.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
 
 
 
@@ -9813,10 +15938,10 @@ GraceNoteGroup.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/gracetabnote.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/gracetabnote.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracetabnote.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracetabnote.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9824,7 +15949,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   GraceTabNote: () => (/* binding */ GraceTabNote)
 /* harmony export */ });
-/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/vexflow/build/esm/src/tabnote.js");
+/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js");
 
 class GraceTabNote extends _tabnote_js__WEBPACK_IMPORTED_MODULE_0__.TabNote {
     static get CATEGORY() {
@@ -9840,10 +15965,10 @@ class GraceTabNote extends _tabnote_js__WEBPACK_IMPORTED_MODULE_0__.TabNote {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/index.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/index.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/index.js"
+/*!**************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/index.js ***!
+  \**************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9986,92 +16111,92 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   upperFirst: () => (/* reexport safe */ _util_js__WEBPACK_IMPORTED_MODULE_80__.upperFirst),
 /* harmony export */   warn: () => (/* reexport safe */ _util_js__WEBPACK_IMPORTED_MODULE_80__.warn)
 /* harmony export */ });
-/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/vexflow/build/esm/src/accidental.js");
-/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/vexflow/build/esm/src/annotation.js");
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/vexflow/build/esm/src/barnote.js");
-/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/vexflow/build/esm/src/beam.js");
-/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./bend.js */ "./node_modules/vexflow/build/esm/src/bend.js");
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/vexflow/build/esm/src/canvascontext.js");
-/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/vexflow/build/esm/src/chordsymbol.js");
-/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./clef.js */ "./node_modules/vexflow/build/esm/src/clef.js");
-/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/vexflow/build/esm/src/clefnote.js");
-/* harmony import */ var _crescendo_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./crescendo.js */ "./node_modules/vexflow/build/esm/src/crescendo.js");
-/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./curve.js */ "./node_modules/vexflow/build/esm/src/curve.js");
-/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./dot.js */ "./node_modules/vexflow/build/esm/src/dot.js");
-/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/vexflow/build/esm/src/easyscore.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _factory_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./factory.js */ "./node_modules/vexflow/build/esm/src/factory.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _flag_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./flag.js */ "./node_modules/vexflow/build/esm/src/flag.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/vexflow/build/esm/src/frethandfinger.js");
-/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/vexflow/build/esm/src/ghostnote.js");
-/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/vexflow/build/esm/src/glyphnote.js");
-/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/vexflow/build/esm/src/gracenote.js");
-/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/vexflow/build/esm/src/gracenotegroup.js");
-/* harmony import */ var _gracetabnote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./gracetabnote.js */ "./node_modules/vexflow/build/esm/src/gracetabnote.js");
-/* harmony import */ var _keymanager_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./keymanager.js */ "./node_modules/vexflow/build/esm/src/keymanager.js");
-/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/vexflow/build/esm/src/keysignature.js");
-/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/vexflow/build/esm/src/keysignote.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/vexflow/build/esm/src/modifiercontext.js");
-/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/vexflow/build/esm/src/multimeasurerest.js");
-/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./music.js */ "./node_modules/vexflow/build/esm/src/music.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/vexflow/build/esm/src/notehead.js");
-/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/vexflow/build/esm/src/notesubgroup.js");
-/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/vexflow/build/esm/src/ornament.js");
-/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/vexflow/build/esm/src/parenthesis.js");
-/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./parser.js */ "./node_modules/vexflow/build/esm/src/parser.js");
-/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/vexflow/build/esm/src/pedalmarking.js");
-/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./registry.js */ "./node_modules/vexflow/build/esm/src/registry.js");
-/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/vexflow/build/esm/src/rendercontext.js");
-/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/vexflow/build/esm/src/renderer.js");
-/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/vexflow/build/esm/src/repeatnote.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/vexflow/build/esm/src/stavebarline.js");
-/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/vexflow/build/esm/src/staveconnector.js");
-/* harmony import */ var _stavehairpin_js__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./stavehairpin.js */ "./node_modules/vexflow/build/esm/src/stavehairpin.js");
-/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/vexflow/build/esm/src/staveline.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/vexflow/build/esm/src/staverepetition.js");
-/* harmony import */ var _stavesection_js__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./stavesection.js */ "./node_modules/vexflow/build/esm/src/stavesection.js");
-/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/vexflow/build/esm/src/stavetempo.js");
-/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/vexflow/build/esm/src/stavetext.js");
-/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/vexflow/build/esm/src/stavetie.js");
-/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/vexflow/build/esm/src/stavevolta.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/vexflow/build/esm/src/stemmablenote.js");
-/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/vexflow/build/esm/src/stringnumber.js");
-/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/vexflow/build/esm/src/strokes.js");
-/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/vexflow/build/esm/src/svgcontext.js");
-/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./system.js */ "./node_modules/vexflow/build/esm/src/system.js");
-/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/vexflow/build/esm/src/tabnote.js");
-/* harmony import */ var _tabslide_js__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./tabslide.js */ "./node_modules/vexflow/build/esm/src/tabslide.js");
-/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/vexflow/build/esm/src/tabstave.js");
-/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/vexflow/build/esm/src/tabtie.js");
-/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/vexflow/build/esm/src/textbracket.js");
-/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/vexflow/build/esm/src/textdynamics.js");
-/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/vexflow/build/esm/src/textnote.js");
-/* harmony import */ var _tickable_js__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./tickable.js */ "./node_modules/vexflow/build/esm/src/tickable.js");
-/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/vexflow/build/esm/src/tickcontext.js");
-/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/vexflow/build/esm/src/timesignature.js");
-/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/vexflow/build/esm/src/timesignote.js");
-/* harmony import */ var _tremolo_js__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./tremolo.js */ "./node_modules/vexflow/build/esm/src/tremolo.js");
-/* harmony import */ var _tuning_js__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./tuning.js */ "./node_modules/vexflow/build/esm/src/tuning.js");
-/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/vexflow/build/esm/src/tuplet.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _vexflow_js__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! ./vexflow.js */ "./node_modules/vexflow/build/esm/src/vexflow.js");
-/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/vexflow/build/esm/src/vibrato.js");
-/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/vexflow/build/esm/src/vibratobracket.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
-/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! ./web.js */ "./node_modules/vexflow/build/esm/src/web.js");
+/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js");
+/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/barnote.js");
+/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js");
+/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./bend.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/canvascontext.js");
+/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js");
+/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./clef.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js");
+/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clefnote.js");
+/* harmony import */ var _crescendo_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./crescendo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/crescendo.js");
+/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./curve.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/curve.js");
+/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./dot.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js");
+/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/easyscore.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _factory_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./factory.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/factory.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _flag_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./flag.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/flag.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js");
+/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ghostnote.js");
+/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js");
+/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenote.js");
+/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js");
+/* harmony import */ var _gracetabnote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./gracetabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracetabnote.js");
+/* harmony import */ var _keymanager_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./keymanager.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keymanager.js");
+/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js");
+/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignote.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js");
+/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/multimeasurerest.js");
+/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./music.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notehead.js");
+/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js");
+/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js");
+/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parenthesis.js");
+/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./parser.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parser.js");
+/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/pedalmarking.js");
+/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./registry.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/registry.js");
+/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js");
+/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js");
+/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/repeatnote.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js");
+/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js");
+/* harmony import */ var _stavehairpin_js__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./stavehairpin.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavehairpin.js");
+/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveline.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staverepetition.js");
+/* harmony import */ var _stavesection_js__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./stavesection.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavesection.js");
+/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetempo.js");
+/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetext.js");
+/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js");
+/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavevolta.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js");
+/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js");
+/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/strokes.js");
+/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/svgcontext.js");
+/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./system.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/system.js");
+/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js");
+/* harmony import */ var _tabslide_js__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./tabslide.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabslide.js");
+/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabstave.js");
+/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js");
+/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textbracket.js");
+/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textdynamics.js");
+/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js");
+/* harmony import */ var _tickable_js__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./tickable.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickable.js");
+/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js");
+/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js");
+/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignote.js");
+/* harmony import */ var _tremolo_js__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./tremolo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tremolo.js");
+/* harmony import */ var _tuning_js__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./tuning.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuning.js");
+/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuplet.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _vexflow_js__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! ./vexflow.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vexflow.js");
+/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js");
+/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibratobracket.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! ./web.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js");
 
 
 
@@ -10162,10 +16287,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/keymanager.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/keymanager.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keymanager.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keymanager.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10173,8 +16298,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   KeyManager: () => (/* binding */ KeyManager)
 /* harmony export */ });
-/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./music.js */ "./node_modules/vexflow/build/esm/src/music.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./music.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 class KeyManager {
@@ -10278,10 +16403,10 @@ class KeyManager {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/keysignature.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/keysignature.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10289,13 +16414,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   KeySignature: () => (/* binding */ KeySignature)
 /* harmony export */ });
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -10518,10 +16643,10 @@ class KeySignature extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_4__.StaveM
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/keysignote.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/keysignote.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignote.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignote.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10529,8 +16654,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   KeySigNote: () => (/* binding */ KeySigNote)
 /* harmony export */ });
-/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/vexflow/build/esm/src/keysignature.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
 
 
 class KeySigNote extends _note_js__WEBPACK_IMPORTED_MODULE_1__.Note {
@@ -10563,10 +16688,10 @@ class KeySigNote extends _note_js__WEBPACK_IMPORTED_MODULE_1__.Note {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/metrics.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/metrics.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10801,10 +16926,10 @@ const MetricsDefaults = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/modifier.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/modifier.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10813,8 +16938,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   Modifier: () => (/* binding */ Modifier),
 /* harmony export */   ModifierPosition: () => (/* binding */ ModifierPosition)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 var ModifierPosition;
@@ -10940,10 +17065,10 @@ class Modifier extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/modifiercontext.js"
-/*!***************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/modifiercontext.js ***!
-  \***************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js"
+/*!************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js ***!
+  \************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10951,22 +17076,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   ModifierContext: () => (/* binding */ ModifierContext)
 /* harmony export */ });
-/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/vexflow/build/esm/src/accidental.js");
-/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/vexflow/build/esm/src/annotation.js");
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./bend.js */ "./node_modules/vexflow/build/esm/src/bend.js");
-/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/vexflow/build/esm/src/chordsymbol.js");
-/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./dot.js */ "./node_modules/vexflow/build/esm/src/dot.js");
-/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/vexflow/build/esm/src/frethandfinger.js");
-/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/vexflow/build/esm/src/gracenotegroup.js");
-/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/vexflow/build/esm/src/notesubgroup.js");
-/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/vexflow/build/esm/src/ornament.js");
-/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/vexflow/build/esm/src/parenthesis.js");
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/vexflow/build/esm/src/stringnumber.js");
-/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/vexflow/build/esm/src/strokes.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/vexflow/build/esm/src/vibrato.js");
+/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js");
+/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./bend.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js");
+/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js");
+/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./dot.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js");
+/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js");
+/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js");
+/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js");
+/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js");
+/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parenthesis.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js");
+/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/strokes.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js");
 
 
 
@@ -11081,10 +17206,10 @@ ModifierContext.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/multimeasurerest.js"
-/*!****************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/multimeasurerest.js ***!
-  \****************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/multimeasurerest.js"
+/*!*************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/multimeasurerest.js ***!
+  \*************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11092,13 +17217,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   MultiMeasureRest: () => (/* binding */ MultiMeasureRest)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -11230,10 +17355,10 @@ class MultiMeasureRest extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element 
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/music.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/music.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js"
+/*!**************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js ***!
+  \**************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11241,7 +17366,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Music: () => (/* binding */ Music)
 /* harmony export */ });
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 class Music {
     static get NUM_TONES() {
@@ -11568,10 +17693,10 @@ class Music {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/note.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/note.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11579,12 +17704,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Note: () => (/* binding */ Note)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/vexflow/build/esm/src/rendercontext.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _tickable_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tickable.js */ "./node_modules/vexflow/build/esm/src/tickable.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _tickable_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tickable.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickable.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -11972,10 +18097,10 @@ class Note extends _tickable_js__WEBPACK_IMPORTED_MODULE_4__.Tickable {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/notehead.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/notehead.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notehead.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notehead.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -11983,9 +18108,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   NoteHead: () => (/* binding */ NoteHead)
 /* harmony export */ });
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -12077,10 +18202,10 @@ NoteHead.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/notesubgroup.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/notesubgroup.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12088,10 +18213,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   NoteSubGroup: () => (/* binding */ NoteSubGroup)
 /* harmony export */ });
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
 
 
 
@@ -12155,10 +18280,10 @@ class NoteSubGroup extends _modifier_js__WEBPACK_IMPORTED_MODULE_1__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/ornament.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/ornament.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12166,13 +18291,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Ornament: () => (/* binding */ Ornament)
 /* harmony export */ });
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -12367,10 +18492,10 @@ Ornament.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/parenthesis.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/parenthesis.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parenthesis.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parenthesis.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12378,7 +18503,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Parenthesis: () => (/* binding */ Parenthesis)
 /* harmony export */ });
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
 
 class Parenthesis extends _modifier_js__WEBPACK_IMPORTED_MODULE_0__.Modifier {
     static get CATEGORY() {
@@ -12444,10 +18569,10 @@ class Parenthesis extends _modifier_js__WEBPACK_IMPORTED_MODULE_0__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/parser.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/parser.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parser.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parser.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12455,7 +18580,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Parser: () => (/* binding */ Parser)
 /* harmony export */ });
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 function L(...args) {
     if (Parser.DEBUG)
@@ -12624,10 +18749,10 @@ Parser.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/pedalmarking.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/pedalmarking.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/pedalmarking.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/pedalmarking.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12635,10 +18760,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   PedalMarking: () => (/* binding */ PedalMarking)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -12811,10 +18936,10 @@ PedalMarking.typeString = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/registry.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/registry.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/registry.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/registry.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12822,7 +18947,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Registry: () => (/* binding */ Registry)
 /* harmony export */ });
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 class Index {
     constructor() {
@@ -12908,10 +19033,10 @@ class Registry {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/rendercontext.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/rendercontext.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12944,10 +19069,10 @@ function drawDot(ctx, x, y, color = '#F55') {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/renderer.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/renderer.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -12957,11 +19082,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   RendererBackends: () => (/* binding */ RendererBackends),
 /* harmony export */   RendererLineEndType: () => (/* binding */ RendererLineEndType)
 /* harmony export */ });
-/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/vexflow/build/esm/src/canvascontext.js");
-/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/vexflow/build/esm/src/svgcontext.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./web.js */ "./node_modules/vexflow/build/esm/src/web.js");
+/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/canvascontext.js");
+/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/svgcontext.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _web_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./web.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js");
 
 
 
@@ -13078,10 +19203,10 @@ Renderer.lastContext = undefined;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/repeatnote.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/repeatnote.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/repeatnote.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/repeatnote.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13089,8 +19214,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   RepeatNote: () => (/* binding */ RepeatNote)
 /* harmony export */ });
-/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/vexflow/build/esm/src/glyphnote.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
 
 
 const CODES = {
@@ -13112,10 +19237,10 @@ class RepeatNote extends _glyphnote_js__WEBPACK_IMPORTED_MODULE_0__.GlyphNote {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stave.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stave.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js"
+/*!**************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js ***!
+  \**************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13123,22 +19248,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Stave: () => (/* binding */ Stave)
 /* harmony export */ });
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./clef.js */ "./node_modules/vexflow/build/esm/src/clef.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/vexflow/build/esm/src/keysignature.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/vexflow/build/esm/src/stavebarline.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/vexflow/build/esm/src/staverepetition.js");
-/* harmony import */ var _stavesection_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./stavesection.js */ "./node_modules/vexflow/build/esm/src/stavesection.js");
-/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/vexflow/build/esm/src/stavetempo.js");
-/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/vexflow/build/esm/src/stavetext.js");
-/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/vexflow/build/esm/src/stavevolta.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/vexflow/build/esm/src/timesignature.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./clef.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staverepetition.js");
+/* harmony import */ var _stavesection_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./stavesection.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavesection.js");
+/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetempo.js");
+/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetext.js");
+/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavevolta.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -13720,10 +19845,10 @@ class Stave extends _element_js__WEBPACK_IMPORTED_MODULE_2__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavebarline.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavebarline.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13732,8 +19857,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   Barline: () => (/* binding */ Barline),
 /* harmony export */   BarlineType: () => (/* binding */ BarlineType)
 /* harmony export */ });
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
 
 
 var BarlineType;
@@ -13923,10 +20048,10 @@ class Barline extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__.StaveModifi
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/staveconnector.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/staveconnector.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13934,10 +20059,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveConnector: () => (/* binding */ StaveConnector)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -14122,10 +20247,10 @@ StaveConnector.typeString = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavehairpin.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavehairpin.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavehairpin.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavehairpin.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -14133,9 +20258,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveHairpin: () => (/* binding */ StaveHairpin)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -14255,10 +20380,10 @@ StaveHairpin.type = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/staveline.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/staveline.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveline.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveline.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -14266,10 +20391,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveLine: () => (/* binding */ StaveLine)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/vexflow/build/esm/src/textnote.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -14473,10 +20598,10 @@ StaveLine.TextJustification = _textnote_js__WEBPACK_IMPORTED_MODULE_2__.TextJust
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavemodifier.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavemodifier.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -14485,8 +20610,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   StaveModifier: () => (/* binding */ StaveModifier),
 /* harmony export */   StaveModifierPosition: () => (/* binding */ StaveModifierPosition)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 var StaveModifierPosition;
@@ -14547,10 +20672,10 @@ class StaveModifier extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavenote.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavenote.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -14558,16 +20683,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveNote: () => (/* binding */ StaveNote)
 /* harmony export */ });
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/vexflow/build/esm/src/notehead.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/vexflow/build/esm/src/stemmablenote.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notehead.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -15410,10 +21535,10 @@ StaveNote.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/staverepetition.js"
-/*!***************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/staverepetition.js ***!
-  \***************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staverepetition.js"
+/*!************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staverepetition.js ***!
+  \************************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15421,9 +21546,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Repetition: () => (/* binding */ Repetition)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
 
 
 
@@ -15548,10 +21673,10 @@ Repetition.type = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavesection.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavesection.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavesection.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavesection.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15559,8 +21684,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveSection: () => (/* binding */ StaveSection)
 /* harmony export */ });
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
 
 
 class StaveSection extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_1__.StaveModifier {
@@ -15601,10 +21726,10 @@ class StaveSection extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_1__.StaveM
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavetempo.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavetempo.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetempo.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetempo.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15612,10 +21737,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveTempo: () => (/* binding */ StaveTempo)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
 
 
 
@@ -15730,10 +21855,10 @@ class StaveTempo extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_3__.StaveMod
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavetext.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavetext.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetext.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetext.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15741,9 +21866,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveText: () => (/* binding */ StaveText)
 /* harmony export */ });
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/vexflow/build/esm/src/textnote.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -15803,10 +21928,10 @@ class StaveText extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__.StaveModi
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavetie.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavetie.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15814,8 +21939,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StaveTie: () => (/* binding */ StaveTie)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 class StaveTie extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
@@ -16004,10 +22129,10 @@ class StaveTie extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stavevolta.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stavevolta.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavevolta.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavevolta.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16016,7 +22141,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   Volta: () => (/* binding */ Volta),
 /* harmony export */   VoltaType: () => (/* binding */ VoltaType)
 /* harmony export */ });
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
 
 var VoltaType;
 (function (VoltaType) {
@@ -16074,10 +22199,10 @@ class Volta extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_0__.StaveModifier
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stem.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stem.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16085,10 +22210,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Stem: () => (/* binding */ Stem)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -16225,10 +22350,10 @@ Stem.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stemmablenote.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stemmablenote.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16236,12 +22361,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StemmableNote: () => (/* binding */ StemmableNote)
 /* harmony export */ });
-/* harmony import */ var _flag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./flag.js */ "./node_modules/vexflow/build/esm/src/flag.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _flag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./flag.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/flag.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -16430,10 +22555,10 @@ class StemmableNote extends _note_js__WEBPACK_IMPORTED_MODULE_2__.Note {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/stringnumber.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/stringnumber.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16441,13 +22566,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   StringNumber: () => (/* binding */ StringNumber)
 /* harmony export */ });
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/vexflow/build/esm/src/renderer.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -16680,10 +22805,10 @@ class StringNumber extends _modifier_js__WEBPACK_IMPORTED_MODULE_1__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/strokes.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/strokes.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/strokes.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/strokes.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16691,12 +22816,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Stroke: () => (/* binding */ Stroke)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -16855,10 +22980,10 @@ Stroke.Type = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/svgcontext.js"
-/*!**********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/svgcontext.js ***!
-  \**********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/svgcontext.js"
+/*!*******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/svgcontext.js ***!
+  \*******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -16866,12 +22991,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   SVGContext: () => (/* binding */ SVGContext)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/vexflow/build/esm/src/rendercontext.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -17270,10 +23395,10 @@ SVGContext.measureTextElement = new _element_js__WEBPACK_IMPORTED_MODULE_0__.Ele
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/system.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/system.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/system.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/system.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17281,12 +23406,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   System: () => (/* binding */ System)
 /* harmony export */ });
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -17457,10 +23582,10 @@ class System extends _element_js__WEBPACK_IMPORTED_MODULE_1__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tables.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tables.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -17468,9 +23593,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Tables: () => (/* binding */ Tables)
 /* harmony export */ });
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -18139,10 +24264,10 @@ Tables.TIME4_4 = {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tabnote.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tabnote.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18150,14 +24275,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabNote: () => (/* binding */ TabNote)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/vexflow/build/esm/src/stemmablenote.js");
-/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/vexflow/build/esm/src/typeguard.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _stemmablenote_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./stemmablenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stemmablenote.js");
+/* harmony import */ var _typeguard_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./typeguard.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -18438,10 +24563,10 @@ class TabNote extends _stemmablenote_js__WEBPACK_IMPORTED_MODULE_5__.StemmableNo
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tabslide.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tabslide.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabslide.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabslide.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18449,8 +24574,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabSlide: () => (/* binding */ TabSlide)
 /* harmony export */ });
-/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/vexflow/build/esm/src/tabtie.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 class TabSlide extends _tabtie_js__WEBPACK_IMPORTED_MODULE_0__.TabTie {
@@ -18523,10 +24648,10 @@ class TabSlide extends _tabtie_js__WEBPACK_IMPORTED_MODULE_0__.TabTie {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tabstave.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tabstave.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabstave.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabstave.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18534,7 +24659,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabStave: () => (/* binding */ TabStave)
 /* harmony export */ });
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
 
 class TabStave extends _stave_js__WEBPACK_IMPORTED_MODULE_0__.Stave {
     static get CATEGORY() {
@@ -18556,10 +24681,10 @@ class TabStave extends _stave_js__WEBPACK_IMPORTED_MODULE_0__.Stave {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tabtie.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tabtie.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18567,7 +24692,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabTie: () => (/* binding */ TabTie)
 /* harmony export */ });
-/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/vexflow/build/esm/src/stavetie.js");
+/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js");
 
 class TabTie extends _stavetie_js__WEBPACK_IMPORTED_MODULE_0__.StaveTie {
     static get CATEGORY() {
@@ -18591,10 +24716,10 @@ class TabTie extends _stavetie_js__WEBPACK_IMPORTED_MODULE_0__.StaveTie {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/textbracket.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/textbracket.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textbracket.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textbracket.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18603,11 +24728,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   TextBracket: () => (/* binding */ TextBracket),
 /* harmony export */   TextBracketPosition: () => (/* binding */ TextBracketPosition)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/vexflow/build/esm/src/renderer.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -18740,10 +24865,10 @@ TextBracket.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/textdynamics.js"
-/*!************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/textdynamics.js ***!
-  \************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textdynamics.js"
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textdynamics.js ***!
+  \*********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18751,9 +24876,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TextDynamics: () => (/* binding */ TextDynamics)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -18811,10 +24936,10 @@ TextDynamics.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/textnote.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/textnote.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18823,11 +24948,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   TextJustification: () => (/* binding */ TextJustification),
 /* harmony export */   TextNote: () => (/* binding */ TextNote)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
 
 
 
@@ -18948,10 +25073,10 @@ TextNote.Justification = TextJustification;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tickable.js"
-/*!********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tickable.js ***!
-  \********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickable.js"
+/*!*****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickable.js ***!
+  \*****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -18959,10 +25084,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Tickable: () => (/* binding */ Tickable)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -19169,10 +25294,10 @@ class Tickable extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tickcontext.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tickcontext.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19180,8 +25305,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TickContext: () => (/* binding */ TickContext)
 /* harmony export */ });
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 class TickContext {
@@ -19375,10 +25500,10 @@ class TickContext {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/timesignature.js"
-/*!*************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/timesignature.js ***!
-  \*************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js"
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js ***!
+  \**********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19386,10 +25511,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TimeSignature: () => (/* binding */ TimeSignature)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -19542,10 +25667,10 @@ class TimeSignature extends _stavemodifier_js__WEBPACK_IMPORTED_MODULE_2__.Stave
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/timesignote.js"
-/*!***********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/timesignote.js ***!
-  \***********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignote.js"
+/*!********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignote.js ***!
+  \********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19553,8 +25678,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TimeSigNote: () => (/* binding */ TimeSigNote)
 /* harmony export */ });
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/vexflow/build/esm/src/timesignature.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js");
 
 
 class TimeSigNote extends _note_js__WEBPACK_IMPORTED_MODULE_0__.Note {
@@ -19587,10 +25712,10 @@ class TimeSigNote extends _note_js__WEBPACK_IMPORTED_MODULE_0__.Note {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tremolo.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tremolo.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tremolo.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tremolo.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19598,10 +25723,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Tremolo: () => (/* binding */ Tremolo)
 /* harmony export */ });
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
 
 
 
@@ -19636,10 +25761,10 @@ class Tremolo extends _modifier_js__WEBPACK_IMPORTED_MODULE_2__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tuning.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tuning.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuning.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuning.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19647,8 +25772,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Tuning: () => (/* binding */ Tuning)
 /* harmony export */ });
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 class Tuning {
@@ -19708,10 +25833,10 @@ class Tuning {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/tuplet.js"
-/*!******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/tuplet.js ***!
-  \******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuplet.js"
+/*!***************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuplet.js ***!
+  \***************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19719,13 +25844,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Tuplet: () => (/* binding */ Tuplet)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -19938,10 +26063,10 @@ class Tuplet extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/typeguard.js"
-/*!*********************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/typeguard.js ***!
-  \*********************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js"
+/*!******************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/typeguard.js ***!
+  \******************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19994,10 +26119,10 @@ const isTabNote = (obj) => isCategory(obj, "TabNote");
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/util.js"
-/*!****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/util.js ***!
-  \****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js"
+/*!*************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js ***!
+  \*************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20082,10 +26207,10 @@ function sumArray(arr) {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/version.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/version.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/version.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/version.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20101,10 +26226,10 @@ const DATE = '2025-03-05T17:05:43.991Z';
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/vexflow.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/vexflow.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vexflow.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vexflow.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20112,88 +26237,88 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   VexFlow: () => (/* binding */ VexFlow)
 /* harmony export */ });
-/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/vexflow/build/esm/src/accidental.js");
-/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/vexflow/build/esm/src/annotation.js");
-/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/vexflow/build/esm/src/articulation.js");
-/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/vexflow/build/esm/src/barnote.js");
-/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/vexflow/build/esm/src/beam.js");
-/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./bend.js */ "./node_modules/vexflow/build/esm/src/bend.js");
-/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/vexflow/build/esm/src/boundingbox.js");
-/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/vexflow/build/esm/src/canvascontext.js");
-/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/vexflow/build/esm/src/chordsymbol.js");
-/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./clef.js */ "./node_modules/vexflow/build/esm/src/clef.js");
-/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/vexflow/build/esm/src/clefnote.js");
-/* harmony import */ var _crescendo_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./crescendo.js */ "./node_modules/vexflow/build/esm/src/crescendo.js");
-/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./curve.js */ "./node_modules/vexflow/build/esm/src/curve.js");
-/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./dot.js */ "./node_modules/vexflow/build/esm/src/dot.js");
-/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/vexflow/build/esm/src/easyscore.js");
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _factory_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./factory.js */ "./node_modules/vexflow/build/esm/src/factory.js");
-/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./font.js */ "./node_modules/vexflow/build/esm/src/font.js");
-/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/vexflow/build/esm/src/formatter.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/vexflow/build/esm/src/frethandfinger.js");
-/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/vexflow/build/esm/src/ghostnote.js");
-/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/vexflow/build/esm/src/glyphnote.js");
-/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/vexflow/build/esm/src/glyphs.js");
-/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/vexflow/build/esm/src/gracenote.js");
-/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/vexflow/build/esm/src/gracenotegroup.js");
-/* harmony import */ var _gracetabnote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./gracetabnote.js */ "./node_modules/vexflow/build/esm/src/gracetabnote.js");
-/* harmony import */ var _keymanager_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./keymanager.js */ "./node_modules/vexflow/build/esm/src/keymanager.js");
-/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/vexflow/build/esm/src/keysignature.js");
-/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/vexflow/build/esm/src/keysignote.js");
-/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/vexflow/build/esm/src/metrics.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/vexflow/build/esm/src/modifiercontext.js");
-/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/vexflow/build/esm/src/multimeasurerest.js");
-/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./music.js */ "./node_modules/vexflow/build/esm/src/music.js");
-/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./note.js */ "./node_modules/vexflow/build/esm/src/note.js");
-/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/vexflow/build/esm/src/notehead.js");
-/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/vexflow/build/esm/src/notesubgroup.js");
-/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/vexflow/build/esm/src/ornament.js");
-/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/vexflow/build/esm/src/parenthesis.js");
-/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./parser.js */ "./node_modules/vexflow/build/esm/src/parser.js");
-/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/vexflow/build/esm/src/pedalmarking.js");
-/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./registry.js */ "./node_modules/vexflow/build/esm/src/registry.js");
-/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/vexflow/build/esm/src/rendercontext.js");
-/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/vexflow/build/esm/src/renderer.js");
-/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/vexflow/build/esm/src/repeatnote.js");
-/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./stave.js */ "./node_modules/vexflow/build/esm/src/stave.js");
-/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/vexflow/build/esm/src/stavebarline.js");
-/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/vexflow/build/esm/src/staveconnector.js");
-/* harmony import */ var _stavehairpin_js__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./stavehairpin.js */ "./node_modules/vexflow/build/esm/src/stavehairpin.js");
-/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/vexflow/build/esm/src/staveline.js");
-/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/vexflow/build/esm/src/stavemodifier.js");
-/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/vexflow/build/esm/src/stavenote.js");
-/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/vexflow/build/esm/src/staverepetition.js");
-/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/vexflow/build/esm/src/stavetempo.js");
-/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/vexflow/build/esm/src/stavetext.js");
-/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/vexflow/build/esm/src/stavetie.js");
-/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/vexflow/build/esm/src/stavevolta.js");
-/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./stem.js */ "./node_modules/vexflow/build/esm/src/stem.js");
-/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/vexflow/build/esm/src/stringnumber.js");
-/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/vexflow/build/esm/src/strokes.js");
-/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/vexflow/build/esm/src/svgcontext.js");
-/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./system.js */ "./node_modules/vexflow/build/esm/src/system.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/vexflow/build/esm/src/tabnote.js");
-/* harmony import */ var _tabslide_js__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./tabslide.js */ "./node_modules/vexflow/build/esm/src/tabslide.js");
-/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/vexflow/build/esm/src/tabstave.js");
-/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/vexflow/build/esm/src/tabtie.js");
-/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/vexflow/build/esm/src/textbracket.js");
-/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/vexflow/build/esm/src/textdynamics.js");
-/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/vexflow/build/esm/src/textnote.js");
-/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/vexflow/build/esm/src/tickcontext.js");
-/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/vexflow/build/esm/src/timesignature.js");
-/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/vexflow/build/esm/src/timesignote.js");
-/* harmony import */ var _tremolo_js__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./tremolo.js */ "./node_modules/vexflow/build/esm/src/tremolo.js");
-/* harmony import */ var _tuning_js__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./tuning.js */ "./node_modules/vexflow/build/esm/src/tuning.js");
-/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/vexflow/build/esm/src/tuplet.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./version.js */ "./node_modules/vexflow/build/esm/src/version.js");
-/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/vexflow/build/esm/src/vibrato.js");
-/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/vexflow/build/esm/src/vibratobracket.js");
-/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! ./voice.js */ "./node_modules/vexflow/build/esm/src/voice.js");
+/* harmony import */ var _accidental_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./accidental.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/accidental.js");
+/* harmony import */ var _annotation_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./annotation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/annotation.js");
+/* harmony import */ var _articulation_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./articulation.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/articulation.js");
+/* harmony import */ var _barnote_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./barnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/barnote.js");
+/* harmony import */ var _beam_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./beam.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/beam.js");
+/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./bend.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js");
+/* harmony import */ var _boundingbox_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./boundingbox.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/boundingbox.js");
+/* harmony import */ var _canvascontext_js__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./canvascontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/canvascontext.js");
+/* harmony import */ var _chordsymbol_js__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./chordsymbol.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/chordsymbol.js");
+/* harmony import */ var _clef_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./clef.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clef.js");
+/* harmony import */ var _clefnote_js__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./clefnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/clefnote.js");
+/* harmony import */ var _crescendo_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./crescendo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/crescendo.js");
+/* harmony import */ var _curve_js__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./curve.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/curve.js");
+/* harmony import */ var _dot_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./dot.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/dot.js");
+/* harmony import */ var _easyscore_js__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./easyscore.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/easyscore.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _factory_js__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./factory.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/factory.js");
+/* harmony import */ var _font_js__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./font.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/font.js");
+/* harmony import */ var _formatter_js__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./formatter.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/formatter.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _frethandfinger_js__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./frethandfinger.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/frethandfinger.js");
+/* harmony import */ var _ghostnote_js__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./ghostnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ghostnote.js");
+/* harmony import */ var _glyphnote_js__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./glyphnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphnote.js");
+/* harmony import */ var _glyphs_js__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./glyphs.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/glyphs.js");
+/* harmony import */ var _gracenote_js__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./gracenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenote.js");
+/* harmony import */ var _gracenotegroup_js__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./gracenotegroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracenotegroup.js");
+/* harmony import */ var _gracetabnote_js__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./gracetabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/gracetabnote.js");
+/* harmony import */ var _keymanager_js__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./keymanager.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keymanager.js");
+/* harmony import */ var _keysignature_js__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./keysignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignature.js");
+/* harmony import */ var _keysignote_js__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./keysignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/keysignote.js");
+/* harmony import */ var _metrics_js__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./metrics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/metrics.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _modifiercontext_js__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./modifiercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifiercontext.js");
+/* harmony import */ var _multimeasurerest_js__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./multimeasurerest.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/multimeasurerest.js");
+/* harmony import */ var _music_js__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./music.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/music.js");
+/* harmony import */ var _note_js__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./note.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/note.js");
+/* harmony import */ var _notehead_js__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./notehead.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notehead.js");
+/* harmony import */ var _notesubgroup_js__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./notesubgroup.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/notesubgroup.js");
+/* harmony import */ var _ornament_js__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./ornament.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/ornament.js");
+/* harmony import */ var _parenthesis_js__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./parenthesis.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parenthesis.js");
+/* harmony import */ var _parser_js__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./parser.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/parser.js");
+/* harmony import */ var _pedalmarking_js__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./pedalmarking.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/pedalmarking.js");
+/* harmony import */ var _registry_js__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./registry.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/registry.js");
+/* harmony import */ var _rendercontext_js__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./rendercontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/rendercontext.js");
+/* harmony import */ var _renderer_js__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./renderer.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/renderer.js");
+/* harmony import */ var _repeatnote_js__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./repeatnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/repeatnote.js");
+/* harmony import */ var _stave_js__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./stave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stave.js");
+/* harmony import */ var _stavebarline_js__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./stavebarline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavebarline.js");
+/* harmony import */ var _staveconnector_js__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! ./staveconnector.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveconnector.js");
+/* harmony import */ var _stavehairpin_js__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! ./stavehairpin.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavehairpin.js");
+/* harmony import */ var _staveline_js__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! ./staveline.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staveline.js");
+/* harmony import */ var _stavemodifier_js__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! ./stavemodifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavemodifier.js");
+/* harmony import */ var _stavenote_js__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! ./stavenote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavenote.js");
+/* harmony import */ var _staverepetition_js__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! ./staverepetition.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/staverepetition.js");
+/* harmony import */ var _stavetempo_js__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! ./stavetempo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetempo.js");
+/* harmony import */ var _stavetext_js__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! ./stavetext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetext.js");
+/* harmony import */ var _stavetie_js__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! ./stavetie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavetie.js");
+/* harmony import */ var _stavevolta_js__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! ./stavevolta.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stavevolta.js");
+/* harmony import */ var _stem_js__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! ./stem.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stem.js");
+/* harmony import */ var _stringnumber_js__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! ./stringnumber.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/stringnumber.js");
+/* harmony import */ var _strokes_js__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! ./strokes.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/strokes.js");
+/* harmony import */ var _svgcontext_js__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! ./svgcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/svgcontext.js");
+/* harmony import */ var _system_js__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! ./system.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/system.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _tabnote_js__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! ./tabnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabnote.js");
+/* harmony import */ var _tabslide_js__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! ./tabslide.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabslide.js");
+/* harmony import */ var _tabstave_js__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! ./tabstave.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabstave.js");
+/* harmony import */ var _tabtie_js__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! ./tabtie.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tabtie.js");
+/* harmony import */ var _textbracket_js__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! ./textbracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textbracket.js");
+/* harmony import */ var _textdynamics_js__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! ./textdynamics.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textdynamics.js");
+/* harmony import */ var _textnote_js__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! ./textnote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/textnote.js");
+/* harmony import */ var _tickcontext_js__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! ./tickcontext.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tickcontext.js");
+/* harmony import */ var _timesignature_js__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! ./timesignature.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignature.js");
+/* harmony import */ var _timesignote_js__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! ./timesignote.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/timesignote.js");
+/* harmony import */ var _tremolo_js__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! ./tremolo.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tremolo.js");
+/* harmony import */ var _tuning_js__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! ./tuning.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuning.js");
+/* harmony import */ var _tuplet_js__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! ./tuplet.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tuplet.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _version_js__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! ./version.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/version.js");
+/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js");
+/* harmony import */ var _vibratobracket_js__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! ./vibratobracket.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibratobracket.js");
+/* harmony import */ var _voice_js__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! ./voice.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js");
 var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -20506,10 +26631,10 @@ VexFlow.VoiceMode = _voice_js__WEBPACK_IMPORTED_MODULE_81__.VoiceMode;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/vibrato.js"
-/*!*******************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/vibrato.js ***!
-  \*******************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js"
+/*!****************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js ***!
+  \****************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20517,10 +26642,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   Vibrato: () => (/* binding */ Vibrato)
 /* harmony export */ });
-/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bend.js */ "./node_modules/vexflow/build/esm/src/bend.js");
-/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/vexflow/build/esm/src/modifier.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _bend_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./bend.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/bend.js");
+/* harmony import */ var _modifier_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modifier.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/modifier.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -20593,10 +26718,10 @@ class Vibrato extends _modifier_js__WEBPACK_IMPORTED_MODULE_1__.Modifier {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/vibratobracket.js"
-/*!**************************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/vibratobracket.js ***!
-  \**************************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibratobracket.js"
+/*!***********************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibratobracket.js ***!
+  \***********************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20604,9 +26729,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   VibratoBracket: () => (/* binding */ VibratoBracket)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
-/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/vexflow/build/esm/src/vibrato.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _vibrato_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./vibrato.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/vibrato.js");
 
 
 
@@ -20655,10 +26780,10 @@ VibratoBracket.DEBUG = false;
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/voice.js"
-/*!*****************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/voice.js ***!
-  \*****************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js"
+/*!**************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/voice.js ***!
+  \**************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20667,10 +26792,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   Voice: () => (/* binding */ Voice),
 /* harmony export */   VoiceMode: () => (/* binding */ VoiceMode)
 /* harmony export */ });
-/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/vexflow/build/esm/src/element.js");
-/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/vexflow/build/esm/src/fraction.js");
-/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/vexflow/build/esm/src/tables.js");
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _element_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./element.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/element.js");
+/* harmony import */ var _fraction_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fraction.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/fraction.js");
+/* harmony import */ var _tables_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tables.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/tables.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 
 
@@ -20853,10 +26978,10 @@ class Voice extends _element_js__WEBPACK_IMPORTED_MODULE_0__.Element {
 
 /***/ },
 
-/***/ "./node_modules/vexflow/build/esm/src/web.js"
-/*!***************************************************!*\
-  !*** ./node_modules/vexflow/build/esm/src/web.js ***!
-  \***************************************************/
+/***/ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js"
+/*!************************************************************************************!*\
+  !*** ./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/web.js ***!
+  \************************************************************************************/
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -20865,7 +26990,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   isHTMLCanvas: () => (/* binding */ isHTMLCanvas),
 /* harmony export */   isHTMLDiv: () => (/* binding */ isHTMLDiv)
 /* harmony export */ });
-/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/vexflow/build/esm/src/util.js");
+/* harmony import */ var _util_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./util.js */ "./node_modules/.pnpm/vexflow@5.0.0/node_modules/vexflow/build/esm/src/util.js");
 
 function isHTMLCanvas(element) {
     if (!element)
@@ -20882,6131 +27007,6 @@ function isHTMLDiv(element) {
         (typeof element.appendChild === 'function' && typeof element.style === 'object'));
 }
 
-
-/***/ },
-
-/***/ "./node_modules/zepto-webpack/zepto.js"
-/*!*********************************************!*\
-  !*** ./node_modules/zepto-webpack/zepto.js ***!
-  \*********************************************/
-(module, exports, __webpack_require__) {
-
-var __WEBPACK_AMD_DEFINE_RESULT__;/* Zepto v1.2.0 - zepto event ajax form ie - zeptojs.com/license */
-(function(global, factory) {
-  if (true)
-    !(__WEBPACK_AMD_DEFINE_RESULT__ = (function() { return factory(global) }).call(exports, __webpack_require__, exports, module),
-		__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__))
-  else
-    // removed by dead control flow
-{}
-}(this, function() {
-  var Zepto = (function() {
-  var undefined, key, $, classList, emptyArray = [], concat = emptyArray.concat, filter = emptyArray.filter, slice = emptyArray.slice,
-    document = window.document,
-    elementDisplay = {}, classCache = {},
-    cssNumber = { 'column-count': 1, 'columns': 1, 'font-weight': 1, 'line-height': 1,'opacity': 1, 'z-index': 1, 'zoom': 1 },
-    fragmentRE = /^\s*<(\w+|!)[^>]*>/,
-    singleTagRE = /^<(\w+)\s*\/?>(?:<\/\1>|)$/,
-    tagExpanderRE = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([\w:]+)[^>]*)\/>/ig,
-    rootNodeRE = /^(?:body|html)$/i,
-    capitalRE = /([A-Z])/g,
-
-    // special attributes that should be get/set via method calls
-    methodAttributes = ['val', 'css', 'html', 'text', 'data', 'width', 'height', 'offset'],
-
-    adjacencyOperators = [ 'after', 'prepend', 'before', 'append' ],
-    table = document.createElement('table'),
-    tableRow = document.createElement('tr'),
-    containers = {
-      'tr': document.createElement('tbody'),
-      'tbody': table, 'thead': table, 'tfoot': table,
-      'td': tableRow, 'th': tableRow,
-      '*': document.createElement('div')
-    },
-    readyRE = /complete|loaded|interactive/,
-    simpleSelectorRE = /^[\w-]*$/,
-    class2type = {},
-    toString = class2type.toString,
-    zepto = {},
-    camelize, uniq,
-    tempParent = document.createElement('div'),
-    propMap = {
-      'tabindex': 'tabIndex',
-      'readonly': 'readOnly',
-      'for': 'htmlFor',
-      'class': 'className',
-      'maxlength': 'maxLength',
-      'cellspacing': 'cellSpacing',
-      'cellpadding': 'cellPadding',
-      'rowspan': 'rowSpan',
-      'colspan': 'colSpan',
-      'usemap': 'useMap',
-      'frameborder': 'frameBorder',
-      'contenteditable': 'contentEditable'
-    },
-    isArray = Array.isArray ||
-      function(object){ return object instanceof Array }
-
-  zepto.matches = function(element, selector) {
-    if (!selector || !element || element.nodeType !== 1) return false
-    var matchesSelector = element.matches || element.webkitMatchesSelector ||
-                          element.mozMatchesSelector || element.oMatchesSelector ||
-                          element.matchesSelector
-    if (matchesSelector) return matchesSelector.call(element, selector)
-    // fall back to performing a selector:
-    var match, parent = element.parentNode, temp = !parent
-    if (temp) (parent = tempParent).appendChild(element)
-    match = ~zepto.qsa(parent, selector).indexOf(element)
-    temp && tempParent.removeChild(element)
-    return match
-  }
-
-  function type(obj) {
-    return obj == null ? String(obj) :
-      class2type[toString.call(obj)] || "object"
-  }
-
-  function isFunction(value) { return type(value) == "function" }
-  function isWindow(obj)     { return obj != null && obj == obj.window }
-  function isDocument(obj)   { return obj != null && obj.nodeType == obj.DOCUMENT_NODE }
-  function isObject(obj)     { return type(obj) == "object" }
-  function isPlainObject(obj) {
-    return isObject(obj) && !isWindow(obj) && Object.getPrototypeOf(obj) == Object.prototype
-  }
-
-  function likeArray(obj) {
-    var length = !!obj && 'length' in obj && obj.length,
-      type = $.type(obj)
-
-    return 'function' != type && !isWindow(obj) && (
-      'array' == type || length === 0 ||
-        (typeof length == 'number' && length > 0 && (length - 1) in obj)
-    )
-  }
-
-  function compact(array) { return filter.call(array, function(item){ return item != null }) }
-  function flatten(array) { return array.length > 0 ? $.fn.concat.apply([], array) : array }
-  camelize = function(str){ return str.replace(/-+(.)?/g, function(match, chr){ return chr ? chr.toUpperCase() : '' }) }
-  function dasherize(str) {
-    return str.replace(/::/g, '/')
-           .replace(/([A-Z]+)([A-Z][a-z])/g, '$1_$2')
-           .replace(/([a-z\d])([A-Z])/g, '$1_$2')
-           .replace(/_/g, '-')
-           .toLowerCase()
-  }
-  uniq = function(array){ return filter.call(array, function(item, idx){ return array.indexOf(item) == idx }) }
-
-  function classRE(name) {
-    return name in classCache ?
-      classCache[name] : (classCache[name] = new RegExp('(^|\\s)' + name + '(\\s|$)'))
-  }
-
-  function maybeAddPx(name, value) {
-    return (typeof value == "number" && !cssNumber[dasherize(name)]) ? value + "px" : value
-  }
-
-  function defaultDisplay(nodeName) {
-    var element, display
-    if (!elementDisplay[nodeName]) {
-      element = document.createElement(nodeName)
-      document.body.appendChild(element)
-      display = getComputedStyle(element, '').getPropertyValue("display")
-      element.parentNode.removeChild(element)
-      display == "none" && (display = "block")
-      elementDisplay[nodeName] = display
-    }
-    return elementDisplay[nodeName]
-  }
-
-  function children(element) {
-    return 'children' in element ?
-      slice.call(element.children) :
-      $.map(element.childNodes, function(node){ if (node.nodeType == 1) return node })
-  }
-
-  function Z(dom, selector) {
-    var i, len = dom ? dom.length : 0
-    for (i = 0; i < len; i++) this[i] = dom[i]
-    this.length = len
-    this.selector = selector || ''
-  }
-
-  // `$.zepto.fragment` takes a html string and an optional tag name
-  // to generate DOM nodes from the given html string.
-  // The generated DOM nodes are returned as an array.
-  // This function can be overridden in plugins for example to make
-  // it compatible with browsers that don't support the DOM fully.
-  zepto.fragment = function(html, name, properties) {
-    var dom, nodes, container
-
-    // A special case optimization for a single tag
-    if (singleTagRE.test(html)) dom = $(document.createElement(RegExp.$1))
-
-    if (!dom) {
-      if (html.replace) html = html.replace(tagExpanderRE, "<$1></$2>")
-      if (name === undefined) name = fragmentRE.test(html) && RegExp.$1
-      if (!(name in containers)) name = '*'
-
-      container = containers[name]
-      container.innerHTML = '' + html
-      dom = $.each(slice.call(container.childNodes), function(){
-        container.removeChild(this)
-      })
-    }
-
-    if (isPlainObject(properties)) {
-      nodes = $(dom)
-      $.each(properties, function(key, value) {
-        if (methodAttributes.indexOf(key) > -1) nodes[key](value)
-        else nodes.attr(key, value)
-      })
-    }
-
-    return dom
-  }
-
-  // `$.zepto.Z` swaps out the prototype of the given `dom` array
-  // of nodes with `$.fn` and thus supplying all the Zepto functions
-  // to the array. This method can be overridden in plugins.
-  zepto.Z = function(dom, selector) {
-    return new Z(dom, selector)
-  }
-
-  // `$.zepto.isZ` should return `true` if the given object is a Zepto
-  // collection. This method can be overridden in plugins.
-  zepto.isZ = function(object) {
-    return object instanceof zepto.Z
-  }
-
-  // `$.zepto.init` is Zepto's counterpart to jQuery's `$.fn.init` and
-  // takes a CSS selector and an optional context (and handles various
-  // special cases).
-  // This method can be overridden in plugins.
-  zepto.init = function(selector, context) {
-    var dom
-    // If nothing given, return an empty Zepto collection
-    if (!selector) return zepto.Z()
-    // Optimize for string selectors
-    else if (typeof selector == 'string') {
-      selector = selector.trim()
-      // If it's a html fragment, create nodes from it
-      // Note: In both Chrome 21 and Firefox 15, DOM error 12
-      // is thrown if the fragment doesn't begin with <
-      if (selector[0] == '<' && fragmentRE.test(selector))
-        dom = zepto.fragment(selector, RegExp.$1, context), selector = null
-      // If there's a context, create a collection on that context first, and select
-      // nodes from there
-      else if (context !== undefined) return $(context).find(selector)
-      // If it's a CSS selector, use it to select nodes.
-      else dom = zepto.qsa(document, selector)
-    }
-    // If a function is given, call it when the DOM is ready
-    else if (isFunction(selector)) return $(document).ready(selector)
-    // If a Zepto collection is given, just return it
-    else if (zepto.isZ(selector)) return selector
-    else {
-      // normalize array if an array of nodes is given
-      if (isArray(selector)) dom = compact(selector)
-      // Wrap DOM nodes.
-      else if (isObject(selector))
-        dom = [selector], selector = null
-      // If it's a html fragment, create nodes from it
-      else if (fragmentRE.test(selector))
-        dom = zepto.fragment(selector.trim(), RegExp.$1, context), selector = null
-      // If there's a context, create a collection on that context first, and select
-      // nodes from there
-      else if (context !== undefined) return $(context).find(selector)
-      // And last but no least, if it's a CSS selector, use it to select nodes.
-      else dom = zepto.qsa(document, selector)
-    }
-    // create a new Zepto collection from the nodes found
-    return zepto.Z(dom, selector)
-  }
-
-  // `$` will be the base `Zepto` object. When calling this
-  // function just call `$.zepto.init, which makes the implementation
-  // details of selecting nodes and creating Zepto collections
-  // patchable in plugins.
-  $ = function(selector, context){
-    return zepto.init(selector, context)
-  }
-
-  function extend(target, source, deep) {
-    for (key in source)
-      if (deep && (isPlainObject(source[key]) || isArray(source[key]))) {
-        if (isPlainObject(source[key]) && !isPlainObject(target[key]))
-          target[key] = {}
-        if (isArray(source[key]) && !isArray(target[key]))
-          target[key] = []
-        extend(target[key], source[key], deep)
-      }
-      else if (source[key] !== undefined) target[key] = source[key]
-  }
-
-  // Copy all but undefined properties from one or more
-  // objects to the `target` object.
-  $.extend = function(target){
-    var deep, args = slice.call(arguments, 1)
-    if (typeof target == 'boolean') {
-      deep = target
-      target = args.shift()
-    }
-    args.forEach(function(arg){ extend(target, arg, deep) })
-    return target
-  }
-
-  // `$.zepto.qsa` is Zepto's CSS selector implementation which
-  // uses `document.querySelectorAll` and optimizes for some special cases, like `#id`.
-  // This method can be overridden in plugins.
-  zepto.qsa = function(element, selector){
-    var found,
-        maybeID = selector[0] == '#',
-        maybeClass = !maybeID && selector[0] == '.',
-        nameOnly = maybeID || maybeClass ? selector.slice(1) : selector, // Ensure that a 1 char tag name still gets checked
-        isSimple = simpleSelectorRE.test(nameOnly)
-    return (element.getElementById && isSimple && maybeID) ? // Safari DocumentFragment doesn't have getElementById
-      ( (found = element.getElementById(nameOnly)) ? [found] : [] ) :
-      (element.nodeType !== 1 && element.nodeType !== 9 && element.nodeType !== 11) ? [] :
-      slice.call(
-        isSimple && !maybeID && element.getElementsByClassName ? // DocumentFragment doesn't have getElementsByClassName/TagName
-          maybeClass ? element.getElementsByClassName(nameOnly) : // If it's simple, it could be a class
-          element.getElementsByTagName(selector) : // Or a tag
-          element.querySelectorAll(selector) // Or it's not simple, and we need to query all
-      )
-  }
-
-  function filtered(nodes, selector) {
-    return selector == null ? $(nodes) : $(nodes).filter(selector)
-  }
-
-  $.contains = document.documentElement.contains ?
-    function(parent, node) {
-      return parent !== node && parent.contains(node)
-    } :
-    function(parent, node) {
-      while (node && (node = node.parentNode))
-        if (node === parent) return true
-      return false
-    }
-
-  function funcArg(context, arg, idx, payload) {
-    return isFunction(arg) ? arg.call(context, idx, payload) : arg
-  }
-
-  function setAttribute(node, name, value) {
-    value == null ? node.removeAttribute(name) : node.setAttribute(name, value)
-  }
-
-  // access className property while respecting SVGAnimatedString
-  function className(node, value){
-    var klass = node.className || '',
-        svg   = klass && klass.baseVal !== undefined
-
-    if (value === undefined) return svg ? klass.baseVal : klass
-    svg ? (klass.baseVal = value) : (node.className = value)
-  }
-
-  // "true"  => true
-  // "false" => false
-  // "null"  => null
-  // "42"    => 42
-  // "42.5"  => 42.5
-  // "08"    => "08"
-  // JSON    => parse if valid
-  // String  => self
-  function deserializeValue(value) {
-    try {
-      return value ?
-        value == "true" ||
-        ( value == "false" ? false :
-          value == "null" ? null :
-          +value + "" == value ? +value :
-          /^[\[\{]/.test(value) ? $.parseJSON(value) :
-          value )
-        : value
-    } catch(e) {
-      return value
-    }
-  }
-
-  $.type = type
-  $.isFunction = isFunction
-  $.isWindow = isWindow
-  $.isArray = isArray
-  $.isPlainObject = isPlainObject
-
-  $.isEmptyObject = function(obj) {
-    var name
-    for (name in obj) return false
-    return true
-  }
-
-  $.isNumeric = function(val) {
-    var num = Number(val), type = typeof val
-    return val != null && type != 'boolean' &&
-      (type != 'string' || val.length) &&
-      !isNaN(num) && isFinite(num) || false
-  }
-
-  $.inArray = function(elem, array, i){
-    return emptyArray.indexOf.call(array, elem, i)
-  }
-
-  $.camelCase = camelize
-  $.trim = function(str) {
-    return str == null ? "" : String.prototype.trim.call(str)
-  }
-
-  // plugin compatibility
-  $.uuid = 0
-  $.support = { }
-  $.expr = { }
-  $.noop = function() {}
-
-  $.map = function(elements, callback){
-    var value, values = [], i, key
-    if (likeArray(elements))
-      for (i = 0; i < elements.length; i++) {
-        value = callback(elements[i], i)
-        if (value != null) values.push(value)
-      }
-    else
-      for (key in elements) {
-        value = callback(elements[key], key)
-        if (value != null) values.push(value)
-      }
-    return flatten(values)
-  }
-
-  $.each = function(elements, callback){
-    var i, key
-    if (likeArray(elements)) {
-      for (i = 0; i < elements.length; i++)
-        if (callback.call(elements[i], i, elements[i]) === false) return elements
-    } else {
-      for (key in elements)
-        if (callback.call(elements[key], key, elements[key]) === false) return elements
-    }
-
-    return elements
-  }
-
-  $.grep = function(elements, callback){
-    return filter.call(elements, callback)
-  }
-
-  if (window.JSON) $.parseJSON = JSON.parse
-
-  // Populate the class2type map
-  $.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
-    class2type[ "[object " + name + "]" ] = name.toLowerCase()
-  })
-
-  // Define methods that will be available on all
-  // Zepto collections
-  $.fn = {
-    constructor: zepto.Z,
-    length: 0,
-
-    // Because a collection acts like an array
-    // copy over these useful array functions.
-    forEach: emptyArray.forEach,
-    reduce: emptyArray.reduce,
-    push: emptyArray.push,
-    sort: emptyArray.sort,
-    splice: emptyArray.splice,
-    indexOf: emptyArray.indexOf,
-    concat: function(){
-      var i, value, args = []
-      for (i = 0; i < arguments.length; i++) {
-        value = arguments[i]
-        args[i] = zepto.isZ(value) ? value.toArray() : value
-      }
-      return concat.apply(zepto.isZ(this) ? this.toArray() : this, args)
-    },
-
-    // `map` and `slice` in the jQuery API work differently
-    // from their array counterparts
-    map: function(fn){
-      return $($.map(this, function(el, i){ return fn.call(el, i, el) }))
-    },
-    slice: function(){
-      return $(slice.apply(this, arguments))
-    },
-
-    ready: function(callback){
-      // need to check if document.body exists for IE as that browser reports
-      // document ready when it hasn't yet created the body element
-      if (readyRE.test(document.readyState) && document.body) callback($)
-      else document.addEventListener('DOMContentLoaded', function(){ callback($) }, false)
-      return this
-    },
-    get: function(idx){
-      return idx === undefined ? slice.call(this) : this[idx >= 0 ? idx : idx + this.length]
-    },
-    toArray: function(){ return this.get() },
-    size: function(){
-      return this.length
-    },
-    remove: function(){
-      return this.each(function(){
-        if (this.parentNode != null)
-          this.parentNode.removeChild(this)
-      })
-    },
-    each: function(callback){
-      emptyArray.every.call(this, function(el, idx){
-        return callback.call(el, idx, el) !== false
-      })
-      return this
-    },
-    filter: function(selector){
-      if (isFunction(selector)) return this.not(this.not(selector))
-      return $(filter.call(this, function(element){
-        return zepto.matches(element, selector)
-      }))
-    },
-    add: function(selector,context){
-      return $(uniq(this.concat($(selector,context))))
-    },
-    is: function(selector){
-      return this.length > 0 && zepto.matches(this[0], selector)
-    },
-    not: function(selector){
-      var nodes=[]
-      if (isFunction(selector) && selector.call !== undefined)
-        this.each(function(idx){
-          if (!selector.call(this,idx)) nodes.push(this)
-        })
-      else {
-        var excludes = typeof selector == 'string' ? this.filter(selector) :
-          (likeArray(selector) && isFunction(selector.item)) ? slice.call(selector) : $(selector)
-        this.forEach(function(el){
-          if (excludes.indexOf(el) < 0) nodes.push(el)
-        })
-      }
-      return $(nodes)
-    },
-    has: function(selector){
-      return this.filter(function(){
-        return isObject(selector) ?
-          $.contains(this, selector) :
-          $(this).find(selector).size()
-      })
-    },
-    eq: function(idx){
-      return idx === -1 ? this.slice(idx) : this.slice(idx, + idx + 1)
-    },
-    first: function(){
-      var el = this[0]
-      return el && !isObject(el) ? el : $(el)
-    },
-    last: function(){
-      var el = this[this.length - 1]
-      return el && !isObject(el) ? el : $(el)
-    },
-    find: function(selector){
-      var result, $this = this
-      if (!selector) result = $()
-      else if (typeof selector == 'object')
-        result = $(selector).filter(function(){
-          var node = this
-          return emptyArray.some.call($this, function(parent){
-            return $.contains(parent, node)
-          })
-        })
-      else if (this.length == 1) result = $(zepto.qsa(this[0], selector))
-      else result = this.map(function(){ return zepto.qsa(this, selector) })
-      return result
-    },
-    closest: function(selector, context){
-      var nodes = [], collection = typeof selector == 'object' && $(selector)
-      this.each(function(_, node){
-        while (node && !(collection ? collection.indexOf(node) >= 0 : zepto.matches(node, selector)))
-          node = node !== context && !isDocument(node) && node.parentNode
-        if (node && nodes.indexOf(node) < 0) nodes.push(node)
-      })
-      return $(nodes)
-    },
-    parents: function(selector){
-      var ancestors = [], nodes = this
-      while (nodes.length > 0)
-        nodes = $.map(nodes, function(node){
-          if ((node = node.parentNode) && !isDocument(node) && ancestors.indexOf(node) < 0) {
-            ancestors.push(node)
-            return node
-          }
-        })
-      return filtered(ancestors, selector)
-    },
-    parent: function(selector){
-      return filtered(uniq(this.pluck('parentNode')), selector)
-    },
-    children: function(selector){
-      return filtered(this.map(function(){ return children(this) }), selector)
-    },
-    contents: function() {
-      return this.map(function() { return this.contentDocument || slice.call(this.childNodes) })
-    },
-    siblings: function(selector){
-      return filtered(this.map(function(i, el){
-        return filter.call(children(el.parentNode), function(child){ return child!==el })
-      }), selector)
-    },
-    empty: function(){
-      return this.each(function(){ this.innerHTML = '' })
-    },
-    // `pluck` is borrowed from Prototype.js
-    pluck: function(property){
-      return $.map(this, function(el){ return el[property] })
-    },
-    show: function(){
-      return this.each(function(){
-        this.style.display == "none" && (this.style.display = '')
-        if (getComputedStyle(this, '').getPropertyValue("display") == "none")
-          this.style.display = defaultDisplay(this.nodeName)
-      })
-    },
-    replaceWith: function(newContent){
-      return this.before(newContent).remove()
-    },
-    wrap: function(structure){
-      var func = isFunction(structure)
-      if (this[0] && !func)
-        var dom   = $(structure).get(0),
-            clone = dom.parentNode || this.length > 1
-
-      return this.each(function(index){
-        $(this).wrapAll(
-          func ? structure.call(this, index) :
-            clone ? dom.cloneNode(true) : dom
-        )
-      })
-    },
-    wrapAll: function(structure){
-      if (this[0]) {
-        $(this[0]).before(structure = $(structure))
-        var children
-        // drill down to the inmost element
-        while ((children = structure.children()).length) structure = children.first()
-        $(structure).append(this)
-      }
-      return this
-    },
-    wrapInner: function(structure){
-      var func = isFunction(structure)
-      return this.each(function(index){
-        var self = $(this), contents = self.contents(),
-            dom  = func ? structure.call(this, index) : structure
-        contents.length ? contents.wrapAll(dom) : self.append(dom)
-      })
-    },
-    unwrap: function(){
-      this.parent().each(function(){
-        $(this).replaceWith($(this).children())
-      })
-      return this
-    },
-    clone: function(){
-      return this.map(function(){ return this.cloneNode(true) })
-    },
-    hide: function(){
-      return this.css("display", "none")
-    },
-    toggle: function(setting){
-      return this.each(function(){
-        var el = $(this)
-        ;(setting === undefined ? el.css("display") == "none" : setting) ? el.show() : el.hide()
-      })
-    },
-    prev: function(selector){ return $(this.pluck('previousElementSibling')).filter(selector || '*') },
-    next: function(selector){ return $(this.pluck('nextElementSibling')).filter(selector || '*') },
-    html: function(html){
-      return 0 in arguments ?
-        this.each(function(idx){
-          var originHtml = this.innerHTML
-          $(this).empty().append( funcArg(this, html, idx, originHtml) )
-        }) :
-        (0 in this ? this[0].innerHTML : null)
-    },
-    text: function(text){
-      return 0 in arguments ?
-        this.each(function(idx){
-          var newText = funcArg(this, text, idx, this.textContent)
-          this.textContent = newText == null ? '' : ''+newText
-        }) :
-        (0 in this ? this.pluck('textContent').join("") : null)
-    },
-    attr: function(name, value){
-      var result
-      return (typeof name == 'string' && !(1 in arguments)) ?
-        (0 in this && this[0].nodeType == 1 && (result = this[0].getAttribute(name)) != null ? result : undefined) :
-        this.each(function(idx){
-          if (this.nodeType !== 1) return
-          if (isObject(name)) for (key in name) setAttribute(this, key, name[key])
-          else setAttribute(this, name, funcArg(this, value, idx, this.getAttribute(name)))
-        })
-    },
-    removeAttr: function(name){
-      return this.each(function(){ this.nodeType === 1 && name.split(' ').forEach(function(attribute){
-        setAttribute(this, attribute)
-      }, this)})
-    },
-    prop: function(name, value){
-      name = propMap[name] || name
-      return (1 in arguments) ?
-        this.each(function(idx){
-          this[name] = funcArg(this, value, idx, this[name])
-        }) :
-        (this[0] && this[0][name])
-    },
-    removeProp: function(name){
-      name = propMap[name] || name
-      return this.each(function(){ delete this[name] })
-    },
-    data: function(name, value){
-      var attrName = 'data-' + name.replace(capitalRE, '-$1').toLowerCase()
-
-      var data = (1 in arguments) ?
-        this.attr(attrName, value) :
-        this.attr(attrName)
-
-      return data !== null ? deserializeValue(data) : undefined
-    },
-    val: function(value){
-      if (0 in arguments) {
-        if (value == null) value = ""
-        return this.each(function(idx){
-          this.value = funcArg(this, value, idx, this.value)
-        })
-      } else {
-        return this[0] && (this[0].multiple ?
-           $(this[0]).find('option').filter(function(){ return this.selected }).pluck('value') :
-           this[0].value)
-      }
-    },
-    offset: function(coordinates){
-      if (coordinates) return this.each(function(index){
-        var $this = $(this),
-            coords = funcArg(this, coordinates, index, $this.offset()),
-            parentOffset = $this.offsetParent().offset(),
-            props = {
-              top:  coords.top  - parentOffset.top,
-              left: coords.left - parentOffset.left
-            }
-
-        if ($this.css('position') == 'static') props['position'] = 'relative'
-        $this.css(props)
-      })
-      if (!this.length) return null
-      if (document.documentElement !== this[0] && !$.contains(document.documentElement, this[0]))
-        return {top: 0, left: 0}
-      var obj = this[0].getBoundingClientRect()
-      return {
-        left: obj.left + window.pageXOffset,
-        top: obj.top + window.pageYOffset,
-        width: Math.round(obj.width),
-        height: Math.round(obj.height)
-      }
-    },
-    css: function(property, value){
-      if (arguments.length < 2) {
-        var element = this[0]
-        if (typeof property == 'string') {
-          if (!element) return
-          return element.style[camelize(property)] || getComputedStyle(element, '').getPropertyValue(property)
-        } else if (isArray(property)) {
-          if (!element) return
-          var props = {}
-          var computedStyle = getComputedStyle(element, '')
-          $.each(property, function(_, prop){
-            props[prop] = (element.style[camelize(prop)] || computedStyle.getPropertyValue(prop))
-          })
-          return props
-        }
-      }
-
-      var css = ''
-      if (type(property) == 'string') {
-        if (!value && value !== 0)
-          this.each(function(){ this.style.removeProperty(dasherize(property)) })
-        else
-          css = dasherize(property) + ":" + maybeAddPx(property, value)
-      } else {
-        for (key in property)
-          if (!property[key] && property[key] !== 0)
-            this.each(function(){ this.style.removeProperty(dasherize(key)) })
-          else
-            css += dasherize(key) + ':' + maybeAddPx(key, property[key]) + ';'
-      }
-
-      return this.each(function(){ this.style.cssText += ';' + css })
-    },
-    index: function(element){
-      return element ? this.indexOf($(element)[0]) : this.parent().children().indexOf(this[0])
-    },
-    hasClass: function(name){
-      if (!name) return false
-      return emptyArray.some.call(this, function(el){
-        return this.test(className(el))
-      }, classRE(name))
-    },
-    addClass: function(name){
-      if (!name) return this
-      return this.each(function(idx){
-        if (!('className' in this)) return
-        classList = []
-        var cls = className(this), newName = funcArg(this, name, idx, cls)
-        newName.split(/\s+/g).forEach(function(klass){
-          if (!$(this).hasClass(klass)) classList.push(klass)
-        }, this)
-        classList.length && className(this, cls + (cls ? " " : "") + classList.join(" "))
-      })
-    },
-    removeClass: function(name){
-      return this.each(function(idx){
-        if (!('className' in this)) return
-        if (name === undefined) return className(this, '')
-        classList = className(this)
-        funcArg(this, name, idx, classList).split(/\s+/g).forEach(function(klass){
-          classList = classList.replace(classRE(klass), " ")
-        })
-        className(this, classList.trim())
-      })
-    },
-    toggleClass: function(name, when){
-      if (!name) return this
-      return this.each(function(idx){
-        var $this = $(this), names = funcArg(this, name, idx, className(this))
-        names.split(/\s+/g).forEach(function(klass){
-          (when === undefined ? !$this.hasClass(klass) : when) ?
-            $this.addClass(klass) : $this.removeClass(klass)
-        })
-      })
-    },
-    scrollTop: function(value){
-      if (!this.length) return
-      var hasScrollTop = 'scrollTop' in this[0]
-      if (value === undefined) return hasScrollTop ? this[0].scrollTop : this[0].pageYOffset
-      return this.each(hasScrollTop ?
-        function(){ this.scrollTop = value } :
-        function(){ this.scrollTo(this.scrollX, value) })
-    },
-    scrollLeft: function(value){
-      if (!this.length) return
-      var hasScrollLeft = 'scrollLeft' in this[0]
-      if (value === undefined) return hasScrollLeft ? this[0].scrollLeft : this[0].pageXOffset
-      return this.each(hasScrollLeft ?
-        function(){ this.scrollLeft = value } :
-        function(){ this.scrollTo(value, this.scrollY) })
-    },
-    position: function() {
-      if (!this.length) return
-
-      var elem = this[0],
-        // Get *real* offsetParent
-        offsetParent = this.offsetParent(),
-        // Get correct offsets
-        offset       = this.offset(),
-        parentOffset = rootNodeRE.test(offsetParent[0].nodeName) ? { top: 0, left: 0 } : offsetParent.offset()
-
-      // Subtract element margins
-      // note: when an element has margin: auto the offsetLeft and marginLeft
-      // are the same in Safari causing offset.left to incorrectly be 0
-      offset.top  -= parseFloat( $(elem).css('margin-top') ) || 0
-      offset.left -= parseFloat( $(elem).css('margin-left') ) || 0
-
-      // Add offsetParent borders
-      parentOffset.top  += parseFloat( $(offsetParent[0]).css('border-top-width') ) || 0
-      parentOffset.left += parseFloat( $(offsetParent[0]).css('border-left-width') ) || 0
-
-      // Subtract the two offsets
-      return {
-        top:  offset.top  - parentOffset.top,
-        left: offset.left - parentOffset.left
-      }
-    },
-    offsetParent: function() {
-      return this.map(function(){
-        var parent = this.offsetParent || document.body
-        while (parent && !rootNodeRE.test(parent.nodeName) && $(parent).css("position") == "static")
-          parent = parent.offsetParent
-        return parent
-      })
-    }
-  }
-
-  // for now
-  $.fn.detach = $.fn.remove
-
-  // Generate the `width` and `height` functions
-  ;['width', 'height'].forEach(function(dimension){
-    var dimensionProperty =
-      dimension.replace(/./, function(m){ return m[0].toUpperCase() })
-
-    $.fn[dimension] = function(value){
-      var offset, el = this[0]
-      if (value === undefined) return isWindow(el) ? el['inner' + dimensionProperty] :
-        isDocument(el) ? el.documentElement['scroll' + dimensionProperty] :
-        (offset = this.offset()) && offset[dimension]
-      else return this.each(function(idx){
-        el = $(this)
-        el.css(dimension, funcArg(this, value, idx, el[dimension]()))
-      })
-    }
-  })
-
-  function traverseNode(node, fun) {
-    fun(node)
-    for (var i = 0, len = node.childNodes.length; i < len; i++)
-      traverseNode(node.childNodes[i], fun)
-  }
-
-  // Generate the `after`, `prepend`, `before`, `append`,
-  // `insertAfter`, `insertBefore`, `appendTo`, and `prependTo` methods.
-  adjacencyOperators.forEach(function(operator, operatorIndex) {
-    var inside = operatorIndex % 2 //=> prepend, append
-
-    $.fn[operator] = function(){
-      // arguments can be nodes, arrays of nodes, Zepto objects and HTML strings
-      var argType, nodes = $.map(arguments, function(arg) {
-            var arr = []
-            argType = type(arg)
-            if (argType == "array") {
-              arg.forEach(function(el) {
-                if (el.nodeType !== undefined) return arr.push(el)
-                else if ($.zepto.isZ(el)) return arr = arr.concat(el.get())
-                arr = arr.concat(zepto.fragment(el))
-              })
-              return arr
-            }
-            return argType == "object" || arg == null ?
-              arg : zepto.fragment(arg)
-          }),
-          parent, copyByClone = this.length > 1
-      if (nodes.length < 1) return this
-
-      return this.each(function(_, target){
-        parent = inside ? target : target.parentNode
-
-        // convert all methods to a "before" operation
-        target = operatorIndex == 0 ? target.nextSibling :
-                 operatorIndex == 1 ? target.firstChild :
-                 operatorIndex == 2 ? target :
-                 null
-
-        var parentInDocument = $.contains(document.documentElement, parent)
-
-        nodes.forEach(function(node){
-          if (copyByClone) node = node.cloneNode(true)
-          else if (!parent) return $(node).remove()
-
-          parent.insertBefore(node, target)
-          if (parentInDocument) traverseNode(node, function(el){
-            if (el.nodeName != null && el.nodeName.toUpperCase() === 'SCRIPT' &&
-               (!el.type || el.type === 'text/javascript') && !el.src){
-              var target = el.ownerDocument ? el.ownerDocument.defaultView : window
-              target['eval'].call(target, el.innerHTML)
-            }
-          })
-        })
-      })
-    }
-
-    // after    => insertAfter
-    // prepend  => prependTo
-    // before   => insertBefore
-    // append   => appendTo
-    $.fn[inside ? operator+'To' : 'insert'+(operatorIndex ? 'Before' : 'After')] = function(html){
-      $(html)[operator](this)
-      return this
-    }
-  })
-
-  zepto.Z.prototype = Z.prototype = $.fn
-
-  // Export internal API functions in the `$.zepto` namespace
-  zepto.uniq = uniq
-  zepto.deserializeValue = deserializeValue
-  $.zepto = zepto
-
-  return $
-})()
-
-window.Zepto = Zepto
-window.$ === undefined && (window.$ = Zepto)
-    module.exports = Zepto
-    
-;(function($){
-  var _zid = 1, undefined,
-      slice = Array.prototype.slice,
-      isFunction = $.isFunction,
-      isString = function(obj){ return typeof obj == 'string' },
-      handlers = {},
-      specialEvents={},
-      focusinSupported = 'onfocusin' in window,
-      focus = { focus: 'focusin', blur: 'focusout' },
-      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }
-
-  specialEvents.click = specialEvents.mousedown = specialEvents.mouseup = specialEvents.mousemove = 'MouseEvents'
-
-  function zid(element) {
-    return element._zid || (element._zid = _zid++)
-  }
-  function findHandlers(element, event, fn, selector) {
-    event = parse(event)
-    if (event.ns) var matcher = matcherFor(event.ns)
-    return (handlers[zid(element)] || []).filter(function(handler) {
-      return handler
-        && (!event.e  || handler.e == event.e)
-        && (!event.ns || matcher.test(handler.ns))
-        && (!fn       || zid(handler.fn) === zid(fn))
-        && (!selector || handler.sel == selector)
-    })
-  }
-  function parse(event) {
-    var parts = ('' + event).split('.')
-    return {e: parts[0], ns: parts.slice(1).sort().join(' ')}
-  }
-  function matcherFor(ns) {
-    return new RegExp('(?:^| )' + ns.replace(' ', ' .* ?') + '(?: |$)')
-  }
-
-  function eventCapture(handler, captureSetting) {
-    return handler.del &&
-      (!focusinSupported && (handler.e in focus)) ||
-      !!captureSetting
-  }
-
-  function realEvent(type) {
-    return hover[type] || (focusinSupported && focus[type]) || type
-  }
-
-  function add(element, events, fn, data, selector, delegator, capture){
-    var id = zid(element), set = (handlers[id] || (handlers[id] = []))
-    events.split(/\s/).forEach(function(event){
-      if (event == 'ready') return $(document).ready(fn)
-      var handler   = parse(event)
-      handler.fn    = fn
-      handler.sel   = selector
-      // emulate mouseenter, mouseleave
-      if (handler.e in hover) fn = function(e){
-        var related = e.relatedTarget
-        if (!related || (related !== this && !$.contains(this, related)))
-          return handler.fn.apply(this, arguments)
-      }
-      handler.del   = delegator
-      var callback  = delegator || fn
-      handler.proxy = function(e){
-        e = compatible(e)
-        if (e.isImmediatePropagationStopped()) return
-        e.data = data
-        var result = callback.apply(element, e._args == undefined ? [e] : [e].concat(e._args))
-        if (result === false) e.preventDefault(), e.stopPropagation()
-        return result
-      }
-      handler.i = set.length
-      set.push(handler)
-      if ('addEventListener' in element)
-        element.addEventListener(realEvent(handler.e), handler.proxy, eventCapture(handler, capture))
-    })
-  }
-  function remove(element, events, fn, selector, capture){
-    var id = zid(element)
-    ;(events || '').split(/\s/).forEach(function(event){
-      findHandlers(element, event, fn, selector).forEach(function(handler){
-        delete handlers[id][handler.i]
-      if ('removeEventListener' in element)
-        element.removeEventListener(realEvent(handler.e), handler.proxy, eventCapture(handler, capture))
-      })
-    })
-  }
-
-  $.event = { add: add, remove: remove }
-
-  $.proxy = function(fn, context) {
-    var args = (2 in arguments) && slice.call(arguments, 2)
-    if (isFunction(fn)) {
-      var proxyFn = function(){ return fn.apply(context, args ? args.concat(slice.call(arguments)) : arguments) }
-      proxyFn._zid = zid(fn)
-      return proxyFn
-    } else if (isString(context)) {
-      if (args) {
-        args.unshift(fn[context], fn)
-        return $.proxy.apply(null, args)
-      } else {
-        return $.proxy(fn[context], fn)
-      }
-    } else {
-      throw new TypeError("expected function")
-    }
-  }
-
-  $.fn.bind = function(event, data, callback){
-    return this.on(event, data, callback)
-  }
-  $.fn.unbind = function(event, callback){
-    return this.off(event, callback)
-  }
-  $.fn.one = function(event, selector, data, callback){
-    return this.on(event, selector, data, callback, 1)
-  }
-
-  var returnTrue = function(){return true},
-      returnFalse = function(){return false},
-      ignoreProperties = /^([A-Z]|returnValue$|layer[XY]$|webkitMovement[XY]$)/,
-      eventMethods = {
-        preventDefault: 'isDefaultPrevented',
-        stopImmediatePropagation: 'isImmediatePropagationStopped',
-        stopPropagation: 'isPropagationStopped'
-      }
-
-  function compatible(event, source) {
-    if (source || !event.isDefaultPrevented) {
-      source || (source = event)
-
-      $.each(eventMethods, function(name, predicate) {
-        var sourceMethod = source[name]
-        event[name] = function(){
-          this[predicate] = returnTrue
-          return sourceMethod && sourceMethod.apply(source, arguments)
-        }
-        event[predicate] = returnFalse
-      })
-
-      event.timeStamp || (event.timeStamp = Date.now())
-
-      if (source.defaultPrevented !== undefined ? source.defaultPrevented :
-          'returnValue' in source ? source.returnValue === false :
-          source.getPreventDefault && source.getPreventDefault())
-        event.isDefaultPrevented = returnTrue
-    }
-    return event
-  }
-
-  function createProxy(event) {
-    var key, proxy = { originalEvent: event }
-    for (key in event)
-      if (!ignoreProperties.test(key) && event[key] !== undefined) proxy[key] = event[key]
-
-    return compatible(proxy, event)
-  }
-
-  $.fn.delegate = function(selector, event, callback){
-    return this.on(event, selector, callback)
-  }
-  $.fn.undelegate = function(selector, event, callback){
-    return this.off(event, selector, callback)
-  }
-
-  $.fn.live = function(event, callback){
-    $(document.body).delegate(this.selector, event, callback)
-    return this
-  }
-  $.fn.die = function(event, callback){
-    $(document.body).undelegate(this.selector, event, callback)
-    return this
-  }
-
-  $.fn.on = function(event, selector, data, callback, one){
-    var autoRemove, delegator, $this = this
-    if (event && !isString(event)) {
-      $.each(event, function(type, fn){
-        $this.on(type, selector, data, fn, one)
-      })
-      return $this
-    }
-
-    if (!isString(selector) && !isFunction(callback) && callback !== false)
-      callback = data, data = selector, selector = undefined
-    if (callback === undefined || data === false)
-      callback = data, data = undefined
-
-    if (callback === false) callback = returnFalse
-
-    return $this.each(function(_, element){
-      if (one) autoRemove = function(e){
-        remove(element, e.type, callback)
-        return callback.apply(this, arguments)
-      }
-
-      if (selector) delegator = function(e){
-        var evt, match = $(e.target).closest(selector, element).get(0)
-        if (match && match !== element) {
-          evt = $.extend(createProxy(e), {currentTarget: match, liveFired: element})
-          return (autoRemove || callback).apply(match, [evt].concat(slice.call(arguments, 1)))
-        }
-      }
-
-      add(element, event, callback, data, selector, delegator || autoRemove)
-    })
-  }
-  $.fn.off = function(event, selector, callback){
-    var $this = this
-    if (event && !isString(event)) {
-      $.each(event, function(type, fn){
-        $this.off(type, selector, fn)
-      })
-      return $this
-    }
-
-    if (!isString(selector) && !isFunction(callback) && callback !== false)
-      callback = selector, selector = undefined
-
-    if (callback === false) callback = returnFalse
-
-    return $this.each(function(){
-      remove(this, event, callback, selector)
-    })
-  }
-
-  $.fn.trigger = function(event, args){
-    event = (isString(event) || $.isPlainObject(event)) ? $.Event(event) : compatible(event)
-    event._args = args
-    return this.each(function(){
-      // handle focus(), blur() by calling them directly
-      if (event.type in focus && typeof this[event.type] == "function") this[event.type]()
-      // items in the collection might not be DOM elements
-      else if ('dispatchEvent' in this) this.dispatchEvent(event)
-      else $(this).triggerHandler(event, args)
-    })
-  }
-
-  // triggers event handlers on current element just as if an event occurred,
-  // doesn't trigger an actual event, doesn't bubble
-  $.fn.triggerHandler = function(event, args){
-    var e, result
-    this.each(function(i, element){
-      e = createProxy(isString(event) ? $.Event(event) : event)
-      e._args = args
-      e.target = element
-      $.each(findHandlers(element, event.type || event), function(i, handler){
-        result = handler.proxy(e)
-        if (e.isImmediatePropagationStopped()) return false
-      })
-    })
-    return result
-  }
-
-  // shortcut methods for `.bind(event, fn)` for each event type
-  ;('focusin focusout focus blur load resize scroll unload click dblclick '+
-  'mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave '+
-  'change select keydown keypress keyup error').split(' ').forEach(function(event) {
-    $.fn[event] = function(callback) {
-      return (0 in arguments) ?
-        this.bind(event, callback) :
-        this.trigger(event)
-    }
-  })
-
-  $.Event = function(type, props) {
-    if (!isString(type)) props = type, type = props.type
-    var event = document.createEvent(specialEvents[type] || 'Events'), bubbles = true
-    if (props) for (var name in props) (name == 'bubbles') ? (bubbles = !!props[name]) : (event[name] = props[name])
-    event.initEvent(type, bubbles, true)
-    return compatible(event)
-  }
-
-})(Zepto)
-
-;(function($){
-  var jsonpID = +new Date(),
-      document = window.document,
-      key,
-      name,
-      rscript = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi,
-      scriptTypeRE = /^(?:text|application)\/javascript/i,
-      xmlTypeRE = /^(?:text|application)\/xml/i,
-      jsonType = 'application/json',
-      htmlType = 'text/html',
-      blankRE = /^\s*$/,
-      originAnchor = document.createElement('a')
-
-  originAnchor.href = window.location.href
-
-  // trigger a custom event and return false if it was cancelled
-  function triggerAndReturn(context, eventName, data) {
-    var event = $.Event(eventName)
-    $(context).trigger(event, data)
-    return !event.isDefaultPrevented()
-  }
-
-  // trigger an Ajax "global" event
-  function triggerGlobal(settings, context, eventName, data) {
-    if (settings.global) return triggerAndReturn(context || document, eventName, data)
-  }
-
-  // Number of active Ajax requests
-  $.active = 0
-
-  function ajaxStart(settings) {
-    if (settings.global && $.active++ === 0) triggerGlobal(settings, null, 'ajaxStart')
-  }
-  function ajaxStop(settings) {
-    if (settings.global && !(--$.active)) triggerGlobal(settings, null, 'ajaxStop')
-  }
-
-  // triggers an extra global event "ajaxBeforeSend" that's like "ajaxSend" but cancelable
-  function ajaxBeforeSend(xhr, settings) {
-    var context = settings.context
-    if (settings.beforeSend.call(context, xhr, settings) === false ||
-        triggerGlobal(settings, context, 'ajaxBeforeSend', [xhr, settings]) === false)
-      return false
-
-    triggerGlobal(settings, context, 'ajaxSend', [xhr, settings])
-  }
-  function ajaxSuccess(data, xhr, settings, deferred) {
-    var context = settings.context, status = 'success'
-    settings.success.call(context, data, status, xhr)
-    if (deferred) deferred.resolveWith(context, [data, status, xhr])
-    triggerGlobal(settings, context, 'ajaxSuccess', [xhr, settings, data])
-    ajaxComplete(status, xhr, settings)
-  }
-  // type: "timeout", "error", "abort", "parsererror"
-  function ajaxError(error, type, xhr, settings, deferred) {
-    var context = settings.context
-    settings.error.call(context, xhr, type, error)
-    if (deferred) deferred.rejectWith(context, [xhr, type, error])
-    triggerGlobal(settings, context, 'ajaxError', [xhr, settings, error || type])
-    ajaxComplete(type, xhr, settings)
-  }
-  // status: "success", "notmodified", "error", "timeout", "abort", "parsererror"
-  function ajaxComplete(status, xhr, settings) {
-    var context = settings.context
-    settings.complete.call(context, xhr, status)
-    triggerGlobal(settings, context, 'ajaxComplete', [xhr, settings])
-    ajaxStop(settings)
-  }
-
-  function ajaxDataFilter(data, type, settings) {
-    if (settings.dataFilter == empty) return data
-    var context = settings.context
-    return settings.dataFilter.call(context, data, type)
-  }
-
-  // Empty function, used as default callback
-  function empty() {}
-
-  $.ajaxJSONP = function(options, deferred){
-    if (!('type' in options)) return $.ajax(options)
-
-    var _callbackName = options.jsonpCallback,
-      callbackName = ($.isFunction(_callbackName) ?
-        _callbackName() : _callbackName) || ('Zepto' + (jsonpID++)),
-      script = document.createElement('script'),
-      originalCallback = window[callbackName],
-      responseData,
-      abort = function(errorType) {
-        $(script).triggerHandler('error', errorType || 'abort')
-      },
-      xhr = { abort: abort }, abortTimeout
-
-    if (deferred) deferred.promise(xhr)
-
-    $(script).on('load error', function(e, errorType){
-      clearTimeout(abortTimeout)
-      $(script).off().remove()
-
-      if (e.type == 'error' || !responseData) {
-        ajaxError(null, errorType || 'error', xhr, options, deferred)
-      } else {
-        ajaxSuccess(responseData[0], xhr, options, deferred)
-      }
-
-      window[callbackName] = originalCallback
-      if (responseData && $.isFunction(originalCallback))
-        originalCallback(responseData[0])
-
-      originalCallback = responseData = undefined
-    })
-
-    if (ajaxBeforeSend(xhr, options) === false) {
-      abort('abort')
-      return xhr
-    }
-
-    window[callbackName] = function(){
-      responseData = arguments
-    }
-
-    script.src = options.url.replace(/\?(.+)=\?/, '?$1=' + callbackName)
-    document.head.appendChild(script)
-
-    if (options.timeout > 0) abortTimeout = setTimeout(function(){
-      abort('timeout')
-    }, options.timeout)
-
-    return xhr
-  }
-
-  $.ajaxSettings = {
-    // Default type of request
-    type: 'GET',
-    // Callback that is executed before request
-    beforeSend: empty,
-    // Callback that is executed if the request succeeds
-    success: empty,
-    // Callback that is executed the the server drops error
-    error: empty,
-    // Callback that is executed on request complete (both: error and success)
-    complete: empty,
-    // The context for the callbacks
-    context: null,
-    // Whether to trigger "global" Ajax events
-    global: true,
-    // Transport
-    xhr: function () {
-      return new window.XMLHttpRequest()
-    },
-    // MIME types mapping
-    // IIS returns Javascript as "application/x-javascript"
-    accepts: {
-      script: 'text/javascript, application/javascript, application/x-javascript',
-      json:   jsonType,
-      xml:    'application/xml, text/xml',
-      html:   htmlType,
-      text:   'text/plain'
-    },
-    // Whether the request is to another domain
-    crossDomain: false,
-    // Default timeout
-    timeout: 0,
-    // Whether data should be serialized to string
-    processData: true,
-    // Whether the browser should be allowed to cache GET responses
-    cache: true,
-    //Used to handle the raw response data of XMLHttpRequest.
-    //This is a pre-filtering function to sanitize the response.
-    //The sanitized response should be returned
-    dataFilter: empty
-  }
-
-  function mimeToDataType(mime) {
-    if (mime) mime = mime.split(';', 2)[0]
-    return mime && ( mime == htmlType ? 'html' :
-      mime == jsonType ? 'json' :
-      scriptTypeRE.test(mime) ? 'script' :
-      xmlTypeRE.test(mime) && 'xml' ) || 'text'
-  }
-
-  function appendQuery(url, query) {
-    if (query == '') return url
-    return (url + '&' + query).replace(/[&?]{1,2}/, '?')
-  }
-
-  // serialize payload and append it to the URL for GET requests
-  function serializeData(options) {
-    if (options.processData && options.data && $.type(options.data) != "string")
-      options.data = $.param(options.data, options.traditional)
-    if (options.data && (!options.type || options.type.toUpperCase() == 'GET' || 'jsonp' == options.dataType))
-      options.url = appendQuery(options.url, options.data), options.data = undefined
-  }
-
-  $.ajax = function(options){
-    var settings = $.extend({}, options || {}),
-        deferred = $.Deferred && $.Deferred(),
-        urlAnchor, hashIndex
-    for (key in $.ajaxSettings) if (settings[key] === undefined) settings[key] = $.ajaxSettings[key]
-
-    ajaxStart(settings)
-
-    if (!settings.crossDomain) {
-      urlAnchor = document.createElement('a')
-      urlAnchor.href = settings.url
-      // cleans up URL for .href (IE only), see https://github.com/madrobby/zepto/pull/1049
-      urlAnchor.href = urlAnchor.href
-      settings.crossDomain = (originAnchor.protocol + '//' + originAnchor.host) !== (urlAnchor.protocol + '//' + urlAnchor.host)
-    }
-
-    if (!settings.url) settings.url = window.location.toString()
-    if ((hashIndex = settings.url.indexOf('#')) > -1) settings.url = settings.url.slice(0, hashIndex)
-    serializeData(settings)
-
-    var dataType = settings.dataType, hasPlaceholder = /\?.+=\?/.test(settings.url)
-    if (hasPlaceholder) dataType = 'jsonp'
-
-    if (settings.cache === false || (
-         (!options || options.cache !== true) &&
-         ('script' == dataType || 'jsonp' == dataType)
-        ))
-      settings.url = appendQuery(settings.url, '_=' + Date.now())
-
-    if ('jsonp' == dataType) {
-      if (!hasPlaceholder)
-        settings.url = appendQuery(settings.url,
-          settings.jsonp ? (settings.jsonp + '=?') : settings.jsonp === false ? '' : 'callback=?')
-      return $.ajaxJSONP(settings, deferred)
-    }
-
-    var mime = settings.accepts[dataType],
-        headers = { },
-        setHeader = function(name, value) { headers[name.toLowerCase()] = [name, value] },
-        protocol = /^([\w-]+:)\/\//.test(settings.url) ? RegExp.$1 : window.location.protocol,
-        xhr = settings.xhr(),
-        nativeSetHeader = xhr.setRequestHeader,
-        abortTimeout
-
-    if (deferred) deferred.promise(xhr)
-
-    if (!settings.crossDomain) setHeader('X-Requested-With', 'XMLHttpRequest')
-    setHeader('Accept', mime || '*/*')
-    if (mime = settings.mimeType || mime) {
-      if (mime.indexOf(',') > -1) mime = mime.split(',', 2)[0]
-      xhr.overrideMimeType && xhr.overrideMimeType(mime)
-    }
-    if (settings.contentType || (settings.contentType !== false && settings.data && settings.type.toUpperCase() != 'GET'))
-      setHeader('Content-Type', settings.contentType || 'application/x-www-form-urlencoded')
-
-    if (settings.headers) for (name in settings.headers) setHeader(name, settings.headers[name])
-    xhr.setRequestHeader = setHeader
-
-    xhr.onreadystatechange = function(){
-      if (xhr.readyState == 4) {
-        xhr.onreadystatechange = empty
-        clearTimeout(abortTimeout)
-        var result, error = false
-        if ((xhr.status >= 200 && xhr.status < 300) || xhr.status == 304 || (xhr.status == 0 && protocol == 'file:')) {
-          dataType = dataType || mimeToDataType(settings.mimeType || xhr.getResponseHeader('content-type'))
-
-          if (xhr.responseType == 'arraybuffer' || xhr.responseType == 'blob')
-            result = xhr.response
-          else {
-            result = xhr.responseText
-
-            try {
-              // http://perfectionkills.com/global-eval-what-are-the-options/
-              // sanitize response accordingly if data filter callback provided
-              result = ajaxDataFilter(result, dataType, settings)
-              if (dataType == 'script')    (1,eval)(result)
-              else if (dataType == 'xml')  result = xhr.responseXML
-              else if (dataType == 'json') result = blankRE.test(result) ? null : $.parseJSON(result)
-            } catch (e) { error = e }
-
-            if (error) return ajaxError(error, 'parsererror', xhr, settings, deferred)
-          }
-
-          ajaxSuccess(result, xhr, settings, deferred)
-        } else {
-          ajaxError(xhr.statusText || null, xhr.status ? 'error' : 'abort', xhr, settings, deferred)
-        }
-      }
-    }
-
-    if (ajaxBeforeSend(xhr, settings) === false) {
-      xhr.abort()
-      ajaxError(null, 'abort', xhr, settings, deferred)
-      return xhr
-    }
-
-    var async = 'async' in settings ? settings.async : true
-    xhr.open(settings.type, settings.url, async, settings.username, settings.password)
-
-    if (settings.xhrFields) for (name in settings.xhrFields) xhr[name] = settings.xhrFields[name]
-
-    for (name in headers) nativeSetHeader.apply(xhr, headers[name])
-
-    if (settings.timeout > 0) abortTimeout = setTimeout(function(){
-        xhr.onreadystatechange = empty
-        xhr.abort()
-        ajaxError(null, 'timeout', xhr, settings, deferred)
-      }, settings.timeout)
-
-    // avoid sending empty string (#319)
-    xhr.send(settings.data ? settings.data : null)
-    return xhr
-  }
-
-  // handle optional data/success arguments
-  function parseArguments(url, data, success, dataType) {
-    if ($.isFunction(data)) dataType = success, success = data, data = undefined
-    if (!$.isFunction(success)) dataType = success, success = undefined
-    return {
-      url: url
-    , data: data
-    , success: success
-    , dataType: dataType
-    }
-  }
-
-  $.get = function(/* url, data, success, dataType */){
-    return $.ajax(parseArguments.apply(null, arguments))
-  }
-
-  $.post = function(/* url, data, success, dataType */){
-    var options = parseArguments.apply(null, arguments)
-    options.type = 'POST'
-    return $.ajax(options)
-  }
-
-  $.getJSON = function(/* url, data, success */){
-    var options = parseArguments.apply(null, arguments)
-    options.dataType = 'json'
-    return $.ajax(options)
-  }
-
-  $.fn.load = function(url, data, success){
-    if (!this.length) return this
-    var self = this, parts = url.split(/\s/), selector,
-        options = parseArguments(url, data, success),
-        callback = options.success
-    if (parts.length > 1) options.url = parts[0], selector = parts[1]
-    options.success = function(response){
-      self.html(selector ?
-        $('<div>').html(response.replace(rscript, "")).find(selector)
-        : response)
-      callback && callback.apply(self, arguments)
-    }
-    $.ajax(options)
-    return this
-  }
-
-  var escape = encodeURIComponent
-
-  function serialize(params, obj, traditional, scope){
-    var type, array = $.isArray(obj), hash = $.isPlainObject(obj)
-    $.each(obj, function(key, value) {
-      type = $.type(value)
-      if (scope) key = traditional ? scope :
-        scope + '[' + (hash || type == 'object' || type == 'array' ? key : '') + ']'
-      // handle data in serializeArray() format
-      if (!scope && array) params.add(value.name, value.value)
-      // recurse into nested objects
-      else if (type == "array" || (!traditional && type == "object"))
-        serialize(params, value, traditional, key)
-      else params.add(key, value)
-    })
-  }
-
-  $.param = function(obj, traditional){
-    var params = []
-    params.add = function(key, value) {
-      if ($.isFunction(value)) value = value()
-      if (value == null) value = ""
-      this.push(escape(key) + '=' + escape(value))
-    }
-    serialize(params, obj, traditional)
-    return params.join('&').replace(/%20/g, '+')
-  }
-})(Zepto)
-
-;(function($){
-  $.fn.serializeArray = function() {
-    var name, type, result = [],
-      add = function(value) {
-        if (value.forEach) return value.forEach(add)
-        result.push({ name: name, value: value })
-      }
-    if (this[0]) $.each(this[0].elements, function(_, field){
-      type = field.type, name = field.name
-      if (name && field.nodeName.toLowerCase() != 'fieldset' &&
-        !field.disabled && type != 'submit' && type != 'reset' && type != 'button' && type != 'file' &&
-        ((type != 'radio' && type != 'checkbox') || field.checked))
-          add($(field).val())
-    })
-    return result
-  }
-
-  $.fn.serialize = function(){
-    var result = []
-    this.serializeArray().forEach(function(elm){
-      result.push(encodeURIComponent(elm.name) + '=' + encodeURIComponent(elm.value))
-    })
-    return result.join('&')
-  }
-
-  $.fn.submit = function(callback) {
-    if (0 in arguments) this.bind('submit', callback)
-    else if (this.length) {
-      var event = $.Event('submit')
-      this.eq(0).trigger(event)
-      if (!event.isDefaultPrevented()) this.get(0).submit()
-    }
-    return this
-  }
-
-})(Zepto)
-
-;(function(){
-  // getComputedStyle shouldn't freak out when called
-  // without a valid element as argument
-  try {
-    getComputedStyle(undefined)
-  } catch(e) {
-    var nativeGetComputedStyle = getComputedStyle
-    window.getComputedStyle = function(element, pseudoElement){
-      try {
-        return nativeGetComputedStyle(element, pseudoElement)
-      } catch(e) {
-        return null
-      }
-    }
-  }
-})()
-  return Zepto
-}))
-
-
-/***/ },
-
-/***/ "./src/artist.ts"
-/*!***********************!*\
-  !*** ./src/artist.ts ***!
-  \***********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* reexport safe */ _artist_Artist__WEBPACK_IMPORTED_MODULE_0__["default"])
-/* harmony export */ });
-/* harmony import */ var _artist_Artist__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./artist/Artist */ "./src/artist/Artist.ts");
-// Re-export for the Artist class so consumers can import from the package root.
-
-
-
-/***/ },
-
-/***/ "./src/artist/ArticulationBuilder.ts"
-/*!*******************************************!*\
-  !*** ./src/artist/ArticulationBuilder.ts ***!
-  \*******************************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   ArticulationBuilder: () => (/* binding */ ArticulationBuilder)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Modifier pipeline for articulations, bends, tuplets, annotations, and special glyphs.
-
-
-/**
- * Handles articulations, annotations, tuplets, bends, and other note modifiers.
- * This file centralizes modifier logic so rendering/notation code stays focused.
- */
-class ArticulationBuilder {
-    /**
-     * Create a modifier builder bound to an Artist.
-     */
-    constructor(artist) {
-        this.artist = artist;
-    }
-    // ---- Bends ----
-    /**
-     * Build a bend descriptor between two frets.
-     */
-    makeBend(from_fret, to_fret) {
-        let direction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.UP;
-        let text = '';
-        // Choose bend text and direction based on the interval size.
-        if (parseInt(from_fret, 10) > parseInt(to_fret, 10)) {
-            direction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.DOWN;
-        }
-        else {
-            switch (Math.abs(parseInt(to_fret, 10) - parseInt(from_fret, 10))) {
-                case 1:
-                    text = '1/2';
-                    break;
-                case 2:
-                    text = 'Full';
-                    break;
-                case 3:
-                    text = '1 1/2';
-                    break;
-                default:
-                    text = `Bend to ${to_fret}`;
-                    break;
-            }
-        }
-        return { type: direction, text };
-    }
-    /**
-     * Start or extend a bend phrase across notes.
-     */
-    openBends(first_note, last_note, first_indices, last_indices) {
-        this.artist.log('openBends', first_note, last_note, first_indices, last_indices);
-        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
-        let start_note = first_note;
-        let start_indices = first_indices;
-        // Track the first note of the bend phrase so later notes can extend it.
-        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(this.artist.current_bends)) {
-            this.artist.bend_start_index = tab_notes.length - 2;
-            this.artist.bend_start_strings = first_indices;
-        }
-        else {
-            start_note = tab_notes[this.artist.bend_start_index];
-            start_indices = this.artist.bend_start_strings;
-        }
-        const start_frets = start_note.getPositions();
-        const last_frets = last_note.getPositions();
-        // Build per-string bend phrases.
-        start_indices.forEach((index, i) => {
-            const last_index = last_indices[i];
-            const from_fret = start_frets[index];
-            const to_fret = last_frets[last_index];
-            if (!this.artist.current_bends[index]) {
-                this.artist.current_bends[index] = [];
-            }
-            this.artist.current_bends[index].push(this.makeBend(from_fret.fret, to_fret.fret));
-        });
-    }
-    /**
-     * Close any open bend phrases and apply them to the tab notes.
-     */
-    closeBends(offset = 1) {
-        if (this.artist.bend_start_index == null)
-            return;
-        this.artist.log(`closeBends(${offset})`);
-        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
-        // Attach bend modifiers to the starting note for each string.
-        _utils__WEBPACK_IMPORTED_MODULE_1__.forEach(this.artist.current_bends, (bend_list, key) => {
-            const phrase = [];
-            bend_list.forEach((bend) => phrase.push(bend));
-            const bend_modifier = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend.length <= 1
-                ? new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend(phrase)
-                : new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Bend(null, null, phrase);
-            const bend_index = parseInt(String(key), 10);
-            tab_notes[this.artist.bend_start_index].addModifier(bend_modifier, bend_index);
-        });
-        // Replace bent notes with ghosts so only the phrase start is visible.
-        tab_notes
-            .slice(this.artist.bend_start_index + 1, (tab_notes.length - 2) + offset + 1)
-            .forEach((tab_note) => tab_note.setGhost(true));
-        this.artist.current_bends = {};
-        this.artist.bend_start_index = null;
-    }
-    // ---- Tuplets ----
-    /**
-     * Create tuplets for the most recent notes in the current stave.
-     */
-    makeTuplets(tuplets, notes) {
-        this.artist.log('makeTuplets', tuplets, notes);
-        const tuple_notes = notes !== null && notes !== void 0 ? notes : tuplets;
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        if (!stave || !stave.note)
-            return;
-        const stave_notes = stave.note_notes;
-        const tab_notes = stave.tab_notes;
-        if (stave_notes.length < tuple_notes) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'Not enough notes for tuplet');
-        }
-        const modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuplet(stave_notes.slice(stave_notes.length - tuple_notes), { num_notes: tuplets });
-        this.artist.stave_articulations.push(modifier);
-        // Tuplet creation adjusts ticks, so create one for tab as well.
-        const tab_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuplet(tab_notes.slice(tab_notes.length - tuple_notes), { num_notes: tuplets });
-        if (this.artist.customizations['tab-stems'] === 'true') {
-            this.artist.tab_articulations.push(tab_modifier);
-        }
-    }
-    // ---- Fingerings / strokes / score articulations ----
-    /**
-     * Extract a fingering command from text, if present.
-     */
-    getFingering(text) {
-        return text.match(/^\.fingering\/([^.]+)\./);
-    }
-    /**
-     * Parse a fingering annotation into modifiers that can be attached to notes.
-     */
-    makeFingering(text) {
-        const parts = this.getFingering(text);
-        const POS = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position;
-        const fingers = [];
-        const fingering = [];
-        const offset_x = 4;
-        if (parts) {
-            parts[1].split(/-/).forEach((piece) => fingers.push(piece.trim()));
-        }
-        else {
-            return null;
-        }
-        // Provide a consistent error so callers can surface precise feedback.
-        const badFingering = () => new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Bad fingering: ${parts[1]}`);
-        fingers.forEach((finger) => {
-            const pieces = finger.match(/(\d+):([ablr]):([fs]):([^-.]+)/);
-            if (!pieces)
-                throw badFingering();
-            const note_number = parseInt(pieces[1], 10) - 1;
-            let position = POS.RIGHT;
-            switch (pieces[2]) {
-                case 'l':
-                    position = POS.LEFT;
-                    break;
-                case 'r':
-                    position = POS.RIGHT;
-                    break;
-                case 'a':
-                    position = POS.ABOVE;
-                    break;
-                case 'b':
-                    position = POS.BELOW;
-                    break;
-                default:
-                    break;
-            }
-            let modifier = null;
-            const number = pieces[4];
-            switch (pieces[3]) {
-                case 's':
-                    modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StringNumber(number).setPosition(position);
-                    break;
-                case 'f':
-                    modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.FretHandFinger(number).setPosition(position);
-                    break;
-                default:
-                    break;
-            }
-            // Offset right/left modifiers so they clear the note heads.
-            if (modifier && typeof modifier.setOffsetX === 'function') {
-                if (position === POS.RIGHT) {
-                    modifier.setOffsetX(offset_x);
-                }
-                else if (position === POS.LEFT) {
-                    modifier.setOffsetX(-offset_x);
-                }
-            }
-            fingering.push({ num: note_number, modifier });
-        });
-        return fingering;
-    }
-    /**
-     * Extract a stroke command from text, if present.
-     */
-    getStrokeParts(text) {
-        return text.match(/^\.stroke\/([^.]+)\./);
-    }
-    /**
-     * Build a VexFlow stroke modifier from a stroke command string.
-     */
-    makeStroke(text) {
-        const parts = this.getStrokeParts(text);
-        const TYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke.Type;
-        if (!parts)
-            return null;
-        switch (parts[1]) {
-            case 'bu':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.BRUSH_UP);
-            case 'bd':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.BRUSH_DOWN);
-            case 'ru':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.ROLL_UP);
-            case 'rd':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.ROLL_DOWN);
-            case 'qu':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.RASQUEDO_UP);
-            case 'qd':
-                return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stroke(TYPE.RASQUEDO_DOWN);
-            default:
-                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid stroke type: ${parts[1]}`);
-        }
-    }
-    /**
-     * Extract score articulation parts from the annotation string.
-     */
-    getScoreArticulationParts(text) {
-        return text.match(/^\.(a[^/]*)\/(t|b)[^.]*\./);
-    }
-    /**
-     * Create a score articulation modifier from an annotation string.
-     */
-    makeScoreArticulation(text) {
-        const parts = this.getScoreArticulationParts(text);
-        if (!parts)
-            return null;
-        const type = parts[1];
-        const position = parts[2];
-        // Normalize top/bottom into VexFlow's position enum.
-        const POSTYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position;
-        const pos = position === 't' ? POSTYPE.ABOVE : POSTYPE.BELOW;
-        return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation(type).setPosition(pos);
-    }
-    // ---- Annotations ----
-    /**
-     * Create a VexFlow Annotation modifier, with optional font overrides.
-     */
-    makeAnnotation(text) {
-        let font_face = this.artist.customizations['font-face'];
-        let font_size = this.artist.customizations['font-size'];
-        let font_style = this.artist.customizations['font-style'];
-        const aposition = this.artist.customizations['annotation-position'];
-        const VJUST = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation.VerticalJustify;
-        const default_vjust = aposition === 'top' ? VJUST.TOP : VJUST.BOTTOM;
-        const makeIt = (note_text, just = default_vjust) => (new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation(note_text)
-            .setFont(font_face, font_size, font_style)
-            .setVerticalJustification(just));
-        // Support inline font overrides like ".Times-12-italic.Text".
-        let parts = text.match(/^\.([^-]*)-([^-]*)-([^.]*)\.(.*)/);
-        if (parts) {
-            font_face = parts[1];
-            font_size = parts[2];
-            font_style = parts[3];
-            const message = parts[4];
-            return message ? makeIt(message) : null;
-        }
-        // Support command-style prefixes like ".big." or ".top.".
-        parts = text.match(/^\.([^.]*)\.(.*)/);
-        if (parts) {
-            let just = default_vjust;
-            const command = parts[1];
-            const message = parts[2];
-            switch (command) {
-                case 'big':
-                    font_style = 'bold';
-                    font_size = '14';
-                    break;
-                case 'italic':
-                case 'italics':
-                    font_face = 'Times';
-                    font_style = 'italic';
-                    break;
-                case 'medium':
-                    font_size = '12';
-                    break;
-                case 'top':
-                    just = VJUST.TOP;
-                    this.artist.customizations['annotation-position'] = 'top';
-                    break;
-                case 'bottom':
-                    just = VJUST.BOTTOM;
-                    this.artist.customizations['annotation-position'] = 'bottom';
-                    break;
-                default:
-                    break;
-            }
-            return message ? makeIt(message, just) : null;
-        }
-        return makeIt(text);
-    }
-    /**
-     * Normalize override text for fret annotations (e.g., A#4 or 5/2).
-     */
-    formatOverrideFretText(text) {
-        var _a, _b, _c, _d, _f, _g, _h;
-        if (!text)
-            return null;
-        // Prefer VexFlow unicode glyphs when available, with ASCII fallbacks.
-        const unicode = (_b = (_a = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _a === void 0 ? void 0 : _a.unicode) !== null && _b !== void 0 ? _b : {};
-        const sharp = (_c = unicode.sharp) !== null && _c !== void 0 ? _c : '#';
-        const flat = (_d = unicode.flat) !== null && _d !== void 0 ? _d : 'b';
-        const natural = (_f = unicode.natural) !== null && _f !== void 0 ? _f : 'n';
-        // Match note text with optional accidentals, octave, and string override.
-        const note_match = text.match(/^([A-G])([#@n]{1,2})?(~?)(\d+)?(?:_(\d+)\/(\d+))?$/);
-        if (note_match) {
-            const note = note_match[1];
-            const accidental = (_g = note_match[2]) !== null && _g !== void 0 ? _g : '';
-            const octave = (_h = note_match[4]) !== null && _h !== void 0 ? _h : '';
-            const string_num = note_match[6];
-            const acc_text = (() => {
-                switch (accidental) {
-                    case '##':
-                        return `${sharp}${sharp}`;
-                    case '#':
-                        return sharp;
-                    case '@@':
-                        return `${flat}${flat}`;
-                    case '@':
-                        return flat;
-                    case 'n':
-                        return natural;
-                    default:
-                        return '';
-                }
-            })();
-            return { text: `${note}${acc_text}${octave}`, string: string_num };
-        }
-        // Fret/string pattern.
-        const fret_match = text.match(/^(\d+)\/(\d+)$/);
-        if (fret_match) {
-            return { text: fret_match[1], string: fret_match[2] };
-        }
-        return null;
-    }
-    /**
-     * Apply a text override to a tab note's fret rendering.
-     */
-    applyFretOverride(tab_note, override) {
-        if (!tab_note || !override)
-            return;
-        if (!tab_note.fretElement || !tab_note.positions)
-            return;
-        // Map an override to the correct string index when provided.
-        let override_index = 0;
-        if (override.string) {
-            const string_num = parseInt(override.string, 10);
-            if (!Number.isNaN(string_num)) {
-                let idx = -1;
-                tab_note.positions.forEach((pos, i) => {
-                    if (parseInt(pos.str, 10) === string_num && idx < 0) {
-                        idx = i;
-                    }
-                });
-                override_index = idx >= 0 ? idx : 0;
-            }
-        }
-        const element = tab_note.fretElement[override_index];
-        if (!element)
-            return;
-        element.setText(override.text);
-        // Apply current font settings for consistent layout.
-        const font_face = this.artist.customizations['font-face'];
-        const font_size = this.artist.customizations['font-size'];
-        const font_style = this.artist.customizations['font-style'];
-        if (font_face) {
-            element.setFont(font_face, font_size, font_style);
-        }
-        let max_width = 0;
-        // Keep widths aligned for multi-string notes.
-        tab_note.fretElement.forEach((el) => {
-            max_width = Math.max(max_width, el.getWidth());
-        });
-        tab_note.setWidth(max_width);
-    }
-    /**
-     * Add annotation modifiers to the most recent notes in the stave group.
-     */
-    addAnnotations(annotations) {
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        const stave_notes = stave.note_notes;
-        const tab_notes = stave.tab_notes;
-        if (annotations.length > tab_notes.length) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'More annotations than note elements');
-        }
-        // Prefer applying annotations to tab notes when they exist.
-        if (stave.tab) {
-            tab_notes.slice(tab_notes.length - annotations.length).forEach((tab_note, i) => {
-                if (this.getScoreArticulationParts(annotations[i])) {
-                    const score_articulation = this.makeScoreArticulation(annotations[i]);
-                    tab_note.addModifier(score_articulation, 0);
-                }
-                else if (this.getStrokeParts(annotations[i])) {
-                    const stroke = this.makeStroke(annotations[i]);
-                    tab_note.addModifier(stroke, 0);
-                }
-                else {
-                    const annotation_text = annotations[i];
-                    const override = this.formatOverrideFretText(annotation_text);
-                    if (override) {
-                        this.applyFretOverride(tab_note, override);
-                    }
-                    else {
-                        const annotation = this.makeAnnotation(annotation_text);
-                        if (annotation)
-                            tab_note.addModifier(annotation, 0);
-                    }
-                }
-            });
-        }
-        else {
-            // Fallback: apply annotations to notation notes.
-            stave_notes.slice(stave_notes.length - annotations.length).forEach((note, i) => {
-                if (!this.getScoreArticulationParts(annotations[i])) {
-                    const annotation = this.makeAnnotation(annotations[i]);
-                    if (annotation) {
-                        if (typeof note.addAnnotation === 'function') {
-                            note.addAnnotation(0, annotation);
-                        }
-                        else if (typeof note.addModifier === 'function') {
-                            note.addModifier(annotation, 0);
-                        }
-                    }
-                }
-            });
-        }
-        if (stave.note) {
-            stave_notes.slice(stave_notes.length - annotations.length).forEach((note, i) => {
-                const score_articulation = this.makeScoreArticulation(annotations[i]);
-                if (score_articulation) {
-                    if (typeof note.addArticulation === 'function') {
-                        note.addArticulation(0, score_articulation);
-                    }
-                    else if (typeof note.addModifier === 'function') {
-                        note.addModifier(score_articulation, 0);
-                    }
-                }
-                // Strokes apply to notation as well as tab.
-                const stroke = this.makeStroke(annotations[i]);
-                if (stroke) {
-                    note.addStroke(0, stroke);
-                }
-                // Fingering annotations attach modifiers per note index.
-                const fingerings = this.makeFingering(annotations[i]);
-                if (fingerings) {
-                    try {
-                        fingerings.forEach((fingering) => note.addModifier(fingering.modifier, fingering.num));
-                    }
-                    catch (_e) {
-                        throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Bad note number in fingering: ${annotations[i]}`);
-                    }
-                }
-            });
-        }
-    }
-    /**
-     * Add a tab articulation between two notes (slides, ties, bends, etc.).
-     */
-    addTabArticulation(type, first_note, last_note, first_indices, last_indices) {
-        this.artist.log('addTabArticulations: ', type, first_note, last_note, first_indices, last_indices);
-        if (type === 't') {
-            last_note.addModifier(new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation('T')
-                .setVerticalJustification(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Annotation.VerticalJustify.BOTTOM));
-        }
-        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(first_indices) && _utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(last_indices))
-            return;
-        // Build the appropriate tab articulation based on type.
-        let articulation = null;
-        const notes = {
-            first_note,
-            last_note,
-            first_indices,
-            last_indices,
-            firstNote: first_note,
-            lastNote: last_note,
-            firstIndexes: first_indices,
-            lastIndexes: last_indices,
-        };
-        if (type === 's') {
-            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabSlide(notes);
-        }
-        if (type === 'h' || type === 'p') {
-            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabTie(notes, type.toUpperCase());
-        }
-        if (type === 'T' || type === 't') {
-            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabTie(notes, ' ');
-        }
-        if (type === 'b') {
-            this.openBends(first_note, last_note, first_indices, last_indices);
-        }
-        if (articulation) {
-            this.artist.tab_articulations.push(articulation);
-        }
-    }
-    /**
-     * Add a notation stave articulation between two notes.
-     */
-    addStaveArticulation(type, first_note, last_note, first_indices, last_indices) {
-        this.artist.log('addStaveArticulations: ', type, first_note, last_note, first_indices, last_indices);
-        // Stave ties/slides share a common VexFlow class.
-        let articulation = null;
-        if (['b', 's', 'h', 'p', 't', 'T'].includes(type)) {
-            articulation = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveTie({
-                first_note,
-                last_note,
-                first_indices,
-                last_indices,
-                firstNote: first_note,
-                lastNote: last_note,
-                firstIndexes: first_indices,
-                lastIndexes: last_indices,
-            });
-        }
-        if (articulation) {
-            this.artist.stave_articulations.push(articulation);
-        }
-    }
-    /**
-     * Find the previous (second-to-last) non-bar, non-ghost tab note index.
-     */
-    getPreviousNoteIndex() {
-        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
-        let index = 2;
-        while (index <= tab_notes.length) {
-            const note = tab_notes[tab_notes.length - index];
-            if (note instanceof _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabNote) {
-                return tab_notes.length - index;
-            }
-            index += 1;
-        }
-        return -1;
-    }
-    /**
-     * Add a decorator (vibrato, up/down bowing) to the latest notes.
-     */
-    addDecorator(decorator) {
-        this.artist.log('addDecorator: ', decorator);
-        if (!decorator)
-            return;
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        const tab_notes = stave.tab_notes;
-        const score_notes = stave.note_notes;
-        let modifier = null;
-        let score_modifier = null;
-        if (decorator === 'v') {
-            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Vibrato();
-        }
-        if (decorator === 'V') {
-            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Vibrato();
-            if (typeof modifier.setHarsh === 'function') {
-                modifier.setHarsh(true);
-            }
-        }
-        if (decorator === 'u') {
-            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('a|').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
-            score_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('a|').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
-        }
-        if (decorator === 'd') {
-            modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('am').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
-            score_modifier = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Articulation('am').setPosition(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Modifier.Position.BELOW);
-        }
-        const last_tab = _utils__WEBPACK_IMPORTED_MODULE_1__.last(tab_notes);
-        if (last_tab && modifier) {
-            last_tab.addModifier(modifier, 0);
-        }
-        if (score_modifier) {
-            const score_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(score_notes);
-            if (score_note) {
-                if (typeof score_note.addArticulation === 'function') {
-                    score_note.addArticulation(0, score_modifier);
-                }
-                else if (typeof score_note.addModifier === 'function') {
-                    score_note.addModifier(score_modifier, 0);
-                }
-            }
-        }
-    }
-    /**
-     * Add articulations for the most recent tab/note entries.
-     */
-    addArticulations(articulations) {
-        this.artist.log('addArticulations: ', articulations);
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        const tab_notes = stave.tab_notes;
-        const stave_notes = stave.note_notes;
-        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(tab_notes) || _utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(articulations)) {
-            this.closeBends(0);
-            return;
-        }
-        // Collect articulation indices per symbol to support multi-string chords.
-        const current_tab_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(tab_notes);
-        let has_bends = false;
-        ['b', 's', 'h', 'p', 't', 'T', 'v', 'V'].forEach((valid_articulation) => {
-            const indices = articulations
-                .map((art, i) => (art && art === valid_articulation ? i : -1))
-                .filter((idx) => idx >= 0);
-            if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(indices))
-                return;
-            if (valid_articulation === 'b')
-                has_bends = true;
-            const prev_index = this.getPreviousNoteIndex();
-            let prev_tab_note = null;
-            let prev_indices = null;
-            let current_indices = [];
-            if (prev_index === -1) {
-                prev_tab_note = null;
-                prev_indices = null;
-            }
-            else {
-                prev_tab_note = tab_notes[prev_index];
-                const this_strings = current_tab_note
-                    .getPositions()
-                    .filter((_, i) => indices.includes(i))
-                    .map((n) => n.str);
-                const valid_strings = prev_tab_note
-                    .getPositions()
-                    .filter((pos) => this_strings.includes(pos.str))
-                    .map((pos) => pos.str);
-                prev_indices = prev_tab_note
-                    .getPositions()
-                    .map((n, i) => (valid_strings.includes(n.str) ? i : -1))
-                    .filter((idx) => idx >= 0);
-                current_indices = current_tab_note
-                    .getPositions()
-                    .map((n, i) => (valid_strings.includes(n.str) ? i : -1))
-                    .filter((idx) => idx >= 0);
-            }
-            if (stave.tab) {
-                this.addTabArticulation(valid_articulation, prev_tab_note, current_tab_note, prev_indices || [], current_indices);
-            }
-            if (stave.note && prev_index !== -1) {
-                this.addStaveArticulation(valid_articulation, stave_notes[prev_index], _utils__WEBPACK_IMPORTED_MODULE_1__.last(stave_notes), prev_indices || [], current_indices);
-            }
-        });
-        if (!has_bends) {
-            this.closeBends(0);
-        }
-    }
-}
-
-
-/***/ },
-
-/***/ "./src/artist/Artist.ts"
-/*!******************************!*\
-  !*** ./src/artist/Artist.ts ***!
-  \******************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-/* harmony import */ var _ArtistRenderer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ArtistRenderer */ "./src/artist/ArtistRenderer.ts");
-/* harmony import */ var _ArticulationBuilder__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ArticulationBuilder */ "./src/artist/ArticulationBuilder.ts");
-/* harmony import */ var _NoteBuilder__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./NoteBuilder */ "./src/artist/NoteBuilder.ts");
-/* harmony import */ var _StaveBuilder__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./StaveBuilder */ "./src/artist/StaveBuilder.ts");
-/* harmony import */ var _TextBuilder__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./TextBuilder */ "./src/artist/TextBuilder.ts");
-// Central orchestration layer for building VexFlow structures from VexTab input.
-
-
-
-
-
-
-
-/**
- * Artist orchestrates the VexFlow rendering pipeline. It tracks mutable state
- * (staves, durations, bends, fonts) while delegating focused work to helper
- * classes. The helper classes keep the implementation readable without
- * changing the public VexTab API.
- */
-class Artist {
-    /**
-     * Construct an Artist with initial layout coordinates and options.
-     * Design note: we keep defaults here to isolate configuration in one place.
-     */
-    constructor(x, y, width, options) {
-        // Mutable overrides set by VexTab options.
-        this.customizations = {};
-        // Rendered output + annotation state.
-        // Rendered output + annotation state.
-        this.staves = [];
-        this.tab_articulations = [];
-        this.stave_articulations = [];
-        this.player_voices = [];
-        // Optional document-level header text (not attached to any stave).
-        this.document_header = {
-            title: null,
-            subtitle: null,
-            sidenote: null,
-        };
-        // Computed layout positions for the document header.
-        this.document_header_layout = null;
-        // Current render cursor / note state.
-        // Current render cursor / note state.
-        this.last_y = 0;
-        this.current_duration = 'q';
-        this.current_clef = 'treble';
-        this.current_bends = {};
-        this.current_octave_shift = 0;
-        this.bend_start_index = null;
-        this.bend_start_strings = null;
-        // Optional note highlight index (used for cursor-based rendering).
-        this.highlight_note_index = null;
-        // Render status and optional Player overlay.
-        this.rendered = false;
-        this.renderer_context = null;
-        this.player = null;
-        this.x = x;
-        this.y = y;
-        this.width = width;
-        // Defaults reflect legacy VexTab behavior.
-        this.options = {
-            font_face: 'Arial',
-            font_size: 10,
-            font_style: null,
-            bottom_spacing: 20 + (Artist.NOLOGO ? 0 : 10),
-            tab_stave_lower_spacing: 10,
-            note_stave_lower_spacing: 0,
-            scale: 1.0,
-        };
-        if (options) {
-            // Allow callers to override defaults without changing the API shape.
-            _utils__WEBPACK_IMPORTED_MODULE_1__.extend(this.options, options);
-        }
-        // Compose helper objects for focused responsibilities.
-        this.renderer = new _ArtistRenderer__WEBPACK_IMPORTED_MODULE_2__.ArtistRenderer(this);
-        this.articulations = new _ArticulationBuilder__WEBPACK_IMPORTED_MODULE_3__.ArticulationBuilder(this);
-        this.notes = new _NoteBuilder__WEBPACK_IMPORTED_MODULE_4__.NoteBuilder(this);
-        this.stavesBuilder = new _StaveBuilder__WEBPACK_IMPORTED_MODULE_5__.StaveBuilder(this);
-        this.text = new _TextBuilder__WEBPACK_IMPORTED_MODULE_6__.TextBuilder(this);
-        this.reset();
-    }
-    /**
-     * Conditional logging helper.
-     */
-    log(...args) {
-        // Keep logs guarded to avoid noisy production output.
-        if (Artist.DEBUG && console) {
-            console.log('(Vex.Flow.Artist)', ...args);
-        }
-    }
-    /**
-     * Reset the Artist's internal state prior to a new parse/render cycle.
-     * Design note: this is intentionally comprehensive to avoid stale state leaks.
-     */
-    reset() {
-        // Core helpers used for fret/notation logic.
-        this.tuning = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuning();
-        this.key_manager = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.KeyManager('C');
-        this.music_api = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Music();
-        // User customizations that can be changed by VexTab options.
-        this.customizations = {
-            'font-size': this.options.font_size,
-            'font-face': this.options.font_face,
-            'font-style': this.options.font_style,
-            'annotation-position': 'bottom',
-            scale: this.options.scale,
-            width: this.width,
-            'stave-distance': 0,
-            space: 0,
-            player: 'false',
-            tempo: 120,
-            instrument: 'acoustic_grand_piano',
-            accidentals: 'standard',
-            'tab-stems': 'false',
-            'tab-stem-direction': 'up',
-            'beam-rests': 'true',
-            'beam-stemlets': 'true',
-            'beam-middle-only': 'false',
-            'connector-space': 5,
-        };
-        // Generated elements.
-        this.staves = [];
-        this.tab_articulations = [];
-        this.stave_articulations = [];
-        // Document header.
-        this.document_header = { title: null, subtitle: null, sidenote: null };
-        this.document_header_layout = null;
-        // Voices for player overlay.
-        this.player_voices = [];
-        // Current state.
-        this.last_y = this.y;
-        this.current_duration = 'q';
-        this.current_clef = 'treble';
-        this.current_bends = {};
-        this.current_octave_shift = 0;
-        this.bend_start_index = null;
-        this.bend_start_strings = null;
-        this.rendered = false;
-        this.renderer_context = null;
-    }
-    /**
-     * Set a document-level header string (title/subtitle/sidenote).
-     * Design note: header text must be declared before the first stave.
-     */
-    setDocumentHeader(kind, text) {
-        if (this.staves.length > 0) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `'${kind}' must appear before the first stave`);
-        }
-        if (!this.document_header_layout) {
-            this.document_header_layout = {
-                start_y: this.last_y,
-                height: 0,
-                title_y: null,
-                subtitle_y: null,
-                sidenote_y: null,
-            };
-        }
-        this.document_header[kind] = String(text !== null && text !== void 0 ? text : '').trim();
-        this.relayoutDocumentHeader();
-    }
-    /**
-     * Recompute header layout and reserve vertical space.
-     */
-    relayoutDocumentHeader() {
-        const layout = this.document_header_layout;
-        if (!layout)
-            return;
-        const hasTitle = !!this.document_header.title;
-        const hasSubtitle = !!this.document_header.subtitle;
-        const hasSidenote = !!this.document_header.sidenote;
-        // If all fields are cleared, release the reserved space.
-        if (!hasTitle && !hasSubtitle && !hasSidenote) {
-            this.last_y = layout.start_y;
-            this.document_header_layout = null;
-            return;
-        }
-        const start_y = layout.start_y;
-        // Typography constants for the header block.
-        const pad_top = 10;
-        const gap = 6;
-        const title_size = 22;
-        const subtitle_size = 14;
-        const sidenote_size = 11;
-        const pad_bottom = 10;
-        let y = start_y + pad_top;
-        const title_y = hasTitle ? (y += title_size) : null;
-        if (hasTitle)
-            y += gap;
-        const subtitle_y = hasSubtitle ? (y += subtitle_size) : null;
-        if (hasSubtitle)
-            y += gap;
-        const sidenote_y = hasSidenote ? (y += sidenote_size) : null;
-        if (hasSidenote)
-            y += gap;
-        y += pad_bottom;
-        const height = y - start_y;
-        this.document_header_layout = { start_y, height, title_y, subtitle_y, sidenote_y };
-        this.last_y = start_y + height;
-    }
-    /**
-     * Set the note index to highlight during rendering.
-     */
-    setHighlightNoteIndex(index) {
-        this.highlight_note_index = index;
-    }
-    /**
-     * Check whether the given note index should be highlighted.
-     */
-    isHighlightedNoteIndex(index) {
-        if (index === null || index === undefined)
-            return false;
-        if (this.highlight_note_index === null || this.highlight_note_index === undefined)
-            return false;
-        return this.highlight_note_index === index;
-    }
-    /**
-     * Attach a playback helper to the Artist.
-     */
-    attachPlayer(player) {
-        this.player = player;
-    }
-    /**
-     * Apply user-provided options and validate known keys.
-     */
-    setOptions(options) {
-        this.log('setOptions: ', options);
-        // Only allow known customization keys.
-        const validOptions = _utils__WEBPACK_IMPORTED_MODULE_1__.keys(this.customizations);
-        _utils__WEBPACK_IMPORTED_MODULE_1__.forEach(options, (value, key) => {
-            const optionKey = String(key);
-            if (validOptions.includes(optionKey)) {
-                this.customizations[optionKey] = value;
-            }
-            else {
-                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid option '${optionKey}'`);
-            }
-        });
-        // Apply vertical spacing immediately so subsequent staves start lower.
-        this.last_y += parseInt(String(this.customizations.space), 10);
-        if (this.customizations.player === 'true') {
-            // Reserve extra space for playback controls.
-            this.last_y += 15;
-        }
-    }
-    /**
-     * Return data used by the Player overlay.
-     */
-    getPlayerData() {
-        return {
-            voices: this.player_voices,
-            context: this.renderer_context,
-            scale: Number(this.customizations.scale),
-        };
-    }
-    // --- Public API used by VexTab (delegates to helper classes) ---
-    /**
-     * Render the currently parsed score using the provided renderer.
-     */
-    render(renderer) {
-        this.renderer.render(renderer);
-    }
-    /**
-     * Backwards-compatible alias for render().
-     */
-    draw(renderer) {
-        this.render(renderer);
-    }
-    /**
-     * Whether render() has been called and finished.
-     */
-    isRendered() {
-        return this.rendered;
-    }
-    /**
-     * Whether the logo is suppressed via global flag.
-     */
-    isLogoHidden() {
-        return Artist.NOLOGO;
-    }
-    /**
-     * Set the duration used for subsequent notes.
-     */
-    setDuration(time, dot = false) {
-        this.notes.setDuration(time, dot);
-    }
-    /**
-     * Add a barline to the current stave group.
-     */
-    addBar(type) {
-        this.stavesBuilder.addBar(type);
-    }
-    /**
-     * Build tuplets for the current voice.
-     */
-    makeTuplets(tuplets, notes) {
-        this.articulations.makeTuplets(tuplets, notes);
-    }
-    /**
-     * Add annotations that will be attached to upcoming notes.
-     */
-    addAnnotations(annotations) {
-        this.articulations.addAnnotations(annotations);
-    }
-    /**
-     * Add articulations that will be attached to upcoming notes.
-     */
-    addArticulations(articulations) {
-        this.articulations.addArticulations(articulations);
-    }
-    /**
-     * Add a decorator (e.g., segno/coda) to upcoming notes.
-     */
-    addDecorator(decorator) {
-        this.articulations.addDecorator(decorator || null);
-    }
-    /**
-     * Add a rest with the given parameters.
-     */
-    addRest(params) {
-        this.notes.addRest(params);
-    }
-    /**
-     * Add a chord built from multiple note definitions.
-     */
-    addChord(chord, chord_articulation, chord_decorator) {
-        this.notes.addChord(chord, chord_articulation || null, chord_decorator || null);
-    }
-    /**
-     * Add a single note.
-     */
-    addNote(note) {
-        this.notes.addNote(note);
-    }
-    /**
-     * Add a new text voice (for lyric or annotation lines).
-     */
-    addTextVoice() {
-        this.text.addTextVoice();
-    }
-    /**
-     * Set the font used for subsequent text notes.
-     */
-    setTextFont(font) {
-        this.text.setTextFont(font);
-    }
-    /**
-     * Add a text note to the current text voice.
-     */
-    addTextNote(text, position = 0, justification = 'center', smooth = true, ignore_ticks = false) {
-        this.text.addTextNote(text, position, justification, smooth, ignore_ticks);
-    }
-    /**
-     * Add a new voice to the current stave group.
-     */
-    addVoice(options) {
-        this.stavesBuilder.addVoice(options || {});
-    }
-    /**
-     * Add a new stave (notation, tablature, or both) to the score.
-     */
-    addStave(element, options) {
-        this.stavesBuilder.addStave(element, options);
-    }
-    /**
-     * Open a bend span between notes (used for tab bends).
-     */
-    openBends(first_note, last_note, first_indices, last_indices) {
-        this.articulations.openBends(first_note, last_note, first_indices, last_indices);
-    }
-    /**
-     * Close any open bend spans.
-     */
-    closeBends(offset = 1) {
-        this.articulations.closeBends(offset);
-    }
-    /**
-     * Handle dot-prefixed VexTab commands (e.g., octave-shift).
-     */
-    runCommand(line, lineNumber = 0, column = 0) {
-        this.log('runCommand: ', line);
-        const words = line.split(/\s+/);
-        switch (words[0]) {
-            case 'octave-shift':
-                // Apply octave changes to playback pitch only.
-                this.current_octave_shift = parseInt(words[1], 10);
-                this.log('Octave shift: ', this.current_octave_shift);
-                break;
-            default:
-                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid command '${words[0]}' at line ${lineNumber} column ${column}`);
-        }
-    }
-}
-// Enables verbose logging for debugging.
-Artist.DEBUG = false;
-// Hide the VexTab logo when true.
-Artist.NOLOGO = false;
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Artist);
-
-
-/***/ },
-
-/***/ "./src/artist/ArtistRenderer.ts"
-/*!**************************************!*\
-  !*** ./src/artist/ArtistRenderer.ts ***!
-  \**************************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   ArtistRenderer: () => (/* binding */ ArtistRenderer)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Layout and rendering engine for Artist state, responsible for VexFlow formatting and drawing.
-
-
-/**
- * ArtistRenderer is responsible for layout + drawing. It takes the in-memory
- * staves/notes arrays and uses VexFlow formatters to position and render
- * everything to the given renderer.
- */
-class ArtistRenderer {
-    /**
-     * Create a renderer tied to a specific Artist.
-     */
-    constructor(artist) {
-        this.artist = artist;
-    }
-    /**
-     * Coerce string/boolean-like values into a strict boolean.
-     */
-    parseBool(value) {
-        return String(value) === 'true';
-    }
-    /**
-     * Draw document-level header text (title/subtitle/sidenote).
-     */
-    renderDocumentHeader(ctx) {
-        const artist = this.artist;
-        const layout = artist.document_header_layout;
-        if (!layout)
-            return;
-        const start_x = artist.x + Number(artist.customizations['connector-space']);
-        const stave_width = Number(artist.customizations.width) - 20;
-        const center_x = start_x + stave_width / 2;
-        const drawCentered = (text, y, size, style) => {
-            ctx.save();
-            ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
-            const width = ctx.measureText(text).width;
-            ctx.fillText(text, center_x - width / 2, y);
-            ctx.restore();
-        };
-        const drawLeft = (text, y, size, style) => {
-            ctx.save();
-            ctx.setFont(String(artist.customizations['font-face'] || artist.options.font_face), size, style);
-            ctx.fillText(text, start_x, y);
-            ctx.restore();
-        };
-        if (artist.document_header.title && layout.title_y !== null) {
-            drawCentered(artist.document_header.title, layout.title_y, 22, 'bold');
-        }
-        if (artist.document_header.subtitle && layout.subtitle_y !== null) {
-            drawCentered(artist.document_header.subtitle, layout.subtitle_y, 14, 'italic');
-        }
-        if (artist.document_header.sidenote && layout.sidenote_y !== null) {
-            drawLeft(artist.document_header.sidenote, layout.sidenote_y, 11, '');
-        }
-    }
-    /**
-     * Format and render a stave group (tab/notation/text) using VexFlow formatters.
-     * Design note: we centralize formatting here to keep Artist.render() readable.
-     */
-    formatAndRender(ctx, tab, score, text_notes, customizations, options) {
-        const tab_stave = tab ? tab.stave : null;
-        const score_stave = score ? score.stave : null;
-        // Voice collections and formatting helpers.
-        const tab_voices = [];
-        const score_voices = [];
-        const text_voices = [];
-        let beams = [];
-        let format_stave = null;
-        let text_stave = null;
-        // Beam configuration is shared for tab and notation voices.
-        const beam_config = {
-            beam_rests: this.parseBool(customizations['beam-rests']),
-            show_stemlets: this.parseBool(customizations['beam-stemlets']),
-            beam_middle_only: this.parseBool(customizations['beam-middle-only']),
-            groups: options.beam_groups,
-        };
-        if (tab) {
-            // Build voices for tablature, optionally forcing stems.
-            const multi_voice = tab.voices.length > 1;
-            tab.voices.forEach((notes, i) => {
-                if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
-                    return;
-                _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (note) => note.setStave(tab_stave));
-                const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
-                    .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
-                voice.addTickables(notes);
-                tab_voices.push(voice);
-                if (customizations['tab-stems'] === 'true') {
-                    // For tab, stem direction is driven by the voice order or settings.
-                    if (multi_voice) {
-                        beam_config.stem_direction = i === 0 ? 1 : -1;
-                    }
-                    else {
-                        beam_config.stem_direction = customizations['tab-stem-direction'] === 'down' ? -1 : 1;
-                    }
-                    beam_config.beam_rests = false;
-                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(voice.getTickables(), beam_config));
-                }
-            });
-            format_stave = tab_stave;
-            text_stave = tab_stave;
-        }
-        beam_config.beam_rests = this.parseBool(customizations['beam-rests']);
-        if (score) {
-            // Build voices for notation and generate beams with proper stem directions.
-            const multi_voice = score.voices.length > 1;
-            score.voices.forEach((notes, i) => {
-                if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
-                    return;
-                const stem_direction = i === 0 ? 1 : -1;
-                _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (note) => note.setStave(score_stave));
-                const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
-                    .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
-                voice.addTickables(notes);
-                score_voices.push(voice);
-                if (multi_voice) {
-                    beam_config.stem_direction = stem_direction;
-                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(notes, beam_config));
-                }
-                else {
-                    beam_config.stem_direction = null;
-                    beams = beams.concat(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.generateBeams(notes, beam_config));
-                }
-            });
-            format_stave = score_stave;
-            text_stave = score_stave;
-        }
-        // Text voices are formatted alongside the primary stave for alignment.
-        text_notes.forEach((notes) => {
-            if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(notes))
-                return;
-            _utils__WEBPACK_IMPORTED_MODULE_1__.each(notes, (voice) => voice.setStave(text_stave));
-            const voice = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TIME4_4)
-                .setMode(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Voice.Mode.SOFT);
-            voice.addTickables(notes);
-            text_voices.push(voice);
-        });
-        if (format_stave) {
-            // Join voices and format them together to align note spacing.
-            let format_voices = [];
-            const formatter = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Formatter();
-            let align_rests = false;
-            if (tab) {
-                if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(tab_voices)) {
-                    formatter.joinVoices(tab_voices);
-                }
-                format_voices = tab_voices;
-            }
-            if (score) {
-                if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(score_voices)) {
-                    formatter.joinVoices(score_voices);
-                }
-                format_voices = format_voices.concat(score_voices);
-                if (score_voices.length > 1) {
-                    align_rests = true;
-                }
-            }
-            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_notes) && !_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_voices)) {
-                formatter.joinVoices(text_voices);
-                format_voices = format_voices.concat(text_voices);
-            }
-            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(format_voices)) {
-                formatter.formatToStave(format_voices, format_stave, { align_rests });
-            }
-            // Draw voices, beams, and any text staves.
-            if (tab) {
-                _utils__WEBPACK_IMPORTED_MODULE_1__.each(tab_voices, (voice) => voice.draw(ctx, tab_stave));
-            }
-            if (score) {
-                _utils__WEBPACK_IMPORTED_MODULE_1__.each(score_voices, (voice) => voice.draw(ctx, score_stave));
-            }
-            _utils__WEBPACK_IMPORTED_MODULE_1__.each(beams, (beam) => beam.setContext(ctx).draw());
-            if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_notes)) {
-                _utils__WEBPACK_IMPORTED_MODULE_1__.each(text_voices, (voice) => voice.draw(ctx, text_stave));
-            }
-            // Draw a bracket when both tab and notation staves are present.
-            if (tab && score) {
-                new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveConnector(score.stave, tab.stave)
-                    .setType(_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveConnector.type.BRACKET)
-                    .setContext(ctx)
-                    .draw();
-            }
-            return score ? score_voices : tab_voices;
-        }
-        return [];
-    }
-    /**
-     * Render the complete score using the provided VexFlow renderer instance.
-     * Design note: we recompute layout on every render to match current options.
-     */
-    render(renderer) {
-        const artist = this.artist;
-        artist.log('Render: ', artist.options);
-        artist.closeBends();
-        // Resize to match the computed layout height and scale.
-        renderer.resize(Number(artist.customizations.width) * Number(artist.customizations.scale), (artist.last_y + artist.options.bottom_spacing) * Number(artist.customizations.scale));
-        // Prepare a fresh render context per draw.
-        const ctx = renderer.getContext();
-        ctx.scale(Number(artist.customizations.scale), Number(artist.customizations.scale));
-        ctx.clear();
-        ctx.setFont(artist.options.font_face, artist.options.font_size, '');
-        // Draw document header before staves.
-        this.renderDocumentHeader(ctx);
-        // Cache context for the Player overlay.
-        artist.renderer_context = ctx;
-        const setBar = (stave, notes) => {
-            const last_note = _utils__WEBPACK_IMPORTED_MODULE_1__.last(notes);
-            if (last_note instanceof _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.BarNote) {
-                notes.pop();
-                stave.setEndBarType(last_note.getType());
-                stave.formatted = true;
-            }
-        };
-        artist.staves.forEach((stave) => {
-            artist.log('Rendering staves.');
-            if (stave.tab)
-                setBar(stave.tab, stave.tab_notes);
-            if (stave.note)
-                setBar(stave.note, stave.note_notes);
-            // Draw staves before notes so beams/notes align to stave positions.
-            if (stave.tab)
-                stave.tab.setContext(ctx).draw();
-            if (stave.note)
-                stave.note.setContext(ctx).draw();
-            stave.tab_voices.push(stave.tab_notes);
-            stave.note_voices.push(stave.note_notes);
-            const voices = this.formatAndRender(ctx, stave.tab ? { stave: stave.tab, voices: stave.tab_voices } : null, stave.note ? { stave: stave.note, voices: stave.note_voices } : null, stave.text_voices, artist.customizations, { beam_groups: stave.beam_groups });
-            artist.player_voices.push(voices);
-        });
-        artist.log('Rendering tab articulations.');
-        artist.tab_articulations.forEach((articulation) => articulation.setContext(ctx).draw());
-        artist.log('Rendering note articulations.');
-        artist.stave_articulations.forEach((articulation) => articulation.setContext(ctx).draw());
-        // Synchronize the Player overlay (if enabled).
-        if (artist.player) {
-            if (artist.customizations.player === 'true') {
-                artist.player.setTempo(parseInt(String(artist.customizations.tempo), 10));
-                artist.player.setInstrument(String(artist.customizations.instrument));
-                artist.player.render();
-            }
-            else {
-                artist.player.removeControls();
-            }
-        }
-        artist.rendered = true;
-        // Optionally draw the VexTab logo at the bottom of the render.
-        if (!artist.isLogoHidden()) {
-            const LOGO = 'vexflow.com';
-            const width = ctx.measureText(LOGO).width;
-            ctx.save();
-            ctx.setFont('Times', 10, 'italic');
-            ctx.fillText(LOGO, (Number(artist.customizations.width) - width) / 2, artist.last_y + 25);
-            ctx.restore();
-        }
-    }
-}
-
-
-/***/ },
-
-/***/ "./src/artist/NoteBuilder.ts"
-/*!***********************************!*\
-  !*** ./src/artist/NoteBuilder.ts ***!
-  \***********************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   NoteBuilder: () => (/* binding */ NoteBuilder)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Note creation and expansion logic for tab/notation, including chords and rests.
-
-
-/**
- * NoteBuilder handles note creation, durations, rests, and chord expansion.
- * It is intentionally stateful and mutates the parent Artist state directly.
- */
-class NoteBuilder {
-    /**
-     * Create a note builder bound to an Artist.
-     */
-    constructor(artist) {
-        this.artist = artist;
-    }
-    /**
-     * Given a fret/string pair, return note name, octave, and accidental.
-     * Design note: this uses the Artist key manager to respect the current key.
-     */
-    getNoteForFret(fret, string) {
-        const spec = this.artist.tuning.getNoteForFret(fret, string);
-        const spec_props = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.keyProperties(spec);
-        // Use the key manager to select the canonical spelling for the current key.
-        const selected_note = this.artist.key_manager.selectNote(spec_props.key);
-        let accidental = null;
-        // Determine explicit accidentals based on custom strategy.
-        switch (this.artist.customizations.accidentals) {
-            case 'standard':
-                if (selected_note.change) {
-                    accidental = selected_note.accidental ? selected_note.accidental : 'n';
-                }
-                break;
-            case 'cautionary':
-                if (selected_note.change) {
-                    accidental = selected_note.accidental ? selected_note.accidental : 'n';
-                }
-                else {
-                    accidental = selected_note.accidental ? `${selected_note.accidental}_c` : null;
-                }
-                break;
-            default:
-                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', `Invalid value for option 'accidentals': ${this.artist.customizations.accidentals}`);
-        }
-        let new_note = selected_note.note;
-        let new_octave = spec_props.octave;
-        // Adjust octave when the key manager changes the root letter.
-        const old_root = this.artist.music_api.getNoteParts(spec_props.key).root;
-        const new_root = this.artist.music_api.getNoteParts(selected_note.note).root;
-        if (new_root === 'b' && old_root === 'c') {
-            new_octave -= 1;
-        }
-        else if (new_root === 'c' && old_root === 'b') {
-            new_octave += 1;
-        }
-        return [new_note, new_octave, accidental];
-    }
-    /**
-     * Convert ABC-style note data into a note name, octave, and accidental.
-     */
-    getNoteForABC(abc, string) {
-        // ABC notes provide a direct note name; octave is derived from the string index.
-        const key = abc.key;
-        const octave = string;
-        let accidental = abc.accidental;
-        if (abc.accidental_type) {
-            accidental += `_${abc.accidental_type}`;
-        }
-        return [key, octave, accidental];
-    }
-    /**
-     * Add a notation (staff) note, with accidentals and optional playback pitch.
-     */
-    addStaveNote(note_params) {
-        // Normalize input and default to non-rest notes.
-        const params = {
-            is_rest: false,
-            play_note: null,
-            highlight_index: null,
-            ...note_params,
-        };
-        const stave_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).note_notes;
-        const stave_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveNote({
-            keys: params.spec,
-            duration: this.artist.current_duration + (params.is_rest ? 'r' : ''),
-            clef: params.is_rest ? 'treble' : this.artist.current_clef,
-            auto_stem: params.is_rest ? false : true,
-        });
-        // Attach accidentals per note head.
-        params.accidentals.forEach((acc, index) => {
-            if (!acc)
-                return;
-            const parts = acc.split('_');
-            const new_accidental = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Accidental(parts[0]);
-            if (parts.length > 1 && parts[1] === 'c') {
-                new_accidental.setAsCautionary();
-            }
-            if (typeof stave_note.addAccidental === 'function') {
-                stave_note.addAccidental(index, new_accidental);
-            }
-            else if (typeof stave_note.addModifier === 'function') {
-                stave_note.addModifier(new_accidental, index);
-            }
-        });
-        // VexFlow uses a dotted flag in the duration string.
-        if (this.artist.current_duration.endsWith('d')) {
-            _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([stave_note], { all: true });
-        }
-        // Playback pitch is optional and only used when Player is enabled.
-        if (params.play_note) {
-            stave_note.setPlayNote(params.play_note);
-        }
-        if (this.artist.isHighlightedNoteIndex(params.highlight_index)) {
-            stave_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
-        }
-        stave_notes.push(stave_note);
-    }
-    /**
-     * Add a tablature note (TabNote) with optional playback pitches.
-     */
-    addTabNote(spec, play_note = null) {
-        // Tab notes are built from positions and the current duration.
-        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
-        const new_tab_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabNote({
-            positions: spec,
-            duration: this.artist.current_duration,
-        }, this.artist.customizations['tab-stems'] === 'true');
-        // Playback pitch is optional and only used when Player is enabled.
-        if (play_note) {
-            new_tab_note.setPlayNote(play_note);
-        }
-        if (spec && this.artist.isHighlightedNoteIndex(spec.highlight_index)) {
-            new_tab_note.setStyle({ fillStyle: 'red', strokeStyle: 'red' });
-        }
-        tab_notes.push(new_tab_note);
-        // Dotted notes need an explicit dot glyph on tab notes.
-        if (this.artist.current_duration.endsWith('d')) {
-            _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([new_tab_note], { all: true });
-        }
-    }
-    /**
-     * Create a VexFlow duration string including a dotted flag.
-     */
-    makeDuration(time, dot) {
-        return `${time}${dot ? 'd' : ''}`;
-    }
-    /**
-     * Update the current duration used for subsequent notes.
-     */
-    setDuration(time, dot = false) {
-        // Support "q" or "q ." style tokens from the parser.
-        const t = time.split(/\s+/);
-        this.artist.log('setDuration: ', t[0], dot);
-        this.artist.current_duration = this.makeDuration(t[0], dot);
-    }
-    /**
-     * Add a rest into both tab and notation staves.
-     */
-    addRest(params) {
-        this.artist.log('addRest: ', params);
-        this.artist.closeBends();
-        const position_value = parseInt(String(params.position), 10);
-        // Position 0 uses a generic rest marker; other positions use a placeholder pitch.
-        if (position_value === 0) {
-            this.addStaveNote({
-                spec: ['r/4'],
-                accidentals: [],
-                is_rest: true,
-            });
-        }
-        else {
-            const position = this.artist.tuning.getNoteForFret((position_value + 5) * 2, 6);
-            this.addStaveNote({
-                spec: [position],
-                accidentals: [],
-                is_rest: true,
-            });
-        }
-        const tab_notes = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).tab_notes;
-        if (this.artist.customizations['tab-stems'] === 'true') {
-            // With tab stems enabled, render rests as stave notes for consistent stems.
-            const tab_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.StaveNote({
-                keys: [position_value === 0 ? 'r/4' : this.artist.tuning.getNoteForFret((position_value + 5) * 2, 6)],
-                duration: `${this.artist.current_duration}r`,
-                clef: 'treble',
-                auto_stem: false,
-            });
-            if (this.artist.current_duration.endsWith('d')) {
-                _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Dot.buildAndAttach([tab_note], { all: true });
-            }
-            tab_notes.push(tab_note);
-        }
-        else {
-            // Ghost notes maintain spacing without rendering a glyph.
-            tab_notes.push(new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.GhostNote(this.artist.current_duration));
-        }
-    }
-    /**
-     * Expand a chord into multiple notes across strings/positions and add them.
-     * Design note: chords can represent stacked notes on the same string, so we
-     * track "positions" per string to keep multi-stop logic intact.
-     */
-    addChord(chord, chord_articulation, chord_decorator) {
-        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(chord))
-            return;
-        this.artist.log('addChord: ', chord);
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        // Per-position arrays track stacked chord notes on the same string.
-        const specs = [];
-        const play_notes = [];
-        const accidentals = [];
-        const articulations = [];
-        const decorators = [];
-        const tab_specs = [];
-        const durations = [];
-        const highlight_indices = [];
-        // Track chord size so global articulations can be fanned out.
-        let num_notes = 0;
-        let current_string = chord[0].string;
-        let current_position = 0;
-        chord.forEach((note) => {
-            var _a;
-            num_notes += 1;
-            if (note.abc || note.string !== current_string) {
-                current_position = 0;
-                current_string = note.string;
-            }
-            // Initialize per-position arrays on first use.
-            if (!specs[current_position]) {
-                specs[current_position] = [];
-                play_notes[current_position] = [];
-                accidentals[current_position] = [];
-                tab_specs[current_position] = [];
-                articulations[current_position] = [];
-                decorators[current_position] = null;
-                highlight_indices[current_position] = null;
-            }
-            let new_note = null;
-            let new_octave = null;
-            let accidental = null;
-            let play_note = null;
-            const highlight_index = (_a = note.highlight_index) !== null && _a !== void 0 ? _a : null;
-            if (note.abc) {
-                // ABC notes carry a pitch name; the octave is derived.
-                const octave = note.octave ? note.octave : note.string;
-                [new_note, new_octave, accidental] = this.getNoteForABC(note.abc, octave);
-                const acc = accidental ? accidental.split('_')[0] : '';
-                play_note = `${new_note}${acc}`;
-                if (!note.fret) {
-                    note.fret = 'X';
-                }
-            }
-            else if (note.fret) {
-                // Tab notes are translated through the tuning map.
-                [new_note, new_octave, accidental] = this.getNoteForFret(note.fret, note.string);
-                play_note = this.artist.tuning.getNoteForFret(note.fret, note.string).split('/')[0];
-            }
-            else {
-                throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', 'No note specified');
-            }
-            // Apply any octave shift commands to the playback pitch.
-            const play_octave = parseInt(String(new_octave), 10) + this.artist.current_octave_shift;
-            const current_duration = note.time ? { time: note.time, dot: note.dot } : null;
-            specs[current_position].push(`${new_note}/${new_octave}`);
-            play_notes[current_position].push(`${play_note}/${play_octave}`);
-            accidentals[current_position].push(accidental);
-            tab_specs[current_position].push({ fret: note.fret, str: note.string });
-            if (note.articulation) {
-                articulations[current_position].push(note.articulation);
-            }
-            else {
-                articulations[current_position].push(null);
-            }
-            durations[current_position] = current_duration;
-            if (note.decorator) {
-                decorators[current_position] = note.decorator;
-            }
-            if (highlight_indices[current_position] === null && highlight_index !== null) {
-                highlight_indices[current_position] = highlight_index;
-            }
-            current_position += 1;
-        });
-        // Emit notes position by position so formatting and articulations align.
-        specs.forEach((spec, i) => {
-            if (durations[i]) {
-                this.setDuration(durations[i].time, durations[i].dot);
-            }
-            const tab_spec = tab_specs[i];
-            if (highlight_indices[i] !== null && highlight_indices[i] !== undefined) {
-                tab_spec.highlight_index = highlight_indices[i];
-            }
-            this.addTabNote(tab_spec, play_notes[i]);
-            if (stave.note) {
-                this.addStaveNote({
-                    spec,
-                    accidentals: accidentals[i],
-                    play_note: play_notes[i],
-                    highlight_index: highlight_indices[i],
-                });
-            }
-            this.artist.addArticulations(articulations[i]);
-            if (decorators[i]) {
-                this.artist.addDecorator(decorators[i]);
-            }
-        });
-        if (chord_articulation) {
-            // Fan out a single articulation to each note in the chord.
-            const art = [];
-            for (let i = 0; i < num_notes; i += 1)
-                art.push(chord_articulation);
-            this.artist.addArticulations(art);
-        }
-        if (chord_decorator) {
-            this.artist.addDecorator(chord_decorator);
-        }
-    }
-    /**
-     * Convenience wrapper for adding a single note as a one-note chord.
-     */
-    addNote(note) {
-        this.addChord([note], null, null);
-    }
-}
-
-
-/***/ },
-
-/***/ "./src/artist/StaveBuilder.ts"
-/*!************************************!*\
-  !*** ./src/artist/StaveBuilder.ts ***!
-  \************************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   StaveBuilder: () => (/* binding */ StaveBuilder)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Stave creation logic that manages bars, voices, and stave layout.
-
-
-/**
- * Builds staves, manages voice boundaries, and handles barlines.
- */
-class StaveBuilder {
-    /**
-     * Create a stave builder bound to an Artist.
-     */
-    constructor(artist) {
-        this.artist = artist;
-    }
-    /**
-     * Insert a barline into the current stave group.
-     */
-    addBar(type) {
-        this.artist.log('addBar: ', type);
-        this.artist.closeBends();
-        this.artist.key_manager.reset();
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        // Map the VexTab bar token into a VexFlow barline type.
-        const TYPE = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Barline.type;
-        let bar_type = TYPE.SINGLE;
-        switch (type) {
-            case 'single':
-                bar_type = TYPE.SINGLE;
-                break;
-            case 'double':
-                bar_type = TYPE.DOUBLE;
-                break;
-            case 'end':
-                bar_type = TYPE.END;
-                break;
-            case 'repeat-begin':
-                bar_type = TYPE.REPEAT_BEGIN;
-                break;
-            case 'repeat-end':
-                bar_type = TYPE.REPEAT_END;
-                break;
-            case 'repeat-both':
-                bar_type = TYPE.REPEAT_BOTH;
-                break;
-            default:
-                bar_type = TYPE.SINGLE;
-                break;
-        }
-        // Use a BarNote as a sentinel the renderer can consume later.
-        const bar_note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.BarNote().setType(bar_type);
-        stave.tab_notes.push(bar_note);
-        if (stave.note) {
-            stave.note_notes.push(bar_note);
-        }
-    }
-    /**
-     * Start a new voice within the current stave group.
-     */
-    addVoice(_options) {
-        this.artist.closeBends();
-        const stave = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves);
-        if (!stave) {
-            this.addStave('stave', _options || {});
-            return;
-        }
-        // Commit any pending notes into the current voice.
-        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(stave.tab_notes)) {
-            stave.tab_voices.push(stave.tab_notes);
-            stave.tab_notes = [];
-        }
-        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(stave.note_notes)) {
-            stave.note_voices.push(stave.note_notes);
-            stave.note_notes = [];
-        }
-    }
-    /**
-     * Add a new stave group (tab, notation, or both) with the given options.
-     */
-    addStave(element, options) {
-        // Defaults mirror legacy VexTab behavior.
-        const opts = {
-            tuning: 'standard',
-            clef: 'treble',
-            key: 'C',
-            notation: element === 'tabstave' ? 'false' : 'true',
-            tablature: element === 'stave' ? 'false' : 'true',
-            strings: 6,
-        };
-        _utils__WEBPACK_IMPORTED_MODULE_1__.extend(opts, options);
-        this.artist.log('addStave: ', element, opts);
-        let tab_stave = null;
-        let note_stave = null;
-        // Align the tab stave to the notation stave when both are present.
-        const start_x = this.artist.x + Number(this.artist.customizations['connector-space']);
-        let tabstave_start_x = 40;
-        if (opts.notation === 'true') {
-            // Build the notation stave first so tab can align to it.
-            note_stave = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Stave(start_x, this.artist.last_y, Number(this.artist.customizations.width) - 20, { left_bar: false });
-            if (opts.clef !== 'none') {
-                note_stave.addClef(opts.clef);
-            }
-            note_stave.addKeySignature(opts.key);
-            if (opts.time) {
-                note_stave.addTimeSignature(opts.time);
-            }
-            this.artist.last_y += note_stave.getHeight()
-                + this.artist.options.note_stave_lower_spacing
-                + parseInt(String(this.artist.customizations['stave-distance']), 10);
-            tabstave_start_x = note_stave.getNoteStartX();
-            this.artist.current_clef = opts.clef === 'none' ? 'treble' : opts.clef;
-        }
-        if (opts.tablature === 'true') {
-            // Tab stave sits below the notation stave (if any).
-            tab_stave = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TabStave(start_x, this.artist.last_y, Number(this.artist.customizations.width) - 20, { left_bar: false }).setNumLines(opts.strings);
-            if (opts.clef !== 'none') {
-                tab_stave.addTabGlyph();
-            }
-            tab_stave.setNoteStartX(tabstave_start_x);
-            this.artist.last_y += tab_stave.getHeight() + this.artist.options.tab_stave_lower_spacing;
-        }
-        this.artist.closeBends();
-        // Beam grouping depends on the time signature.
-        const beam_groups = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Beam.getDefaultBeamGroups(opts.time);
-        this.artist.staves.push({
-            tab: tab_stave,
-            note: note_stave,
-            tab_voices: [],
-            note_voices: [],
-            tab_notes: [],
-            note_notes: [],
-            text_voices: [],
-            beam_groups,
-        });
-        // Update tuning and key for subsequent notes.
-        this.artist.tuning.setTuning(opts.tuning);
-        this.artist.key_manager.setKey(opts.key);
-    }
-}
-
-
-/***/ },
-
-/***/ "./src/artist/TextBuilder.ts"
-/*!***********************************!*\
-  !*** ./src/artist/TextBuilder.ts ***!
-  \***********************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   TextBuilder: () => (/* binding */ TextBuilder)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Text voice builder for lyric/annotation staves in the VexTab layout.
-
-
-/**
- * TextBuilder manages text voices (lyrics/annotations in a text stave).
- */
-class TextBuilder {
-    /**
-     * Create a text builder bound to an Artist.
-     */
-    constructor(artist) {
-        this.artist = artist;
-    }
-    /**
-     * Start a new text voice in the current stave group.
-     */
-    addTextVoice() {
-        _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).text_voices.push([]);
-    }
-    /**
-     * Update font customizations based on a "face-size-style" string.
-     */
-    setTextFont(font) {
-        if (!font)
-            return;
-        // Parse the "face-size-style" convention used by VexTab text commands.
-        const parts = font.match(/([^-]*)-([^-]*)-([^.]*)/);
-        if (parts) {
-            this.artist.customizations['font-face'] = parts[1];
-            this.artist.customizations['font-size'] = parseInt(parts[2], 10);
-            this.artist.customizations['font-style'] = parts[3];
-        }
-    }
-    /**
-     * Add a text note to the current text voice.
-     * Design note: glyph syntax (#...) is supported for symbol-only notes.
-     */
-    addTextNote(text, position = 0, justification = 'center', smooth = true, ignore_ticks = false) {
-        const voices = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.artist.staves).text_voices;
-        if (_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(voices)) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ArtistError', "Can't add text note without text voice");
-        }
-        // Pull active font options from the Artist customization map.
-        const font_face = this.artist.customizations['font-face'];
-        const font_size = this.artist.customizations['font-size'];
-        const font_style = this.artist.customizations['font-style'];
-        // Map justification labels into VexFlow's enum.
-        let just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
-        switch (justification) {
-            case 'center':
-                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
-                break;
-            case 'left':
-                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.LEFT;
-                break;
-            case 'right':
-                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.RIGHT;
-                break;
-            default:
-                just = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote.Justification.CENTER;
-                break;
-        }
-        // "b" creates a bar-sized spacer when ticks are ignored.
-        const duration = ignore_ticks ? 'b' : this.artist.current_duration;
-        const struct = {
-            text,
-            duration,
-            smooth,
-            ignore_ticks,
-            font: {
-                family: font_face,
-                size: font_size,
-                weight: font_style,
-            },
-        };
-        // Glyph syntax uses TextNote glyphs instead of text rendering.
-        if (text.startsWith('#')) {
-            struct.glyph = text.slice(1);
-            struct.text = '';
-            struct.font = null;
-        }
-        const note = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TextNote(struct)
-            .setLine(position)
-            .setJustification(just);
-        _utils__WEBPACK_IMPORTED_MODULE_1__.last(voices).push(note);
-    }
-}
-
-
-/***/ },
-
-/***/ "./src/div.ts"
-/*!********************!*\
-  !*** ./src/div.ts ***!
-  \********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Artist: () => (/* reexport safe */ _artist__WEBPACK_IMPORTED_MODULE_1__["default"]),
-/* harmony export */   Div: () => (/* binding */ Div),
-/* harmony export */   Player: () => (/* reexport safe */ _player__WEBPACK_IMPORTED_MODULE_3__["default"]),
-/* harmony export */   Vex: () => (/* reexport safe */ _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"]),
-/* harmony export */   VexTab: () => (/* reexport safe */ _vextab__WEBPACK_IMPORTED_MODULE_2__["default"]),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _artist__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./artist */ "./src/artist.ts");
-/* harmony import */ var _vextab__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./vextab */ "./src/vextab.ts");
-/* harmony import */ var _player__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./player */ "./src/player.ts");
-/* harmony import */ var _vextab_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./vextab.css */ "./src/vextab.css");
-/* provided dependency */ var $ = __webpack_require__(/*! zepto-webpack */ "./node_modules/zepto-webpack/zepto.js");
-// DOM integration layer that renders VexTab inside a selected element, with optional editor UI.
-/**
- * VexTab.Div renders VexTab code inside a DOM element, with optional
- * live-editing and error display support.
- */
-
-
-
-
-
-class Div {
-    /**
-     * Construct the Div renderer and immediately render the initial markup.
-     * Design note: we read once from the DOM and then manage our own state.
-     */
-    constructor(sel) {
-        this.text_area = null;
-        this.editor_error = null;
-        this.timeoutID = null;
-        this.sel = sel;
-        if (!this.sel) {
-            throw new Error(`VexTab.Div: invalid selector: ${sel}`);
-        }
-        // Read initial markup and clear the container so we own rendering.
-        this.code = $(sel).text();
-        $(sel).empty();
-        if ($(sel).css('position') === 'static') {
-            $(sel).css('position', 'relative');
-        }
-        // Host sizing and renderer options from data attributes.
-        this.width = parseInt($(sel).attr('width'), 10) || 400;
-        this.height = parseInt($(sel).attr('height'), 10) || 200;
-        this.scale = parseFloat($(sel).attr('scale')) || 1.0;
-        this.rendererBackend = $(sel).attr('renderer') || 'svg';
-        if (this.rendererBackend.toLowerCase() === 'canvas') {
-            this.canvas = $('<canvas></canvas>').addClass('vex-canvas');
-            $(sel).append(this.canvas);
-            this.renderer = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer(this.canvas[0], _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.Backends.CANVAS);
-        }
-        else {
-            this.canvas = $('<div></div>').addClass('vex-canvas');
-            $(sel).append(this.canvas);
-            this.renderer = new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer(this.canvas[0], _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.Backends.SVG);
-        }
-        // Cache the render context and apply scale/background.
-        this.ctx_sel = $(sel).find('.vex-canvas');
-        this.renderer.resize(this.width, this.height);
-        this.ctx = this.renderer.getContext();
-        this.ctx.setBackgroundFillStyle(this.ctx_sel.css('background-color'));
-        this.ctx.scale(this.scale, this.scale);
-        // Editor properties.
-        this.editor = $(sel).attr('editor') || '';
-        this.show_errors = $(sel).attr('show-errors') || '';
-        this.editor_width = parseInt($(sel).attr('editor-width'), 10) || this.width;
-        this.editor_height = parseInt($(sel).attr('editor-height'), 10) || 200;
-        if (this.editor === 'true') {
-            // Build editor UI and debounce renders to avoid thrashing.
-            this.text_area = $('<textarea></textarea>').addClass('editor')
-                .val(this.code);
-            this.editor_error = $('<div></div>').addClass('editor-error');
-            $(sel).append($('<p/>')).append(this.editor_error);
-            $(sel).append($('<p/>')).append(this.text_area);
-            this.text_area.width(this.editor_width);
-            this.text_area.height(this.editor_height);
-            this.text_area.keyup(() => {
-                if (this.timeoutID)
-                    window.clearTimeout(this.timeoutID);
-                this.timeoutID = window.setTimeout(() => {
-                    if (this.code !== this.text_area.val()) {
-                        this.code = this.text_area.val();
-                        this.redraw();
-                    }
-                }, 250);
-            });
-        }
-        else if (this.show_errors === 'true') {
-            // Error display without the editor UI.
-            this.editor_error = $('<div></div>').addClass('editor-error');
-            $(sel).append($('<p/>')).append(this.editor_error);
-        }
-        // Initialize parser and renderer.
-        this.artist = new _artist__WEBPACK_IMPORTED_MODULE_1__["default"](10, 0, this.width, { scale: this.scale });
-        this.parser = new _vextab__WEBPACK_IMPORTED_MODULE_2__["default"](this.artist);
-        this.redraw();
-    }
-    /**
-     * Parse and draw the current code in one pass for convenience.
-     */
-    redraw() {
-        // Wrap parse/draw with VexFlow benchmarking to support legacy timing logs.
-        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Total render time: ', () => {
-            this.parse();
-            this.draw();
-        });
-        return this;
-    }
-    /**
-     * Highlight a note by sequential index and trigger a redraw.
-     */
-    highlightNoteIndex(index) {
-        this.parser.setHighlightNoteIndex(index);
-        this.redraw();
-        return this;
-    }
-    /**
-     * Draw if parsing succeeded; otherwise do nothing to avoid stale output.
-     */
-    drawInternal() {
-        if (!this.parser.isValid())
-            return this;
-        this.artist.draw(this.renderer);
-        return this;
-    }
-    /**
-     * Parse the current VexTab code and surface any errors in the UI.
-     * Design note: we keep errors in-band (DOM) so the editor experience is clear.
-     */
-    parseInternal() {
-        try {
-            // Reset state before parsing so errors never leak a partial render.
-            this.artist.reset();
-            this.parser.reset();
-            this.parser.parse(this.code);
-            if (this.editor_error)
-                this.editor_error.empty();
-        }
-        catch (e) {
-            if (this.editor_error) {
-                // Render parse errors into the UI for user feedback.
-                this.editor_error.empty();
-                this.editor_error.append($('<div></div>').addClass('text').html(`<h3>Oops!</h3> ${e.message.replace(/(?:\r\n|\r|\n)/g, '<br>')}`));
-            }
-        }
-        return this;
-    }
-    /**
-     * Public wrapper around parseInternal() with benchmark timing.
-     */
-    parse() {
-        // Benchmark parse to keep logs comparable with legacy builds.
-        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Parse time: ', () => { this.parseInternal(); });
-        return this;
-    }
-    /**
-     * Public wrapper around drawInternal() with benchmark timing.
-     */
-    draw() {
-        // Benchmark draw to keep logs comparable with legacy builds.
-        _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM('Draw time: ', () => { this.drawInternal(); });
-        return this;
-    }
-}
-window.VEXTAB_SEL_V3 = 'div.vextab-auto';
-/**
- * Start auto-rendering any VexTab elements found in the document.
- */
-function start(sel) {
-    // Emit version info for troubleshooting in the browser console.
-    // eslint-disable-next-line
-    console.log('Running VexTab.Div:', "2bb5caf", "master", "2bb5cafa80a2519959993ae85ae081e6427c6fea");
-    $(sel || window.VEXTAB_SEL_V3).forEach((s) => new Div(s));
-}
-$(() => { if (window.VEXTAB_SEL_V3) {
-    start();
-} });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Div);
-
-
-
-/***/ },
-
-/***/ "./src/player.ts"
-/*!***********************!*\
-  !*** ./src/player.ts ***!
-  \***********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./utils */ "./src/utils.ts");
-/* provided dependency */ var $ = __webpack_require__(/*! zepto-webpack */ "./node_modules/zepto-webpack/zepto.js");
-// Playback overlay that uses MIDI.js to audition VexFlow notes and show a moving marker.
-
-
-/**
- * VexTab Player
- *
- * This helper renders a transport overlay and uses MIDI.js to play back the
- * rendered notes. It attaches itself to Vex.Flow.Player for compatibility
- * with legacy VexTab usage.
- */
-class Player {
-    /**
-     * Construct a playback helper and attach to an Artist.
-     * Design note: options are merged so callers can override selectively.
-     */
-    constructor(artist, options) {
-        // Playback timer and overlay UI handles.
-        this.interval_id = null;
-        this.paper = null;
-        this.marker = null;
-        this.loading_message = null;
-        this.play_button = null;
-        this.stop_button = null;
-        // Playback timing state.
-        this.tick_notes = {};
-        this.all_ticks = [];
-        this.total_ticks = null;
-        this.tpm = 0;
-        this.refresh_rate = 25;
-        this.ticks_per_refresh = 0;
-        // Cursor state for playback.
-        this.current_ticks = 0;
-        this.next_event_tick = 0;
-        this.next_index = 0;
-        this.done = false;
-        this.loading = false;
-        this.scale = 1;
-        // Static constants pulled from VexFlow for timing and note math.
-        this.Fraction = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Fraction;
-        this.RESOLUTION = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.RESOLUTION;
-        this.noteValues = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Music.noteValues;
-        // MIDI program numbers keyed by human-friendly instrument names.
-        this.INSTRUMENTS = {
-            acoustic_grand_piano: 0,
-            acoustic_guitar_nylon: 24,
-            acoustic_guitar_steel: 25,
-            electric_guitar_jazz: 26,
-            distortion_guitar: 30,
-            electric_bass_finger: 33,
-            electric_bass_pick: 34,
-            trumpet: 56,
-            brass_section: 61,
-            soprano_sax: 64,
-            alto_sax: 65,
-            tenor_sax: 66,
-            baritone_sax: 67,
-            flute: 73,
-            synth_drum: 118,
-        };
-        this.artist = artist;
-        this.log('Initializing player: ', options);
-        this.options = {
-            instrument: 'acoustic_grand_piano',
-            tempo: 120,
-            show_controls: true,
-            soundfont_url: '/soundfont/',
-            overlay_class: 'vextab-player',
-        };
-        if (options) {
-            _utils__WEBPACK_IMPORTED_MODULE_1__.extend(this.options, options);
-        }
-        this.log(`Using soundfonts in: ${this.options.soundfont_url}`);
-        this.reset();
-    }
-    /**
-     * Log only when debug mode is enabled, to keep console noise low.
-     */
-    log(...args) {
-        if (Player.DEBUG && console) {
-            console.log('(Vex.Flow.Player)', ...args);
-        }
-    }
-    /**
-     * Swap the Artist instance and reset cached playback data.
-     */
-    setArtist(artist) {
-        this.artist = artist;
-        this.reset();
-    }
-    /**
-     * Update playback tempo and recompute tick scheduling.
-     */
-    setTempo(tempo) {
-        this.log('New tempo: ', tempo);
-        this.options.tempo = tempo;
-        this.reset();
-    }
-    /**
-     * Update the MIDI instrument used for playback.
-     */
-    setInstrument(instrument) {
-        this.log('New instrument: ', instrument);
-        if (!Object.keys(this.INSTRUMENTS).includes(instrument)) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('PlayerError', `Invalid instrument: ${instrument}`);
-        }
-        this.options.instrument = instrument;
-        this.reset();
-    }
-    /**
-     * Reset internal playback state and recompute timing values.
-     * Design note: called on every render to keep playback in sync.
-     */
-    reset() {
-        // Reset tick scheduling and overlay state after each render.
-        this.artist.attachPlayer(this);
-        this.tick_notes = {};
-        this.all_ticks = [];
-        this.tpm = this.options.tempo * (this.RESOLUTION / 4);
-        this.refresh_rate = 25;
-        this.ticks_per_refresh = this.tpm / (60 * (1000 / this.refresh_rate));
-        this.total_ticks = 0;
-        if (this.marker) {
-            this.marker.remove();
-            this.marker = null;
-        }
-        this.stop();
-    }
-    /**
-     * Create a Paper.js overlay canvas positioned above the VexFlow surface.
-     * Design note: a separate overlay avoids interfering with VexFlow render output.
-     */
-    getOverlay(context, scale, overlay_class) {
-        const canvas = context.canvas;
-        const height = canvas.height;
-        const width = canvas.width;
-        // The overlay is a separate canvas stacked above the main render.
-        const overlay = $('<canvas>');
-        overlay.css('position', 'absolute');
-        overlay.css('left', 0);
-        overlay.css('top', 0);
-        overlay.addClass(overlay_class);
-        $(canvas).after(overlay);
-        const ctx = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Renderer.getCanvasContext(overlay.get(0), width, height);
-        ctx.scale(scale, scale);
-        // Paper.js handles drawing for the overlay UI.
-        const ps = new paper.PaperScope();
-        ps.setup(overlay.get(0));
-        return { paper: ps, canvas: overlay.get(0) };
-    }
-    /**
-     * Remove playback controls from the overlay (used when re-rendering).
-     */
-    removeControls() {
-        if (this.play_button)
-            this.play_button.remove();
-        if (this.stop_button)
-            this.stop_button.remove();
-        if (this.paper)
-            this.paper.view.draw();
-    }
-    /**
-     * Build the overlay UI and compute tick maps for playback.
-     * Design note: we compute tick maps from the render output for accuracy.
-     */
-    render() {
-        this.reset();
-        const data = this.artist.getPlayerData();
-        this.scale = data.scale;
-        if (!this.paper) {
-            const overlay = this.getOverlay(data.context, data.scale, this.options.overlay_class);
-            this.paper = overlay.paper;
-        }
-        // Basic overlay UI elements.
-        this.marker = new this.paper.Path.Rectangle(0, 0, 13, 85);
-        this.loading_message = new this.paper.PointText(35, 12);
-        if (this.options.show_controls) {
-            // Simple play/stop controls rendered with Paper.js.
-            this.play_button = new this.paper.Path.RegularPolygon(new this.paper.Point(25, 10), 3, 7, 7);
-            this.play_button.fillColor = '#396';
-            this.play_button.opacity = 0.8;
-            this.play_button.rotate(90);
-            this.play_button.onMouseUp = () => {
-                this.play();
-            };
-            this.stop_button = new this.paper.Path.Rectangle(3, 3, 10, 10);
-            this.stop_button.fillColor = '#396';
-            this.stop_button.opacity = 0.8;
-            this.stop_button.onMouseUp = () => {
-                this.stop();
-            };
-        }
-        this.paper.view.draw();
-        const staves = data.voices;
-        // Build a flattened list of tick events to drive playback.
-        let total_ticks = new this.Fraction(0, 1);
-        staves.forEach((voice_group) => {
-            let max_voice_tick = new this.Fraction(0, 1);
-            voice_group.forEach((voice) => {
-                const total_voice_ticks = new this.Fraction(0, 1);
-                voice.getTickables().forEach((note) => {
-                    if (!note.shouldIgnoreTicks()) {
-                        const abs_tick = total_ticks.clone();
-                        abs_tick.add(total_voice_ticks);
-                        abs_tick.simplify();
-                        const key = abs_tick.toString();
-                        if (_utils__WEBPACK_IMPORTED_MODULE_1__.has(this.tick_notes, key)) {
-                            this.tick_notes[key].notes.push(note);
-                        }
-                        else {
-                            this.tick_notes[key] = {
-                                tick: abs_tick,
-                                value: abs_tick.value(),
-                                notes: [note],
-                            };
-                        }
-                        total_voice_ticks.add(note.getTicks());
-                    }
-                });
-                if (total_voice_ticks.value() > max_voice_tick.value()) {
-                    max_voice_tick.copy(total_voice_ticks);
-                }
-            });
-            total_ticks.add(max_voice_tick);
-        });
-        // Sort events by absolute tick for deterministic playback.
-        this.all_ticks = _utils__WEBPACK_IMPORTED_MODULE_1__.sortBy(_utils__WEBPACK_IMPORTED_MODULE_1__.values(this.tick_notes), (tick) => tick.value);
-        this.total_ticks = _utils__WEBPACK_IMPORTED_MODULE_1__.last(this.all_ticks);
-        this.log(this.all_ticks);
-    }
-    /**
-     * Move the overlay marker to the given note position.
-     */
-    updateMarker(x, y) {
-        this.marker.fillColor = '#369';
-        this.marker.opacity = 0.2;
-        this.marker.setPosition(new this.paper.Point(x * this.scale, y * this.scale));
-        this.paper.view.draw();
-    }
-    /**
-     * Trigger MIDI playback for a set of notes and move the marker.
-     * Design note: VexFlow's note APIs provide pitch strings we map to MIDI.
-     */
-    playNote(notes) {
-        this.log(`(${this.current_ticks}) playNote: `, notes);
-        // For each note, move the marker and emit MIDI events.
-        notes.forEach((note) => {
-            const x = note.getAbsoluteX() + 4;
-            const y = note.getStave().getYForLine(2);
-            if (this.paper)
-                this.updateMarker(x, y);
-            if (note.isRest())
-                return;
-            const keys = note.getPlayNote();
-            const duration = note.getTicks().value() / (this.tpm / 60);
-            keys.forEach((key) => {
-                const pieces = key.split('/');
-                const noteName = pieces[0].trim().toLowerCase();
-                const octave = pieces[1];
-                const note_value = this.noteValues[noteName];
-                if (!note_value)
-                    return;
-                const midi_note = (24 + (parseInt(octave, 10) * 12)) + note_value.int_val;
-                MIDI.noteOn(0, midi_note, 127, 0);
-                MIDI.noteOff(0, midi_note, duration);
-            });
-        });
-    }
-    /**
-     * Advance playback time and emit notes when their tick is reached.
-     */
-    refresh() {
-        if (this.done) {
-            this.stop();
-            return;
-        }
-        // Advance playback cursor based on ticks-per-refresh.
-        this.current_ticks += this.ticks_per_refresh;
-        if (this.current_ticks >= this.next_event_tick && this.all_ticks.length > 0) {
-            this.playNote(this.all_ticks[this.next_index].notes);
-            this.next_index += 1;
-            if (this.next_index >= this.all_ticks.length) {
-                this.done = true;
-            }
-            else {
-                this.next_event_tick = this.all_ticks[this.next_index].tick.value();
-            }
-        }
-    }
-    /**
-     * Stop playback, clear timers, and reset UI state.
-     */
-    stop() {
-        this.log('Stop');
-        // Reset playback cursor and UI state.
-        if (this.interval_id)
-            window.clearInterval(this.interval_id);
-        if (this.play_button)
-            this.play_button.fillColor = '#396';
-        if (this.paper)
-            this.paper.view.draw();
-        this.interval_id = null;
-        this.current_ticks = 0;
-        this.next_event_tick = 0;
-        this.next_index = 0;
-        this.done = false;
-    }
-    /**
-     * Start playback after ensuring the overlay and MIDI setup are ready.
-     */
-    start() {
-        this.stop();
-        this.log('Start');
-        if (this.play_button)
-            this.play_button.fillColor = '#a36';
-        // Select instrument and schedule refresh ticks.
-        MIDI.programChange(0, this.INSTRUMENTS[this.options.instrument]);
-        this.render();
-        this.interval_id = window.setInterval(() => this.refresh(), this.refresh_rate);
-    }
-    /**
-     * Public entry point for playback. Loads instruments as needed.
-     */
-    play() {
-        this.log('Play: ', this.refresh_rate, this.ticks_per_refresh);
-        if (Player.INSTRUMENTS_LOADED[this.options.instrument] && !this.loading) {
-            this.start();
-        }
-        else {
-            this.log('Loading instruments...');
-            this.loading_message.content = 'Loading instruments...';
-            this.loading_message.fillColor = 'green';
-            this.loading = true;
-            this.paper.view.draw();
-            // Load soundfonts on demand to keep initial render lightweight.
-            MIDI.loadPlugin({
-                soundfontUrl: this.options.soundfont_url,
-                instruments: [this.options.instrument],
-                callback: () => {
-                    Player.INSTRUMENTS_LOADED[this.options.instrument] = true;
-                    this.loading = false;
-                    this.loading_message.content = '';
-                    this.start();
-                },
-            });
-        }
-    }
-}
-// Enables verbose logging for debugging.
-Player.DEBUG = false;
-// Cache to avoid re-loading soundfonts per instrument.
-Player.INSTRUMENTS_LOADED = {};
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Player);
-// Preserve legacy access via Vex.Flow.Player.
-if (!_vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Player) {
-    _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Player = Player;
-}
-
-
-/***/ },
-
-/***/ "./src/utils.ts"
-/*!**********************!*\
-  !*** ./src/utils.ts ***!
-  \**********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
-/* harmony export */   each: () => (/* binding */ each),
-/* harmony export */   extend: () => (/* binding */ extend),
-/* harmony export */   forEach: () => (/* binding */ forEach),
-/* harmony export */   has: () => (/* binding */ has),
-/* harmony export */   isEmpty: () => (/* binding */ isEmpty),
-/* harmony export */   keys: () => (/* binding */ keys),
-/* harmony export */   last: () => (/* binding */ last),
-/* harmony export */   map: () => (/* binding */ map),
-/* harmony export */   pick: () => (/* binding */ pick),
-/* harmony export */   sortBy: () => (/* binding */ sortBy),
-/* harmony export */   throttle: () => (/* binding */ throttle),
-/* harmony export */   values: () => (/* binding */ values)
-/* harmony export */ });
-// Minimal utility helpers that replace lodash with focused, documented primitives.
-/**
- * Return the last item of an array, or undefined for null/empty inputs.
- * This is a tiny, predictable helper used throughout the codebase.
- */
-function last(items) {
-    if (!items || items.length === 0)
-        return undefined;
-    return items[items.length - 1];
-}
-/**
- * Determine whether a value is "empty" by lodash-style rules.
- * - null/undefined → empty
- * - arrays/strings → length === 0
- * - objects → no own keys
- */
-function isEmpty(value) {
-    if (value == null)
-        return true;
-    if (Array.isArray(value) || typeof value === 'string')
-        return value.length === 0;
-    if (typeof value === 'object')
-        return Object.keys(value).length === 0;
-    return false;
-}
-/**
- * Iterate over an array or object with a simple callback signature.
- * This keeps call sites uniform without pulling in a full utility library.
- */
-function each(collection, iteratee) {
-    if (!collection)
-        return;
-    if (Array.isArray(collection)) {
-        collection.forEach((value, index) => iteratee(value, index));
-        return;
-    }
-    Object.keys(collection).forEach((key) => iteratee(collection[key], key));
-}
-/**
- * Alias for each() to preserve compatibility with lodash-style usage.
- */
-function forEach(collection, iteratee) {
-    each(collection, iteratee);
-}
-/**
- * Map a collection into an array of results.
- */
-function map(collection, iteratee) {
-    // Preserve lodash-style semantics by always returning a new array.
-    const results = [];
-    each(collection, (value, key) => results.push(iteratee(value, key)));
-    return results;
-}
-/**
- * Merge object properties into a target object.
- * Design note: we intentionally skip null/undefined sources to keep call sites compact.
- */
-function extend(target, ...sources) {
-    // Skip null/undefined sources to keep call sites concise.
-    const validSources = sources.filter((source) => source != null);
-    return Object.assign(target, ...validSources);
-}
-/**
- * Return the own keys of an object or an empty array for nullish inputs.
- */
-function keys(value) {
-    return value ? Object.keys(value) : [];
-}
-/**
- * Return the own values of an object or an empty array for nullish inputs.
- */
-function values(value) {
-    return value ? Object.values(value) : [];
-}
-/**
- * Safe hasOwnProperty wrapper.
- */
-function has(value, key) {
-    if (!value)
-        return false;
-    return Object.prototype.hasOwnProperty.call(value, key);
-}
-/**
- * Pick a subset of properties into a shallow clone.
- */
-function pick(value, ...props) {
-    // Build a shallow object containing only requested keys.
-    const result = {};
-    props.forEach((prop) => {
-        if (has(value, prop)) {
-            result[prop] = value[prop];
-        }
-    });
-    return result;
-}
-/**
- * Create a new array sorted by a numeric iteratee.
- */
-function sortBy(items, iteratee) {
-    // Sorting a copy keeps callers' arrays immutable.
-    return items.slice().sort((a, b) => {
-        const left = iteratee(a);
-        const right = iteratee(b);
-        return left - right;
-    });
-}
-/**
- * Throttle a function so it runs at most once per `wait` milliseconds.
- * Design note: this mirrors lodash's trailing invocation behavior for the last call.
- */
-function throttle(fn, wait) {
-    // Track last execution time and a pending trailing call.
-    let lastCall = 0;
-    let timeoutId;
-    let pendingArgs = null;
-    return (...args) => {
-        const now = Date.now();
-        const remaining = wait - (now - lastCall);
-        if (remaining <= 0) {
-            if (timeoutId !== undefined) {
-                clearTimeout(timeoutId);
-                timeoutId = undefined;
-            }
-            lastCall = now;
-            fn(...args);
-            return;
-        }
-        pendingArgs = args;
-        if (timeoutId !== undefined)
-            return;
-        timeoutId = window.setTimeout(() => {
-            lastCall = Date.now();
-            timeoutId = undefined;
-            if (pendingArgs) {
-                fn(...pendingArgs);
-                pendingArgs = null;
-            }
-        }, remaining);
-    };
-}
-// Default export for compatibility with older lodash-style imports.
-const utils = {
-    last,
-    isEmpty,
-    each,
-    forEach,
-    map,
-    extend,
-    keys,
-    values,
-    has,
-    pick,
-    sortBy,
-    throttle,
-};
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (utils);
-
-
-/***/ },
-
-/***/ "./src/vexflow.ts"
-/*!************************!*\
-  !*** ./src/vexflow.ts ***!
-  \************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vexflow */ "./node_modules/vexflow/build/esm/entry/vexflow.js");
-// Compatibility shim for VexFlow 5+ to preserve the legacy Vex.Flow namespace.
-// VexFlow 5 exports classes at the top level, so we re-introduce the old namespace.
-
-// Provide a Vex.Flow alias for legacy code paths.
-if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) {
-    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow = vexflow__WEBPACK_IMPORTED_MODULE_0__["default"];
-}
-// Legacy error constructor used by older VexFlow APIs (e.g., Vex.RERR).
-if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR && vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RuntimeError) {
-    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR = vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RuntimeError;
-}
-// Legacy benchmark helper used by older VexFlow APIs.
-if (!vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM) {
-    vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].BM = (_label, fn) => fn();
-}
-// Export the patched namespace for callers expecting Vex.Flow.*.
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (vexflow__WEBPACK_IMPORTED_MODULE_0__["default"]);
-
-
-/***/ },
-
-/***/ "./src/vextab.css"
-/*!************************!*\
-  !*** ./src/vextab.css ***!
-  \************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/styleDomAPI.js */ "./node_modules/style-loader/dist/runtime/styleDomAPI.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/insertBySelector.js */ "./node_modules/style-loader/dist/runtime/insertBySelector.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */ "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/insertStyleElement.js */ "./node_modules/style-loader/dist/runtime/insertStyleElement.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/styleTagTransform.js */ "./node_modules/style-loader/dist/runtime/styleTagTransform.js");
-/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! !!../node_modules/css-loader/dist/cjs.js!./vextab.css */ "./node_modules/css-loader/dist/cjs.js!./src/vextab.css");
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
-
-var options = {};
-
-options.styleTagTransform = (_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default());
-options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default());
-options.insert = _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default().bind(null, "head");
-options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
-options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
-
-var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"], options);
-
-
-
-
-       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"] && _node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals ? _node_modules_css_loader_dist_cjs_js_vextab_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals : undefined);
-
-
-/***/ },
-
-/***/ "./src/vextab.jison"
-/*!**************************!*\
-  !*** ./src/vextab.jison ***!
-  \**************************/
-(module, exports, __webpack_require__) {
-
-/* module decorator */ module = __webpack_require__.nmd(module);
-/* parser generated by jison 0.4.18 */
-/*
-  Returns a Parser object of the following structure:
-
-  Parser: {
-    yy: {}
-  }
-
-  Parser.prototype: {
-    yy: {},
-    trace: function(),
-    symbols_: {associative list: name ==> number},
-    terminals_: {associative list: number ==> name},
-    productions_: [...],
-    performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate, $$, _$),
-    table: [...],
-    defaultActions: {...},
-    parseError: function(str, hash),
-    parse: function(input),
-
-    lexer: {
-        EOF: 1,
-        parseError: function(str, hash),
-        setInput: function(input),
-        input: function(),
-        unput: function(str),
-        more: function(),
-        less: function(n),
-        pastInput: function(),
-        upcomingInput: function(),
-        showPosition: function(),
-        test_match: function(regex_match_array, rule_index),
-        next: function(),
-        lex: function(),
-        begin: function(condition),
-        popState: function(),
-        _currentRules: function(),
-        topState: function(),
-        pushState: function(condition),
-
-        options: {
-            ranges: boolean           (optional: true ==> token location info will include a .range[] member)
-            flex: boolean             (optional: true ==> flex-like lexing behaviour where the rules are tested exhaustively to find the longest match)
-            backtrack_lexer: boolean  (optional: true ==> lexer regexes are tested in order and for each matching regex the action code is invoked; the lexer terminates the scan when a token is returned by the action code)
-        },
-
-        performAction: function(yy, yy_, $avoiding_name_collisions, YY_START),
-        rules: [...],
-        conditions: {associative list: name ==> set},
-    }
-  }
-
-
-  token location info (@$, _$, etc.): {
-    first_line: n,
-    last_line: n,
-    first_column: n,
-    last_column: n,
-    range: [start_number, end_number]       (where the numbers are indexes into the input string, regular zero-based)
-  }
-
-
-  the parseError function receives a 'hash' object with these members for lexer and parser errors: {
-    text:        (matched text)
-    token:       (the produced terminal token, if any)
-    line:        (yylineno)
-  }
-  while parser (grammar) errors will also provide these members, i.e. parser errors deliver a superset of attributes: {
-    loc:         (yylloc)
-    expected:    (string describing the set of expected tokens)
-    recoverable: (boolean: TRUE when the parser has a error recovery rule available for this particular error)
-  }
-*/
-var parser = (function(){
-var o=function(k,v,o,l){for(o=o||{},l=k.length;l--;o[k[l]]=v);return o},$V0=[1,9],$V1=[1,10],$V2=[1,11],$V3=[1,8],$V4=[1,12],$V5=[1,13],$V6=[1,14],$V7=[5,10,12,13,19,21,22,23],$V8=[5,10,12,13,19,21,22,23,25,27,29],$V9=[2,24],$Va=[1,19],$Vb=[1,22],$Vc=[5,10,12,13,19,21,22,23,25,27,29,30],$Vd=[1,27],$Ve=[1,28],$Vf=[1,29],$Vg=[1,30],$Vh=[1,32],$Vi=[5,10,12,13,15,19,21,22,23],$Vj=[1,53],$Vk=[1,42],$Vl=[1,43],$Vm=[1,52],$Vn=[1,51],$Vo=[1,49],$Vp=[1,58],$Vq=[1,65],$Vr=[1,60],$Vs=[1,61],$Vt=[1,62],$Vu=[1,63],$Vv=[1,64],$Vw=[1,66],$Vx=[1,54],$Vy=[1,55],$Vz=[1,56],$VA=[1,57],$VB=[1,67],$VC=[5,10,12,13,15,19,21,22,23,25,27,29],$VD=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,67,68,69,70,71,72,76,77,79,81,82],$VE=[2,86],$VF=[1,78],$VG=[1,75],$VH=[1,76],$VI=[1,77],$VJ=[1,84],$VK=[1,85],$VL=[1,89],$VM=[1,90],$VN=[1,91],$VO=[1,92],$VP=[47,63,65,67,68,69,70,71,72,73,74,75],$VQ=[44,51,54,82],$VR=[47,54,63,65,67,68,69,70,71,72,73,74,75,87],$VS=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,47,51,54,63,67,68,69,70,71,72,76,77,79,81,82],$VT=[1,112],$VU=[50,52],$VV=[2,70],$VW=[1,117],$VX=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,65,67,68,69,70,71,72,76,77,79,81,82],$VY=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,51,54,63,65,66,67,68,69,70,71,72,76,77,79,81,82],$VZ=[15,77],$V_=[47,54,63,65,67,68,69,70,71,72,73,74,75],$V$=[5,10,12,13,19,21,22,23,25,27,29,31,37,38,43,44,50,51,52,54,63,67,68,69,70,71,72,76,77,79,81,82];
-var parser = {trace: function trace () { },
-yy: {},
-symbols_: {"error":2,"e":3,"maybe_vextab":4,"EOF":5,"vextab":6,"element":7,"stave":8,"header":9,"TITLE":10,"header_line":11,"SUBTITLE":12,"SIDENOTE":13,"STR":14,",":15,"voice":16,"maybe_options":17,"stave_data":18,"OPTIONS":19,"options":20,"TABSTAVE":21,"STAVE":22,"VOICE":23,"stave_additions":24,"TEXT":25,"text":26,"NOTES":27,"notes":28,"SLUR":29,"WORD":30,"=":31,"lingo":32,"line":33,"chord":34,"time":35,"bar":36,"[":37,"]":38,"tuplets":39,"annotations":40,"command":41,"rest":42,"|":43,":":44,"frets":45,"maybe_decorator":46,"/":47,"string":48,"chord_line":49,".":50,"(":51,")":52,"articulation":53,"NUMBER":54,"abc":55,"_":56,"timed_fret":57,"time_values":58,"maybe_dot":59,"time_unit":60,"maybe_slash":61,"w":62,"h":63,"q":64,"d":65,"S":66,"-":67,"s":68,"t":69,"T":70,"b":71,"p":72,"v":73,"V":74,"u":75,"^":76,"$":77,"annotation_words":78,"!":79,"COMMAND":80,"#":81,"ABC":82,"abc_accidental":83,"accidental_type":84,"@":85,"n":86,"~":87,"$accept":0,"$end":1},
-terminals_: {2:"error",5:"EOF",10:"TITLE",12:"SUBTITLE",13:"SIDENOTE",14:"STR",15:",",19:"OPTIONS",21:"TABSTAVE",22:"STAVE",23:"VOICE",25:"TEXT",27:"NOTES",29:"SLUR",30:"WORD",31:"=",37:"[",38:"]",43:"|",44:":",47:"/",50:".",51:"(",52:")",54:"NUMBER",56:"_",62:"w",63:"h",64:"q",65:"d",66:"S",67:"-",68:"s",69:"t",70:"T",71:"b",72:"p",73:"v",74:"V",75:"u",76:"^",77:"$",79:"!",80:"COMMAND",81:"#",82:"ABC",85:"@",86:"n",87:"~"},
-productions_: [0,[3,2],[4,0],[4,1],[6,1],[6,2],[7,1],[7,1],[9,2],[9,2],[9,2],[11,1],[11,3],[8,3],[8,2],[8,2],[16,1],[16,1],[16,1],[18,1],[18,2],[24,2],[24,2],[24,2],[17,0],[17,1],[20,3],[20,4],[26,1],[26,3],[28,1],[28,2],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[32,1],[36,1],[36,3],[36,3],[36,3],[36,3],[36,3],[33,4],[49,1],[49,3],[34,4],[34,5],[45,1],[45,1],[45,4],[45,2],[45,4],[57,5],[57,1],[57,5],[57,8],[57,1],[57,4],[35,3],[58,2],[60,1],[60,1],[60,1],[60,1],[59,0],[59,1],[61,0],[61,1],[48,1],[53,1],[53,1],[53,1],[53,1],[53,1],[53,1],[53,1],[46,1],[46,1],[46,1],[46,1],[46,0],[39,3],[39,5],[40,3],[78,1],[78,3],[41,3],[42,2],[42,3],[42,4],[55,3],[83,1],[83,2],[83,1],[83,2],[83,1],[83,0],[84,0],[84,1]],
-performAction: function anonymous(yytext, yyleng, yylineno, yy, yystate /* action[1] */, $$ /* vstack */, _$ /* lstack */) {
-/* this == yyval */
-
-var $0 = $$.length - 1;
-switch (yystate) {
-case 1:
-
-      return $$[$0-1];
-    
-// removed by dead control flow
-
-case 2: case 24: case 86:
- this.$ = null 
-break;
-case 3: case 6: case 7: case 11: case 19: case 25: case 30: case 32: case 33: case 34: case 49: case 66: case 67: case 68: case 69: case 74:
- this.$ = $$[$0] 
-break;
-case 4: case 90:
- this.$ = [$$[$0]] 
-break;
-case 5:
- this.$ = [].concat($$[$0-1], $$[$0]) 
-break;
-case 8:
-
-      this.$ = {
-        element: "title",
-        text: $$[$0],
-        _l: _$[$0-1].first_line,
-        _c: _$[$0-1].first_column
-      }
-    
-break;
-case 9:
-
-      this.$ = {
-        element: "subtitle",
-        text: $$[$0],
-        _l: _$[$0-1].first_line,
-        _c: _$[$0-1].first_column
-      }
-    
-break;
-case 10:
-
-      this.$ = {
-        element: "sidenote",
-        text: $$[$0],
-        _l: _$[$0-1].first_line,
-        _c: _$[$0-1].first_column
-      }
-    
-break;
-case 12:
- this.$ = $$[$0-2] + ',' + $$[$0] 
-break;
-case 13:
- this.$ = {
-        element: $$[$0-2],
-        options: $$[$0-1],
-        notes: $$[$0].notes,
-        text: $$[$0].text,
-        _l: _$[$0-2].first_line,
-        _c: _$[$0-2].first_column
-      }
-    
-break;
-case 14:
- this.$ = {
-        element: $$[$0-1],
-        options: $$[$0],
-        _l: _$[$0-1].first_line,
-        _c: _$[$0-1].first_column
-      }
-    
-break;
-case 15:
-
-      this.$ = {
-        element: "options",
-        params: $$[$0],
-        _l: _$[$0-1].first_line,
-        _c: _$[$0-1].first_column
-      }
-    
-break;
-case 20:
-
-      var text = [].concat($$[$0-1].text, $$[$0].text);
-      var notes = [].concat($$[$0-1].notes, $$[$0].notes);
-      var slurs = [].concat($$[$0-1].slurs, $$[$0].slurs)
-      this.$ = {text: text, notes: notes, slurs: slurs};
-    
-break;
-case 21:
-this.$ = {text: $$[$0], notes: [], slurs: []}
-break;
-case 22:
-this.$ = {notes: $$[$0], text: [], slurs: []}
-break;
-case 23:
-this.$ = {slurs: $$[$0], notes: [], text: []}
-break;
-case 26:
- this.$ = [{
-        key: $$[$0-2],
-        value: $$[$0],
-        _l: _$[$0-2].first_line,
-        _c: _$[$0-2].first_column
-      }]
-    
-break;
-case 27:
- this.$ = [].concat($$[$0-3], [{
-        key: $$[$0-2],
-        value: $$[$0],
-        _l: _$[$0-2].first_line,
-        _c: _$[$0-2].first_column
-        }])
-    
-break;
-case 28:
- this.$ = [{text: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}] 
-break;
-case 29:
- this.$ = [].concat($$[$0-2], {text: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}) 
-break;
-case 31:
- this.$ = [].concat($$[$0-1], $$[$0])  
-break;
-case 35:
- this.$ = [{
-        command: "bar",
-        type: $$[$0],
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-        }]
-    
-break;
-case 36:
- this.$ = [{
-        command: "open_beam",
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-      }]
-    
-break;
-case 37:
- this.$ = [{
-        command: "close_beam",
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-      }]
-    
-break;
-case 38:
- this.$ = [{
-        command: "tuplet",
-        params: $$[$0],
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-      }]
-    
-break;
-case 39:
- this.$ = [{
-        command: "annotations",
-        params: $$[$0],
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-      }]
-    
-break;
-case 40:
- this.$ = [{
-        command: "command",
-        params: $$[$0],
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column
-      }]
-    
-break;
-case 41:
-
-    this.$ = [{
-        command: "rest",
-        params: $$[$0]
-      }]
-    
-break;
-case 42:
- this.$ = 'single' 
-break;
-case 43:
- this.$ = 'double' 
-break;
-case 44:
- this.$ = 'end' 
-break;
-case 45:
- this.$ = 'repeat-end' 
-break;
-case 46:
- this.$ = 'repeat-begin' 
-break;
-case 47:
- this.$ = 'repeat-both' 
-break;
-case 48:
-
-      _.extend(_.last($$[$0-3]), {decorator: $$[$0-2]})
-      _.each($$[$0-3], function(fret) { fret['string'] = $$[$0] })
-      this.$ = $$[$0-3]
-    
-break;
-case 50: case 91:
- this.$ = [].concat($$[$0-2], $$[$0]) 
-break;
-case 51:
- this.$ = [{chord: $$[$0-2], decorator: $$[$0]}] 
-break;
-case 52:
- this.$ = [{chord: $$[$0-2], articulation: $$[$0-4], decorator: $$[$0]}] 
-break;
-case 53:
- this.$ = [{
-        fret: $$[$0],
-        _l: _$[$0].first_line,
-        _c: _$[$0].first_column}]
-    
-break;
-case 54:
- this.$ = [{abc: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column}]
-break;
-case 55:
- this.$ = [{abc: $$[$0-3], octave: $$[$0-2],
-             fret: $$[$0], _l: _$[$0-3].first_line, _c: _$[$0-3].first_column}]
-break;
-case 56:
- this.$ = [_.extend($$[$0], {articulation: $$[$0-1]})] 
-break;
-case 57:
-
-      _.extend(_.last($$[$0-3]), {decorator: $$[$0-2]})
-      _.extend($$[$0], {articulation: $$[$0-1]})
-      $$[$0-3].push($$[$0])
-      this.$ = $$[$0-3]
-    
-break;
-case 58:
- this.$ = {
-      time: $$[$0-3], dot: $$[$0-2], fret: $$[$0],
-      _l: _$[$0-4].first_line, _c: _$[$0-4].first_column}
-break;
-case 59:
- this.$ = {fret: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column} 
-break;
-case 60:
- this.$ = {time: $$[$0-3], dot: $$[$0-2], abc: $$[$0]}
-break;
-case 61:
- this.$ = {time: $$[$0-6], dot: $$[$0-5], abc: $$[$0-3], octave: $$[$0-2], fret: $$[$0]}
-break;
-case 62:
- this.$ = {abc: $$[$0], _l: _$[$0].first_line, _c: _$[$0].first_column} 
-break;
-case 63:
- this.$ = {abc: $$[$0-3], octave: $$[$0-2],
-            fret: $$[$0], _l: _$[$0-3].first_line, _c: _$[$0-3].first_column} 
-break;
-case 64:
- this.$ = {time: $$[$0-1], dot: $$[$0]} 
-break;
-case 65:
- this.$ = $$[$0-1] + $$[$0] 
-break;
-case 70:
- this.$ = false 
-break;
-case 71:
- this.$ = true 
-break;
-case 72:
- this.$ = '' 
-break;
-case 73: case 76:
- this.$ = 's' 
-break;
-case 75:
- this.$ = '-' 
-break;
-case 77:
- this.$ = 't' 
-break;
-case 78:
- this.$ = 'T' 
-break;
-case 79:
- this.$ = 'b' 
-break;
-case 80:
- this.$ = 'h' 
-break;
-case 81:
- this.$ = 'p' 
-break;
-case 82:
- this.$ = 'v' 
-break;
-case 83:
- this.$ = 'V' 
-break;
-case 84:
- this.$ = 'u' 
-break;
-case 85:
- this.$ = 'd' 
-break;
-case 87:
- this.$ = {tuplet: $$[$0-1]} 
-break;
-case 88:
- this.$ = {tuplet: $$[$0-3], notes: $$[$0-1]} 
-break;
-case 89: case 92:
- this.$ = $$[$0-1] 
-break;
-case 93:
- this.$ = {position: 0} 
-break;
-case 94:
- this.$ = {position: $$[$0-1]} 
-break;
-case 95:
- this.$ = {position: $$[$0-1] * -1} 
-break;
-case 96:
- this.$ = {key: $$[$0-2], accidental: $$[$0-1], accidental_type: $$[$0]} 
-break;
-case 97:
- this.$ = "#" 
-break;
-case 98:
- this.$ = "##" 
-break;
-case 99:
- this.$ = "b" 
-break;
-case 100:
- this.$ = "bb" 
-break;
-case 101:
- this.$ = "n" 
-break;
-case 103:
- this.$ = null; 
-break;
-case 104:
- this.$ = "c" 
-break;
-}
-},
-table: [{3:1,4:2,5:[2,2],6:3,7:4,8:5,9:6,10:$V0,12:$V1,13:$V2,16:7,19:$V3,21:$V4,22:$V5,23:$V6},{1:[3]},{5:[1,15]},{5:[2,3],7:16,8:5,9:6,10:$V0,12:$V1,13:$V2,16:7,19:$V3,21:$V4,22:$V5,23:$V6},o($V7,[2,4]),o($V7,[2,6]),o($V7,[2,7]),o($V8,$V9,{17:17,20:18,30:$Va}),{20:20,30:$Va},{11:21,14:$Vb},{11:23,14:$Vb},{11:24,14:$Vb},o($Vc,[2,16]),o($Vc,[2,17]),o($Vc,[2,18]),{1:[2,1]},o($V7,[2,5]),o($V7,[2,14],{18:25,24:26,25:$Vd,27:$Ve,29:$Vf}),o($V8,[2,25],{30:$Vg}),{31:[1,31]},o($V7,[2,15],{30:$Vg}),o($V7,[2,8],{15:$Vh}),o($Vi,[2,11]),o($V7,[2,9],{15:$Vh}),o($V7,[2,10],{15:$Vh}),o($V7,[2,13],{24:33,25:$Vd,27:$Ve,29:$Vf}),o($V8,[2,19]),{14:[1,35],26:34},{28:36,31:$Vj,32:37,33:38,34:39,35:40,36:41,37:$Vk,38:$Vl,39:44,40:45,41:46,42:47,43:$Vm,44:$Vn,45:48,51:$Vo,53:50,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,76:$Vx,77:$Vy,79:$Vz,81:$VA,82:$VB},o($V8,$V9,{20:18,17:68,30:$Va}),{31:[1,69]},{30:[1,70]},{14:[1,71]},o($V8,[2,20]),o($V8,[2,21],{15:[1,72]}),o($VC,[2,28]),o($V8,[2,22],{33:38,34:39,35:40,36:41,39:44,40:45,41:46,42:47,45:48,53:50,55:59,32:73,31:$Vj,37:$Vk,38:$Vl,43:$Vm,44:$Vn,51:$Vo,54:$Vp,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,76:$Vx,77:$Vy,79:$Vz,81:$VA,82:$VB}),o($VD,[2,30]),o($VD,[2,32]),o($VD,[2,33]),o($VD,[2,34]),o($VD,[2,35]),o($VD,[2,36]),o($VD,[2,37]),o($VD,[2,38]),o($VD,[2,39]),o($VD,[2,40]),o($VD,[2,41]),o([47,63,67,68,69,70,71,72],$VE,{46:74,65:$VF,73:$VG,74:$VH,75:$VI}),{33:80,45:48,49:79,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},{44:$VJ,51:[1,82],54:$VK,55:86,57:83,82:$VB},{54:$VL,58:87,60:88,62:$VM,63:$VN,64:$VO},o($VD,[2,42]),{43:[1,93],44:[1,94]},{54:[1,95]},{30:[1,97],78:96},{80:[1,98]},{54:[1,100],67:[1,101],81:[1,99]},o($VP,[2,53]),o($VP,[2,54],{54:[1,102]}),o($VQ,[2,75]),o($VQ,[2,76]),o($VQ,[2,77]),o($VQ,[2,78]),o($VQ,[2,79]),o($VQ,[2,80]),o($VQ,[2,81]),o($VR,[2,102],{83:103,81:[1,104],85:[1,105],86:[1,106]}),o($V8,[2,23]),{30:[1,107]},o($Vc,[2,26]),o($Vi,[2,12]),{14:[1,108]},o($VD,[2,31]),{47:[1,109],53:110,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw},o($VS,[2,82]),o($VS,[2,83]),o($VS,[2,84]),o($VS,[2,85]),{50:$VT,52:[1,111]},o($VU,[2,49]),{44:$VJ,54:$VK,55:86,57:83,82:$VB},{33:80,45:48,49:113,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},o($VP,[2,56]),{54:$VL,58:114,60:88,62:$VM,63:$VN,64:$VO},o($VP,[2,59]),o($VP,[2,62],{54:[1,115]}),o($VD,$VV,{59:116,65:$VW}),o($VX,[2,72],{61:118,66:[1,119]}),o($VY,[2,66]),o($VY,[2,67]),o($VY,[2,68]),o($VY,[2,69]),{31:[1,121],43:[1,120],44:[1,122]},{43:[1,123],44:[1,124]},{15:[1,126],76:[1,125]},{15:[1,128],77:[1,127]},o($VZ,[2,90]),{79:[1,129]},o($VD,[2,93]),{81:[1,130]},{54:[1,131]},{56:[1,132]},o($V_,[2,103],{84:133,87:[1,134]}),o($VR,[2,97],{81:[1,135]}),o($VR,[2,99],{85:[1,136]}),o($VR,[2,101]),o($Vc,[2,27]),o($VC,[2,29]),{48:137,54:[1,138]},{44:$VJ,54:$VK,55:86,57:139,82:$VB},o($VD,$VE,{46:140,65:$VF,73:$VG,74:$VH,75:$VI}),{33:141,45:48,53:81,54:$Vp,55:59,63:$Vq,67:$Vr,68:$Vs,69:$Vt,70:$Vu,71:$Vv,72:$Vw,82:$VB},{50:$VT,52:[1,142]},{44:$VV,59:143,65:$VW},{56:[1,144]},o($VD,[2,64]),o($VD,[2,71]),o($VX,[2,65]),o($VX,[2,73]),o($VD,[2,43]),o($VD,[2,44]),o($VD,[2,46]),o($VD,[2,45]),o($VD,[2,47]),o($VD,[2,87]),{54:[1,145]},o($VD,[2,89]),{30:[1,146]},o($VD,[2,92]),o($VD,[2,94]),{81:[1,147]},{54:[1,148]},o($V_,[2,96]),o($V_,[2,104]),o($VR,[2,98]),o($VR,[2,100]),o($V$,[2,48]),o($V$,[2,74]),o($VP,[2,57]),o($VD,[2,51]),o($VU,[2,50]),o($VD,$VE,{46:149,65:$VF,73:$VG,74:$VH,75:$VI}),{44:[1,150]},{54:[1,151]},{76:[1,152]},o($VZ,[2,91]),o($VD,[2,95]),o($VP,[2,55]),o($VD,[2,52]),{54:[1,153],55:154,82:$VB},o($VP,[2,63]),o($VD,[2,88]),o($VP,[2,58]),o($VP,[2,60],{54:[1,155]}),{56:[1,156]},{54:[1,157]},o($VP,[2,61])],
-defaultActions: {15:[2,1]},
-parseError: function parseError (str, hash) {
-    if (hash.recoverable) {
-        this.trace(str);
-    } else {
-        var error = new Error(str);
-        error.hash = hash;
-        throw error;
-    }
-},
-parse: function parse(input) {
-    var self = this, stack = [0], tstack = [], vstack = [null], lstack = [], table = this.table, yytext = '', yylineno = 0, yyleng = 0, recovering = 0, TERROR = 2, EOF = 1;
-    var args = lstack.slice.call(arguments, 1);
-    var lexer = Object.create(this.lexer);
-    var sharedState = { yy: {} };
-    for (var k in this.yy) {
-        if (Object.prototype.hasOwnProperty.call(this.yy, k)) {
-            sharedState.yy[k] = this.yy[k];
-        }
-    }
-    lexer.setInput(input, sharedState.yy);
-    sharedState.yy.lexer = lexer;
-    sharedState.yy.parser = this;
-    if (typeof lexer.yylloc == 'undefined') {
-        lexer.yylloc = {};
-    }
-    var yyloc = lexer.yylloc;
-    lstack.push(yyloc);
-    var ranges = lexer.options && lexer.options.ranges;
-    if (typeof sharedState.yy.parseError === 'function') {
-        this.parseError = sharedState.yy.parseError;
-    } else {
-        this.parseError = Object.getPrototypeOf(this).parseError;
-    }
-    function popStack(n) {
-        stack.length = stack.length - 2 * n;
-        vstack.length = vstack.length - n;
-        lstack.length = lstack.length - n;
-    }
-    _token_stack:
-        var lex = function () {
-            var token;
-            token = lexer.lex() || EOF;
-            if (typeof token !== 'number') {
-                token = self.symbols_[token] || token;
-            }
-            return token;
-        };
-    var symbol, preErrorSymbol, state, action, a, r, yyval = {}, p, len, newState, expected;
-    while (true) {
-        state = stack[stack.length - 1];
-        if (this.defaultActions[state]) {
-            action = this.defaultActions[state];
-        } else {
-            if (symbol === null || typeof symbol == 'undefined') {
-                symbol = lex();
-            }
-            action = table[state] && table[state][symbol];
-        }
-                    if (typeof action === 'undefined' || !action.length || !action[0]) {
-                var errStr = '';
-                expected = [];
-                for (p in table[state]) {
-                    if (this.terminals_[p] && p > TERROR) {
-                        expected.push('\'' + this.terminals_[p] + '\'');
-                    }
-                }
-                if (lexer.showPosition) {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ':\n' + lexer.showPosition() + '\nExpecting ' + expected.join(', ') + ', got \'' + (this.terminals_[symbol] || symbol) + '\'';
-                } else {
-                    errStr = 'Parse error on line ' + (yylineno + 1) + ': Unexpected ' + (symbol == EOF ? 'end of input' : '\'' + (this.terminals_[symbol] || symbol) + '\'');
-                }
-                this.parseError(errStr, {
-                    text: lexer.match,
-                    token: this.terminals_[symbol] || symbol,
-                    line: lexer.yylineno,
-                    loc: yyloc,
-                    expected: expected
-                });
-            }
-        if (action[0] instanceof Array && action.length > 1) {
-            throw new Error('Parse Error: multiple actions possible at state: ' + state + ', token: ' + symbol);
-        }
-        switch (action[0]) {
-        case 1:
-            stack.push(symbol);
-            vstack.push(lexer.yytext);
-            lstack.push(lexer.yylloc);
-            stack.push(action[1]);
-            symbol = null;
-            if (!preErrorSymbol) {
-                yyleng = lexer.yyleng;
-                yytext = lexer.yytext;
-                yylineno = lexer.yylineno;
-                yyloc = lexer.yylloc;
-                if (recovering > 0) {
-                    recovering--;
-                }
-            } else {
-                symbol = preErrorSymbol;
-                preErrorSymbol = null;
-            }
-            break;
-        case 2:
-            len = this.productions_[action[1]][1];
-            yyval.$ = vstack[vstack.length - len];
-            yyval._$ = {
-                first_line: lstack[lstack.length - (len || 1)].first_line,
-                last_line: lstack[lstack.length - 1].last_line,
-                first_column: lstack[lstack.length - (len || 1)].first_column,
-                last_column: lstack[lstack.length - 1].last_column
-            };
-            if (ranges) {
-                yyval._$.range = [
-                    lstack[lstack.length - (len || 1)].range[0],
-                    lstack[lstack.length - 1].range[1]
-                ];
-            }
-            r = this.performAction.apply(yyval, [
-                yytext,
-                yyleng,
-                yylineno,
-                sharedState.yy,
-                action[1],
-                vstack,
-                lstack
-            ].concat(args));
-            if (typeof r !== 'undefined') {
-                return r;
-            }
-            if (len) {
-                stack = stack.slice(0, -1 * len * 2);
-                vstack = vstack.slice(0, -1 * len);
-                lstack = lstack.slice(0, -1 * len);
-            }
-            stack.push(this.productions_[action[1]][0]);
-            vstack.push(yyval.$);
-            lstack.push(yyval._$);
-            newState = table[stack[stack.length - 2]][stack[stack.length - 1]];
-            stack.push(newState);
-            break;
-        case 3:
-            return true;
-        }
-    }
-    return true;
-}};
-
-  var _ = __webpack_require__(/*! ./utils */ "./src/utils.ts");
-  _ = _.default || _;
-/* generated by jison-lex 0.3.4 */
-var lexer = (function(){
-var lexer = ({
-
-EOF:1,
-
-parseError:function parseError(str, hash) {
-        if (this.yy.parser) {
-            this.yy.parser.parseError(str, hash);
-        } else {
-            throw new Error(str);
-        }
-    },
-
-// resets the lexer, sets new input
-setInput:function (input, yy) {
-        this.yy = yy || this.yy || {};
-        this._input = input;
-        this._more = this._backtrack = this.done = false;
-        this.yylineno = this.yyleng = 0;
-        this.yytext = this.matched = this.match = '';
-        this.conditionStack = ['INITIAL'];
-        this.yylloc = {
-            first_line: 1,
-            first_column: 0,
-            last_line: 1,
-            last_column: 0
-        };
-        if (this.options.ranges) {
-            this.yylloc.range = [0,0];
-        }
-        this.offset = 0;
-        return this;
-    },
-
-// consumes and returns one char from the input
-input:function () {
-        var ch = this._input[0];
-        this.yytext += ch;
-        this.yyleng++;
-        this.offset++;
-        this.match += ch;
-        this.matched += ch;
-        var lines = ch.match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno++;
-            this.yylloc.last_line++;
-        } else {
-            this.yylloc.last_column++;
-        }
-        if (this.options.ranges) {
-            this.yylloc.range[1]++;
-        }
-
-        this._input = this._input.slice(1);
-        return ch;
-    },
-
-// unshifts one char (or a string) into the input
-unput:function (ch) {
-        var len = ch.length;
-        var lines = ch.split(/(?:\r\n?|\n)/g);
-
-        this._input = ch + this._input;
-        this.yytext = this.yytext.substr(0, this.yytext.length - len);
-        //this.yyleng -= len;
-        this.offset -= len;
-        var oldLines = this.match.split(/(?:\r\n?|\n)/g);
-        this.match = this.match.substr(0, this.match.length - 1);
-        this.matched = this.matched.substr(0, this.matched.length - 1);
-
-        if (lines.length - 1) {
-            this.yylineno -= lines.length - 1;
-        }
-        var r = this.yylloc.range;
-
-        this.yylloc = {
-            first_line: this.yylloc.first_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.first_column,
-            last_column: lines ?
-                (lines.length === oldLines.length ? this.yylloc.first_column : 0)
-                 + oldLines[oldLines.length - lines.length].length - lines[0].length :
-              this.yylloc.first_column - len
-        };
-
-        if (this.options.ranges) {
-            this.yylloc.range = [r[0], r[0] + this.yyleng - len];
-        }
-        this.yyleng = this.yytext.length;
-        return this;
-    },
-
-// When called from action, caches matched text and appends it on next action
-more:function () {
-        this._more = true;
-        return this;
-    },
-
-// When called from action, signals the lexer that this rule fails to match the input, so the next matching rule (regex) should be tested instead.
-reject:function () {
-        if (this.options.backtrack_lexer) {
-            this._backtrack = true;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. You can only invoke reject() in the lexer when the lexer is of the backtracking persuasion (options.backtrack_lexer = true).\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-
-        }
-        return this;
-    },
-
-// retain first n characters of the match
-less:function (n) {
-        this.unput(this.match.slice(n));
-    },
-
-// displays already matched input, i.e. for error messages
-pastInput:function () {
-        var past = this.matched.substr(0, this.matched.length - this.match.length);
-        return (past.length > 20 ? '...':'') + past.substr(-20).replace(/\n/g, "");
-    },
-
-// displays upcoming input, i.e. for error messages
-upcomingInput:function () {
-        var next = this.match;
-        if (next.length < 20) {
-            next += this._input.substr(0, 20-next.length);
-        }
-        return (next.substr(0,20) + (next.length > 20 ? '...' : '')).replace(/\n/g, "");
-    },
-
-// displays the character position where the lexing error occurred, i.e. for error messages
-showPosition:function () {
-        var pre = this.pastInput();
-        var c = new Array(pre.length + 1).join("-");
-        return pre + this.upcomingInput() + "\n" + c + "^";
-    },
-
-// test the lexed token: return FALSE when not a match, otherwise return token
-test_match:function(match, indexed_rule) {
-        var token,
-            lines,
-            backup;
-
-        if (this.options.backtrack_lexer) {
-            // save context
-            backup = {
-                yylineno: this.yylineno,
-                yylloc: {
-                    first_line: this.yylloc.first_line,
-                    last_line: this.last_line,
-                    first_column: this.yylloc.first_column,
-                    last_column: this.yylloc.last_column
-                },
-                yytext: this.yytext,
-                match: this.match,
-                matches: this.matches,
-                matched: this.matched,
-                yyleng: this.yyleng,
-                offset: this.offset,
-                _more: this._more,
-                _input: this._input,
-                yy: this.yy,
-                conditionStack: this.conditionStack.slice(0),
-                done: this.done
-            };
-            if (this.options.ranges) {
-                backup.yylloc.range = this.yylloc.range.slice(0);
-            }
-        }
-
-        lines = match[0].match(/(?:\r\n?|\n).*/g);
-        if (lines) {
-            this.yylineno += lines.length;
-        }
-        this.yylloc = {
-            first_line: this.yylloc.last_line,
-            last_line: this.yylineno + 1,
-            first_column: this.yylloc.last_column,
-            last_column: lines ?
-                         lines[lines.length - 1].length - lines[lines.length - 1].match(/\r?\n?/)[0].length :
-                         this.yylloc.last_column + match[0].length
-        };
-        this.yytext += match[0];
-        this.match += match[0];
-        this.matches = match;
-        this.yyleng = this.yytext.length;
-        if (this.options.ranges) {
-            this.yylloc.range = [this.offset, this.offset += this.yyleng];
-        }
-        this._more = false;
-        this._backtrack = false;
-        this._input = this._input.slice(match[0].length);
-        this.matched += match[0];
-        token = this.performAction.call(this, this.yy, this, indexed_rule, this.conditionStack[this.conditionStack.length - 1]);
-        if (this.done && this._input) {
-            this.done = false;
-        }
-        if (token) {
-            return token;
-        } else if (this._backtrack) {
-            // recover context
-            for (var k in backup) {
-                this[k] = backup[k];
-            }
-            return false; // rule action called reject() implying the next rule should be tested instead.
-        }
-        return false;
-    },
-
-// return next match in input
-next:function () {
-        if (this.done) {
-            return this.EOF;
-        }
-        if (!this._input) {
-            this.done = true;
-        }
-
-        var token,
-            match,
-            tempMatch,
-            index;
-        if (!this._more) {
-            this.yytext = '';
-            this.match = '';
-        }
-        var rules = this._currentRules();
-        for (var i = 0; i < rules.length; i++) {
-            tempMatch = this._input.match(this.rules[rules[i]]);
-            if (tempMatch && (!match || tempMatch[0].length > match[0].length)) {
-                match = tempMatch;
-                index = i;
-                if (this.options.backtrack_lexer) {
-                    token = this.test_match(tempMatch, rules[i]);
-                    if (token !== false) {
-                        return token;
-                    } else if (this._backtrack) {
-                        match = false;
-                        continue; // rule action called reject() implying a rule MISmatch.
-                    } else {
-                        // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-                        return false;
-                    }
-                } else if (!this.options.flex) {
-                    break;
-                }
-            }
-        }
-        if (match) {
-            token = this.test_match(match, rules[index]);
-            if (token !== false) {
-                return token;
-            }
-            // else: this is a lexer rule which consumes input without producing a token (e.g. whitespace)
-            return false;
-        }
-        if (this._input === "") {
-            return this.EOF;
-        } else {
-            return this.parseError('Lexical error on line ' + (this.yylineno + 1) + '. Unrecognized text.\n' + this.showPosition(), {
-                text: "",
-                token: null,
-                line: this.yylineno
-            });
-        }
-    },
-
-// return next match that has a token
-lex:function lex () {
-        var r = this.next();
-        if (r) {
-            return r;
-        } else {
-            return this.lex();
-        }
-    },
-
-// activates a new lexer condition state (pushes the new lexer condition state onto the condition stack)
-begin:function begin (condition) {
-        this.conditionStack.push(condition);
-    },
-
-// pop the previously active lexer condition state off the condition stack
-popState:function popState () {
-        var n = this.conditionStack.length - 1;
-        if (n > 0) {
-            return this.conditionStack.pop();
-        } else {
-            return this.conditionStack[0];
-        }
-    },
-
-// produce the lexer rule set which is active for the currently active lexer condition state
-_currentRules:function _currentRules () {
-        if (this.conditionStack.length && this.conditionStack[this.conditionStack.length - 1]) {
-            return this.conditions[this.conditionStack[this.conditionStack.length - 1]].rules;
-        } else {
-            return this.conditions["INITIAL"].rules;
-        }
-    },
-
-// return the currently active lexer condition state; when an index argument is provided it produces the N-th previous condition state, if available
-topState:function topState (n) {
-        n = this.conditionStack.length - 1 - Math.abs(n || 0);
-        if (n >= 0) {
-            return this.conditionStack[n];
-        } else {
-            return "INITIAL";
-        }
-    },
-
-// alias for begin(condition)
-pushState:function pushState (condition) {
-        this.begin(condition);
-    },
-
-// return the number of states currently on the stack
-stateStackSize:function stateStackSize() {
-        return this.conditionStack.length;
-    },
-options: {},
-performAction: function anonymous(yy,yy_,$avoiding_name_collisions,YY_START) {
-var YYSTATE=YY_START;
-switch($avoiding_name_collisions) {
-case 0: this.begin('notes'); return 27; 
-// removed by dead control flow
-
-case 1: this.begin('options'); return 21; 
-// removed by dead control flow
-
-case 2: this.begin('options'); return 22; 
-// removed by dead control flow
-
-case 3: this.begin('options'); return 23; 
-// removed by dead control flow
-
-case 4: this.begin('options'); return 19; 
-// removed by dead control flow
-
-case 5: this.begin('text'); return 25; 
-// removed by dead control flow
-
-case 6: this.begin('text'); return 10; 
-// removed by dead control flow
-
-case 7: this.begin('text'); return 12; 
-// removed by dead control flow
-
-case 8: this.begin('text'); return 13; 
-// removed by dead control flow
-
-case 9: this.begin('options'); return 29; 
-// removed by dead control flow
-
-case 10:return 30
-// removed by dead control flow
-
-case 11: this.begin('annotations'); return "$" 
-// removed by dead control flow
-
-case 12: this.begin('notes'); return "$" 
-// removed by dead control flow
-
-case 13:return 30
-// removed by dead control flow
-
-case 14: this.begin('command'); return "!" 
-// removed by dead control flow
-
-case 15: this.begin('notes'); return "!" 
-// removed by dead control flow
-
-case 16:return 80
-// removed by dead control flow
-
-case 17:/* skip line comment */
-break;
-case 18:return 14
-// removed by dead control flow
-
-case 19:return 47
-// removed by dead control flow
-
-case 20:return '+'
-// removed by dead control flow
-
-case 21:return 44
-// removed by dead control flow
-
-case 22:return 31
-// removed by dead control flow
-
-case 23:return 51
-// removed by dead control flow
-
-case 24:return 52
-// removed by dead control flow
-
-case 25:return 37
-// removed by dead control flow
-
-case 26:return 38
-// removed by dead control flow
-
-case 27:return 76
-// removed by dead control flow
-
-case 28:return 15
-// removed by dead control flow
-
-case 29:return 43
-// removed by dead control flow
-
-case 30:return 50
-// removed by dead control flow
-
-case 31:return 81
-// removed by dead control flow
-
-case 32:return 85
-// removed by dead control flow
-
-case 33:return 71
-// removed by dead control flow
-
-case 34:return 68
-// removed by dead control flow
-
-case 35:return 63
-// removed by dead control flow
-
-case 36:return 72
-// removed by dead control flow
-
-case 37:return 69
-// removed by dead control flow
-
-case 38:return 70
-// removed by dead control flow
-
-case 39:return 67
-// removed by dead control flow
-
-case 40:return 56
-// removed by dead control flow
-
-case 41:return 73
-// removed by dead control flow
-
-case 42:return 74
-// removed by dead control flow
-
-case 43:return 75
-// removed by dead control flow
-
-case 44:return 65
-// removed by dead control flow
-
-case 45:return 54
-// removed by dead control flow
-
-case 46:return 64
-// removed by dead control flow
-
-case 47:return 62
-// removed by dead control flow
-
-case 48:return 63
-// removed by dead control flow
-
-case 49:return 65
-// removed by dead control flow
-
-case 50:return 66
-// removed by dead control flow
-
-case 51:return 82
-// removed by dead control flow
-
-case 52:return 86
-// removed by dead control flow
-
-case 53:return 87
-// removed by dead control flow
-
-case 54:/* line continuation in notes with trailing comment */
-break;
-case 55:/* line continuation in notes */
-break;
-case 56: this.begin('INITIAL'); 
-break;
-case 57:/* skip whitespace */
-break;
-case 58:return 5
-// removed by dead control flow
-
-case 59:return 'INVALID'
-// removed by dead control flow
-
-}
-},
-rules: [/^(?:notes\b)/,/^(?:tabstave\b)/,/^(?:stave\b)/,/^(?:voice\b)/,/^(?:options\b)/,/^(?:text\b)/,/^(?:title\b)/,/^(?:subtitle\b)/,/^(?:sidenote\b)/,/^(?:slur\b)/,/^(?:[^\s=]+)/,/^(?:[$])/,/^(?:[$])/,/^(?:[^,$]+)/,/^(?:[!])/,/^(?:[!])/,/^(?:[^!]+)/,/^(?:\/\/[^\r\n]*)/,/^(?:[^,\r\n]+)/,/^(?:\/)/,/^(?:\+)/,/^(?::)/,/^(?:=)/,/^(?:\()/,/^(?:\))/,/^(?:\[)/,/^(?:\])/,/^(?:\^)/,/^(?:,)/,/^(?:\|)/,/^(?:\.)/,/^(?:#)/,/^(?:@)/,/^(?:[b])/,/^(?:[s])/,/^(?:[h])/,/^(?:[p])/,/^(?:[t])/,/^(?:[T])/,/^(?:[-])/,/^(?:[_])/,/^(?:[v])/,/^(?:[V])/,/^(?:[u])/,/^(?:[d])/,/^(?:[0-9]+)/,/^(?:[q])/,/^(?:[w])/,/^(?:[h])/,/^(?:[d])/,/^(?:[S])/,/^(?:[A-GXLR])/,/^(?:[n])/,/^(?:[~])/,/^(?:\\[ \t]*\/\/[^\r\n]*[\r\n]+)/,/^(?:\\[ \t]*[\r\n]+)/,/^(?:[\r\n]+)/,/^(?:\s+)/,/^(?:$)/,/^(?:.)/],
-conditions: {"notes":{"rules":[11,14,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59],"inclusive":true},"text":{"rules":[17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,45,46,47,48,49,56,57,58,59],"inclusive":true},"slur":{"rules":[17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"annotations":{"rules":[12,13,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"options":{"rules":[10,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"command":{"rules":[15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true},"INITIAL":{"rules":[0,1,2,3,4,5,6,7,8,9,10,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,56,57,58,59],"inclusive":true}}
-});
-return lexer;
-})();
-parser.lexer = lexer;
-function Parser () {
-  this.yy = {};
-}
-Parser.prototype = parser;parser.Parser = Parser;
-return new Parser;
-})();
-
-
-if (true) {
-exports.parser = parser;
-exports.Parser = parser.Parser;
-exports.parse = function () { return parser.parse.apply(parser, arguments); };
-exports.main = function commonjsMain (args) {
-    if (!args[1]) {
-        console.log('Usage: '+args[0]+' FILE');
-        process.exit(1);
-    }
-    var source = (__webpack_require__(/*! fs */ "?569f").readFileSync)((__webpack_require__(/*! path */ "?3f59").normalize)(args[1]), "utf8");
-    return exports.parser.parse(source);
-};
-if ( true && __webpack_require__.c[__webpack_require__.s] === module) {
-  exports.main(process.argv.slice(1));
-}
-}
-
-/***/ },
-
-/***/ "./src/vextab.ts"
-/*!***********************!*\
-  !*** ./src/vextab.ts ***!
-  \***********************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (/* reexport safe */ _vextab_VexTab__WEBPACK_IMPORTED_MODULE_0__["default"])
-/* harmony export */ });
-/* harmony import */ var _vextab_VexTab__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./vextab/VexTab */ "./src/vextab/VexTab.ts");
-// Re-export for the VexTab class so consumers can import from the package root.
-
-
-
-/***/ },
-
-/***/ "./src/vextab/VexTab.ts"
-/*!******************************!*\
-  !*** ./src/vextab/VexTab.ts ***!
-  \******************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _vextab_jison__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../vextab.jison */ "./src/vextab.jison");
-/* harmony import */ var _vextab_jison__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_vextab_jison__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _VexTabParser__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./VexTabParser */ "./src/vextab/VexTabParser.ts");
-// Public-facing VexTab wrapper that wires the parser to the Artist renderer.
-
-
-
-/**
- * VexTab is the public API wrapper that invokes the Jison parser and then
- * dispatches the parsed AST into Artist instructions.
- */
-class VexTab {
-    /**
-     * Create a VexTab parser wrapper around an Artist.
-     */
-    constructor(artist) {
-        // Whether the last parse was successful.
-        this.valid = false;
-        // AST elements returned from the parser.
-        this.elements = false;
-        this.artist = artist;
-        // Keep compiler bound to the artist for the lifetime of this parser.
-        this.compiler = new _VexTabParser__WEBPACK_IMPORTED_MODULE_2__.VexTabParser(this.artist);
-    }
-    /**
-     * Internal conditional logger.
-     */
-    log(...args) {
-        if (VexTab.DEBUG && console) {
-            console.log('(Vex.Flow.VexTab)', ...args);
-        }
-    }
-    /**
-     * Reset the parser validity state for a new parse.
-     */
-    reset() {
-        this.valid = false;
-        this.elements = false;
-    }
-    /**
-     * Return whether the last parse was valid.
-     */
-    isValid() {
-        return this.valid;
-    }
-    /**
-     * Return the bound Artist instance.
-     */
-    getArtist() {
-        return this.artist;
-    }
-    /**
-     * Set the note index to highlight during rendering.
-     */
-    setHighlightNoteIndex(index) {
-        this.artist.setHighlightNoteIndex(index);
-    }
-    /**
-     * Highlight a note based on a 1-based source line/column position.
-     */
-    setHighlightByLocation(line, column) {
-        const index = this.compiler.getNoteIndexAtLocation(line, column);
-        this.artist.setHighlightNoteIndex(index);
-        return index;
-    }
-    /**
-     * Parse VexTab source, compile the AST, and return the parsed elements.
-     * Design note: we trim each line to keep whitespace predictable and consistent.
-     */
-    parse(code) {
-        const parserInstance = (_vextab_jison__WEBPACK_IMPORTED_MODULE_1___default());
-        parserInstance.parseError = (message, hash) => {
-            this.log('VexTab parse error: ', message, hash);
-            const formatted = `Unexpected text '${hash.text}' at line ${hash.loc.first_line} column ${hash.loc.first_column}.`;
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', formatted);
-        };
-        if (!code) {
-            throw new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', 'No code');
-        }
-        this.log(`Parsing:\n${code}`);
-        // Normalize whitespace to keep the grammar deterministic.
-        const stripped_code = code
-            .split(/\r\n|\r|\n/)
-            .map((line) => line.trim())
-            .join('\n');
-        this.elements = parserInstance.parse(stripped_code);
-        if (this.elements) {
-            // Translate the AST into Artist calls.
-            this.compiler.generate(this.elements);
-            this.valid = true;
-        }
-        return this.elements;
-    }
-}
-// Enable debug logging in the parser pipeline.
-VexTab.DEBUG = false;
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (VexTab);
-
-
-/***/ },
-
-/***/ "./src/vextab/VexTabParser.ts"
-/*!************************************!*\
-  !*** ./src/vextab/VexTabParser.ts ***!
-  \************************************/
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   VexTabParser: () => (/* binding */ VexTabParser)
-/* harmony export */ });
-/* harmony import */ var _vexflow__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../vexflow */ "./src/vexflow.ts");
-/* harmony import */ var _utils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../utils */ "./src/utils.ts");
-// Semantic compiler that turns the parsed VexTab AST into concrete Artist calls.
-
-
-/**
- * VexTabParser translates the parsed Jison AST into concrete Artist calls.
- * It isolates the "semantic" phase of VexTab from the raw parse step.
- */
-class VexTabParser {
-    /**
-     * Create a compiler bound to an Artist.
-     */
-    constructor(artist) {
-        // Persisted options for successive tabstave elements (inherit until overridden).
-        this.lastTabstaveOptions = {};
-        // Sequential note index used for cursor-based highlighting.
-        this.noteIndex = 0;
-        // Source positions for each note index.
-        this.notePositions = [];
-        this.artist = artist;
-    }
-    /**
-     * Create a standardized parse error that includes line/column information.
-     */
-    newError(object, msg) {
-        return new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].RERR('ParseError', `${msg} in line ${object._l} column ${object._c}`);
-    }
-    /**
-     * Parse and validate stave options into a simple key/value map.
-     * Design note: validation happens here so the Artist stays focused on rendering.
-     */
-    parseStaveOptions(options) {
-        const params = {};
-        if (!options)
-            return params;
-        // Track notation/tablature to validate mutual visibility.
-        let notation_option = null;
-        options.forEach((option) => {
-            var _a, _b, _d;
-            const error = (msg) => this.newError(option, msg);
-            params[option.key] = option.value;
-            switch (option.key) {
-                case 'notation':
-                case 'tablature':
-                    notation_option = option;
-                    if (!['true', 'false'].includes(option.value)) {
-                        throw error(`'${option.key}' must be 'true' or 'false'`);
-                    }
-                    break;
-                case 'key': {
-                    const has_key = ((_a = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _a === void 0 ? void 0 : _a.hasKeySignature)
-                        ? _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.hasKeySignature(option.value)
-                        : _utils__WEBPACK_IMPORTED_MODULE_1__.has((_d = (_b = _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow) === null || _b === void 0 ? void 0 : _b.keySignature) === null || _d === void 0 ? void 0 : _d.keySpecs, option.value);
-                    if (!has_key) {
-                        throw error(`Invalid key signature '${option.value}'`);
-                    }
-                    break;
-                }
-                case 'clef': {
-                    const clefs = ['treble', 'bass', 'tenor', 'alto', 'percussion', 'none'];
-                    if (!clefs.includes(option.value)) {
-                        throw error(`'clef' must be one of ${clefs.join(', ')}`);
-                    }
-                    break;
-                }
-                case 'voice': {
-                    const voices = ['top', 'bottom', 'new'];
-                    if (!voices.includes(option.value)) {
-                        throw error(`'voice' must be one of ${voices.join(', ')}`);
-                    }
-                    break;
-                }
-                case 'time':
-                    try {
-                        new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.TimeSignature(option.value);
-                    }
-                    catch (_e) {
-                        throw error(`Invalid time signature: '${option.value}'`);
-                    }
-                    break;
-                case 'tuning':
-                    try {
-                        new _vexflow__WEBPACK_IMPORTED_MODULE_0__["default"].Flow.Tuning(option.value);
-                    }
-                    catch (_e) {
-                        throw error(`Invalid tuning: '${option.value}'`);
-                    }
-                    break;
-                case 'strings': {
-                    const num_strings = parseInt(option.value, 10);
-                    if (num_strings < 4 || num_strings > 8) {
-                        throw error(`Invalid number of strings: ${num_strings}`);
-                    }
-                    break;
-                }
-                default:
-                    throw error(`Invalid option '${option.key}'`);
-            }
-        });
-        if (params.notation === 'false' && params.tablature === 'false') {
-            throw this.newError(notation_option, "Both 'notation' and 'tablature' can't be invisible");
-        }
-        return params;
-    }
-    /**
-     * Record the source position for a given note index.
-     */
-    recordNotePosition(index, note) {
-        if (!note || typeof note._l !== 'number' || typeof note._c !== 'number')
-            return;
-        this.notePositions[index] = { line: note._l, column: note._c };
-    }
-    /**
-     * Return the best-matching note index for a source location.
-     */
-    getNoteIndexAtLocation(line, column) {
-        let bestIndex = null;
-        let bestLine = -1;
-        let bestColumn = -1;
-        this.notePositions.forEach((pos, index) => {
-            if (!pos)
-                return;
-            if (pos.line > line)
-                return;
-            if (pos.line === line && pos.column > column)
-                return;
-            if (pos.line > bestLine || (pos.line === bestLine && pos.column > bestColumn)) {
-                bestIndex = index;
-                bestLine = pos.line;
-                bestColumn = pos.column;
-            }
-        });
-        return bestIndex;
-    }
-    /**
-     * Dispatch a parsed command element to the Artist.
-     */
-    parseCommand(element) {
-        if (element.command === 'bar') {
-            this.artist.addBar(element.type);
-        }
-        if (element.command === 'tuplet') {
-            this.artist.makeTuplets(element.params.tuplet, element.params.notes);
-        }
-        if (element.command === 'annotations') {
-            this.artist.addAnnotations(element.params);
-        }
-        if (element.command === 'rest') {
-            this.artist.addRest(element.params);
-        }
-        if (element.command === 'command') {
-            this.artist.runCommand(element.params, element._l, element._c);
-        }
-    }
-    /**
-     * Convert a chord AST node into an Artist chord call.
-     */
-    parseChord(element) {
-        var _a;
-        this.artist.log('parseChord:', element);
-        const chord_note = (_a = element === null || element === void 0 ? void 0 : element.chord) === null || _a === void 0 ? void 0 : _a[0];
-        this.recordNotePosition(this.noteIndex, chord_note);
-        // Keep only relevant fields to avoid leaking parser internals.
-        this.artist.addChord(_utils__WEBPACK_IMPORTED_MODULE_1__.map(element.chord, (note) => ({
-            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
-            highlight_index: this.noteIndex,
-        })), element.articulation, element.decorator);
-        this.noteIndex += 1;
-    }
-    /**
-     * Convert a fret-based note AST node into an Artist note call.
-     */
-    parseFret(note) {
-        this.recordNotePosition(this.noteIndex, note);
-        this.artist.addNote({
-            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'string', 'articulation', 'decorator'),
-            highlight_index: this.noteIndex,
-        });
-        this.noteIndex += 1;
-    }
-    /**
-     * Convert an ABC note AST node into an Artist note call.
-     */
-    parseABC(note) {
-        this.recordNotePosition(this.noteIndex, note);
-        this.artist.addNote({
-            ..._utils__WEBPACK_IMPORTED_MODULE_1__.pick(note, 'time', 'dot', 'fret', 'abc', 'octave', 'string', 'articulation', 'decorator'),
-            highlight_index: this.noteIndex,
-        });
-        this.noteIndex += 1;
-    }
-    /**
-     * Parse a list of stave elements (notes, chords, commands) into Artist calls.
-     */
-    parseStaveElements(notes) {
-        this.artist.log('parseStaveElements:', notes);
-        notes.forEach((element) => {
-            if (element.time) {
-                // Duration markers apply to subsequent notes.
-                this.artist.setDuration(element.time, element.dot);
-            }
-            if (element.command) {
-                this.parseCommand(element);
-            }
-            if (element.chord) {
-                this.parseChord(element);
-            }
-            if (element.abc) {
-                this.parseABC(element);
-            }
-            else if (element.fret) {
-                this.parseFret(element);
-            }
-        });
-    }
-    /**
-     * Parse stave text tokens into text voices and text notes.
-     * Design note: this parser is permissive to preserve legacy VexTab behavior.
-     */
-    parseStaveText(text_line) {
-        if (!_utils__WEBPACK_IMPORTED_MODULE_1__.isEmpty(text_line)) {
-            // Text lines start a new text voice.
-            this.artist.addTextVoice();
-        }
-        // X position within the text stave.
-        let position = 0;
-        let justification = 'center';
-        let smooth = true;
-        let font = null;
-        // A bar token is represented as a zero-width spacer note.
-        const bartext = () => this.artist.addTextNote('', 0, justification, false, true);
-        const createNote = (text, token) => {
-            let ignore_ticks = false;
-            let display = text;
-            if (display[0] === '|') {
-                ignore_ticks = true;
-                display = display.slice(1);
-            }
-            try {
-                this.artist.addTextNote(display, position, justification, smooth, ignore_ticks);
-            }
-            catch (e) {
-                throw this.newError(token, `Bad text or duration. Did you forget a comma?${e}`);
-            }
-        };
-        text_line.forEach((token) => {
-            let text = token.text.trim();
-            if (text.match(/\.font=.*/)) {
-                // Inline font overrides are applied immediately.
-                font = text.slice(6);
-                this.artist.setTextFont(font);
-            }
-            else if (text[0] === ':') {
-                // Duration markers inside text lines affect spacing.
-                this.artist.setDuration(text);
-            }
-            else if (text[0] === '.') {
-                const command = text.slice(1);
-                switch (command) {
-                    case 'center':
-                    case 'left':
-                    case 'right':
-                        justification = command;
-                        break;
-                    case 'strict':
-                        smooth = false;
-                        break;
-                    case 'smooth':
-                        smooth = true;
-                        break;
-                    case 'bar':
-                    case '|':
-                        bartext();
-                        break;
-                    default:
-                        position = parseInt(text.slice(1), 10);
-                        break;
-                }
-            }
-            else if (text === '|') {
-                bartext();
-            }
-            else if (text.slice(0, 2) === '++') {
-                this.artist.addTextVoice();
-            }
-            else {
-                createNote(text, token);
-            }
-        });
-    }
-    /**
-     * Entry point to translate the parsed AST into Artist calls.
-     * Design note: we handle each "stave" element sequentially to preserve order.
-     */
-    generate(elements) {
-        // Reset inherited tabstave options per top-level parse call.
-        this.lastTabstaveOptions = {};
-        this.noteIndex = 0;
-        this.notePositions = [];
-        // Document header declarations must precede any stave/voice elements.
-        let sawStave = false;
-        elements.forEach((stave) => {
-            switch (stave.element) {
-                case 'title':
-                case 'subtitle':
-                case 'sidenote': {
-                    if (sawStave) {
-                        throw this.newError(stave, `'${stave.element}' must appear before the first stave`);
-                    }
-                    this.artist.setDocumentHeader(stave.element, stave.text);
-                    break;
-                }
-                case 'stave':
-                case 'tabstave': {
-                    sawStave = true;
-                    // Validate only explicitly provided options.
-                    const explicit = this.parseStaveOptions(stave.options);
-                    // For tabstave, inherit previous options and override with explicit ones.
-                    const resolved = stave.element === 'tabstave' ? { ...this.lastTabstaveOptions, ...explicit } : explicit;
-                    if (stave.element === 'tabstave')
-                        this.lastTabstaveOptions = resolved;
-                    this.artist.addStave(stave.element, resolved);
-                    if (stave.notes)
-                        this.parseStaveElements(stave.notes);
-                    if (stave.text)
-                        this.parseStaveText(stave.text);
-                    break;
-                }
-                case 'voice':
-                    sawStave = true;
-                    this.artist.addVoice(this.parseStaveOptions(stave.options));
-                    if (stave.notes)
-                        this.parseStaveElements(stave.notes);
-                    if (stave.text)
-                        this.parseStaveText(stave.text);
-                    break;
-                case 'options': {
-                    const options = {};
-                    stave.params.forEach((option) => {
-                        options[option.key] = option.value;
-                    });
-                    try {
-                        this.artist.setOptions(options);
-                    }
-                    catch (e) {
-                        throw this.newError(stave, e.message);
-                    }
-                    break;
-                }
-                default:
-                    throw this.newError(stave, `Invalid keyword '${stave.element}'`);
-            }
-        });
-    }
-}
-
-
-/***/ },
-
-/***/ "?3f59"
-/*!**********************!*\
-  !*** path (ignored) ***!
-  \**********************/
-() {
-
-/* (ignored) */
-
-/***/ },
-
-/***/ "?569f"
-/*!********************!*\
-  !*** fs (ignored) ***!
-  \********************/
-() {
-
-/* (ignored) */
 
 /***/ }
 
